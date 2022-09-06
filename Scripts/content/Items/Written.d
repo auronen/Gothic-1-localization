@@ -648,7 +648,7 @@ func void UseMachtvolle_Kunst()
 				Doc_SetFont(nDocID, -1, "font_15_book.tga"); // -1 -> all pages
 				Doc_SetMargins(nDocID, 0, 275, 20, 30, 20, 1); // 0 -> margins are in pixels
 				Doc_PrintLine	(nDocID, 0, "");
-				Doc_PrintLine	(nDocID, 0, Machtvolle_Kunst_1);
+				Doc_PrintLines	(nDocID, 0, Machtvolle_Kunst_1);
 				Doc_PrintLine	(nDocID, 0, "");
 				Doc_SetFont(nDocID, -1, "font_10_book.tga");
 				Doc_PrintLine	(nDocID, 0, "");
