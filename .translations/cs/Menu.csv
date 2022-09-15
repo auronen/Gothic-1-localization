@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/system/MENU/menu_defines.d:62","Taste ENTF zum Löschen und RETURN zum definieren","Stiskem DEL zrušte stávající klávesu a stiskem ENTER zadejte novou.","","False","CTRL_KEYDEF","",""
+"Scripts/system/MENU/menu_defines.d:62","Taste ENTF zum Löschen und RETURN zum definieren","Stiskem DEL zrušte stávající klávesu a stiskem ENTER zadejte novou","","False","CTRL_KEYDEF","",""
 "Scripts/system/MENU/menu_defines.d:63","Gewünschte Taste betätigen.","Stiskněte požadovanou klávesu","","False","CTRL_KEYDEF_INFO","",""
 "Scripts/system/MENU/menu_defines.d:64","nein|ja","ne|ano","","False","MENU_NO_YES","",""
 "Scripts/system/MENU/menu_defines.d:65","aus|an","vypnuto|zapnuto","","False","MENU_OFF_ON","",""
