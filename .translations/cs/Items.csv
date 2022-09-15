@@ -176,7 +176,7 @@
 "Scripts/content/Items/Animaltrophy.d:500","Herz eines Eisgolems","Srdce ledového golema","","","ItAt_IceGolem_01.name","",""
 "Scripts/content/Items/Animaltrophy.d:513","Dieses Herz stammt aus den Überresten","Toto je srdce vyjmuté ze zbytků","","","ItAt_IceGolem_01.text[0]","",""
 "Scripts/content/Items/Animaltrophy.d:514","eines besiegten Eisgolems.","poraženého ledového golema.","","","ItAt_IceGolem_01.text[1]","",""
-"Scripts/content/Items/Animaltrophy.d:515","Es hat die Kraft, einen Gegner","Má moc zmrazit nepřítele.","","","ItAt_IceGolem_01.text[2]","",""
+"Scripts/content/Items/Animaltrophy.d:515","Es hat die Kraft, einen Gegner","Má moc zmrazit","","False","ItAt_IceGolem_01.text[2]","",""
 "Scripts/content/Items/Animaltrophy.d:517","","","","","ItAt_IceGolem_01.text[4]","",""
 "Scripts/content/Items/Animaltrophy.d:524","Stück eines Eisgolems","část ledového golema","","","ItAt_IceGolem_02.name","",""
 "Scripts/content/Items/Animaltrophy.d:539","Dieses Stück stammt aus den Überresten","Toto je zbytek","","","ItAt_IceGolem_02.text[0]","",""
@@ -2403,3 +2403,4 @@
 "Scripts/content/Items/Written.d:1664","Über die Fliegen","O mouchách","","","ItWr_Bloodfly_01_2","",""
 "Scripts/content/Items/Written.d:1665","Dort aber , wo das Erdreich feucht und die Luft schwül ist, werden die Fliegen angelockt vom rinnenden Schweiß aller Kreaturen.Mit ihrem Stachel töten sie ihre Opfer und laben sich an ihrem Blut. ","Krvavé mouchy se shromažďují jen na místech, kde je půda bažinatá, vzduch vlhký ,a kde jsou vábeny potem veškerých bytostí. Svá žihadla používají k usmrcení svých obětí, na jejichž krvi pak hodují.","","","ItWr_Bloodfly_01_3","",""
 "Scripts/content/Items/Written.d:1666","Den Stachel zu entnehmen ist eine Kunst die von vielen Sumpfjägern beherrscht wird.Schneide tief in den Unterleib, um den Stachel herum mit gezackten Schnitten und entferne vorsichtig den Stachel mitsamt dem umgebenen Gewebe.Lasse ihn ausbluten und streife das ungeniessbare Fleisch ab.","Získat takové žihadlo je uměním mnoha lovců z bažin. Provedou do břicha bytosti hluboký řez, potom vedou klikatý řez kolem žihadla, které opatrně vyjmou společně s tkání, která je obklopuje. Nechají skapat krev a oříznou nepoživatelné maso.","","","ItWr_Bloodfly_01_4","",""
+"Scripts/content/Items/Animaltrophy.d:516","zu Eis erstarren zu lassen.","nepřítele.","","False","ItAt_IceGolem_01.text[3]","",""
