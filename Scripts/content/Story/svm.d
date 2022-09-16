@@ -1370,7 +1370,7 @@ instance SVM_9 (C_SVM) // brummig gemütlicher Hüne, Besonnen, Brummiger Bär, 
 	ALGreetings								= "SVM_9_ALGreetings";								//Für Gomez!
 	MageGreetings							= "SVM_9_MageGreetings";							//Magie zu Ehren!
 	SectGreetings							= "SVM_9_SectGreetings";							//Erwache!
-	ThereHeIs								= "SVM_13_ThereHeIs";								//Bist du blind? Da vorne! //*** 9er war falsch betont!***
+	ThereHeIs								= "SVM_13_ThereHeIs";								//Bist du blind? Da vorne!
 	NoLearnNoPoints							= "SVM_9_NoLearnNoPoints";							//Ich kann dir nichts beibringen. Du hast nicht genug Erfahrung.
 	NoLearnOverMax							= "SVM_9_NoLearnOverMax";							//Du bist am Ende deiner Möglichkeiten. Du solltest etwas anderes lernen.
 	NoLearnYouAlreadyKnow					= "SVM_9_NoLearnYouAlreadyKnow";					//Du musst erst fortgeschritten sein, bevor du Meister werden kannst!
