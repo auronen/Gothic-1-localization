@@ -15,7 +15,7 @@
 "Scripts/content/Story/B/B_AssignAmbientInfos_Bau_2.d:130","Lefty schickt mich. Ich hab' Wasser für dich.","左撇子派我来的我给你带了些水。","","False","Info_Bau_2_Wasser_15_00","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Bau_2.d:133","Danke, Mann. Ich sterbe vor Durst.","谢啦。 我快渴死了。","","False","Info_Bau_2_Wasser_02_01","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Bau_2.d:154","Wasser! Hey, Mann! Du hast nichts mehr! Haben wieder alle was gekriegt bis auf mich?","水！ 嗨，老兄 一个都没有了！ 不要告诉我除了我之外每个人都有一些，又一次？","","False","Info_Bau_2_Wasser_NOWATER_02_00","",""
-"Scripts/content/Story/B/B_AssignAmbientInfos_Bau_4.d:15","ENDE","","","False","Info_Bau_4_EXIT.description","",""
+"Scripts/content/Story/B/B_AssignAmbientInfos_Bau_4.d:15","ENDE","ENDE","","False","Info_Bau_4_EXIT.description","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Bau_4.d:37","Habt ihr einen Anführer?","","","False","Info_Bau_4_WichtigePersonen.description","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Bau_4.d:47","Habt ihr einen Anführer?","","","False","Info_Bau_4_WichtigePersonen_15_00","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Bau_4.d:48","Der Reislord ist so was wie unser Anführer. Aber die meisten arbeiten nur aus Angst vor ihm und seinen Schlägern.","","","False","Info_Bau_4_WichtigePersonen_04_01","",""
