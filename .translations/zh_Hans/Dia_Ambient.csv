@@ -358,7 +358,7 @@
 "Scripts/content/Story/B/B_AssignAmbientInfos_Org_13.d:148","Du siehst aus, als wenn du etwas Sumpfkraut haben wolltest.","你看起来可以做一些沼泽草。","","False","Info_Org_13_Krautprobe_15_00","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Org_13.d:160","Hast du was? Ich nehm einen Stengel für 10 Erz.","你有事吗？ 我会用 10 块矿石买一根茎。","","False","Info_Org_13_Krautprobe_13_01","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Org_13.d:161","Kannst jederzeit wieder kommen, Bruder.","兄弟，你随时可以回来。","","False","Info_Org_13_Krautprobe_13_02","",""
-"Scripts/content/Story/B/B_AssignAmbientInfos_Org_13.d:170","Aber du hast nichts. Mach keine dummen Späße mit mir, klar?","","","False","Info_Org_13_Krautprobe_No_Joint_13_00","",""
+"Scripts/content/Story/B/B_AssignAmbientInfos_Org_13.d:170","Aber du hast nichts. Mach keine dummen Späße mit mir, klar?","但你没有。嘿，别把我惹毛了！","","False","Info_Org_13_Krautprobe_No_Joint_13_00","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Org_6.d:37","Ich will bei euch mitmachen!","","","False","Info_Org_6_EinerVonEuchWerden.description","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Org_6.d:50","Ich will bei euch mitmachen!","","","False","Info_Org_6_EinerVonEuchWerden_15_00","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Org_6.d:51","Lares entscheidet, wer in die Bande aufgenommen wird.","","","False","Info_Org_6_EinerVonEuchWerden_06_01","",""
