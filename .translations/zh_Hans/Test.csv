@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/content/AI/Orc/TestOrc.d:4","Orc Prototype","","","False","ORC_TESTTYPE.name","",""
+"Scripts/content/AI/Orc/TestOrc.d:4","Orc Prototype","半兽人原型","","False","ORC_TESTTYPE.name","",""
 "Scripts/content/AI/Orc/TestOrc.d:49","Orc_01","","","False","Orc01.name","",""
 "Scripts/content/AI/Orc/TestOrc.d:93","Orc_02","","","False","Orc02.name","",""
 "Scripts/content/AI/Orc/TestOrc.d:133","Orc_03","","","False","Orc03.name","",""
