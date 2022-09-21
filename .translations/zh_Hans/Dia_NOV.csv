@@ -2,7 +2,7 @@
 "Scripts/content/Story/MISSIONS/DIA_NOV_1301_Caine.d:33","Hi! Ich bin neu hier!","你好！ 我是新来的！","","False","DIA_Caine_Hallo.description","",""
 "Scripts/content/Story/MISSIONS/DIA_NOV_1301_Caine.d:43","Hi! Ich bin neu hier!","你好！ 我是新来的！","","False","DIA_Caine_Hallo_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_NOV_1301_Caine.d:44","Ich bin Caine. Schüler von Cor Kalom. Du hast sicher schon von ihm gehört, richtig?","我是科尔卡洛姆的弟子。 你一定听说过他吧？","","False","DIA_Caine_Hallo_13_01","",""
-"Scripts/content/Story/MISSIONS/DIA_NOV_1301_Caine.d:47","Nein.","不","","False","DIA_Caine_Hallo.DIA_Caine_Hallo_Nein","Info_AddChoice",""
+"Scripts/content/Story/MISSIONS/DIA_NOV_1301_Caine.d:47","Nein.","不.","","False","DIA_Caine_Hallo.DIA_Caine_Hallo_Nein","Info_AddChoice",""
 "Scripts/content/Story/MISSIONS/DIA_NOV_1301_Caine.d:48","Ja.","是的。","","False","DIA_Caine_Hallo.DIA_Caine_Hallo_Ja","Info_AddChoice",""
 "Scripts/content/Story/MISSIONS/DIA_NOV_1301_Caine.d:53","Ja.","是的。","","False","DIA_Caine_Hallo_Ja_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_NOV_1301_Caine.d:54","Dann weißt du ja, dass er hier der zweitwichtigste Mann nach Y'Berion ist.","然后你就知道他是继贝里昂之后的第二重要人物。","","False","DIA_Caine_Hallo_Ja_13_01","",""
