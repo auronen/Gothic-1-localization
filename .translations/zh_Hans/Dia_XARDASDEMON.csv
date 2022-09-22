@@ -1,7 +1,7 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
 "Scripts/content/Story/MISSIONS/DIA_XardasDemon.d:19","","","","","DIA_BaalCadar_NoTalk_Hi_02_01","",""
 "Scripts/content/Story/MISSIONS/DIA_XardasDemon.d:20","... Sterblicher? ... Wer, ich? ... Ich geh ja schon!","... 凡人？...谁，我？好，我这就去！","","False","Info_Saturas_EXIT_15_01","",""
-"Scripts/content/Story/MISSIONS/DIA_XardasDemon.d:55","Moment... Wer... Wer spricht hier.","等一下...是谁... 谁在跟我说话？","","False","Info_XardasDemon_INTRO_15_01","",""
+"Scripts/content/Story/MISSIONS/DIA_XardasDemon.d:55","Moment... Wer... Wer spricht hier.","等一下...是谁... 谁在跟我说话。","","False","Info_XardasDemon_INTRO_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_XardasDemon.d:57","DUUUU sprichst zu mir ??? Wie ... wie kommst du in meinen Kopf?","你在跟我说话？你是怎么进入我的大脑的？","","False","Info_XardasDemon_INTRO_15_02","",""
 "Scripts/content/Story/MISSIONS/DIA_XardasDemon.d:58","","","","","DIA_BaalCadar_NoTalk_Hi_02_01","",""
 "Scripts/content/Story/MISSIONS/DIA_XardasDemon.d:59","Du bist was? ... der Diener deines Herren?","你是什么？你的主人的仆人？","","False","Info_XardasDemon_INTRO_15_03","",""
