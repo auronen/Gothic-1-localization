@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/content/Story/MISSIONS/DIA_GUR_1200_YBerion.d:45","Was machst du hier? Wer hat dich hereingelassen? Wache!","你在这里干什么？谁让你进来的？警卫！","","False","DIA_YBerion_Wache_12_00","",""
+"Scripts/content/Story/MISSIONS/DIA_GUR_1200_YBerion.d:45","Was machst du hier? Wer hat dich hereingelassen? Wache!","你在这里做什么？ 谁让你进去？ 守卫！","","False","DIA_YBerion_Wache_12_00","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1200_YBerion.d:57","Sei gegrüßt, Meister Y'Berion.","问候，伊贝里翁大师。","","False","DIA_YBerion_Kennen.description","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1200_YBerion.d:70","Sei gegrüßt, Meister Y'Berion.","问候，伊贝里翁大师。","","False","DIA_YBerion_Kennen_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1200_YBerion.d:71","Ah! Du kommst mir bekannt vor!","啊！你对我来说似乎很熟悉！","","False","DIA_YBerion_Kennen_12_01","",""
