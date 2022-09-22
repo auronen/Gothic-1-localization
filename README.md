@@ -20,7 +20,7 @@ German translation is the source language. It is open to changes, in case some t
 ## :ru: Russian (Snowball)
 [![Translation progress](http://weblate.cokoliv.eu/widgets/gothic-1/ru_snowball/svg-badge.svg)](http://weblate.cokoliv.eu/engage/gothic-1/ru_snowball/)
 ## :ru: Russian (Russobit-M)
-Coming soon.
+[![Translation progress](http://weblate.cokoliv.eu/widgets/gothic-1/ru_russobit/test/svg-badge.svg)](http://weblate.cokoliv.eu/engage/gothic-1/ru_russobit/)
 ## :hungary: Hungarian
 I have received scripts and compiled `.DAT` files of the Hungarian version of the scripts. Coming soon.
 ## :ukraine: Ukranian
