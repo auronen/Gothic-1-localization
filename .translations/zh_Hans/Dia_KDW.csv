@@ -1,6 +1,6 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
 "Scripts/content/Story/MISSIONS/DIA_Kdw_600_Saturas.d:19","Mögest du in einem Stück zurückkehren!","","","False","Info_Saturas_EXIT_14_01","",""
-"Scripts/content/Story/MISSIONS/DIA_Kdw_600_Saturas.d:45","Was machst du hier? Du hast hier nichts zu suchen! Verschwinde!","","","False","Info_Saturas_Intruder_14_00","",""
+"Scripts/content/Story/MISSIONS/DIA_Kdw_600_Saturas.d:45","Was machst du hier? Du hast hier nichts zu suchen! Verschwinde!","你在这里做什么？ 您在这里没有生意！ 克拉姆！","","False","Info_Saturas_Intruder_14_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdw_600_Saturas.d:67","Ich habe wichtige Neuigkeiten aus dem Lager der Bruderschaft!","","","False","Info_Saturas_NEWS.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdw_600_Saturas.d:80","Ich habe wichtige Neuigkeiten aus dem Lager der Bruderschaft!","","","False","Info_Saturas_NEWS_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdw_600_Saturas.d:81","Wenn dir Cronos die Erlaubnis gab, mich aufzusuchen, müssen es in der Tat wichtige Nachrichten sein!","","","False","Info_Saturas_NEWS_14_02","",""
