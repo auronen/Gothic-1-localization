@@ -16,7 +16,7 @@
 "Scripts/content/Story/MISSIONS/DIA_SLD_709_Cord.d:130","Nutze den Schwung, weißt du noch? Gut, der nächste Schritt ist, dass du deinen Körper mehr einsetzt. Wenn du zweimal geschlagen hast, drehe dich um die eigene Achse, damit überrascht du den Gegner und bist in einer optimalen Position.","","","False","SLD_709_Cord_TRAINAGAIN_Info_14_03","",""
 "Scripts/content/Story/MISSIONS/DIA_SLD_709_Cord.d:131","Dann ziehst du deine Klinge noch einmal quer von rechts nach links.","","","False","SLD_709_Cord_TRAINAGAIN_Info_14_04","",""
 "Scripts/content/Story/MISSIONS/DIA_SLD_709_Cord.d:133","Und wieder von vorne. Vergiss nicht, Übung macht den Meister. Also, geh jetzt und werde ein wahrer Meister des einhändigen Kampfes.","","","False","SLD_709_Cord_TRAINAGAIN_Info_14_05","",""
-"Scripts/content/Story/MISSIONS/DIA_SLD_709_Cord.d:140","Du besitzt nicht genügend Erz.","","","False","KDF_402_Corristo_HEAVYARMOR_Info_14_03","",""
+"Scripts/content/Story/MISSIONS/DIA_SLD_709_Cord.d:140","Du besitzt nicht genügend Erz.","您没有足够的矿石。","","False","KDF_402_Corristo_HEAVYARMOR_Info_14_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:33","Du bist der Chef der Söldner, richtig?","","","False","Sld_700_Lee_Greet.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:43","Du bist der Chef der Söldner, richtig?","","","False","DIA_Lee_Greet_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:44","Das ist richtig, mein Junge!","","","False","DIA_Lee_Greet_08_01","",""
