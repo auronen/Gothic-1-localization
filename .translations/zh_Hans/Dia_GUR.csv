@@ -488,7 +488,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Gur_1208_BaalCadar.d:56","Der Schläfer sei mit dir!","卧铺和你在一起！","","False","DIA_BaalCadar_NoTalk.DIA_BaalCadar_NoTalk_Sleeper","Info_AddChoice",""
 "Scripts/content/Story/MISSIONS/DIA_Gur_1208_BaalCadar.d:57","Hi! Ich bin neu hier!","你好！ 我是新来的！","","False","DIA_BaalCadar_NoTalk.DIA_BaalCadar_NoTalk_Hi","Info_AddChoice",""
 "Scripts/content/Story/MISSIONS/DIA_Gur_1208_BaalCadar.d:62","Hi! Ich bin neu hier!","你好！ 我是新来的！","","False","DIA_BaalCadar_NoTalk_Hi_15_00","",""
-"Scripts/content/Story/MISSIONS/DIA_Gur_1208_BaalCadar.d:63","(verärgertes Schnauben)","（叹气）","","False","DIA_BaalCadar_NoTalk_Hi_02_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Gur_1208_BaalCadar.d:63","(verärgertes Schnauben)","（叹）","","False","DIA_BaalCadar_NoTalk_Hi_02_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Gur_1208_BaalCadar.d:69","Der Schläfer sei mit dir!","卧铺和你在一起！","","False","DIA_BaalCadar_NoTalk_Sleeper_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Gur_1208_BaalCadar.d:70","(verärgertes Schnauben)","（叹）","","False","DIA_BaalCadar_NoTalk_Sleeper_02_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Gur_1208_BaalCadar.d:76","Alles klar, Alter?","“一切都很好，好朋友？”","","False","DIA_BaalCadar_NoTalk_Imp_15_00","",""
