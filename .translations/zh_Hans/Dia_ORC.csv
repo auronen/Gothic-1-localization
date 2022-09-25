@@ -1,7 +1,7 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
 "Scripts/content/Story/MISSIONS/DIA_ORC_Freemine.d:49","Ich muss weiter!","","","False","Info_FreemineOrc_EXIT_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_ORC_Freemine.d:50","Fremder kommen wieder!","","","False","Info_FreemineOrc_EXIT_17_02","",""
-"Scripts/content/Story/MISSIONS/DIA_ORC_Freemine.d:54","Ich danke dir. Ich werde mich jetzt wieder auf den Weg machen.","","","False","Info_FreemineOrc_EXIT_15_03","",""
+"Scripts/content/Story/MISSIONS/DIA_ORC_Freemine.d:54","Ich danke dir. Ich werde mich jetzt wieder auf den Weg machen.","谢谢你。 我现在要上路。","","False","Info_FreemineOrc_EXIT_15_03","",""
 "Scripts/content/Story/MISSIONS/DIA_ORC_Freemine.d:55","Fremder haben gute Reise!","","","False","Info_FreemineOrc_EXIT_17_04","",""
 "Scripts/content/Story/MISSIONS/DIA_ORC_Freemine.d:79","Tarrok brauchen Hilfe! Tarrok verletzt!","","","False","Info_FreemineOrc_INTRO_17_01","",""
 "Scripts/content/Story/MISSIONS/DIA_ORC_Freemine.d:91","Was ist geschehen?","","","False","Info_FreemineOrc_WASPASSIERT.description","",""
