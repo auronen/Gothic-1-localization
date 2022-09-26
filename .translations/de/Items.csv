@@ -1641,7 +1641,7 @@
 "Scripts/content/Items/MissionItems_5.d:78","Statuette","Statuette","","","ItMi_Stuff_Idol_Sleeper_01.name","",""
 "Scripts/content/Items/MissionItems_5.d:89","Diese Figur stellt ein unförmiges Wesen dar,","Diese Figur stellt ein unförmiges Wesen dar,","","","ItMi_Stuff_Idol_Sleeper_01.text[0]","",""
 "Scripts/content/Items/MissionItems_5.d:90","das eine Maske trägt.","das eine Maske trägt.","","","ItMi_Stuff_Idol_Sleeper_01.text[1]","",""
-"Scripts/content/Items/MissionItems_5.d:91","Die Maske wird von 6 großen Stacheln umsäumt","Die Maske wird von 6 großen Stacheln umsäumt","","","ItMi_Stuff_Idol_Sleeper_01.text[2]","",""
+"Scripts/content/Items/MissionItems_5.d:91","Die Maske wird von 6 großen Stacheln umsäumt","Die Maske wird von 6 großen Stacheln umsäumt.","","False","ItMi_Stuff_Idol_Sleeper_01.text[2]","",""
 "Scripts/content/Items/MissionItems_5.d:99","Weltenspalter","Weltenspalter","","","Weltenspalter.name","",""
 "Scripts/content/Items/MissionItems_5.d:117","Dies war das Schwert des untoten","Dies war das Schwert des untoten","","","Weltenspalter.text[0]","",""
 "Scripts/content/Items/MissionItems_5.d:118","Ork-Priesters Varrag-Hashor.","Ork-Priesters Varrag-Hashor.","","","Weltenspalter.text[1]","",""
