@@ -345,7 +345,7 @@
 "Scripts/content/Story/MISSIONS/DIA_GRD_251_Kirgo.d:158","Lass uns kämpfen - Bist du bereit?","让我们打架 - 你准备好了吗？","","False","Info_Kirgo_ChargeREAL_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_GRD_251_Kirgo.d:159","Folge mir!","跟着我！","","False","Info_Kirgo_ChargeREAL_05_01","",""
 "Scripts/content/Story/MISSIONS/DIA_GRD_251_Kirgo.d:192","So, dann wollen wir mal. Möge der Bessere gewinnen!","“对，让我们开始。愿伴郎赢！","","False","Info_Kirgo_InArena_05_00","",""
-"Scripts/content/Story/MISSIONS/DIA_GRD_251_Kirgo.d:203","Den kleinen Streit vergessen wir, okay?","“我们忘记了小争端，好吗？”","","False","SVM_5_LetsForgetOurLittleFight","",""
+"Scripts/content/Story/MISSIONS/DIA_GRD_251_Kirgo.d:203","Den kleinen Streit vergessen wir, okay?","让我们忘掉这场小争吵，好吗？","","False","SVM_5_LetsForgetOurLittleFight","",""
 "Scripts/content/Story/MISSIONS/DIA_GRD_254_Orry.d:20","Sieh zu, das du heil zum Alten Lager kommst!","您最好确保一件一件旧营地！","","False","DIA_Orry_PreExit_06_00","",""
 "Scripts/content/Story/MISSIONS/DIA_GRD_254_Orry.d:59","Was machst du hier?","你在这里做什么？","","False","DIA_Orry_GuardGate.description","",""
 "Scripts/content/Story/MISSIONS/DIA_GRD_254_Orry.d:72","Was machst du hier?","你在这里做什么？","","False","DIA_Orry_GuardGate_15_00","",""
