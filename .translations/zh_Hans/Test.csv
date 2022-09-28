@@ -15,7 +15,7 @@
 "Scripts/content/AI/Orc/TestOrcSlave.d:4","OrcSlave Prototype","兽人奴隶的雏形","","False","ORCSLAVE_TESTTYPE.name","",""
 "Scripts/content/AI/Orc/TestOrcSlave.d:50","Slave0","奴隶0","","False","Slave0.name","",""
 "Scripts/content/AI/Orc/TestOrcSlave.d:88","Slave1","奴隶1","","False","Slave1.name","",""
-"Scripts/content/AI/Orc/TestOrcSlave.d:126","Slave1","奴隶1","","True","Slave2.name","",""
+"Scripts/content/AI/Orc/TestOrcSlave.d:126","Slave1","奴隶1","","False","Slave2.name","",""
 "Scripts/content/AI/Test_Skripts/Babes.d:11","babe","宝贝","","False","Babe.name","",""
 "Scripts/content/AI/Test_Skripts/Babes.d:52","babe2","宝贝2","","False","Babe2.name","",""
 "Scripts/content/AI/Test_Skripts/Babes.d:92","babe3","宝贝3","","False","Babe3.name","",""
