@@ -617,7 +617,7 @@
 "Scripts/content/Story/svm.d:877","Jemand aus dem Alten Lager ist tot und du sollst damit zu tun haben ...","“旧营地的一名成员死了，与他的死有关……提到了您的名字……”","","False","SVM_5_YouKilledOCfolk","",""
 "Scripts/content/Story/svm.d:878","Das Neue Lager hat einen tragischen Verlust erlitten, und scheinbar hast du damit zu tun!","“新营地遭受了悲惨的损失，看来您参与其中！”","","False","SVM_5_YouKilledNCfolk","",""
 "Scripts/content/Story/svm.d:879","Die Bruderschaft ist um einen Anhänger ärmer und wie es scheint hast du ihn beseitigt!","“兄弟会少得多，一个信徒，你让他良心！”","","False","SVM_5_YouKilledPSIfolk","",""
-"Scripts/content/Story/svm.d:880","Das wieder hinzubiegen wird nicht einfach!","拉直这一点并不容易！","","False","SVM_5_GetThingsRight","",""
+"Scripts/content/Story/svm.d:880","Das wieder hinzubiegen wird nicht einfach!","解决这个问题并不容易！","","False","SVM_5_GetThingsRight","",""
 "Scripts/content/Story/svm.d:881","Du hast mir ganz schön aufs Maul gehauen, Mann. War ein guter Kampf. Aber jetzt ist gut!","“你给了我一个公平的脱节，伙计。这是一场不错的战斗。但是现在结束了！”","","False","SVM_5_YouDefeatedMeWell","",""
 "Scripts/content/Story/svm.d:882"," ... wenn du meinst ..."," ... 如果你认为 ...","","False","SVM_5_Smalltalk01","",""
 "Scripts/content/Story/svm.d:883"," ... kann schon sein ..."," ... 也许 ...","","False","SVM_5_Smalltalk02","",""
