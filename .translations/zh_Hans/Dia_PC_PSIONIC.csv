@@ -143,7 +143,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:1129","Gibt es irgendwelche Hinweise auf die Urkunde?","你找到文件了吗？","","False","PC_Psionic_CHESTCLOSED_Info_05_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:1130","Nein, bisher noch nicht ...","还没有...","","False","PC_Psionic_CHESTCLOSED_Info_15_04","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:1131","Hast du schon in der Bibliothek nachgesehen?","你去图书馆看看了吗？","","False","PC_Psionic_CHESTCLOSED_Info_05_05","",""
-"Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:1144","Lass uns zusammen die Festung erkunden","让我们一起探探堡垒。","","False","PC_Psionic_COMEAGAIN.description","",""
+"Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:1144","Lass uns zusammen die Festung erkunden","让我们一起探索堡垒","","False","PC_Psionic_COMEAGAIN.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:1158","Lass uns zusammen die Festung erkunden.","让我们一起探探堡垒。","","False","PC_Psionic_COMEAGAIN_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:1159","In Ordnung, du gehst vor!","好，你先来！","","False","PC_Psionic_COMEAGAIN_Info_05_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:1176","Ich habe Diego und Milten vor dem Alten Lager getroffen!","我在老营地前遇到了迭戈和米尔顿！","","False","Info_Lester_DIEGOMILTEN.description","",""
