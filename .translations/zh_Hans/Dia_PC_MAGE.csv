@@ -35,7 +35,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:208","Hier ist er.","这里是。","","False","DIA_Milten_Letter.DIA_Milten_Letter_Give","Info_AddChoice",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:213","Ich möchte den Brief lieber Torrez direkt geben.","我宁愿给托雷兹本人。","","False","DIA_Milten_Letter_NO_AGAIN_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:214","Du lässt nicht mit dir reden, hm?","我无法说服你，可以吗？","","False","DIA_Milten_Letter_NO_AGAIN_02_01","",""
-"Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:215","Nein. Ich will erst meine Belohnung sehen!","不，我想先看看我的奖励。","","False","DIA_Milten_Letter_NO_AGAIN_15_02","",""
+"Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:215","Nein. Ich will erst meine Belohnung sehen!","不，我想先看看我的奖励!","","False","DIA_Milten_Letter_NO_AGAIN_15_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:216","Nun gut. Du willst es nicht anders. Warte hier.","好吧。 如果那是你想要的。 在这儿等着。","","False","DIA_Milten_Letter_NO_AGAIN_02_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:251","Corristo war nicht sehr erfreut, dass du den Dienern Innos so wenig Vertrauen entgegen bringst.","科里斯托（Corristo）并不高兴看到您对Innos的仆人几乎没有信心。","","False","DIA_Milten_ComesBack_02_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:252","Aber er sagt, du sollst zu Torrez gehen und dir die übliche Belohnung geben lassen.","但是他说你可能会去托雷斯，让他给你通常的报酬。","","False","DIA_Milten_ComesBack_02_01","",""
