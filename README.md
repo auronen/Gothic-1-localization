@@ -33,6 +33,9 @@ German is the source language, made by Piranha Bytes. It is open to changes, in 
 ## :hungary: Hungarian   
 I have received scripts and compiled `.DAT` files of the Hungarian version of the scripts. Coming soon.
 
+## :romania: Romanian
+Coming soon.
+
 ## :ukraine: Ukranian  
 Coming soon.
 
