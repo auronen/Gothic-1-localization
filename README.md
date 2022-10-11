@@ -1,7 +1,7 @@
 # Gothic 1 Localization
 Localization of Gothic 1 scripts. Scripts based on https://github.com/VaanaCZ/gothic-1-classic-scripts with no functional script changes, only optimized for translation. 
 
-The goal is to provide consistent compiled scripts and output units (spoken dialogue) for Gothic that share the same code base.
+The goal is to provide consistent compiled scripts and output units (spoken dialogue) for Gothic, that share the same code base.
 # Languages
 
 ## :de: German
@@ -13,9 +13,11 @@ German is the source language, made by Piranha Bytes. It is open to changes, in 
 [![Translation progress](http://weblate.cokoliv.eu/widgets/gothic-1/en/svg-badge.svg)](http://weblate.cokoliv.eu/engage/gothic-1/en/)
 
 ## :czech_republic: Czech  
+Original translation done by CD Projekt.  
 [![Stav překladu](http://weblate.cokoliv.eu/widgets/gothic-1/cs/svg-badge.svg)](http://weblate.cokoliv.eu/engage/gothic-1/cs/)
 
 ## :poland: Polish  
+Original translation done by CD Projekt.  
 [![Translation progress](http://weblate.cokoliv.eu/widgets/gothic-1/pl/svg-badge.svg)](http://weblate.cokoliv.eu/engage/gothic-1/pl/)
 
 ## :it: Italian  
