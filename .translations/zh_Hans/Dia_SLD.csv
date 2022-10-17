@@ -73,7 +73,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:356","Du hast viel für unser Lager getan. Männer wie dich kann ich gebrauchen.","您为我们的营地做了很多事情。 我可以很好地利用像你这样的男人。","","False","Sld_700_Lee_CHANGESIDE_Info_08_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:357","Machen wir es kurz. Willkommen im Neuen Lager, SÖLDNER!","让我们简短。 欢迎来到新营，雇佣军！","","False","Sld_700_Lee_CHANGESIDE_Info_08_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:358","Hier ist eine von unseren Rüstungen. Gut, dass du bei uns bist.","这里穿一些盔甲。 很好，你和我们在一起。","","False","Sld_700_Lee_CHANGESIDE_Info_08_04","",""
-"Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:387","Ich brauche eine bessere Rüstung","我需要更好的盔甲。","","False","Sld_700_Lee_ARMOR.description","",""
+"Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:387","Ich brauche eine bessere Rüstung","我需要更好的盔甲","","False","Sld_700_Lee_ARMOR.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:400","Ich brauche eine bessere Rüstung.","我需要更好的盔甲。","","False","Sld_700_Lee_ARMOR_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:401","Die Rüstungen musst du dir erst verdienen. Außerdem sind sie nicht ganz billig.","您首先必须赚取盔甲。 除此之外，它们并不便宜。","","False","Sld_700_Lee_ARMOR_Info_08_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:416","Ich möchte die mittelschwere Rüstung haben.","我想拥有中型装甲。","","False","Sld_700_Lee_ARMOR_M_Info_08_01","",""
