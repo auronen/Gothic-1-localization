@@ -115,7 +115,7 @@
 "Scripts/content/Story/MISSIONS/DIA_TPL_1455_GorBoba.d:39","JA! Ich werde dich aufhalten, damit du Meister Kalom nicht von seinem Vorhaben abhalten kannst, den Schläfer zu erwecken.","是的！ 我会阻止您 - 您不会阻止Kalom大师唤醒卧铺。","","False","Info_TPL_1455_GorBoba1_08_02","",""
 "Scripts/content/Story/MISSIONS/DIA_TPL_1455_GorBoba.d:40","Versuche nicht, mich anzugreifen, der Hohepriester hat Meister Kalom und uns anderen einen Teil seiner Macht verliehen, wir sind nun unsterblich.","不要试图攻击我，大祭司将他的权力的一部分转移给了卡洛姆和我们师父。 现在我们是不朽的。","","False","Info_TPL_1455_GorBoba1_08_03","",""
 "Scripts/content/Story/MISSIONS/DIA_TPL_1455_GorBoba.d:41","Ich kann dir zeigen, wie unsterblich du bist!","我会告诉你你多么不朽！","","False","Info_TPL_1455_GorBoba1_15_04","",""
-"Scripts/content/Story/MISSIONS/DIA_TPL_1455_GorBoba.d:42","Mache dich bereit, deinem Schöpfer gegenüber zu treten.","准备与您的创造者见面！","","False","Info_TPL_1455_GorBoba1_08_05","",""
+"Scripts/content/Story/MISSIONS/DIA_TPL_1455_GorBoba.d:42","Mache dich bereit, deinem Schöpfer gegenüber zu treten.","准备与您的创造者见面。","","False","Info_TPL_1455_GorBoba1_08_05","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1400_GorNaBar.d:19","Möge der Schläfer dich schützen!","愿卧铺保护您！","","False","Tpl_1400_GorNaBar_Exit_Info_09_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1400_GorNaBar.d:30","Ich brauche deine Hilfe","我需要你的帮助。","","False","Tpl_1400_GorNaBar_SUGGEST.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1400_GorNaBar.d:44","Ich brauche deine Hilfe","我需要你的帮助。","","False","Tpl_1400_GorNaBar_SUGGEST_Info_15_01","",""
