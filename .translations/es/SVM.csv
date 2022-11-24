@@ -1091,7 +1091,7 @@
 "Scripts/content/Story/svm.d:1370","Für Gomez!","¡Por Gómez!","","","SVM_9_ALGreetings","",""
 "Scripts/content/Story/svm.d:1371","Magie zu Ehren!","¡Por el honor de la magia!","","","SVM_9_MageGreetings","",""
 "Scripts/content/Story/svm.d:1372","Erwache!","¡Despierta!","","","SVM_9_SectGreetings","",""
-"Scripts/content/Story/svm.d:1373","Bist du blind? Da vorne! //*** 9er war falsch betont!***","¿Estás ciego? ¡Por allí!","","","SVM_13_ThereHeIs","",""
+"Scripts/content/Story/svm.d:1373","Bist du blind? Da vorne!","¿Estás ciego? ¡Por allí!","","","SVM_13_ThereHeIs","",""
 "Scripts/content/Story/svm.d:1374","Ich kann dir nichts beibringen. Du hast nicht genug Erfahrung.","No puedo enseñarte nada. No tienes suficiente experiencia.","","","SVM_9_NoLearnNoPoints","",""
 "Scripts/content/Story/svm.d:1375","Du bist am Ende deiner Möglichkeiten. Du solltest etwas anderes lernen.","Tus posibilidades no dan más de sí. Deberías aprender algo diferente.","","","SVM_9_NoLearnOverMax","",""
 "Scripts/content/Story/svm.d:1376","Du musst erst fortgeschritten sein, bevor du Meister werden kannst!","¡Tienes que llegar al nivel avanzado antes de convertirte en maestro!","","","SVM_9_NoLearnYouAlreadyKnow","",""

@@ -1091,7 +1091,7 @@
 "Scripts/content/Story/svm.d:1370","Für Gomez!","За Гомеза!","","","SVM_9_ALGreetings","",""
 "Scripts/content/Story/svm.d:1371","Magie zu Ehren!","Во имя магии!","","","SVM_9_MageGreetings","",""
 "Scripts/content/Story/svm.d:1372","Erwache!","Пробудись!","","","SVM_9_SectGreetings","",""
-"Scripts/content/Story/svm.d:1373","Bist du blind? Da vorne! //*** 9er war falsch betont!***","Ты что, слепой? Вот же он!","","","SVM_13_ThereHeIs","",""
+"Scripts/content/Story/svm.d:1373","Bist du blind? Da vorne!","Ты что, слепой? Вот же он!","","","SVM_13_ThereHeIs","",""
 "Scripts/content/Story/svm.d:1374","Ich kann dir nichts beibringen. Du hast nicht genug Erfahrung.","Я не смогу стать твоим учителем. У тебя недостаточно практических навыков.","","","SVM_9_NoLearnNoPoints","",""
 "Scripts/content/Story/svm.d:1375","Du bist am Ende deiner Möglichkeiten. Du solltest etwas anderes lernen.","Ты больше не можешь этому научиться. Тебе стоит попробовать что-то другое.","","","SVM_9_NoLearnOverMax","",""
 "Scripts/content/Story/svm.d:1376","Du musst erst fortgeschritten sein, bevor du Meister werden kannst!","Тебе нужно изучить основы, прежде чем стать настоящим мастером.","","","SVM_9_NoLearnYouAlreadyKnow","",""

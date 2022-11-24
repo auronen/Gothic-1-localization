@@ -1091,7 +1091,7 @@
 "Scripts/content/Story/svm.d:1370","Für Gomez!","Für Gomez!","","","SVM_9_ALGreetings","",""
 "Scripts/content/Story/svm.d:1371","Magie zu Ehren!","Magie zu Ehren!","","","SVM_9_MageGreetings","",""
 "Scripts/content/Story/svm.d:1372","Erwache!","Erwache!","","","SVM_9_SectGreetings","",""
-"Scripts/content/Story/svm.d:1373","Bist du blind? Da vorne! //*** 9er war falsch betont!***","Bist du blind? Da vorne! //*** 9er war falsch betont!***","","","SVM_13_ThereHeIs","",""
+"Scripts/content/Story/svm.d:1373","Bist du blind? Da vorne!","Bist du blind? Da vorne!","","","SVM_13_ThereHeIs","",""
 "Scripts/content/Story/svm.d:1374","Ich kann dir nichts beibringen. Du hast nicht genug Erfahrung.","Ich kann dir nichts beibringen. Du hast nicht genug Erfahrung.","","","SVM_9_NoLearnNoPoints","",""
 "Scripts/content/Story/svm.d:1375","Du bist am Ende deiner Möglichkeiten. Du solltest etwas anderes lernen.","Du bist am Ende deiner Möglichkeiten. Du solltest etwas anderes lernen.","","","SVM_9_NoLearnOverMax","",""
 "Scripts/content/Story/svm.d:1376","Du musst erst fortgeschritten sein, bevor du Meister werden kannst!","Du musst erst fortgeschritten sein, bevor du Meister werden kannst!","","","SVM_9_NoLearnYouAlreadyKnow","",""
