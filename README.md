@@ -50,3 +50,5 @@ Original authors:
   - 无敌司令胡传魁
   - 许海锋
 
+## :tr: Turkish
+[![Translation progress](http://weblate.cokoliv.eu/widgets/gothic-1/tr/svg-badge.svg)](http://weblate.cokoliv.eu/engage/gothic-1/tr/)
