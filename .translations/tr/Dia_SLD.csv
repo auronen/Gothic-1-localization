@@ -67,7 +67,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:320","Einen Moment noch!","","","False","Info_CorAngar_TELEPORT_08_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:321","Nimm diese Zauberrune als Zeichen unseres Dankes für deine großen Taten.","","","False","Info_CorAngar_TELEPORT_08_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:322","Ich danke dir!","","","False","Info_CorAngar_TELEPORT_15_05","",""
-"Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:323","Wir sehen uns.","","","False","Info_Exit_Info_15_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:323","Wir sehen uns.","Görüşürüz.","","False","Info_Exit_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:342","Das Alte Lager hat mich verbannt, ich möchte mich euch anschließen!","","","False","Sld_700_Lee_CHANGESIDE.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:355","Das Alte Lager hat mich verbannt, ich möchte mich euch anschließen!","","","False","Sld_700_Lee_CHANGESIDE_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:356","Du hast viel für unser Lager getan. Männer wie dich kann ich gebrauchen.","","","False","Sld_700_Lee_CHANGESIDE_Info_08_02","",""
