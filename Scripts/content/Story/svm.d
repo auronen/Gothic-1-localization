@@ -1383,7 +1383,7 @@ instance SVM_9 (C_SVM)				// brummig		   gemütlicher Hüne, Besonnen, Brummiger
 	ALGreetings					=	"SVM_9_ALGreetings"					;//Für Gomez!
 	MageGreetings				=	"SVM_9_MageGreetings"				;//Magie zu Ehren!
 	SectGreetings				=	"SVM_9_SectGreetings"				;//Erwache!
-	ThereHeIs					= 	"SVM_13_ThereHeIs"					;//Bist du blind? Da vorne! //*** 9er war falsch betont!***
+	ThereHeIs					= 	"SVM_13_ThereHeIs"					;//Bist du blind? Da vorne!
 	NoLearnNoPoints				= 	"SVM_9_NoLearnNoPoints"				;//Ich kann dir nichts beibringen. Du hast nicht genug Erfahrung.
 	NoLearnOverMax				= 	"SVM_9_NoLearnOverMax"				;//Du bist am Ende deiner Möglichkeiten. Du solltest etwas anderes lernen.
 	NoLearnYouAlreadyKnow		=	"SVM_9_NoLearnYouAlreadyKnow"		;//Du musst erst fortgeschritten sein, bevor du Meister werden kannst!
@@ -1586,7 +1586,7 @@ instance SVM_10	(C_SVM)				// Schlau, verschlagen,	heimlich, Zwielichtig, zynisc
 	Smalltalk22					=	"SVM_10_Smalltalk22"					;// ... erst mal abwarten. Es wird nichts so heiß gegessen, wie es gekocht wird ...
 	Smalltalk23					=	"SVM_10_Smalltalk23"					;// ... ich dachte, das wäre schon lange geklärt ...
 	Smalltalk24					=	"SVM_10_Smalltalk24"					;// ... lass uns lieber über was anderes reden ...
-	Om							= 	"SVM_10_Om"							;//Ommm
+	Om							= 	"SVM_10_Om"								;//Ommm
 };
 
 
@@ -1722,7 +1722,7 @@ instance SVM_11	(C_SVM)				//Profi				Ruhig, abgezockt, Vernünftig aberknallhar
 	Smalltalk22					=	"SVM_11_Smalltalk22"					;// ... erst mal abwarten. Es wird nichts so heiß gegessen, wie es gekocht wird ...
 	Smalltalk23					=	"SVM_11_Smalltalk23"					;// ... ich dachte, das wäre schon lange geklärt ...
 	Smalltalk24					=	"SVM_11_Smalltalk24"					;// ... lass uns lieber über was anderes reden ...
-	Om							= 	"SVM_11_Om"							;//Ommm
+	Om							= 	"SVM_11_Om"								;//Ommm
 };
 
 
@@ -1856,7 +1856,7 @@ instance SVM_12	(C_SVM)		//Bazaar-Händler		Nach außen freundlich,jovial,Innen 
 	Smalltalk22					=	"SVM_12_Smalltalk22"					;// ... erst mal abwarten. Es wird nichts so heiß gegessen, wie es gekocht wird ...
 	Smalltalk23					=	"SVM_12_Smalltalk23"					;// ... ich dachte, das wäre schon lange geklärt ...
 	Smalltalk24					=	"SVM_12_Smalltalk24"					;// ... lass uns lieber über was anderes reden ...
-	Om							= 	"SVM_12_Om"							;//Ommm
+	Om							= 	"SVM_12_Om"								;//Ommm
 };
 
 
@@ -1990,7 +1990,7 @@ instance SVM_13	(C_SVM)					// Fanatiker	Agressiv, übereifrig, Ähnlich wie Sti
 	Smalltalk22					=	"SVM_13_Smalltalk22"					;// ... erst mal abwarten. Es wird nichts so heiß gegessen, wie es gekocht wird ...
 	Smalltalk23					=	"SVM_13_Smalltalk23"					;// ... ich dachte, das wäre schon lange geklärt ...
 	Smalltalk24					=	"SVM_13_Smalltalk24"					;// ... lass uns lieber über was anderes reden ...
-	Om							= 	"SVM_13_Om"							;//Ommm
+	Om							= 	"SVM_13_Om"								;//Ommm
 };
 
 
@@ -2126,7 +2126,7 @@ instance SVM_14	(C_SVM)				// Xardas(DMB),Corristo,Erzähler	alt	arrogant, gebil
 	Smalltalk22					=	"SVM_14_Smalltalk22"					;// ... erst mal abwarten. Es wird nichts so heiß gegessen, wie es gekocht wird ...
 	Smalltalk23					=	"SVM_14_Smalltalk23"					;// ... ich dachte, das wäre schon lange geklärt ...
 	Smalltalk24					=	"SVM_14_Smalltalk24"					;// ... lass uns lieber über was anderes reden ...
-	Om							= 	"SVM_14_Om"							;//Ommm
+	Om							= 	"SVM_14_Om"								;//Ommm
 };
 
 
