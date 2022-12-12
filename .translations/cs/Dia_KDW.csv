@@ -114,7 +114,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Kdw_600_Saturas.d:662","Das Alte Lager hat mich verbannt, weil ich euch geholfen habe!","Byl jsem vyhoštěn ze Starého tábora, protože jsem vám pomáhal!","","","KDW_600_Saturas_NOMOREOC.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdw_600_Saturas.d:676","Das Alte Lager hat mich verbannt, weil ich euch geholfen habe!","Byl jsem vyhoštěn ze Starého tábora, protože jsem vám pomáhal!","","","KDW_600_Saturas_NOMOREOC_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdw_600_Saturas.d:677","Du gehörst nicht länger zum Alten Lager?","Už teda nepatříš ke Starému táboru?","","","KDW_600_Saturas_NOMOREOC_Info_14_02","",""
-"Scripts/content/Story/MISSIONS/DIA_Kdw_600_Saturas.d:678","Dann heiße ich dich in unserer Gemeinschaft willkommen.","Pak vítej do naší komunity!","","","KDW_600_Saturas_NOMOREOC_Info_14_03","",""
+"Scripts/content/Story/MISSIONS/DIA_Kdw_600_Saturas.d:678","Dann heiße ich dich in unserer Gemeinschaft willkommen.","Pak tě vítám v naší komunitě.","","False","KDW_600_Saturas_NOMOREOC_Info_14_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdw_600_Saturas.d:694","Heißt das, die Söldner werden mich aufnehmen?","Znamená to, že mě přijmou žoldáci?","","","KDW_600_Saturas_GOTOLEE.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdw_600_Saturas.d:708","Heißt das, die Söldner werden mich aufnehmen?","Znamená to, že mě přijmou žoldáci?","","","KDW_600_Saturas_GOTOLEE_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdw_600_Saturas.d:709","Sprich mit Lee. Er wird sich darum kümmern. Danach komm wieder zu mir.","Řekni Leeovi, dohlédne na to. Pak se ke mně vrať.","","","KDW_600_Saturas_GOTOLEE_Info_14_02","",""
