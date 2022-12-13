@@ -1,8 +1,7 @@
-_work/Data/Scripts/content/.vscode/
 Music/
 Sound/
 Video/
 PRESETS/
 *.[dD][aA][tT]
 .dls
-.vscode
+.vscode/
