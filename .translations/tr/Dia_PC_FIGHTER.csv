@@ -1,6 +1,6 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:23","Auf in den Kampf!","","","False","Info_Gorn_EXIT_09_01","",""
-"Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:27","Bis später.","","","False","Info_Gorn_EXIT_09_02","",""
+"Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:23","Auf in den Kampf!","Hadi dövüşelim!","","False","Info_Gorn_EXIT_09_01","",""
+"Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:27","Bis später.","Sonra görüşürüz.","","False","Info_Gorn_EXIT_09_02","",""
 "Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:55","Hey. Ein neues Gesicht.","","","False","DIA_Gorn_First_09_00","",""
 "Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:56","Wer bist du?","","","False","DIA_Gorn_First_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:57","Ich bin Gorn. Söldner der Magier.","","","False","DIA_Gorn_First_09_02","",""
