@@ -133,7 +133,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Nov_1303_Nyras.d:97","Nur in diesem Zustand - oder wenn du schläfst - kannst du die Gedanken des Schläfers empfangen.","Tylko w transie - lub we śnie - można usłyszeć słowa naszego Wyzwoliciela.","","","DIA_Nyras_Ort_Holy_03_05","",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1303_Nyras.d:130","Verschwinde! Hier gibt es nichts für dich zu holen!","Idź precz! Nie masz tu czego szukać!","","","Nov_1303_Nyras_GREET_Info_03_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1303_Nyras.d:140","Ich bin auf der Suche nach dem Fokus","Szukam kamienia ogniskującego!","","","Nov_1303_Nyras_LEAVE.description","",""
-"Scripts/content/Story/MISSIONS/DIA_Nov_1303_Nyras.d:153","Ich bin auf der Suche nach dem Fokus.","Szukam kamienia ogniskującego!","","","Nov_1303_Nyras_LEAVE_Info_15_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Nov_1303_Nyras.d:153","Ich bin auf der Suche nach dem Fokus.","Szukam kamienia ogniskującego!","","False","Nov_1303_Nyras_LEAVE_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1303_Nyras.d:154","Da kommst du leider zu spät. Ich habe ihn bereits gefunden!","Obawiam się, że trochę się spóźniłeś! Ja go znalazłem wcześniej!","","","Nov_1303_Nyras_LEAVE_Info_03_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1303_Nyras.d:155","Und ich werde ihn für mich selbst behalten!","I zamierzam go sobie zatrzymać!","","","Nov_1303_Nyras_LEAVE_Info_03_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1303_Nyras.d:156","Der Schläfer sprach heute Nacht zu mir und machte mich zu seinem alleinigen Werkzeug!","Śniący przemówił do mnie ostatniej nocy i uczynił mnie swym arcykapłanem!","","","Nov_1303_Nyras_LEAVE_Info_03_04","",""
