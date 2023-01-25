@@ -22,7 +22,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:51","Danke, Mann! Ich war schon kurz davor, den Schlamm zu saufen.","Dzięki, kolego. Jeszcze trochę, a zacząłbym pić z kałuży!","","","Info_Horatio_Wasser_09_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:70","Du hast nichts mehr. Ich hol mir von den anderen was.","Chyba ci się skończyła! Trudno, wezmę trochę od innych.","","","Info_Horatio_Wasser_NOWATER_09_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:97","Was machst du hier? Willst du Ärger haben?","Co tu robisz? Szukasz kłopotów?","","","DIA_Horatio_Hello_09_00","",""
-"Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:100","Ärger? Von wem? Von einem Bauern?","Kłopotów? A co  - grozisz mi, robolu?!","","","DIA_Horatio_Hello.DIA_Horatio_Hello_PissOff","Info_AddChoice",""
+"Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:100","Ärger? Von wem? Von einem Bauern?","Kłopotów? A co - grozisz mi, robolu?!","","False","DIA_Horatio_Hello.DIA_Horatio_Hello_PissOff","Info_AddChoice",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:101","Entspann dich! Ich bin neu hier.","Spokojnie! Jestem tu nowy.","","","DIA_Horatio_Hello.DIA_Horatio_Hello_BeCool","Info_AddChoice",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:106","Entspann dich! Ich bin neu hier.","Spokojnie! Jestem tu nowy.","","","DIA_Horatio_Hello_BeCool_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:107","Hm ... siehst mir ganz in Ordnung aus - hier weiß man nie. Da kommt jeden Tag ein neuer Mistkerl, der's wissen will.","Hmmm... Wyglądasz w porządku. Chociaż nigdy nie wiadomo - zawsze znajdzie się jakiś nowy, który wyobraża sobie niewiadomo co.","","","DIA_Horatio_Hello_BeCool_09_01","",""
