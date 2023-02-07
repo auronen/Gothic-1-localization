@@ -199,7 +199,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Sld_729_Kharim.d:135","Ich wollte zuerst was über deine dürren Ärmchen sagen, aber dann fiel mir deine hässliche Fesse auf.","","","False","Info_Kharim_Charge_Insult_Face_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_729_Kharim.d:136","Ich denke, das ist deine letzte Chance, hier ENDLICH ZU VERSCHWINDEN!","","","False","Info_Kharim_Charge_Insult_Face_09_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_729_Kharim.d:163","Schmerzen sind eine Frage des Willens!","","","False","Info_Kharim_InArena_09_00","",""
-"Scripts/content/Story/MISSIONS/DIA_Sld_729_Kharim.d:174","Von mir aus können wir unseren Streit vergessen ...","","","False","SVM_9_LetsForgetOurLittleFight","",""
+"Scripts/content/Story/MISSIONS/DIA_Sld_729_Kharim.d:174","Von mir aus können wir unseren Streit vergessen ...","Bir düşündüm de, küçük tartışmamızı unutabiliriz...","","False","SVM_9_LetsForgetOurLittleFight","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_732_GuardPassage.d:44","HALT! Niemand darf ohne Parole passieren!","","","False","Info_SLD_732_FirstWarn_08_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_732_GuardPassage.d:52","Cronos hat mir die Erlaubnis gegeben!","","","False","Info_SLD_732_FirstWarn.Info_SLD_732_Parole_CRONOS","Info_AddChoice",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_732_GuardPassage.d:53","Keine Ahnung, hab' sie vergessen!","","","False","Info_SLD_732_FirstWarn.Info_SLD_732_Parole_FORGOT","Info_AddChoice",""
