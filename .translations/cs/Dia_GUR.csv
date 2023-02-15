@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/content/Story/MISSIONS/DIA_GUR_1200_YBerion.d:45","Was machst du hier? Wer hat dich hereingelassen? Wache!","Co tady děláš? Kdo tě sem pustil? Stráže!","","","DIA_YBerion_Wache_12_00","",""
+"Scripts/content/Story/MISSIONS/DIA_GUR_1200_YBerion.d:45","Was machst du hier? Wer hat dich hereingelassen? Wache!","Co tady děláš? Kdo tě sem pustil? Stráže!","","False","DIA_YBerion_Wache_12_00","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1200_YBerion.d:57","Sei gegrüßt, Meister Y'Berion.","Buď pozdraven, mistře Y´Berione.","","","DIA_YBerion_Kennen.description","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1200_YBerion.d:70","Sei gegrüßt, Meister Y'Berion.","Buď pozdraven, mistře Y´Berione.","","","DIA_YBerion_Kennen_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1200_YBerion.d:71","Ah! Du kommst mir bekannt vor!","Ach! Tuhle tvář znám!","","","DIA_YBerion_Kennen_12_01","",""
