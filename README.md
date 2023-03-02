@@ -43,7 +43,7 @@ Coming soon.
 
 ## :cn: Chinese  
 [![Translation progress](http://weblate.cokoliv.eu/widgets/gothic-1/zh_Hans/svg-badge.svg)](http://weblate.cokoliv.eu/engage/gothic-1/zh_Hans/)  
-Original authors:  
+Translation authors:  
   - ChineseBox84
   - China-luopeiyu
   - xiaobailong
@@ -51,4 +51,6 @@ Original authors:
   - 许海锋
 
 ## :tr: Turkish
-[![Translation progress](http://weblate.cokoliv.eu/widgets/gothic-1/tr/svg-badge.svg)](http://weblate.cokoliv.eu/engage/gothic-1/tr/)
+[![Translation progress](http://weblate.cokoliv.eu/widgets/gothic-1/tr/svg-badge.svg)](http://weblate.cokoliv.eu/engage/gothic-1/tr/)  
+Translation authors:  
+  - Wollnir
