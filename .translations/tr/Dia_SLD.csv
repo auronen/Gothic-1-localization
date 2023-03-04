@@ -33,7 +33,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:133","Deine Taten für die Bruderschaft in der Alten Mine haben gezeigt, das du einiges drauf hast.","Eski Maden'deki insanlar için yaptıkların senin gerçekten iyi bir adam olduğunu kanıtlıyor.","","False","Sld_700_Lee_BECOMESLD_Info_08_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:134","Ich wäre bereit, dich in die Reihen der Söldner aufzunehmen.","Paralı askerlere katılmana izin vermek istiyorum.","","False","Sld_700_Lee_BECOMESLD_Info_08_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:138","Aber du bist noch nicht bereit für die Söldner. Sammle erst noch mehr Erfahrung, dann bist du dabei.","Fakat daha paralı asker olabilmek için hazır değilsin. Daha fazla tecrübe kazanman gerekiyor.","","False","Sld_700_Lee_BECOMESLD_Info_08_03","",""
-"Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:144","Ich gebe dir eine Chance. Wie siehts aus?","","","False","Sld_700_Lee_BECOMESLD_Info_08_04","",""
+"Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:144","Ich gebe dir eine Chance. Wie siehts aus?","Sana bir şans vereceğim. Ne dersin?","","False","Sld_700_Lee_BECOMESLD_Info_08_04","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:152","Dir fehlt es noch an Erfahrung. Du mußt deine Fähigkeiten noch steigern.","Yeterli tecrüben yok. Yeteneklerini geliştirmelisin.","","False","DIA_Lee_NowReady_08_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:157","Ich gebe dir eine Chance. Wie siehts aus?","Sana bir şans vereceğim. Ne dersin?","","False","Sld_700_Lee_BECOMESLD_Info_08_04","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:172","Ich will Söldner werden","Paralı asker olmak istiyorum.","","False","Sld_700_Lee_BECOMESLDNOW.description","",""

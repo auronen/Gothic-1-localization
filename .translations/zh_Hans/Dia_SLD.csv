@@ -33,7 +33,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:133","Deine Taten für die Bruderschaft in der Alten Mine haben gezeigt, das du einiges drauf hast.","您对旧矿井中的人的行为已经证明了您是一个很好的人。","","False","Sld_700_Lee_BECOMESLD_Info_08_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:134","Ich wäre bereit, dich in die Reihen der Söldner aufzunehmen.","我愿意让你加入雇佣军。","","False","Sld_700_Lee_BECOMESLD_Info_08_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:138","Aber du bist noch nicht bereit für die Söldner. Sammle erst noch mehr Erfahrung, dann bist du dabei.","但是您还没有准备好雇佣军。 只需收集更多的经验，您就会在那里。","","False","Sld_700_Lee_BECOMESLD_Info_08_03","",""
-"Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:144","Ich gebe dir eine Chance. Wie siehts aus?","","","False","Sld_700_Lee_BECOMESLD_Info_08_04","",""
+"Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:144","Ich gebe dir eine Chance. Wie siehts aus?","我给你一个机会。 这个怎么样？","","False","Sld_700_Lee_BECOMESLD_Info_08_04","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:152","Dir fehlt es noch an Erfahrung. Du mußt deine Fähigkeiten noch steigern.","您仍然没有足够的经验。 您需要提高自己的能力。","","False","DIA_Lee_NowReady_08_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:157","Ich gebe dir eine Chance. Wie siehts aus?","我给你一个机会。 这个怎么样？","","False","Sld_700_Lee_BECOMESLD_Info_08_04","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:172","Ich will Söldner werden","我想成为一名雇佣军。","","False","Sld_700_Lee_BECOMESLDNOW.description","",""
