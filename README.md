@@ -33,7 +33,19 @@ Original translation done by CD Projekt.
 [![Translation progress](http://weblate.cokoliv.eu/widgets/gothic-1/ru_russobit/test/svg-badge.svg)](http://weblate.cokoliv.eu/engage/gothic-1/ru_russobit/)  
 
 ## :hungary: Hungarian   
-I have received scripts and compiled `.DAT` files of the Hungarian version of the scripts. Coming soon.
+[![Translation progress](http://weblate.cokoliv.eu/widgets/gothic-1/hu/svg-badge.svg)](http://weblate.cokoliv.eu/engage/gothic-1/hu/)  
+Translation authors:  
+  - Randal
+  - Zoleeca
+  - Nevl
+  - Esrohnoil
+  - DrakeX
+  - Gothic
+
+Special thanks to:  
+  - Hunnenkoenignek
+  - Tusynak
+  - HornOx
 
 ## :romania: Romanian
 Coming soon.
