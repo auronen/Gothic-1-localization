@@ -1742,7 +1742,7 @@
 "Scripts/content/Items/Potions.d:261","","","","","ItFo_Potion_Health_03.text[3]","",""
 "Scripts/content/Items/Potions.d:262","","","","","ItFo_Potion_Health_03.text[4]","",""
 "Scripts/content/Items/Potions.d:292","Crawler Elixier","Poción de Reptador","","","ItFo_Potion_Elixier_Egg.description","",""
-"Scripts/content/Items/Potions.d:293","ermöglicht Kontakt zum Schläfer","Permite contactar con el Durmiente.","","","ItFo_Potion_Elixier_Egg.text[0]","",""
+"Scripts/content/Items/Potions.d:293","ermöglicht Kontakt zum Schläfer","Permite contactar con el Durmiente.","","False","ItFo_Potion_Elixier_Egg.text[0]","",""
 "Scripts/content/Items/Potions.d:295","","","","","ItFo_Potion_Elixier_Egg.text[2]","",""
 "Scripts/content/Items/Potions.d:296","","","","","ItFo_Potion_Elixier_Egg.text[3]","",""
 "Scripts/content/Items/Potions.d:297","","","","","ItFo_Potion_Elixier_Egg.text[4]","",""
