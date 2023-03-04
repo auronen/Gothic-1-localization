@@ -18,7 +18,7 @@
 "Scripts/content/Story/svm.d:260","Ich mach dich fertig, du Dieb!","Я прикончу тебя, вор!","","","SVM_1_DirtyThief","",""
 "Scripts/content/Story/svm.d:261","Niemand vergreift sich an meinen Kumpels!","Никто не смеет лезть к моим друзьям!","","","SVM_1_YouAttackedMyCharge","",""
 "Scripts/content/Story/svm.d:262","Du hast einen von uns platt gemacht. Jetzt mach' ich DICH platt!","Ты ударил нашего человека! Сейчас я ударю тебя! ","","","SVM_1_YouKilledOneOfUs","",""
-"Scripts/content/Story/svm.d:263","Aaaaaargl!","","","","SVM_1_Dead","",""
+"Scripts/content/Story/svm.d:263","Aaaaaargl!","Аааааарг!!","","False","SVM_1_Dead","",""
 "Scripts/content/Story/svm.d:264","Aargh","","","","SVM_1_Aargh_1","",""
 "Scripts/content/Story/svm.d:265","Aargh","","","","SVM_1_Aargh_2","",""
 "Scripts/content/Story/svm.d:266","Aargh","","","","SVM_1_Aargh_3","",""

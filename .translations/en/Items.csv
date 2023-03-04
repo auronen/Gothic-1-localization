@@ -1671,7 +1671,7 @@
 "Scripts/content/Items/MissionItems_5.d:214","Vielleicht ist das Schwert noch auf","Maybe the sword can be used","","","Daemonenstreich.text[4]","",""
 "Scripts/content/Items/MissionItems_5.d:215","andere Art und Weise nützlich.","in some other way.","","","Daemonenstreich.text[5]","",""
 "Scripts/content/Items/MissionItems_5.d:223","Bannklinge","Blade of Banishment","","","Bannklinge.name","",""
-"Scripts/content/Items/MissionItems_5.d:241","Dies war das Schwert des untoten","This was the sword of the undead ","","","Bannklinge.text[0]","",""
+"Scripts/content/Items/MissionItems_5.d:241","Dies war das Schwert des untoten","This was the sword of the undead","","False","Bannklinge.text[0]","",""
 "Scripts/content/Items/MissionItems_5.d:242","Ork-Hohepriesters Grash-Varrag-Arushat.","high Orc priest Grash-Varrag-Arushat.","","","Bannklinge.text[1]","",""
 "Scripts/content/Items/MissionItems_5.d:243","Die Waffe ist im Laufe der Jahre","The weapon has become useless in","","","Bannklinge.text[2]","",""
 "Scripts/content/Items/MissionItems_5.d:244","unbrauchbar geworden!","the course of time!","","","Bannklinge.text[3]","",""
