@@ -47,6 +47,7 @@ Special thanks to:
   - Tusynak
   - HornOx
 
+Useful links: https://magyaritasok.hu/games/gothic
 ## :romania: Romanian
 Coming soon.
 
