@@ -339,7 +339,7 @@
 "Scripts/content/Story/MISSIONS/DIA_GUR_1204_BaalNamib.d:104","Der Schläfer hat dich erwählt. Ist es dir wirklich ernst mit deinem Wunsch, uns beizutreten?","Az Alvó téged választott. Tényleg csatlakozni akarsz hozzánk?","","","DIA_BaalNamib_FirstTalk_02_01","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1204_BaalNamib.d:107","NICHTS SAGEN","NEM SZÓL","","","DIA_BaalNamib_FirstTalk.DIA_BaalNamib_FirstTalk_Mute","Info_AddChoice",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1204_BaalNamib.d:108","Ja, ich will den Weg des Schläfers beschreiten!","Igen, Az Alvót akarom követni!","","","DIA_BaalNamib_FirstTalk.DIA_BaalNamib_FirstTalk_Sleeper","Info_AddChoice",""
-"Scripts/content/Story/MISSIONS/DIA_GUR_1204_BaalNamib.d:113","(seufzt)","","","","DIA_BaalNamib_FirstTalk_Mute_15_00","",""
+"Scripts/content/Story/MISSIONS/DIA_GUR_1204_BaalNamib.d:113","(seufzt)","(sóhaj)","","False","DIA_BaalNamib_FirstTalk_Mute_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1204_BaalNamib.d:114","Nun?","Nos?","","","DIA_BaalNamib_FirstTalk_Mute_02_01","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1204_BaalNamib.d:119","Ja, ich will den Weg des Schläfers beschreiten!","Igen, Az Alvót akarom követni!","","","DIA_BaalNamib_FirstTalk_Sleeper_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1204_BaalNamib.d:120","Geh zu Cor Kalom. Sag ihm, ich schicke ihm einen wahren Anhänger des Glaubens!","Menj Cor Kalomhoz. Mond meg neki, hogy én küldtelek mert te a hit egy igazi támogatója vagy!","","","DIA_BaalNamib_FirstTalk_Sleeper_02_01","",""
