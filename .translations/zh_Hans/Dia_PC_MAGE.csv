@@ -10,7 +10,6 @@
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:113","Ich habe einen Brief für den obersten Feuermagier.","","","False","DIA_Milten_Letter_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:116","Zeig mir den Brief.","","","False","DIA_Milten_Letter_02_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:117","Hier ist er.","","","False","DIA_Milten_Letter_Give_15_00","",""
-"Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:128","Wie sieht's mit einer Belohnung aus?","那奖励呢？","","False","GUR_1200_Yberion_EARN_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:129","Das ist nicht mehr nötig.","","","False","Info_Milten_SHSEAL_02_05","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:133","Wir haben von deiner Leistung in der Alten Mine gehört. Ohne die Minecrawler ist der Erzabbau viel sicherer geworden.","我们已经听到了您在旧矿山中取得的成就。 如果没有Minecrawlers，矿石采矿变得更加安全。","","False","DIA_Milten_GotoCorristo_02_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:134","Auch Corristo weiß davon. Er wünscht dich zu sprechen. Geh zu ihm.","科里斯托也知道您的成就。 他想和你说话。 去找他。","","False","DIA_Milten_GotoCorristo_02_02","",""
