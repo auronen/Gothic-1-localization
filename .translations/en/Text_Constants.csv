@@ -52,7 +52,7 @@
 "Scripts/content/Story/Text.d:85","Bloodfly","Bloodfly","","","TXT_GUILDS[28]","",""
 "Scripts/content/Story/Text.d:86","Sumpfhai","Swampshark","","","TXT_GUILDS[29]","",""
 "Scripts/content/Story/Text.d:87","Zombie","Zombie","","","TXT_GUILDS[30]","",""
-"Scripts/content/Story/Text.d:88","Zombie	Orc","Zombie Orc","","","TXT_GUILDS[31]","",""
+"Scripts/content/Story/Text.d:88","Zombie	Orc","Zombie Orc","","False","TXT_GUILDS[31]","",""
 "Scripts/content/Story/Text.d:89","Skelett","Skeleton","","","TXT_GUILDS[32]","",""
 "Scripts/content/Story/Text.d:90","Ork-Hund","Orc Dog","","","TXT_GUILDS[33]","",""
 "Scripts/content/Story/Text.d:91","Molerat","Molerat","","","TXT_GUILDS[34]","",""

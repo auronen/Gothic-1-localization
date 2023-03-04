@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/content/Story/MISSIONS/DIA_KDF_400_Rodriguez.d:34","Ich suche den obersten Magier des Feuers!","Hledám Nejvyššího mága Ohnivého kruhu!","","False","DIA_Rodriguez_Hello.description","",""
+"Scripts/content/Story/MISSIONS/DIA_KDF_400_Rodriguez.d:34","Ich suche den obersten Magier des Feuers!","Hledám Nejvyššího mága Ohnivého kruhu!","","","DIA_Rodriguez_Hello.description","",""
 "Scripts/content/Story/MISSIONS/DIA_KDF_400_Rodriguez.d:47","Ich suche den obersten Magier des Feuers!","Hledám Nejvyššího mága Ohnivého kruhu.","","","DIA_Rodriguez_Hello_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_KDF_400_Rodriguez.d:48","Geh zu Milten. Der gibt sich mit Laufburschen wie dir ab.","Jdi k Miltenovi. Ten se zabývá poslíčky, jako jsi ty.","","","DIA_Rodriguez_Hello_12_01","",""
 "Scripts/content/Story/MISSIONS/DIA_KDF_401_Damarok.d:23","Möge das Feuer dich allzeit beschützen!","Kéž tě Oheň ochrání!","","","KDF_401_Damarok_WELCOME_Info_14_01","",""

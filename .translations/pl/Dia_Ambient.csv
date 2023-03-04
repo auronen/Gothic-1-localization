@@ -536,7 +536,7 @@
 "Scripts/content/Story/B/B_AssignAmbientInfos_Stt_10.d:119","Es ist der Platz unter dem großen Dach im Süden des äußeren Rings.","Znajdziesz je pod tym wielkim zadaszeniem, w południowej części Zewnętrznego Pierścienia.","","","Info_Stt_10_DasLager_10_02","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Stt_10.d:131","Hi!","Cześć!","","","Info_Stt_10_DieLage.description","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Stt_10.d:141","Hi!","Cześć!","","","Info_Stt_10_DieLage_15_00","",""
-"Scripts/content/Story/B/B_AssignAmbientInfos_Stt_10.d:142","Was willst du?","Czego chcesz?","","False","Info_Stt_10_DieLage_10_01","",""
+"Scripts/content/Story/B/B_AssignAmbientInfos_Stt_10.d:142","Was willst du?","Czego chcesz?","","","Info_Stt_10_DieLage_10_01","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Stt_12.d:15","ENDE","KONIEC","","","Info_Stt_12_EXIT.description","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Stt_12.d:37","Ich würde mich gerne den Schatten anschliessen.","Chciałbym przyłączyć się do Cieni.","","","Info_Stt_12_EinerVonEuchWerden.description","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Stt_12.d:50","Ich würde mich gerne den Schatten anschließen.","Chciałbym przyłączyć się do Cieni.","","","Info_Stt_12_EinerVonEuchWerden_15_00","",""

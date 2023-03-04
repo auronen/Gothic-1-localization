@@ -59,7 +59,7 @@
 "Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:440","Sie sollen einem Gott gehuldigt haben, der seinen Anhängern die Macht gab, sich in Tiere zu verwandeln.","Ponoć czczono tutaj bóstwo, które pozwalało mnichom przybierać postać zwierząt.","","","Info_Gorn_RUINWHAT_09_06","",""
 "Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:441","Bestimmt gibt es hier noch Schätze aus der alten Zeit.","Założę się, że są tu jeszcze jakieś skarby pozostałe po dawnych czasach.","","","Info_Gorn_RUINWHAT_09_07","",""
 "Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:445","Was führt dich hierher?","A co ciebie tu sprowadza?","","","Info_Gorn_RUINWHAT_09_08","",""
-"Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:458","Ich suche einen magischen Fokus","Szukam magicznego kamienia ogniskującego.","","","Info_Gorn_RUINFOCUS.description","",""
+"Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:458","Ich suche einen magischen Fokus","Szukam magicznego kamienia ogniskującego.","","False","Info_Gorn_RUINFOCUS.description","",""
 "Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:471","Ich suche einen magischen Fokus.","Szukam magicznego kamienia ogniskującego.","","","Info_Gorn_RUINFOCUS_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:472","Er muss irgendwo in dieser Gegend sein.","Powinien być gdzieś w okolicy.","","","Info_Gorn_RUINFOCUS_15_02","",""
 "Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:473","Was du suchst, befindet sich vielleicht innerhalb der Klosterruinen dort jenseits der Schlucht.","Przedmiot, którego szukasz może znajdować się na terenie starego klasztoru, za tym kanionem.","","","Info_Gorn_RUINFOCUS_09_03","",""
