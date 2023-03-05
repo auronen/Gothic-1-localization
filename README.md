@@ -54,6 +54,9 @@ Coming soon.
 ## :ukraine: Ukranian  
 Coming soon.
 
+## :fr: French
+[![Translation progress](http://weblate.cokoliv.eu/widgets/gothic-1/fr/svg-badge.svg)](http://weblate.cokoliv.eu/engage/gothic-1/fr/)  
+
 ## :cn: Chinese  
 [![Translation progress](http://weblate.cokoliv.eu/widgets/gothic-1/zh_Hans/svg-badge.svg)](http://weblate.cokoliv.eu/engage/gothic-1/zh_Hans/)  
 Translation authors:  
