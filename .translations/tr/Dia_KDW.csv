@@ -348,7 +348,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Kdw_604_Cronos.d:545","Ich möchte Schriften über Magie erwerben.","Büyü parşömenlerine ihtiyacım var.","","","KDW_604_Cronos_SELLSTUFF_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdw_604_Cronos.d:557","Ich grüße dich, Magier","Merhabalar, Büyücü.","","False","KDW_604_Cronos_GREET.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdw_604_Cronos.d:567","Ich grüße dich, Magier.","Merhabalar, Büyücü.","","","KDW_604_Cronos_GREET_Info_15_01","",""
-"Scripts/content/Story/MISSIONS/DIA_Kdw_604_Cronos.d:568","Der Segen Adanos sei mit dir. Ich kann dir helfen, deine geistige Kraft zu stärken oder dir ein paar nützliche Dinge anbieten.","Adanos'un selamı üzerine olsun. Büyücü gücünü arttırmana yardımcı olabilir ve işine yarayacak birkaç şey sunabilirim.","","","KDW_604_Cronos_GREET_Info_08_02","",""
+"Scripts/content/Story/MISSIONS/DIA_Kdw_604_Cronos.d:568","Der Segen Adanos sei mit dir. Ich kann dir helfen, deine geistige Kraft zu stärken oder dir ein paar nützliche Dinge anbieten.","Adanos'un selamı üzerine olsun. Büyü gücünü arttırmana yardımcı olabilir ve işine yarayacak birkaç şey sunabilirim.","","False","KDW_604_Cronos_GREET_Info_08_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdw_604_Cronos.d:569","Was kann ich für dich tun?","Sana nasıl yardımcı olabilirim?","","","KDW_604_Cronos_GREET_Info_08_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdw_605_Riordian.d:44","Saturas schickt mich.","Beni Saturas gönderdi.","","","Info_Riordian_NEWS.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdw_605_Riordian.d:57","Saturas schickt mich.","Beni Saturas gönderdi.","","","Info_Riordian_NEWS_15_01","",""
