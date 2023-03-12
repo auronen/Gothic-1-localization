@@ -394,7 +394,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Vlk_584_Snipes.d:92","(Schlüssel kaufen)","(anahtarı al)","","","VLK_584_Snipes_DEAL_2.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_584_Snipes.d:108","Gib mir den Schlüssel.","Anahtarı ver.","","","VLK_584_Snipes_DEAL_2_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_584_Snipes.d:109","Du hast ein gutes Geschäft gemacht!","Karlı bir iş yaptın!","","","VLK_584_Snipes_DEAL_2_Info_07_02","",""
-"Scripts/content/Story/MISSIONS/DIA_Vlk_584_Snipes.d:110","Ich frage mich, was dein Gewinn an der Sache ist.","İçinde ne bulacaksın merak ediyorum.","","","VLK_584_Snipes_DEAL_2_Info_15_03","",""
+"Scripts/content/Story/MISSIONS/DIA_Vlk_584_Snipes.d:110","Ich frage mich, was dein Gewinn an der Sache ist.","Bu işten çıkarın ne anlamadım.","","False","VLK_584_Snipes_DEAL_2_Info_15_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_584_Snipes.d:111","Ich freue mich immer, wenn ich den Gardisten eins auswischen kann. Und wenn die den Inhalt der Truhe bei mir finden, bin ich dran!","Muhafızlara ait bir şey elime geçtiğinde oldukça mutlu oluyorum. Sandığın içindekileri üzerimde bulurlarsa, artık ölü bir adamım demektir!","","","VLK_584_Snipes_DEAL_2_Info_07_04","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_584_Snipes.d:121","Ich sagte 30 Erz! Gib mir das Erz und ich gebe dir den Schlüssel!","30 cevher dedim! Cevheri ver anahtarı al!","","","VLK_584_Snipes_DEAL_2_Info_07_05","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_585_Aleph.d:21","Viel Glück noch.","Bol şans!","","","VLK_585_Aleph_Exit_Info_15_01","",""
