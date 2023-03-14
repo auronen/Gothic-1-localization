@@ -460,7 +460,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Grd_200_Thorus.d:402","Sag schon, wie viel?","Anladım, tam olarak ne kadar?","","","Info_Thorus_BribeGuard_15_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_200_Thorus.d:403","1000 Brocken dürften genügen.","1000 cevher yeterli olur.","","","Info_Thorus_BribeGuard_09_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_200_Thorus.d:404","1000 Brocken?","1000 cevher mi?","","","Info_Thorus_BribeGuard_15_04","",""
-"Scripts/content/Story/MISSIONS/DIA_Grd_200_Thorus.d:405","Nun, du könntest dich Gomez' Leuten anschließen, dann kommst du auch in die Burg - ganz umsonst.","Ama kalenin içine bedava gireceksin, Gomez ile görüşüp ona katılma şansın da olabilecek.","","","Info_Thorus_BribeGuard_09_04","",""
+"Scripts/content/Story/MISSIONS/DIA_Grd_200_Thorus.d:405","Nun, du könntest dich Gomez' Leuten anschließen, dann kommst du auch in die Burg - ganz umsonst.","Ama kalenin içine bedava giriş yapabileceksin, böylece Gomez ile görüşüp ona katılma şansın da olabilecek.","","False","Info_Thorus_BribeGuard_09_04","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_200_Thorus.d:418","Ich hab' die 1000 Brocken Erz. Lass mich in die Burg!","1000 cevheri getirdim. İçeri girmeme izin ver!","","","Info_Thorus_Give1000Ore.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_200_Thorus.d:431","Ich hab' die 1000 Brocken Erz. Lass mich in die Burg!","1000 cevheri getirdim. İçeri girmeme izin ver!","","","Info_Thorus_Give1000Ore_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_200_Thorus.d:436","Gut, wegen mir. Du kommst in die Burg, aber mach keine Dummheiten, klar!","Pekala, gir bakalım. Kalenin içine de girebilirsin ama sakın aptalca bir şey deneme, tamam mı?","","","Info_Thorus_Give1000Ore_09_01","",""
