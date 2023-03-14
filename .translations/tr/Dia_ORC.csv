@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/content/Story/MISSIONS/DIA_ORC_Freemine.d:49","Ich muss weiter!","Çalışmaya devam etmeliyim!","","","Info_FreemineOrc_EXIT_15_01","",""
+"Scripts/content/Story/MISSIONS/DIA_ORC_Freemine.d:49","Ich muss weiter!","Gitmeliyim!","","False","Info_FreemineOrc_EXIT_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_ORC_Freemine.d:50","Fremder kommen wieder!","Yabancı tekrar gel!","","","Info_FreemineOrc_EXIT_17_02","",""
 "Scripts/content/Story/MISSIONS/DIA_ORC_Freemine.d:54","Ich danke dir. Ich werde mich jetzt wieder auf den Weg machen.","Teşekkürler. Gitmem gerek.","","","Info_FreemineOrc_EXIT_15_03","",""
 "Scripts/content/Story/MISSIONS/DIA_ORC_Freemine.d:55","Fremder haben gute Reise!","Yabancıya iyi yolculuklar!","","","Info_FreemineOrc_EXIT_17_04","",""
