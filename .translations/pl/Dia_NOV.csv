@@ -148,7 +148,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Nov_1304_Balor.d:78","Wem sollte ich das Kraut denn schon verhökern?","Komu niby miałbym sprzedać to ziele?","","","DIA_Balor_SellUnder.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1304_Balor.d:91","Wem sollte ich das Kraut denn schon verhökern?","Komu niby miałbym sprzedać to ziele?","","","DIA_Balor_SellUnder_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1304_Balor.d:92","Oha! Ich habe dich auf Ideen gebracht, häh?","Oho! Podsunąłem ci niezły pomysł, co?","","","DIA_Balor_SellUnder_01_01","",""
-"Scripts/content/Story/MISSIONS/DIA_Nov_1304_Balor.d:95","Vergiß es, war nur so'n Gedanke.","","","","DIA_Balor_SellUnder.DIA_Balor_SellUnder_ForgetIt","Info_AddChoice",""
+"Scripts/content/Story/MISSIONS/DIA_Nov_1304_Balor.d:95","Vergiß es, war nur so'n Gedanke.","Nieważne, tak tylko pomyślałem.","","False","DIA_Balor_SellUnder.DIA_Balor_SellUnder_ForgetIt","Info_AddChoice",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1304_Balor.d:96","Wenn du einen Abnehmer weißt - wir könnten Halbe-Halbe machen.","Gdybyś kogoś znał, moglibyśmy podzielić się po połowie.","","","DIA_Balor_SellUnder.DIA_Balor_SellUnder_HalfHalf","Info_AddChoice",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1304_Balor.d:97","Nein - sag mal - an wen?","Nie, powiedz mi - komu?","","","DIA_Balor_SellUnder.DIA_Balor_SellUnder_ComeOn","Info_AddChoice",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1304_Balor.d:102","Vergiss es, war nur so'n Gedanke.","Nieważne, tak tylko pomyślałem.","","","DIA_Balor_SellUnder_ForgetIt_15_00","",""
