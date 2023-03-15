@@ -249,7 +249,7 @@
 "Scripts/content/Items/Armor.d:1095","antike Erzrüstung","古代盔甲","","","ORE_ARMOR_M.name","",""
 "Scripts/content/Items/Armor.d:1116","Diese uralte Rüstung wurde vollständig aus magischen Erz geschmiedet.","这种古老的装甲是用魔术矿石制成的。","","","ORE_ARMOR_M.text[0]","",""
 "Scripts/content/Items/Armor.d:1126","verbesserte Erzrüstung","改进的矿石装甲","","","ORE_ARMOR_H.name","",""
-"Scripts/content/Items/Armor.d:1147","Stone der Schmied hat diese antike Rüstung noch verbessern können!","“斯通，史密斯，甚至设法改善了它！”","","","ORE_ARMOR_H.text[0]","",""
+"Scripts/content/Items/Armor.d:1147","Stone der Schmied hat diese antike Rüstung noch verbessern können!","斯通，史密斯，甚至设法改善了它！","","False","ORE_ARMOR_H.text[0]","",""
 "Scripts/content/Items/Armor.d:1160","Richterrobe","法官的长袍","","","LAW_ARMOR.name","",""
 "Scripts/content/Items/Armor.d:1183","","","","","LAW_ARMOR.text[0]","",""
 "Scripts/content/Items/Armor.d:1196","Königliche Garderüstung","皇家卫队装甲","","","GRD_ARMOR_I.name","",""
