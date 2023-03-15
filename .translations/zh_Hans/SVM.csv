@@ -310,7 +310,7 @@
 "Scripts/content/Story/svm.d:562","Der haut einfach ab!","他只是逃跑了！","","","SVM_3_RunCoward","",""
 "Scripts/content/Story/svm.d:563","Er hat ihn fertig gemacht.","他已经完成了。","","","SVM_3_HeDefeatedHim","",""
 "Scripts/content/Story/svm.d:564","Das war schon länger fällig!","那已经到了一段时间！","","","SVM_3_HeDeservedIt","",""
-"Scripts/content/Story/svm.d:565","Der bewegt sich nicht mehr. Du hast ihn umgebracht!","他不会再移动了。 你杀了他。","","","SVM_3_HeKilledHim","",""
+"Scripts/content/Story/svm.d:565","Der bewegt sich nicht mehr. Du hast ihn umgebracht!","他不会再移动了。 你杀了他!","","False","SVM_3_HeKilledHim","",""
 "Scripts/content/Story/svm.d:566","Immer nur Kämpfe ...","除了打架...","","","SVM_3_ItWasAGoodFight","",""
 "Scripts/content/Story/svm.d:567","Ein neuer Tag und nichts hat sich geändert ...","新的一天，什么都没有改变...","","","SVM_3_Awake","",""
 "Scripts/content/Story/svm.d:568","Hey, Mann.","嗨，老兄。","","","SVM_3_FriendlyGreetings","",""
