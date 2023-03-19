@@ -18,7 +18,7 @@ const int Value_CrawlerSuppe = 10; const int HP_CrawlerSuppe = 15;
 
 const int Value_FleischRoh = 5; const int HP_FleischRoh = 10;
 const int Value_Brot = 8; const int HP_Brot = 12;
-const int Value_Käse = 10; const int HP_Käse = 15;
+const int Value_Kaese = 10; const int HP_Kaese = 15;
 const int Value_Fleisch = 8; const int HP_Fleisch = 15; // Rohes Fleisch mit Pfanne benutzt
 const int Value_Schinken = 12; const int HP_Schinken = 18;
 
@@ -33,12 +33,12 @@ const int Value_Mondschatten = 12; const int HP_Mondschatten = 24;
 const int Value_Orkblatt = 13; const int HP_Orkblatt = 26;
 const int Value_Eichenblatt = 14; const int HP_Eichenblatt = 28;
 
-const int Value_Höllenpilz = 3; const int HP_Höllenpilz = 6;
+const int Value_Hoellenpilz = 3; const int HP_Hoellenpilz = 6;
 const int Value_Sklavenbrot = 9; const int HP_Sklavenbrot = 15;
 
-const int Value_Heilkräuter1 = 14; const int HP_Heilkräuter1 = 30;
-const int Value_Heilkräuter2 = 19; const int HP_Heilkräuter2 = 39;
-const int Value_Heilkräuter3 = 24; const int HP_Heilkräuter3 = 49;
+const int Value_Heilkraeuter1 = 14; const int HP_Heilkraeuter1 = 30;
+const int Value_Heilkraeuter2 = 19; const int HP_Heilkraeuter2 = 39;
+const int Value_Heilkraeuter3 = 24; const int HP_Heilkraeuter3 = 49;
 
 // Fixme: Trollkirsche als Handelsware mit Wert?
 const int Value_Trollkirsche = 15; const int HP_Trollkirsche = - 20;
@@ -272,20 +272,20 @@ instance ItFoCheese(C_Item)
 	scemeName					= "FOODHUGE";
 	on_state[0]					= UseCheese;
 
-	value						= Value_Käse;
+	value						= Value_Kaese;
 
 	description					= name;
 	text[0]						= "";											count[0] = 0;
-	text[1]						= NAME_Bonus_HP;								count[1] = HP_Käse;
+	text[1]						= NAME_Bonus_HP;								count[1] = HP_Kaese;
 	text[2]						= "";											count[2] = 0;
 	text[3]						= "";											count[3] = 0;
 	text[4]						= "";											count[4] = 0;
-	text[5]						= NAME_Value;									count[5] = Value_Käse;
+	text[5]						= NAME_Value;									count[5] = Value_Kaese;
 };
 
 func void UseCheese()
 {
-	Npc_ChangeAttribute(self, ATR_HITPOINTS, HP_Käse);
+	Npc_ChangeAttribute(self, ATR_HITPOINTS, HP_Kaese);
 };
 
 /******************************************************************************************/
@@ -868,20 +868,20 @@ instance ItFo_Plants_mushroom_01(C_Item)
 	scemeName					= "FOOD";
 	on_state[0]					= Usemush;
 
-	value						= Value_Höllenpilz;
+	value						= Value_Hoellenpilz;
 
 	description					= name;
 	text[0]						= "";											count[0] = 0;
-	text[1]						= NAME_Bonus_HP;								count[1] = HP_Höllenpilz;
+	text[1]						= NAME_Bonus_HP;								count[1] = HP_Hoellenpilz;
 	text[2]						= "";											count[2] = 0;
 	text[3]						= "";											count[3] = 0;
 	text[4]						= "";											count[4] = 0;
-	text[5]						= NAME_Value;									count[5] = Value_Höllenpilz;
+	text[5]						= NAME_Value;									count[5] = Value_Hoellenpilz;
 };
 
 func void Usemush()
 {
-	Npc_ChangeAttribute(self, ATR_HITPOINTS, HP_Höllenpilz);
+	Npc_ChangeAttribute(self, ATR_HITPOINTS, HP_Hoellenpilz);
 	PrintDebugNpc(PD_ITEM_MOBSI, "Ich esse Höllenpilz");
 };
 
@@ -932,20 +932,20 @@ instance ItFo_Plants_Herb_01(C_Item)
 	scemeName					= "FOOD";
 	on_state[0]					= UsePlants1;
 
-	value						= Value_Heilkräuter1;
+	value						= Value_Heilkraeuter1;
 
 	description					= name;
 	text[0]						= "";											count[0] = 0;
-	text[1]						= NAME_Bonus_HP;								count[1] = HP_Heilkräuter1;
+	text[1]						= NAME_Bonus_HP;								count[1] = HP_Heilkraeuter1;
 	text[2]						= "";											count[2] = 0;
 	text[3]						= "";											count[3] = 0;
 	text[4]						= "";											count[4] = 0;
-	text[5]						= NAME_Value;									count[5] = Value_Heilkräuter1;
+	text[5]						= NAME_Value;									count[5] = Value_Heilkraeuter1;
 };
 
 func void UsePlants1()
 {
-	Npc_ChangeAttribute(self, ATR_HITPOINTS, HP_Heilkräuter1);
+	Npc_ChangeAttribute(self, ATR_HITPOINTS, HP_Heilkraeuter1);
 	PrintDebugNpc(PD_ITEM_MOBSI, "Ich esse Heilkräuter");
 };
 
@@ -963,20 +963,20 @@ instance ItFo_Plants_Herb_02(C_Item)
 	scemeName					= "FOOD";
 	on_state[0]					= UsePlants2;
 
-	value						= Value_Heilkräuter2;
+	value						= Value_Heilkraeuter2;
 
 	description					= name;
 	text[0]						= "";											count[0] = 0;
-	text[1]						= NAME_Bonus_HP;								count[1] = HP_Heilkräuter2;
+	text[1]						= NAME_Bonus_HP;								count[1] = HP_Heilkraeuter2;
 	text[2]						= "";											count[2] = 0;
 	text[3]						= "";											count[3] = 0;
 	text[4]						= "";											count[4] = 0;
-	text[5]						= NAME_Value;									count[5] = Value_Heilkräuter2;
+	text[5]						= NAME_Value;									count[5] = Value_Heilkraeuter2;
 };
 
 func void UsePlants2()
 {
-	Npc_ChangeAttribute(self, ATR_HITPOINTS, HP_Heilkräuter2);
+	Npc_ChangeAttribute(self, ATR_HITPOINTS, HP_Heilkraeuter2);
 	PrintDebugNpc(PD_ITEM_MOBSI, "Ich esse Heilpflanzen");
 };
 
@@ -994,20 +994,20 @@ instance ItFo_Plants_Herb_03(C_Item)
 	scemeName					= "FOOD";
 	on_state[0]					= UsePlants3;
 
-	value						= Value_Heilkräuter3;
+	value						= Value_Heilkraeuter3;
 
 	description					= name;
 	text[0]						= "";											count[0] = 0;
-	text[1]						= NAME_Bonus_HP;								count[1] = HP_Heilkräuter3;
+	text[1]						= NAME_Bonus_HP;								count[1] = HP_Heilkraeuter3;
 	text[2]						= "";											count[2] = 0;
 	text[3]						= "";											count[3] = 0;
 	text[4]						= "";											count[4] = 0;
-	text[5]						= NAME_Value;									count[5] = Value_Heilkräuter3;
+	text[5]						= NAME_Value;									count[5] = Value_Heilkraeuter3;
 };
 
 func void UsePlants3()
 {
-	Npc_ChangeAttribute(self, ATR_HITPOINTS, HP_Heilkräuter3);
+	Npc_ChangeAttribute(self, ATR_HITPOINTS, HP_Heilkraeuter3);
 	PrintDebugNpc(PD_ITEM_MOBSI, "Ich esse Heilpflanzen");
 };
 

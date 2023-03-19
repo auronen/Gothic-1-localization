@@ -13,7 +13,7 @@ const int Value_SwordRawHot = (Value_SwordBladeHot * 8) / 10; // 80% der geschmi
 const int Value_SwordRaw = (Value_SwordRawHot * 8) / 10; // 80% des erhitzen Rohstahls
 
 const int Value_Dietrich = 10;
-const int Value_Schlüssel = 3;
+const int Value_Schluessel = 3;
 
 const int Value_Joint1 = 8;
 const int Value_Joint2 = 15;
@@ -26,9 +26,9 @@ const int Value_Fackel = 2;
 const int Value_Sumpfkraut = 8;
 const int Value_Pfeife = 10;
 const int Value_Rasiermesser = 5; // EX 25 NIEDRIGER WERT WEIL ES VIEL DAVON GIBT!!!
-const int Value_Münze = 0; // BITTE AUF 0 LASSEN, DAFÜR IST SIE DA, FÜR SONST NIX!!!!! M.F.
-const int Value_Schüssel = 4;
-const int Value_Kerzenständer = 10;
+const int Value_Muenze = 0; // BITTE AUF 0 LASSEN, DAFÜR IST SIE DA, FÜR SONST NIX!!!!! M.F.
+const int Value_Schuessel = 4;
+const int Value_Kerzenstaender = 10;
 const int Value_Becher = 4;
 const int Value_Pokal = 50;
 const int Value_Besteck = 15;
@@ -42,7 +42,7 @@ const int Value_Statue = 15;
 const int Value_Schwefel = 20;
 const int Value_Quecksilber = 25;
 const int Value_Salz = 10;
-const int Value_Öl = 15;
+const int Value_Oil = 15;
 const int Value_Moleratfett = 5;
 const int Value_Alcohol = 18;
 
@@ -86,14 +86,14 @@ instance ItKeKey1(C_Item)
 	visual						= "ItKe_Key_01.3ds";
 	material					= MAT_METAL;
 
-	value						= Value_Schlüssel;
+	value						= Value_Schluessel;
 
 	description					= name;
 	text[0]						= "";											count[0] = 0;
 	text[1]						= "";											count[1] = 0;
 	text[2]						= "";											count[2] = 0;
 	text[3]						= "";											count[3] = 0;
-	text[4]						= NAME_Value;									count[4] = Value_Schlüssel;
+	text[4]						= NAME_Value;									count[4] = Value_Schluessel;
 };
 
 /******************************************************************************************/
@@ -107,14 +107,14 @@ instance ItKeKey2(C_Item)
 	visual						= "ItKe_Key_02.3ds";
 	material					= MAT_METAL;
 
-	value						= Value_Schlüssel;
+	value						= Value_Schluessel;
 
 	description					= name;
 	text[0]						= "";											count[0] = 0;
 	text[1]						= "";											count[1] = 0;
 	text[2]						= "";											count[2] = 0;
 	text[3]						= "";											count[3] = 0;
-	text[4]						= NAME_Value;									count[4] = Value_Schlüssel;
+	text[4]						= NAME_Value;									count[4] = Value_Schluessel;
 };
 
 /******************************************************************************************/
@@ -128,14 +128,14 @@ instance ItKeKey3(C_Item)
 	visual						= "ItKe_Key_03.3ds";
 	material					= MAT_METAL;
 
-	value						= Value_Schlüssel;
+	value						= Value_Schluessel;
 
 	description					= name;
 	text[0]						= "";											count[0] = 0;
 	text[1]						= "";											count[1] = 0;
 	text[2]						= "";											count[2] = 0;
 	text[3]						= "";											count[3] = 0;
-	text[4]						= NAME_Value;									count[4] = Value_Schlüssel;
+	text[4]						= NAME_Value;									count[4] = Value_Schluessel;
 };
 
 /******************************************************************************************/
@@ -149,14 +149,14 @@ instance ItKeKey4(C_Item)
 	visual						= "ItKe_Key_04.3ds";
 	material					= MAT_METAL;
 
-	value						= Value_Schlüssel;
+	value						= Value_Schluessel;
 
 	description					= name;
 	text[0]						= "";											count[0] = 0;
 	text[1]						= "";											count[1] = 0;
 	text[2]						= "";											count[2] = 0;
 	text[3]						= "";											count[3] = 0;
-	text[4]						= NAME_Value;									count[4] = Value_Schlüssel;
+	text[4]						= NAME_Value;									count[4] = Value_Schluessel;
 };
 
 /******************************************************************************************/
@@ -170,14 +170,14 @@ instance ItKeCavalorn01(C_Item)
 	visual						= "ItKe_Key_04.3ds";
 	material					= MAT_METAL;
 
-	value						= Value_Schlüssel;
+	value						= Value_Schluessel;
 
 	description					= name;
 	text[0]						= "";											count[0] = 0;
 	text[1]						= "";											count[1] = 0;
 	text[2]						= "";											count[2] = 0;
 	text[3]						= "";											count[3] = 0;
-	text[4]						= NAME_Value;									count[4] = Value_Schlüssel;
+	text[4]						= NAME_Value;									count[4] = Value_Schluessel;
 };
 
 /******************************************************************************************/
@@ -625,7 +625,7 @@ instance ItLsTorchburning(C_Item)
 	value						= 0;
 
 	description					= name;
-	//	text[4]					= NAME_Value;									count[4] = Value_Schlüssel;
+	//	text[4]					= NAME_Value;									count[4] = Value_Schluessel;
 
 	text[0]						= "";											count[0] = 0;
 	text[1]						= "";											count[1] = 0;
@@ -649,7 +649,7 @@ instance ItLsTorchburned(C_Item)
 	value						= 0;
 
 	description					= name;
-	//	text[4]					= NAME_Value;									count[4] = Value_Schlüssel;
+	//	text[4]					= NAME_Value;									count[4] = Value_Schluessel;
 
 	text[0]						= "";											count[0] = 0;
 	text[1]						= "";											count[1] = 0;
@@ -737,7 +737,7 @@ instance ItMi_Stuff_OldCoin_01(C_Item)
 	visual						= "ItMi_Stuff_OldCoin_01.3DS";
 	material					= MAT_METAL;
 
-	value						= Value_Münze;
+	value						= Value_Muenze;
 
 	description					= name;
 	text[0]						= "";											count[0] = 0;
@@ -758,7 +758,7 @@ instance ItMi_Stuff_OldCoin_02(C_Item)
 	visual						= "ItMi_Stuff_OldCoin_01.3DS";
 	material					= MAT_METAL;
 
-	value						= Value_Münze;
+	value						= Value_Muenze;
 
 	description					= name;
 	text[0]						= "";											count[0] = 0;
@@ -779,7 +779,7 @@ instance ItMi_Stuff_Plate_01(C_Item)
 	visual						= "ItMi_Stuff_Plate_01.3DS";
 	material					= MAT_CLAY;
 
-	value						= Value_Schüssel;
+	value						= Value_Schuessel;
 
 	description					= name;
 	text[0]						= "";											count[0] = 0;
@@ -800,7 +800,7 @@ instance ItMi_Stuff_Candel_01(C_Item)
 	visual						= "ItMi_Stuff_Candel_01.3DS";
 	material					= MAT_METAL;
 
-	value						= Value_Kerzenständer;
+	value						= Value_Kerzenstaender;
 
 	description					= name;
 	text[0]						= "";											count[0] = 0;
@@ -1033,7 +1033,7 @@ instance ItMi_Alchemy_Syrianoil_01(C_Item)
 	visual						= "ItMi_Alchemy_Syrianoil_01.3DS";
 	material					= MAT_CLAY;
 
-	value						= Value_Öl;
+	value						= Value_Oil;
 
 	description					= name;
 	text[0]						= "";											count[0] = 0;
@@ -1107,7 +1107,7 @@ instance ItMiLuteIE(C_Item)
 	text[1]						= "";											count[1] = 0;
 	text[2]						= "";											count[2] = 0;
 	text[3]						= "";											count[3] = 0;
-	text[4]						= NAME_Value;									count[4] = Value_Schlüssel;
+	text[4]						= NAME_Value;									count[4] = Value_Schluessel;
 };
 
 instance ItMiBluepipe(C_Item)
@@ -1126,7 +1126,7 @@ instance ItMiBluepipe(C_Item)
 	text[1]						= "";											count[1] = 0;
 	text[2]						= "";											count[2] = 0;
 	text[3]						= "";											count[3] = 0;
-	text[4]						= NAME_Value;									count[4] = Value_Schlüssel;
+	text[4]						= NAME_Value;									count[4] = Value_Schluessel;
 };
 
 instance ItMiYellowpipe(C_Item)
@@ -1145,7 +1145,7 @@ instance ItMiYellowpipe(C_Item)
 	text[1]						= "";											count[1] = 0;
 	text[2]						= "";											count[2] = 0;
 	text[3]						= "";											count[3] = 0;
-	text[4]						= NAME_Value;									count[4] = Value_Schlüssel;
+	text[4]						= NAME_Value;									count[4] = Value_Schluessel;
 };
 
 instance ItMiDrumscheit(C_Item)
@@ -1164,7 +1164,7 @@ instance ItMiDrumscheit(C_Item)
 	text[1]						= "";											count[1] = 0;
 	text[2]						= "";											count[2] = 0;
 	text[3]						= "";											count[3] = 0;
-	text[4]						= NAME_Value;									count[4] = Value_Schlüssel;
+	text[4]						= NAME_Value;									count[4] = Value_Schluessel;
 };
 
 instance ItMiDrumstick(C_Item)
@@ -1183,7 +1183,7 @@ instance ItMiDrumstick(C_Item)
 	text[1]						= "";											count[1] = 0;
 	text[2]						= "";											count[2] = 0;
 	text[3]						= "";											count[3] = 0;
-	text[4]						= NAME_Value;									count[4] = Value_Schlüssel;
+	text[4]						= NAME_Value;									count[4] = Value_Schluessel;
 };
 
 instance ItMiCello(C_Item)
@@ -1202,7 +1202,7 @@ instance ItMiCello(C_Item)
 	text[1]						= "";											count[1] = 0;
 	text[2]						= "";											count[2] = 0;
 	text[3]						= "";											count[3] = 0;
-	text[4]						= NAME_Value;									count[4] = Value_Schlüssel;
+	text[4]						= NAME_Value;									count[4] = Value_Schluessel;
 };
 
 instance ItMiCellobow(C_Item)
@@ -1221,7 +1221,7 @@ instance ItMiCellobow(C_Item)
 	text[1]						= "";											count[1] = 0;
 	text[2]						= "";											count[2] = 0;
 	text[3]						= "";											count[3] = 0;
-	text[4]						= NAME_Value;									count[4] = Value_Schlüssel;
+	text[4]						= NAME_Value;									count[4] = Value_Schluessel;
 };
 
 instance ItMiHarp(C_Item)
@@ -1240,7 +1240,7 @@ instance ItMiHarp(C_Item)
 	text[1]						= "";											count[1] = 0;
 	text[2]						= "";											count[2] = 0;
 	text[3]						= "";											count[3] = 0;
-	text[4]						= NAME_Value;									count[4] = Value_Schlüssel;
+	text[4]						= NAME_Value;									count[4] = Value_Schluessel;
 };
 
 */

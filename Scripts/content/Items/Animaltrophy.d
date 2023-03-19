@@ -3,7 +3,7 @@
 // ************************************************************************************************
 
 // FIXME: welche Trophäe wann freigeschaltet? Wert tunen!
-const int Value_Zähne = 10;
+const int Value_Zaehne = 10;
 const int Value_Krallen = 15;
 
 const int Value_Wolfsfell = 10;
@@ -22,13 +22,13 @@ const int Value_Sumpfhaihaut = 200;
 const int Value_Trollfell = 300;
 
 // Bloodfly
-const int Value_Flügel = 15;
+const int Value_Fluegel = 15;
 const int Value_Stachel = 25;
 
 // Durch Ulu-Mulu freigeschaltet
 // bei Auftragsvergabe werden je 3 neue Monster gespawnt
 const int Value_Feuerzunge = 500;
-const int Value_Sumpfhaizähne = 500;
+const int Value_Sumpfhaizaehne = 500;
 const int Value_Shadowbeasthorn = 500;
 const int Value_Trollhauer = 500;
 
@@ -100,14 +100,14 @@ instance ItAt_Teeth_01(C_Item)
 	visual						= "ItAt_Teeth_01.3DS";
 	material					= MAT_LEATHER;
 
-	value						= Value_Zähne;
+	value						= Value_Zaehne;
 
 	description					= name;
 	text[0]						= "";											count[0] = 0;
 	text[1]						= "";											count[1] = 0;
 	text[2]						= "";											count[2] = 0;
 	text[3]						= "";											count[3] = 0;
-	text[4]						= NAME_Value;									count[4] = Value_Zähne;
+	text[4]						= NAME_Value;									count[4] = Value_Zaehne;
 };
 
 /******************************************************************************************/
@@ -394,14 +394,14 @@ instance ItAt_Swampshark_02(C_Item)
 	visual						= "ItAt_Swampshark_02.3DS";
 	material					= MAT_LEATHER;
 
-	value						= Value_Sumpfhaizähne;
+	value						= Value_Sumpfhaizaehne;
 
 	description					= name;
 	text[0]						= "";											count[0] = 0;
 	text[1]						= "";											count[1] = 0;
 	text[2]						= "";											count[2] = 0;
 	text[3]						= "";											count[3] = 0;
-	text[4]						= NAME_Value;									count[4] = Value_Sumpfhaizähne;
+	text[4]						= NAME_Value;									count[4] = Value_Sumpfhaizaehne;
 };
 
 /******************************************************************************************/
@@ -415,14 +415,14 @@ instance ItAt_Bloodfly_01(C_Item)
 	visual						= "ItAt_Bloodfly_01.3DS";
 	material					= MAT_LEATHER;
 
-	value						= Value_Flügel;
+	value						= Value_Fluegel;
 
 	description					= name;
 	text[0]						= "";											count[0] = 0;
 	text[1]						= "";											count[1] = 0;
 	text[2]						= "";											count[2] = 0;
 	text[3]						= "";											count[3] = 0;
-	text[4]						= NAME_Value;									count[4] = Value_Flügel;
+	text[4]						= NAME_Value;									count[4] = Value_Fluegel;
 };
 
 /******************************************************************************************/
