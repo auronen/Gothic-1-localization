@@ -1,7 +1,7 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
 "Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:23","Auf in den Kampf!","Do boju!","","False","Info_Gorn_EXIT_09_01","",""
 "Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:27","Bis später.","Do zobaczenia.","","False","Info_Gorn_EXIT_09_02","",""
-"Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:55","Hey. Ein neues Gesicht.","Hej, Nowa twarz.","","False","DIA_Gorn_First_09_00","",""
+"Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:55","Hey. Ein neues Gesicht.","Hej, nowa twarz.","","False","DIA_Gorn_First_09_00","",""
 "Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:56","Wer bist du?","Kim jesteś?","","False","DIA_Gorn_First_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:57","Ich bin Gorn. Söldner der Magier.","Nazywam się Gorn. Jestem najemnikiem w służbie magów.","","","DIA_Gorn_First_09_02","",""
 "Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:69","Was machst du als Söldner der Magier?","Czym się zajmują Najemnicy?","","False","DIA_Gorn_Leben.description","",""
