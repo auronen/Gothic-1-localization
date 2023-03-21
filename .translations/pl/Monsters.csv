@@ -40,7 +40,7 @@
 "Scripts/content/AI/Monster/Mst_OrcWarrior.d:112","Ork Krieger","Ork-żołnierz","","False","OrcWarrior2.name","",""
 "Scripts/content/AI/Monster/Mst_OrcWarrior.d:146","Ork Klankrieger","Ork-wiarus","","False","OrcWarrior3.name","",""
 "Scripts/content/AI/Monster/Mst_OrcWarrior.d:180","Ork Tempelkrieger","Ork-strażnik","","False","OrcWarrior4.name","",""
-"Scripts/content/AI/Monster/Mst_Razor.d:8","Razor","Brzytwa","","False","Mst_Default_Razor.name","",""
+"Scripts/content/AI/Monster/Mst_Razor.d:8","Razor","Brzytwiak","","False","Mst_Default_Razor.name","",""
 "Scripts/content/AI/Monster/Mst_Scavenger.d:8","Scavenger","Ścierwojad","","False","Mst_Default_Scavenger.name","",""
 "Scripts/content/AI/Monster/Mst_Scavenger.d:110","junger Scavenger","Młody ścierwojad","","False","YScavenger.name","",""
 "Scripts/content/AI/Monster/Mst_Shadowbeast.d:8","Schattenläufer","Cieniostwór","","False","Mst_Default_Shadowbeast.name","",""
