@@ -416,7 +416,7 @@
 "Scripts/content/Story/B/B_AssignAmbientInfos_Sfb_1.d:51","Also wenn du glaubst, du kannst hier faulenzen, dann bist du schief gewickelt, mein Freund.","Jeśli wyobrażasz sobie, że będziesz tu zbijał bąki, to grubo się mylisz, przyjacielu.","","False","Info_SFB_1_EinerVonEuchWerden_01_02","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Sfb_1.d:52","Wenn du jetzt immer noch glaubst hier richtig zu sein, dann rede mal mit Swiney. Er ist der Schürfer, der den ganzen Tag rumsteht und raucht.","No, ale jeśli wciąż uważasz, że to praca w sam raz dla ciebie, porozmawiaj ze Swineyem. Łatwo go poznasz - pali na okrągło.","","False","Info_SFB_1_EinerVonEuchWerden_01_03","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Sfb_1.d:64","Wer hat hier das Sagen?","Kto tu dowodzi?","","False","Info_SFB_1_WichtigePersonen.description","",""
-"Scripts/content/Story/B/B_AssignAmbientInfos_Sfb_1.d:74","Wer hat hier das Sagen?","Kto tu dowodzi?","","","Info_SFB_1_WichtigePersonen_15_00","",""
+"Scripts/content/Story/B/B_AssignAmbientInfos_Sfb_1.d:74","Wer hat hier das Sagen?","Kto tu dowodzi?","","False","Info_SFB_1_WichtigePersonen_15_00","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Sfb_1.d:75","Das Sagen? Sieh dich doch mal um. Bestimmt nicht die Leute, die den ganzen Tag schuften, um genug Erz zu fördern.","Kto dowodzi? Rozejrzyj się! Na pewno nie ci, którzy tyrają cały dzień przy zbieraniu rudy! Ha!","","","Info_SFB_1_WichtigePersonen_01_01","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Sfb_1.d:87","Was ist das hier?","Co to jest?","","","Info_SFB_1_DasLager.description","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Sfb_1.d:97","Was ist das hier?","Co to jest?","","","Info_SFB_1_DasLager_15_00","",""
