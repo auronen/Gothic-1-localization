@@ -3,7 +3,7 @@
 "Scripts/content/AI/Monster/Mst_BlackGobbo.d:105","Goblin Krieger","Goblin-wojownik","","False","BlackGobboWarrior.name","",""
 "Scripts/content/AI/Monster/Mst_Bloodfly.d:8","Blutfliege","Krwiopijca","","False","Mst_Default_Bloodfly.name","",""
 "Scripts/content/AI/Monster/Mst_Bloodfly.d:105","aggressive Blutfliege","Agresywny krwiopijca","","False","HelpBrothers_Bloodfly.name","",""
-"Scripts/content/AI/Monster/Mst_Bloodhound.d:8","Bluthund","Krwawy ogar","","False","Mst_Default_Bloodhound.name","",""
+"Scripts/content/AI/Monster/Mst_Bloodhound.d:8","Bluthund","Ogar","","False","Mst_Default_Bloodhound.name","",""
 "Scripts/content/AI/Monster/Mst_Demon.d:8","Flammendämon","Demon ognia","","False","Mst_Default_Demon.name","",""
 "Scripts/content/AI/Monster/Mst_Demon.d:191","niederer Dämon","Pomniejszy demon","","False","OTDemon.name","",""
 "Scripts/content/AI/Monster/Mst_DemonLord.d:8","Dämonenlord","Książę demonów","","False","Mst_Default_DemonLord.name","",""
