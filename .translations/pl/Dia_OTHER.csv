@@ -1,6 +1,6 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/content/Story/MISSIONS/DIA_Non_1500_Gilbert.d:46","Was machst du denn hier? Hab nicht oft Besuch hier oben, hehe!","Co tu robisz? Nie miewam tu zbyt często gości, he he!","","","DIA_Gilbert_First_04_00","",""
-"Scripts/content/Story/MISSIONS/DIA_Non_1500_Gilbert.d:47","War ne gute Leistung von dir, mein Versteck zu finden.","Widzę, że niezły cwaniak z ciebie. Tak znaleźć moją kryjówkę, no no!","","","DIA_Gilbert_First_04_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Non_1500_Gilbert.d:46","Was machst du denn hier? Hab nicht oft Besuch hier oben, hehe!","Co tu robisz? Nie miewam tu zbyt często gości, he he!","","False","DIA_Gilbert_First_04_00","",""
+"Scripts/content/Story/MISSIONS/DIA_Non_1500_Gilbert.d:47","War ne gute Leistung von dir, mein Versteck zu finden.","Widzę, że niezły cwaniak z ciebie. Tak znaleźć moją kryjówkę, no no!","","False","DIA_Gilbert_First_04_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Non_1500_Gilbert.d:62","Was machst du hier?","Co tu robisz?","","False","DIA_Gilbert_Hallo.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Non_1500_Gilbert.d:72","Was machst du hier?","Co tu robisz?","","False","DIA_Gilbert_Hallo_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Non_1500_Gilbert.d:73","Ich hatte die Schnauze voll vom alten Lager. Hatte Ärger mit Gomez Leuten. Ist aber schon ne Weile her.","Miałem już dość Starego Obozu. Podpadłem paru ludziom Gomeza. To było dawno temu.","","False","DIA_Gilbert_Hallo_04_01","",""
