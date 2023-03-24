@@ -15,7 +15,7 @@
 "Scripts/content/AI/Monster/Mst_Golem.d:159","Stein Golem","Kőgólem","","","SummonedByNPC_StoneGolem.name","",""
 "Scripts/content/AI/Monster/Mst_Golem.d:189","Feuer Golem","Tűzgólem","","","FireGolem.name","",""
 "Scripts/content/AI/Monster/Mst_Golem.d:225","Eis Golem","Jéggólem","","","IceGolem.name","",""
-"Scripts/content/AI/Monster/Mst_Golem.d:266","Brücken Golem","Hidi Gólem","","","BridgeGolem.name","",""
+"Scripts/content/AI/Monster/Mst_Golem.d:266","Brücken Golem","Hídi Gólem","","False","BridgeGolem.name","",""
 "Scripts/content/AI/Monster/Mst_Harpie.d:8","Harpie","Hárpia","","","Mst_Default_Harpie.name","",""
 "Scripts/content/AI/Monster/Mst_Lurker.d:8","Lurker","Lopakodó","","","Mst_Default_Lurker.name","",""
 "Scripts/content/AI/Monster/Mst_Lurker.d:104","Dammlurker","Gáti Lopakodó","","","DamLurker.name","",""
