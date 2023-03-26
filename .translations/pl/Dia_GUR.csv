@@ -26,7 +26,7 @@
 "Scripts/content/Story/MISSIONS/DIA_GUR_1200_YBerion.d:152","Ich habe den Fokus immer noch nicht gefunden.","Jeszcze nie znalazłem kamienia ogniskującego.","","False","Info_YBerion_BringFocus_RUNNING.description","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1200_YBerion.d:165","Ich habe den Fokus immer noch nicht gefunden.","Jeszcze nie znalazłem kamienia ogniskującego.","","False","Info_YBerion_BringFocus_RUNNING_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1200_YBerion.d:166","Dann suche weiter. Der Schläfer wird dir den Weg weisen.","Więc szukaj dalej. Śniący wskaże ci drogę.","","False","Info_YBerion_BringFocus_RUNNING_12_02","",""
-"Scripts/content/Story/MISSIONS/DIA_GUR_1200_YBerion.d:176","Ich habe den Fokus gefunden","Znalazłem kamień.","","","Info_YBerion_BringFocus_Success.description","",""
+"Scripts/content/Story/MISSIONS/DIA_GUR_1200_YBerion.d:176","Ich habe den Fokus gefunden","Znalazłem kamień.","","True","Info_YBerion_BringFocus_Success.description","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1200_YBerion.d:189","Ich habe den Fokus gefunden.","Znalazłem kamień.","","False","Info_YBerion_BringFocus_Success_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1200_YBerion.d:190","Hervorragend. Du hast uns einen großen Dienst erwiesen.","Świetnie. Oddałeś nam ogromną przysługę.","","False","Info_YBerion_BringFocus_Success_12_02","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1200_YBerion.d:191","Bring nun den Fokus zu Cor Kalom. Er wird wissen, was zu tun ist.","Teraz zanieś kamień Cor Kalomowi. On będzie wiedział, co z nim zrobić.","","False","Info_YBerion_BringFocus_Success_12_03","",""
