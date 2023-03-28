@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/content/Story/MISSIONS/DIA_Non_1500_Gilbert.d:46","Was machst du denn hier? Hab nicht oft Besuch hier oben, hehe!","Mit csinálsz itt? Nem gyakran kapok vendégeket idefenn, he he!","","","DIA_Gilbert_First_04_00","",""
+"Scripts/content/Story/MISSIONS/DIA_Non_1500_Gilbert.d:46","Was machst du denn hier? Hab nicht oft Besuch hier oben, hehe!","Mit csinálsz erre felé? Nem mondanám, hogy gyakran látogatnak meg itt fent, hehe!","","False","DIA_Gilbert_First_04_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Non_1500_Gilbert.d:47","War ne gute Leistung von dir, mein Versteck zu finden.","Nagyon okos tőled, hogy megtaláltad a rejtekhelyemet.","","","DIA_Gilbert_First_04_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Non_1500_Gilbert.d:62","Was machst du hier?","Mit csinálsz itt?","","","DIA_Gilbert_Hallo.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Non_1500_Gilbert.d:72","Was machst du hier?","Mit csinálsz itt?","","","DIA_Gilbert_Hallo_15_00","",""
