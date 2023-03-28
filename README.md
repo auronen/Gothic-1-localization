@@ -47,7 +47,10 @@ Special thanks to:
   - Tusynak
   - HornOx
 
-Useful links: https://magyaritasok.hu/games/gothic
+Useful links: https://magyaritasok.hu/games/gothic  
+Translation team website: http://attilabeke.com/honositasok/g1.html  
+Translator contact e-mail: rzl@freemail.hu  
+
 ## :romania: Romanian
 Coming soon.
 
