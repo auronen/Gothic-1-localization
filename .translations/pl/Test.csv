@@ -142,4 +142,4 @@
 "Scripts/content/AI/Test_Skripts/TestModelle.d:764","Das Alte Lager, das Neue Lager und den Sektentempel.","*MISSING TEXT*","","","Global_001_07_03","",""
 "Scripts/content/AI/Test_Skripts/TestModelle.d:765","Wenn Du nicht den Erzbaronen im Alten Lager den Arsch abwischen willst, kommst Du zu uns.","*MISSING TEXT*","","","Global_001_07_05","",""
 "Scripts/content/AI/ZS_Babe/BabeTestModell.d:4","Babe","Babe","","","TestBabe.name","",""
-"Scripts/content/AI/ZS_Babe/BabeTestModell.d:50","ATestmodell","ATestmodell","","","ABabeTestmodell.name","",""
+"Scripts/content/AI/ZS_Babe/BabeTestModell.d:50","ATestmodell","ATestmodell","","False","ABabeTestmodell.name","",""
