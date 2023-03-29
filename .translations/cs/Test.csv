@@ -109,7 +109,6 @@
 "Scripts/content/AI/Test_Skripts/PerceptionTestmodell.d:9","Perception_Testmodell","Perception_Testmodell","","","Perception_Testmodell.name","",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:5","StoryHelper","StoryHelper","","","SH.name","",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:192","ENDE","ENDE","","","CH_Exit.description","",""
-"Scripts/content/AI/Test_Skripts/CharacterHelper.d:192","ENDE","ENDE","","","CH_Exit.description","",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:86","Kapitel 2","Kapitola 2","","","StoryHelper_INFO2.description","",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:98","ZURÜCK","ZPĚT","","","StoryHelper_INFO2.StoryHelper_BACK2","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:99","II:  Vorbereitung für die Beschwörung","II: Příprava na vzývání Spáče","","","StoryHelper_INFO2.StoryHelper_PrepareRitual","Info_AddChoice",""
