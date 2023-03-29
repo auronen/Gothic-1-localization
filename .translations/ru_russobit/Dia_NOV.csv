@@ -475,7 +475,6 @@
 "Scripts/content/Story/MISSIONS/DIA_Nov_1358_Harlok.d:126","Ich will dich einfach stampfen sehen.","Просто хотел посмотреть, как ты работаешь.","","","DIA_Harlok_SendHarlok_15_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1358_Harlok.d:127","Ist ja schon gut - ich gehe ja ... Mistkerl!","Ладно уж, иду... Я уже иду... ","","","DIA_Harlok_SendHarlok_01_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1358_Harlok.d:164","Lass mich in Ruhe! Ich mach' ja schon ...","Да оставь же меня в покое! Я иду, не видишь?!","","","DIA_Harlok_Angry_01_00","",""
-"Scripts/content/Story/MISSIONS/DIA_Nov_1371_BaalNetbek.d:11","ENDE","ЗАКОНЧИТЬ РАЗГОВОР","","","Nov_1371_BaalNetbek_Exit.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1371_BaalNetbek.d:33","Wer bist du?","Ты кто?","","","Nov_1371_BaalNetbek_CRAZY.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1371_BaalNetbek.d:43","Wer bist du?","Ты кто?","","","Nov_1371_BaalNetbek_CRAZY_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1371_BaalNetbek.d:44","Ich bin der Guru, ich bin der Guru des Sumpfes. Meine Diener nennen mich Baal Netbek.","Я Гуру этого Болотного лагеря. Мои слуги зовут меня Идол Нетбек.","","","Nov_1371_BaalNetbek_CRAZY_Info_03_02","",""

@@ -56,7 +56,7 @@ instance StoryHelper_Exit(C_INFO)
 	condition		= StoryHelper_Exit_Condition;
 	information		= StoryHelper_Exit_Info;
 	permanent		= TRUE;
-	description		= "ENDE";
+	description		= DIALOG_ENDE;
 };
 
 func int StoryHelper_Exit_Condition()
