@@ -8,7 +8,7 @@ instance DIA_GorNaRan_Exit(C_INFO)
 	condition		= DIA_GorNaRan_Exit_Condition;
 	information		= DIA_GorNaRan_Exit_Info;
 	permanent		= TRUE;
-	description		= "ENDE";
+	description		= DIALOG_ENDE;
 };
 
 func int DIA_GorNaRan_Exit_Condition()

@@ -8,7 +8,7 @@ instance Nov_1371_BaalNetbek_Exit(C_INFO)
 	condition		= Nov_1371_BaalNetbek_Exit_Condition;
 	information		= Nov_1371_BaalNetbek_Exit_Info;
 	permanent		= TRUE;
-	description		= "ENDE";
+	description		= DIALOG_ENDE;
 };
 
 func int Nov_1371_BaalNetbek_Exit_Condition()

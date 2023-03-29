@@ -12,7 +12,7 @@ instance Info_Sld_11_EXIT(C_INFO)
 	condition		= Info_Sld_11_EXIT_Condition;
 	information		= Info_Sld_11_EXIT_Info;
 	permanent		= TRUE;
-	description		= "ENDE";
+	description		= DIALOG_ENDE;
 };
 
 func int Info_Sld_11_EXIT_Condition()

@@ -8,7 +8,7 @@ instance Sld_701_Orik_Exit(C_INFO)
 	condition		= Sld_701_Orik_Exit_Condition;
 	information		= Sld_701_Orik_Exit_Info;
 	permanent		= TRUE;
-	description		= "ENDE";
+	description		= DIALOG_ENDE;
 };
 
 func int Sld_701_Orik_Exit_Condition()

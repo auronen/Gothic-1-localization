@@ -11,7 +11,7 @@ instance Info_Mine_Sld_8_EXIT(C_INFO)
 	condition		= Info_Mine_Sld_8_EXIT_Condition;
 	information		= Info_Mine_Sld_8_EXIT_Info;
 	permanent		= TRUE;
-	description		= "ENDE";
+	description		= DIALOG_ENDE;
 };
 
 func int Info_Mine_Sld_8_EXIT_Condition()

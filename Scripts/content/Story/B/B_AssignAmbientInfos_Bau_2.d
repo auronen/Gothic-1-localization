@@ -12,7 +12,7 @@ instance Info_Bau_2_EXIT(C_INFO)
 	condition		= Info_Bau_2_EXIT_Condition;
 	information		= Info_Bau_2_EXIT_Info;
 	permanent		= TRUE;
-	description		= "ENDE";
+	description		= DIALOG_ENDE;
 };
 
 func int Info_Bau_2_EXIT_Condition()

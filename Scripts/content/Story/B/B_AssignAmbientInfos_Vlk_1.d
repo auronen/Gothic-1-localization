@@ -12,7 +12,7 @@ instance Info_Vlk_1_EXIT(C_INFO)
 	condition		= Info_Vlk_1_EXIT_Condition;
 	information		= Info_Vlk_1_EXIT_Info;
 	permanent		= TRUE;
-	description		= "ENDE";
+	description		= DIALOG_ENDE;
 };
 
 func int Info_Vlk_1_EXIT_Condition()

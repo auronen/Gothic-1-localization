@@ -189,7 +189,7 @@ instance CH_Exit(C_INFO)
 	condition		= CH_Exit_Condition;
 	information		= CH_Exit_Info;
 	permanent		= TRUE;
-	description		= "ENDE";
+	description		= DIALOG_ENDE;
 };
 
 func int CH_Exit_Condition()
@@ -903,7 +903,7 @@ func void CH_Training_STR_Info()
 {
 	Info_ClearChoices(CH_Training_STR);
 
-	Info_AddChoice(CH_Training_STR, "ZURÜCK", CH_Training_STR_BACK);
+	Info_AddChoice(CH_Training_STR, DIALOG_ENDE, CH_Training_STR_BACK);
 	Info_AddChoice(CH_Training_STR, "Stärke (alle restlichen Lernpunkte)", CH_Strength_all);
 	Info_AddChoice(CH_Training_STR, "Stärke (für beste Nahkampfwaffe)", CH_Strength_Weapon);
 	if (hero.LP >= 20 * LPCOST_ATTRIBUTE_STRENGTH)
@@ -1023,7 +1023,7 @@ func int CH_Training_DEX_Condition()
 func void CH_Training_DEX_Info()
 {
 	Info_ClearChoices(CH_Training_DEX);
-	Info_AddChoice(CH_Training_DEX, "ZURÜCK", CH_Training_DEX_BACK);
+	Info_AddChoice(CH_Training_DEX, DIALOG_ENDE, CH_Training_DEX_BACK);
 	Info_AddChoice(CH_Training_DEX, "Geschick (alle restlichen Lernpunkte)", CH_Dexterity_all);
 	Info_AddChoice(CH_Training_DEX, "Geschick (für beste Fernkampfwaffe)", CH_Dexterity_Weapon);
 	if (hero.LP >= 20)

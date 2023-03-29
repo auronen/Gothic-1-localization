@@ -11,7 +11,7 @@ instance Info_SFB_1_EXIT(C_INFO)
 	condition		= Info_SFB_1_EXIT_Condition;
 	information		= Info_SFB_1_EXIT_Info;
 	permanent		= TRUE;
-	description		= "ENDE";
+	description		= DIALOG_ENDE;
 };
 
 func int Info_SFB_1_EXIT_Condition()

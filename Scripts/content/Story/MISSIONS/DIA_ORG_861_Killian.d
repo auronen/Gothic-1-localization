@@ -5,7 +5,7 @@ instance ORG_861_Killian_Exit(C_INFO)
 	condition		= ORG_861_Killian_Exit_Condition;
 	information		= ORG_861_Killian_Exit_Info;
 	permanent		= TRUE;
-	description		= "ENDE";
+	description		= DIALOG_ENDE;
 };
 
 func int ORG_861_Killian_Exit_Condition()
