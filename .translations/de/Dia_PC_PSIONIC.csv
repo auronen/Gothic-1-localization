@@ -64,7 +64,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:388","Sind wir gleich da?","Sind wir gleich da?","","","PC_Psionic_SOON.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:403","Sind wir gleich da?","Sind wir gleich da?","","","PC_Psionic_SOON_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:404","Wenn du aufhörst, mich zu fragen, geht es schneller.","Wenn du aufhörst, mich zu fragen, geht es schneller.","","","PC_Psionic_SOON_Info_05_02","",""
-"Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:416","Ich habe es mir anders überlegt","Ich habe es mir anders überlegt","","","PC_Psionic_CHANGE.description","",""
+"Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:416","Ich habe es mir anders überlegt","Ich habe es mir anders überlegt.","","False","PC_Psionic_CHANGE.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:431","Ich habe es mir anders überlegt.","Ich habe es mir anders überlegt.","","","PC_Psionic_CHANGE_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:432","Du weißt ja, wo du mich finden kannst.","Du weißt ja, wo du mich finden kannst.","","","PC_Psionic_CHANGE_Info_05_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:446","Zeig mir den Weg...","Zeig mir den Weg...","","","PC_Psionic_GUIDEFIRST.description","",""
