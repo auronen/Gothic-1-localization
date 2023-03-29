@@ -235,7 +235,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Kdf_404_Xardas.d:381","Ich werde mir die Antworten von diesem Schamanen holen!","Ich werde mir die Antworten von diesem Schamanen holen!","","","Info_Xardas_ACCEPT_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdf_404_Xardas.d:382","Mein Diener hat dir ja bereits eine Teleportations-Rune für das Pentagramm einen Stock tiefer gegeben.","Mein Diener hat dir ja bereits eine Teleportations-Rune für das Pentagramm einen Stock tiefer gegeben.","","","Info_Xardas_ACCEPT_14_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdf_404_Xardas.d:383","Damit sollte es kein Problem für dich sein, wieder hierher zurück zu kehren.","Damit sollte es kein Problem für dich sein, wieder hierher zurück zu kehren.","","","Info_Xardas_ACCEPT_14_03","",""
-"Scripts/content/Story/MISSIONS/DIA_Kdf_404_Xardas.d:402","Ich suche magisches Wissen","Ich suche magisches Wissen","","","Kdf_404_Xardas_SELLMAGICSTUFF.description","",""
+"Scripts/content/Story/MISSIONS/DIA_Kdf_404_Xardas.d:402","Ich suche magisches Wissen","Ich suche magisches Wissen.","","False","Kdf_404_Xardas_SELLMAGICSTUFF.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdf_404_Xardas.d:415","Ich suche magisches Wissen.","Ich suche magisches Wissen.","","","Kdf_404_Xardas_SELLMAGICSTUFF_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdf_404_Xardas.d:427","Ich habe mir die Antworten vom Ork-Schamanen geholt!","Ich habe mir die Antworten vom Ork-Schamanen geholt!","","","Info_Xardas_RETURN.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdf_404_Xardas.d:441","Ich habe mir die Antworten vom Ork-Schamanen geholt!","Ich habe mir die Antworten vom Ork-Schamanen geholt!","","","Info_Xardas_RETURN_15_01","",""
