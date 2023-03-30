@@ -64,7 +64,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:388","Sind wir gleich da?","我们快到了吗？","","","PC_Psionic_SOON.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:403","Sind wir gleich da?","我们快到了吗？","","","PC_Psionic_SOON_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:404","Wenn du aufhörst, mich zu fragen, geht es schneller.","如果你不再问我，我们会更快到达那里。","","","PC_Psionic_SOON_Info_05_02","",""
-"Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:416","Ich habe es mir anders überlegt","我改变主意了。","","","PC_Psionic_CHANGE.description","",""
+"Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:416","Ich habe es mir anders überlegt","我改变了主意。","","False","PC_Psionic_CHANGE.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:431","Ich habe es mir anders überlegt.","我改变主意了。","","","PC_Psionic_CHANGE_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:432","Du weißt ja, wo du mich finden kannst.","假设你知道在哪里可以找到我。","","","PC_Psionic_CHANGE_Info_05_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:446","Zeig mir den Weg...","告诉我该怎么做（走...","","","PC_Psionic_GUIDEFIRST.description","",""
