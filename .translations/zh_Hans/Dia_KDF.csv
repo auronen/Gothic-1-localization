@@ -235,7 +235,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Kdf_404_Xardas.d:381","Ich werde mir die Antworten von diesem Schamanen holen!","我将从这个萨满那里得到答案！","","","Info_Xardas_ACCEPT_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdf_404_Xardas.d:382","Mein Diener hat dir ja bereits eine Teleportations-Rune für das Pentagramm einen Stock tiefer gegeben.","我的仆人已经为您提供了下面一楼的五角星的传送符文。","","","Info_Xardas_ACCEPT_14_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdf_404_Xardas.d:383","Damit sollte es kein Problem für dich sein, wieder hierher zurück zu kehren.","这将使您更容易稍后再回到这里。","","","Info_Xardas_ACCEPT_14_03","",""
-"Scripts/content/Story/MISSIONS/DIA_Kdf_404_Xardas.d:402","Ich suche magisches Wissen","我正在寻找魔术知识","","","Kdf_404_Xardas_SELLMAGICSTUFF.description","",""
+"Scripts/content/Story/MISSIONS/DIA_Kdf_404_Xardas.d:402","Ich suche magisches Wissen","我正在寻找魔术知识。","","False","Kdf_404_Xardas_SELLMAGICSTUFF.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdf_404_Xardas.d:415","Ich suche magisches Wissen.","我正在寻找魔术知识。","","","Kdf_404_Xardas_SELLMAGICSTUFF_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdf_404_Xardas.d:427","Ich habe mir die Antworten vom Ork-Schamanen geholt!","我有兽人萨满的答案！","","","Info_Xardas_RETURN.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdf_404_Xardas.d:441","Ich habe mir die Antworten vom Ork-Schamanen geholt!","我有兽人萨满的答案！","","","Info_Xardas_RETURN_15_01","",""
