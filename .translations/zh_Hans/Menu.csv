@@ -43,7 +43,7 @@
 "Scripts/system/MENU/menu_log.d:149","Failed Missions","失败任务","","","MENU_ITEM_LIST_MISSIONS_OLD.text[0]","",""
 "Scripts/system/MENU/menu_log.d:169","Log","日志","","","MENU_ITEM_LIST_LOG.text[0]","",""
 "Scripts/system/MENU/menu_log.d:192","no content","无内容","","","MENU_ITEM_CONTENT_VIEWER.text[0]","",""
-"Scripts/system/MENU/menu_log.d:211","Tag","天数","","","MENU_ITEM_DAY_TITLE.text[0]","",""
+"Scripts/system/MENU/menu_log.d:211","Tag","天数。","","False","MENU_ITEM_DAY_TITLE.text[0]","",""
 "Scripts/system/MENU/menu_log.d:220","Zeit:","时间：","","","MENU_ITEM_TIME_TITLE.text[0]","",""
 "Scripts/system/MENU/menu_log.d:229","XX.","XX.","","","MENU_ITEM_DAY.text[0]","",""
 "Scripts/system/MENU/menu_log.d:239","XX:XX","XX:XX","","","MENU_ITEM_TIME.text[0]","",""
