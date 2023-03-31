@@ -146,6 +146,6 @@
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:1144","Lass uns zusammen die Festung erkunden","Przeszukajmy fortecę wspólnie.","","","PC_Psionic_COMEAGAIN.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:1158","Lass uns zusammen die Festung erkunden.","Przeszukajmy tę fortecę razem.","","","PC_Psionic_COMEAGAIN_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:1159","In Ordnung, du gehst vor!","Dobrze, idź przodem!","","","PC_Psionic_COMEAGAIN_Info_05_02","",""
-"Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:1176","Ich habe Diego und Milten vor dem Alten Lager getroffen!","Spotkałem Diego i Miltena przed Starym Obozem!","","","Info_Lester_DIEGOMILTEN.description","",""
+"Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:1176","Ich habe Diego und Milten vor dem Alten Lager getroffen!","Spotkałem Diego i Miltena przed Starym Obozem!","","False","Info_Lester_DIEGOMILTEN.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:1197","Sie wollen sich mit dir treffen. An eurem üblichen Treffpunkt.","Chce się z tobą spotkać, tam gdzie zawsze.","","","Info_lester_DIEGOMILTEN_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:1200","Ich werde noch etwas bleiben, um die alten Bücher zu studieren.","Zostanę tutaj, żeby przejrzeć stare księgi.","","False","Info_lester_DIEGOMILTEN_05_02","",""
