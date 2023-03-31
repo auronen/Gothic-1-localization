@@ -200,7 +200,7 @@
 "Scripts/content/Story/MISSIONS/DIA_PC_FighterFM.d:27","Bis später.","Do zobaczenia.","","","Info_GornFM_EXIT_09_02","",""
 "Scripts/content/Story/MISSIONS/DIA_PC_FighterFM.d:51","Halt die Stellung, ich werde erst mal die Lage prüfen!","Utrzymuj pozycję! Spróbuję się trochę rozejrzeć!","","","Info_GornFM_WAIT.description","",""
 "Scripts/content/Story/MISSIONS/DIA_PC_FighterFM.d:64","Halt die Stellung, ich werde erst mal die Lage prüfen!","Utrzymuj pozycję! Spróbuję się trochę rozejrzeć!","","","Info_GornFM_WAIT_15_01","",""
-"Scripts/content/Story/MISSIONS/DIA_PC_FighterFM.d:65","Ist gut. Ich warte am Mineneingang und sorge dafür, dass dir niemand in den Rücken fällt!","Dobra. Zaczekam przy wejściu do kopalni i postaram się, żeby nikt nie zaszedł nas od tyłu!","","","Info_GornFM_WAIT_09_02","",""
+"Scripts/content/Story/MISSIONS/DIA_PC_FighterFM.d:65","Ist gut. Ich warte am Mineneingang und sorge dafür, dass dir niemand in den Rücken fällt!","Dobra. Zaczekam przy wejściu do kopalni i postaram się, żeby nikt nie zaszedł nas od tyłu!","","False","Info_GornFM_WAIT_09_02","",""
 "Scripts/content/Story/MISSIONS/DIA_PC_FighterFM.d:81","Komm mit, ich brauche deine Unterstützung!","Chodź ze mną, potrzebuję twojej pomocy.","","","Info_GornFM_FOLLOW.description","",""
 "Scripts/content/Story/MISSIONS/DIA_PC_FighterFM.d:94","Komm mit, ich brauche deine Unterstützung!","Chodź ze mną, potrzebuję twojej pomocy.","","","Info_GornFM_FOLLOW_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_PC_FighterFM.d:95","Endlich geht es weiter! Geh voraus, ich folge dir!","Nareszcie coś się dzieje! Idź przodem, pójdę za tobą.","","","Info_GornFM_FOLLOW_09_02","",""
