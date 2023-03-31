@@ -43,4 +43,4 @@
 "Scripts/content/Story/ZS/ZS_Meditate.d:44","Omm...","Ó...","","","ZS_Meditate_Om","",""
 "Scripts/content/Story/ZS/pers/ZS_Preach_YBerion.d:34","Der Schläfer hat zu mir gesprochen.","Az Alvó szólt hozzám.","","","ZS_Preach_YBerion01","",""
 "Scripts/content/Story/ZS/pers/ZS_Preach_YBerion.d:38","Der Schläfer wird uns alle befreien.","Az Alvó szabaddá tesz minket.","","","ZS_Preach_YBerion02","",""
-"Scripts/content/Story/ZS/pers/ZS_Preach_YBerion.d:42","Der Schläfer erwache!","Az Alvó felébredt!","","","ZS_Preach_YBerion03","",""
+"Scripts/content/Story/ZS/pers/ZS_Preach_YBerion.d:42","Der Schläfer erwache!","Ébredjen az Alvó!","","False","ZS_Preach_YBerion03","",""
