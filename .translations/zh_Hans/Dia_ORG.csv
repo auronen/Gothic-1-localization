@@ -196,7 +196,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Org_801_Lares.d:519","Wo kann ich hier was lernen?","我在哪里可以学到什么？","","","ORG_801_Lares_WhereLearn.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_801_Lares.d:529","Wo kann ich hier was lernen?","我在哪里可以学到什么？","","","ORG_801_Lares_WhereLearn_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_801_Lares.d:530","Bei mir. Ich kann dir beibringen, deine Geschicklichkeit und Stärke zu verbessern.","与我一起。 我可以帮助您改善自己的灵活性和力量。","","","ORG_801_Lares_WhereLearn_Info_11_02","",""
-"Scripts/content/Story/MISSIONS/DIA_Org_801_Lares.d:545","Ich will mich verbessern","我想改善自己。","","","ORG_801_Lares_Teach.description","",""
+"Scripts/content/Story/MISSIONS/DIA_Org_801_Lares.d:545","Ich will mich verbessern","我想提高自己","","False","ORG_801_Lares_Teach.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_801_Lares.d:558","Ich will mich verbessern.","我想改善自己。","","","ORG_801_Lares_Teach_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_804_Organisator.d:49","Wo willst du denn hin?","现在你要去哪里？","","","Org_804_Organisator_Greet_06_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_804_Organisator.d:61","Wo geht's hier denn hin?","我可以去哪里？","","","Org_804_Organisator_WayTo.description","",""
