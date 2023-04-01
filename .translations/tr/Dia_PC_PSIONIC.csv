@@ -64,7 +64,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:388","Sind wir gleich da?","Varmak üzere miyiz?","","","PC_Psionic_SOON.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:403","Sind wir gleich da?","Varmak üzere miyiz?","","","PC_Psionic_SOON_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:404","Wenn du aufhörst, mich zu fragen, geht es schneller.","Eğer sormayı bırakırsan çok daha hızlı varabiliriz.","","","PC_Psionic_SOON_Info_05_02","",""
-"Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:416","Ich habe es mir anders überlegt","Fikrimi değiştirdim.","","","PC_Psionic_CHANGE.description","",""
+"Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:416","Ich habe es mir anders überlegt","Fikrimi değiştirdim.","","False","PC_Psionic_CHANGE.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:431","Ich habe es mir anders überlegt.","Fikrimi değiştirdim.","","","PC_Psionic_CHANGE_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:432","Du weißt ja, wo du mich finden kannst.","Beni nerede bulabileceğini biliyorsun.","","","PC_Psionic_CHANGE_Info_05_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:446","Zeig mir den Weg...","Beni götürür müsün...","","","PC_Psionic_GUIDEFIRST.description","",""
