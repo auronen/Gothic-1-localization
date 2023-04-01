@@ -235,7 +235,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Kdf_404_Xardas.d:381","Ich werde mir die Antworten von diesem Schamanen holen!","Cevapları o şamandan alacağım!","","","Info_Xardas_ACCEPT_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdf_404_Xardas.d:382","Mein Diener hat dir ja bereits eine Teleportations-Rune für das Pentagramm einen Stock tiefer gegeben.","Hizmetkarım, alt kattaki pentagrama ulaşman için sana bir teleport taşı vermişti.","","","Info_Xardas_ACCEPT_14_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdf_404_Xardas.d:383","Damit sollte es kein Problem für dich sein, wieder hierher zurück zu kehren.","Daha sonra buraya dönmeni kolaylaştırır.","","","Info_Xardas_ACCEPT_14_03","",""
-"Scripts/content/Story/MISSIONS/DIA_Kdf_404_Xardas.d:402","Ich suche magisches Wissen","Büyünün özünü öğrenmek istiyorum.","","","Kdf_404_Xardas_SELLMAGICSTUFF.description","",""
+"Scripts/content/Story/MISSIONS/DIA_Kdf_404_Xardas.d:402","Ich suche magisches Wissen","Büyünün özünü öğrenmek istiyorum.","","False","Kdf_404_Xardas_SELLMAGICSTUFF.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdf_404_Xardas.d:415","Ich suche magisches Wissen.","Büyünün özünü öğrenmek istiyorum.","","","Kdf_404_Xardas_SELLMAGICSTUFF_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdf_404_Xardas.d:427","Ich habe mir die Antworten vom Ork-Schamanen geholt!","Ork şamanından cevapları aldım!","","","Info_Xardas_RETURN.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdf_404_Xardas.d:441","Ich habe mir die Antworten vom Ork-Schamanen geholt!","Ork şamanından cevapları aldım!","","","Info_Xardas_RETURN_15_01","",""
