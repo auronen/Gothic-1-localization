@@ -107,7 +107,6 @@
 "Scripts/content/AI/Test_Skripts/PerceptionTestmodell.d:9","Perception_Testmodell","知觉_测试模型","","","Perception_Testmodell.name","",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:5","StoryHelper","故事帮助者","","","SH.name","",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:86","Kapitel 2","第2章","","","StoryHelper_INFO2.description","",""
-"Scripts/content/AI/Test_Skripts/StoryHelper.d:98","ZURÜCK","背部","","","StoryHelper_INFO2.StoryHelper_BACK2","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:99","II:  Vorbereitung für die Beschwörung","II：祈祷的准备","","","StoryHelper_INFO2.StoryHelper_PrepareRitual","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:100","II:  Hole den Almanach","II：取回年鉴","","","StoryHelper_INFO2.StoryHelper_CorKalom_BringBook_RUNNING","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:101","II:  Hole die MCQ-Eier","II：获得MCQ蛋","","","StoryHelper_INFO2.StoryHelper_CorKalom_BringMCQBalls_RUNNING","Info_AddChoice",""
