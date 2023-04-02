@@ -105,7 +105,6 @@
 "Scripts/content/Story/B/B_AssignAmbientInfos_Grd_7.d:112","Arbeiten alle Leute hier für Gomez?","¿Aquí todo el mundo trabaja para Gómez?","","","Info_grd_7_DasLager_15_00","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Grd_7.d:113","Nein. Die meisten hier sind einfache Buddler.","No. La mayoría sólo son cavadores.","","","Info_grd_7_DasLager_07_01","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Grd_7.d:114","Nur wir Gardisten und die Schatten sind Gomez' Leute.","Sólo los guardias y las Sombras están con Gómez.","","","Info_grd_7_DasLager_07_02","",""
-"Scripts/content/Story/B/B_AssignAmbientInfos_Grd_7.d:116","ZURÜCK","ATRÁS","","","Info_grd_7_DasLager.Info_grd_7_DasLager_Zurueck","Info_AddChoice",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Grd_7.d:117","Was tun die Gardisten?","¿Qué hacen los guardias?","","","Info_grd_7_DasLager.Info_grd_7_DasLager_Gardisten","Info_AddChoice",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Grd_7.d:118","Was ist die Aufgabe der Schatten?","¿Qué hacen las Sombras?","","","Info_grd_7_DasLager.Info_grd_7_DasLager_Schatten","Info_AddChoice",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Grd_7.d:119","Wofür sind die Buddler da?","¿Qué hacen los cavadores?","","","Info_grd_7_DasLager.Info_grd_7_DasLager_Buddler","Info_AddChoice",""
