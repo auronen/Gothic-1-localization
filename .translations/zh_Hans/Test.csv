@@ -89,7 +89,6 @@
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:908","Stärke (für beste Nahkampfwaffe)","力量（用于最佳近战武器）","","","CH_Training_STR.CH_Strength_Weapon","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:981","nötige STR bereits vorhanden","持有的力量点","","","_PRINT_CH_STR","",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:1012","ATTRIBUTE: Geschick","属性：技能","","","CH_Training_DEX.description","",""
-"Scripts/content/AI/Test_Skripts/CharacterHelper.d:1026","ZURÜCK","背部","","","CH_Training_DEX.CH_Training_DEX_BACK","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:1027","Geschick (alle restlichen Lernpunkte)","技能（所有剩余的学习点）","","","CH_Training_DEX.CH_Dexterity_all","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:1028","Geschick (für beste Fernkampfwaffe)","技能（用于最佳远程武器）","","","CH_Training_DEX.CH_Dexterity_Weapon","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:1101","nötige DEX bereits vorhanden","持有的敏捷点","","","_PRINT_CH_DEX","",""
