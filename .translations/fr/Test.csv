@@ -89,7 +89,6 @@
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:908","Stärke (für beste Nahkampfwaffe)","Stärke (für beste Nahkampfwaffe)","","","CH_Training_STR.CH_Strength_Weapon","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:981","nötige STR bereits vorhanden","","","","_PRINT_CH_STR","",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:1012","ATTRIBUTE: Geschick","ATTRIBUTE: Geschick","","","CH_Training_DEX.description","",""
-"Scripts/content/AI/Test_Skripts/CharacterHelper.d:1026","ZURÜCK","ZURÜCK","","","CH_Training_DEX.CH_Training_DEX_BACK","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:1027","Geschick (alle restlichen Lernpunkte)","Geschick (alle restlichen Lernpunkte)","","","CH_Training_DEX.CH_Dexterity_all","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:1028","Geschick (für beste Fernkampfwaffe)","Geschick (für beste Fernkampfwaffe)","","","CH_Training_DEX.CH_Dexterity_Weapon","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:1101","nötige DEX bereits vorhanden","","","","_PRINT_CH_DEX","",""
