@@ -126,7 +126,6 @@
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:350","IV:  Diego   - Freie Mine wurde überfallen","IV:  Diego   - Özgür Maden Saldırı Altında","","","StoryHelper_INFO4.StoryHelper_FreeMineAmbush","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:351","IV:  Saturas - Feuermagier holen","IV:  Saturas - Ateş Büyücüsünü Bul","","","StoryHelper_INFO4.StoryHelper_SaturasBringFoci_SUCCESS","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:571","Kapitel 5","Bölüm 5","","","StoryHelper_INFO5.description","",""
-"Scripts/content/AI/Test_Skripts/StoryHelper.d:583","ZURÜCK","GERİ","","","StoryHelper_INFO5.StoryHelper_BACK5","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:584","V:  URIZIEL ist aufgeladen","V:  URIZIEL bulundu","","","StoryHelper_INFO5.StoryHelper_UrizielLoaded","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:585","V:  Bereit für das Laden von URIZIEL","V:  URIZIEL güçlenmeye hazır","","","StoryHelper_INFO5.StoryHelper_LoadUriziel","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:586","V:  Erforsche den versunkenen Turm","V:  Batık Kuleyi Keşfet","","","StoryHelper_INFO5.StoryHelper_ExploreSunkenTower","Info_AddChoice",""
