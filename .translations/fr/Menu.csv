@@ -157,7 +157,6 @@
 "Scripts/system/MENU/menu_savegame.d:140","Welt:","Monde:","","","MENUITEM_LOADSAVE_LEVELNAME.text[0]","",""
 "Scripts/system/MENU/menu_savegame.d:166","gespeichert:","Sauvegarde:","","","MENUITEM_LOADSAVE_DATETIME.text[0]","",""
 "Scripts/system/MENU/menu_savegame.d:195","Spielzeit:","Temps de jeu:","","","MENUITEM_LOADSAVE_GAMETIME.text[0]","",""
-"Scripts/system/MENU/menu_savegame.d:239","Back","","","","MENUITEM_SAVE_BACK.text[1]","",""
 "Scripts/system/MENU/menu_status.d:148","Gilde:","Guilde:","","","MENU_ITEM_PLAYERGUILD_TITLE.text[0]","",""
 "Scripts/system/MENU/menu_status.d:193","Stufe","Niveau","","","MENU_ITEM_LEVEL_TITLE.text[0]","",""
 "Scripts/system/MENU/menu_status.d:201","Erfahrung","Expérience","","","MENU_ITEM_EXP_TITLE.text[0]","",""
