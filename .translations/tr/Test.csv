@@ -107,7 +107,6 @@
 "Scripts/content/AI/Test_Skripts/PerceptionTestmodell.d:9","Perception_Testmodell","Perception_Testmodell","","","Perception_Testmodell.name","",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:5","StoryHelper","StoryHelper","","","SH.name","",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:86","Kapitel 2","Bölüm 2","","","StoryHelper_INFO2.description","",""
-"Scripts/content/AI/Test_Skripts/StoryHelper.d:98","ZURÜCK","GERİ","","","StoryHelper_INFO2.StoryHelper_BACK2","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:99","II:  Vorbereitung für die Beschwörung","II:  Büyük Uyanış'a Hazırlık","","","StoryHelper_INFO2.StoryHelper_PrepareRitual","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:100","II:  Hole den Almanach","II:  Hole den Almanak","","","StoryHelper_INFO2.StoryHelper_CorKalom_BringBook_RUNNING","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:101","II:  Hole die MCQ-Eier","II:  Kraliçe'nin Yumurtaları","","","StoryHelper_INFO2.StoryHelper_CorKalom_BringMCQBalls_RUNNING","Info_AddChoice",""
