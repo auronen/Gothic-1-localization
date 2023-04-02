@@ -85,7 +85,6 @@
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:740","Novize","Послушник","","","CH_Guild.CH_Novice","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:745","Templer","Страж","","","CH_Guild.CH_Templar","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:891","ATTRIBUTE: Stärke","Атрибут: сила","","","CH_Training_STR.description","",""
-"Scripts/content/AI/Test_Skripts/CharacterHelper.d:906","ZURÜCK","НАЗАД","","","CH_Training_STR.CH_Training_STR_BACK","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:907","Stärke (alle restlichen Lernpunkte)","Сила (на все оставшиеся очки обучения)","","","CH_Training_STR.CH_Strength_all","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:908","Stärke (für beste Nahkampfwaffe)","Сила (для лучшего оружия ближнего боя)","","","CH_Training_STR.CH_Strength_Weapon","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:981","nötige STR bereits vorhanden","Вашей силы достаточно","","","_PRINT_CH_STR","",""
