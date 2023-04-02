@@ -232,7 +232,7 @@ func void CH_Level_Info()
 {
 	Info_ClearChoices(CH_Level);
 
-	Info_AddChoice(CH_Level, "BACK", CH_Level_BACK);
+	Info_AddChoice(CH_Level, DIALOG_BACK, CH_Level_BACK);
 	Info_AddChoice(CH_Level, "Level  1 -  5", CH_Level1);
 	Info_AddChoice(CH_Level, "Level  6 - 10", CH_Level6);
 	Info_AddChoice(CH_Level, "Level 11 - 15", CH_Level11);
@@ -245,7 +245,7 @@ func void CH_Level26()
 {
 	Info_ClearChoices(CH_Level);
 
-	Info_AddChoice(CH_Level, "BACK", CH_Level_BACK);
+	Info_AddChoice(CH_Level, DIALOG_BACK, CH_Level_BACK);
 	Info_AddChoice(CH_Level, "Level 26", CH_Level_26);
 	Info_AddChoice(CH_Level, "Level 27", CH_Level_27);
 	Info_AddChoice(CH_Level, "Level 28", CH_Level_28);
@@ -257,7 +257,7 @@ func void CH_Level21()
 {
 	Info_ClearChoices(CH_Level);
 
-	Info_AddChoice(CH_Level, "BACK", CH_Level_BACK);
+	Info_AddChoice(CH_Level, DIALOG_BACK, CH_Level_BACK);
 	Info_AddChoice(CH_Level, "Level 21", CH_Level_21);
 	Info_AddChoice(CH_Level, "Level 22", CH_Level_22);
 	Info_AddChoice(CH_Level, "Level 23", CH_Level_23);
@@ -269,7 +269,7 @@ func void CH_Level16()
 {
 	Info_ClearChoices(CH_Level);
 
-	Info_AddChoice(CH_Level, "BACK", CH_Level_BACK);
+	Info_AddChoice(CH_Level, DIALOG_BACK, CH_Level_BACK);
 	Info_AddChoice(CH_Level, "Level 16", CH_Level_16);
 	Info_AddChoice(CH_Level, "Level 17", CH_Level_17);
 	Info_AddChoice(CH_Level, "Level 18", CH_Level_18);
@@ -281,7 +281,7 @@ func void CH_Level11()
 {
 	Info_ClearChoices(CH_Level);
 
-	Info_AddChoice(CH_Level, "BACK", CH_Level_BACK);
+	Info_AddChoice(CH_Level, DIALOG_BACK, CH_Level_BACK);
 	Info_AddChoice(CH_Level, "Level 11", CH_Level_11);
 	Info_AddChoice(CH_Level, "Level 12", CH_Level_12);
 	Info_AddChoice(CH_Level, "Level 13", CH_Level_13);
@@ -293,7 +293,7 @@ func void CH_Level6()
 {
 	Info_ClearChoices(CH_Level);
 
-	Info_AddChoice(CH_Level, "BACK", CH_Level_BACK);
+	Info_AddChoice(CH_Level, DIALOG_BACK, CH_Level_BACK);
 	Info_AddChoice(CH_Level, "Level  6", CH_Level_6);
 	Info_AddChoice(CH_Level, "Level  7", CH_Level_7);
 	Info_AddChoice(CH_Level, "Level  8", CH_Level_8);
@@ -305,7 +305,7 @@ func void CH_Level1()
 {
 	Info_ClearChoices(CH_Level);
 
-	Info_AddChoice(CH_Level, "BACK", CH_Level_BACK);
+	Info_AddChoice(CH_Level, DIALOG_BACK, CH_Level_BACK);
 	Info_AddChoice(CH_Level, "Level 1", CH_Level_1);
 	Info_AddChoice(CH_Level, "Level 2", CH_Level_2);
 	Info_AddChoice(CH_Level, "Level 3", CH_Level_3);
@@ -704,7 +704,7 @@ func void CH_Guild_Info()
 {
 	Info_ClearChoices(CH_Guild);
 
-	Info_AddChoice(CH_Guild, "BACK", CH_Guild_BACK);
+	Info_AddChoice(CH_Guild, DIALOG_BACK, CH_Guild_BACK);
 	if ((hero.level >= 6) && (hero.level <= 10))
 	{
 		Info_AddChoice(CH_Guild, "Schatten", CH_Shadow);
@@ -1143,7 +1143,7 @@ func int CH_Training_Mana_Condition()
 func void CH_Training_Mana_Info()
 {
 	Info_ClearChoices(CH_Training_Mana);
-	Info_AddChoice(CH_Training_Mana, "BACK", CH_Training_Mana_BACK);
+	Info_AddChoice(CH_Training_Mana, DIALOG_BACK, CH_Training_Mana_BACK);
 	Info_AddChoice(CH_Training_Mana, "Mana (restliche Lernpunkte)", CH_Mana_all);
 	if (hero.LP >= 20)
 	{
@@ -1242,7 +1242,7 @@ func void CH_Training_Combat_Info()
 {
 	Info_ClearChoices(CH_Training_Combat);
 
-	Info_AddChoice(CH_Training_Combat, "BACK", CH_Training_Combat_BACK);
+	Info_AddChoice(CH_Training_Combat, DIALOG_BACK, CH_Training_Combat_BACK);
 
 	if ((hero.LP >= LPCOST_TALENT_CROSSBOW_2)
 	&& (Npc_GetTalentSkill(hero, NPC_TALENT_CROSSBOW) == 1))
@@ -1380,7 +1380,7 @@ func int CH_Training_Magic_Condition()
 func void CH_Training_Magic_Info()
 {
 	Info_ClearChoices(CH_Training_Magic);
-	Info_AddChoice(CH_Training_Magic, "BACK", CH_Training_Magic_BACK);
+	Info_AddChoice(CH_Training_Magic, DIALOG_BACK, CH_Training_Magic_BACK);
 
 	if ((hero.level >= 24)
 	&& (hero.lp >= LPCOST_TALENT_MAGE_6)
@@ -1545,7 +1545,7 @@ func void CH_Training_Thievery_Info()
 {
 	Info_ClearChoices(CH_Training_Thievery);
 
-	Info_AddChoice(CH_Training_Thievery, "BACK", CH_Training_Thievery_BACK);
+	Info_AddChoice(CH_Training_Thievery, DIALOG_BACK, CH_Training_Thievery_BACK);
 
 	if ((hero.LP >= LPCOST_TALENT_ACROBAT)
 	&& (Npc_GetTalentSkill(hero, NPC_TALENT_ACROBAT) == 0))
