@@ -105,7 +105,6 @@
 "Scripts/content/Story/B/B_AssignAmbientInfos_Grd_7.d:112","Arbeiten alle Leute hier für Gomez?","这里的人都是为戈麦斯工作吗？","","","Info_grd_7_DasLager_15_00","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Grd_7.d:113","Nein. Die meisten hier sind einfache Buddler.","不。他们中的大多数人只是普通的挖掘者。","","","Info_grd_7_DasLager_07_01","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Grd_7.d:114","Nur wir Gardisten und die Schatten sind Gomez' Leute.","只有我们卫兵和影子与戈麦斯在一起。","","","Info_grd_7_DasLager_07_02","",""
-"Scripts/content/Story/B/B_AssignAmbientInfos_Grd_7.d:116","ZURÜCK","返回","","","Info_grd_7_DasLager.Info_grd_7_DasLager_Zurueck","Info_AddChoice",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Grd_7.d:117","Was tun die Gardisten?","警卫们是做什么的？","","","Info_grd_7_DasLager.Info_grd_7_DasLager_Gardisten","Info_AddChoice",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Grd_7.d:118","Was ist die Aufgabe der Schatten?","影子是做什么的？","","","Info_grd_7_DasLager.Info_grd_7_DasLager_Schatten","Info_AddChoice",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Grd_7.d:119","Wofür sind die Buddler da?","挖掘者是做什么的？","","","Info_grd_7_DasLager.Info_grd_7_DasLager_Buddler","Info_AddChoice",""
