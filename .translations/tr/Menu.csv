@@ -157,7 +157,6 @@
 "Scripts/system/MENU/menu_savegame.d:140","Welt:","Dünya:","","","MENUITEM_LOADSAVE_LEVELNAME.text[0]","",""
 "Scripts/system/MENU/menu_savegame.d:166","gespeichert:","kaydetme:","","","MENUITEM_LOADSAVE_DATETIME.text[0]","",""
 "Scripts/system/MENU/menu_savegame.d:195","Spielzeit:","Oynama süresi:","","","MENUITEM_LOADSAVE_GAMETIME.text[0]","",""
-"Scripts/system/MENU/menu_savegame.d:239","Back","Geri","","","MENUITEM_SAVE_BACK.text[1]","",""
 "Scripts/system/MENU/menu_status.d:148","Gilde:","Lonca:","","","MENU_ITEM_PLAYERGUILD_TITLE.text[0]","",""
 "Scripts/system/MENU/menu_status.d:193","Stufe","Seviye","","False","MENU_ITEM_LEVEL_TITLE.text[0]","",""
 "Scripts/system/MENU/menu_status.d:201","Erfahrung","Tecrübe","","","MENU_ITEM_EXP_TITLE.text[0]","",""
