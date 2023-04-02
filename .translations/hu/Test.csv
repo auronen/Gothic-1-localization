@@ -126,7 +126,6 @@
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:350","IV:  Diego   - Freie Mine wurde überfallen","IV:  Diego   - A Szabad Bánya lerohanása","","False","StoryHelper_INFO4.StoryHelper_FreeMineAmbush","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:351","IV:  Saturas - Feuermagier holen","IV:  Saturas - Elhozni a tűzmágust","","False","StoryHelper_INFO4.StoryHelper_SaturasBringFoci_SUCCESS","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:571","Kapitel 5","5. Fejezet","","False","StoryHelper_INFO5.description","",""
-"Scripts/content/AI/Test_Skripts/StoryHelper.d:583","ZURÜCK","VISSZA","","False","StoryHelper_INFO5.StoryHelper_BACK5","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:584","V:  URIZIEL ist aufgeladen","V:  URIZIEL fel van töltve","","False","StoryHelper_INFO5.StoryHelper_UrizielLoaded","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:585","V:  Bereit für das Laden von URIZIEL","V:  Készen áll az URIZIEL feltöltésére","","False","StoryHelper_INFO5.StoryHelper_LoadUriziel","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:586","V:  Erforsche den versunkenen Turm","V:  Az elsüllyedt Torony felfedezése","","False","StoryHelper_INFO5.StoryHelper_ExploreSunkenTower","Info_AddChoice",""
