@@ -107,7 +107,6 @@
 "Scripts/content/AI/Test_Skripts/PerceptionTestmodell.d:9","Perception_Testmodell","Perception_Testmodell","","False","Perception_Testmodell.name","",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:5","StoryHelper","TörténetSegéd","","False","SH.name","",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:86","Kapitel 2","2. Fejezet","","False","StoryHelper_INFO2.description","",""
-"Scripts/content/AI/Test_Skripts/StoryHelper.d:98","ZURÜCK","VISSZA","","False","StoryHelper_INFO2.StoryHelper_BACK2","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:99","II:  Vorbereitung für die Beschwörung","II: Felkészülés az idézésre","","False","StoryHelper_INFO2.StoryHelper_PrepareRitual","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:100","II:  Hole den Almanach","II: Szerezd meg az almanachot","","False","StoryHelper_INFO2.StoryHelper_CorKalom_BringBook_RUNNING","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:101","II:  Hole die MCQ-Eier","II:  Szerezd meg a Rákkirálynő tojásokat","","False","StoryHelper_INFO2.StoryHelper_CorKalom_BringMCQBalls_RUNNING","Info_AddChoice",""
