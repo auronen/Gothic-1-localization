@@ -105,7 +105,6 @@
 "Scripts/content/Story/B/B_AssignAmbientInfos_Grd_7.d:112","Arbeiten alle Leute hier für Gomez?","Tous les gens ici travaillent pour Gomez ?","","","Info_grd_7_DasLager_15_00","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Grd_7.d:113","Nein. Die meisten hier sind einfache Buddler.","Non. Beaucoup d'entre eux sont juste de simples mineurs.","","","Info_grd_7_DasLager_07_01","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Grd_7.d:114","Nur wir Gardisten und die Schatten sind Gomez' Leute.","Seuls nous, les gardes, et les Ombre sont avec Gomez.","","","Info_grd_7_DasLager_07_02","",""
-"Scripts/content/Story/B/B_AssignAmbientInfos_Grd_7.d:116","ZURÜCK","RETOUR","","","Info_grd_7_DasLager.Info_grd_7_DasLager_Zurueck","Info_AddChoice",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Grd_7.d:117","Was tun die Gardisten?","Que font les Gardes ?","","","Info_grd_7_DasLager.Info_grd_7_DasLager_Gardisten","Info_AddChoice",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Grd_7.d:118","Was ist die Aufgabe der Schatten?","Que font les Ombres ?","","","Info_grd_7_DasLager.Info_grd_7_DasLager_Schatten","Info_AddChoice",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Grd_7.d:119","Wofür sind die Buddler da?","Que font les Mineurs ?","","","Info_grd_7_DasLager.Info_grd_7_DasLager_Buddler","Info_AddChoice",""
