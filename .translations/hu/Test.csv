@@ -118,7 +118,6 @@
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:228","III: BaalLukor - besiegt","III: BaalLukor - legyőzve","","False","StoryHelper_INFO3.StoryHelper_BaalLukor_DEFEAT","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:229","III: Bereit für den Ork-Friedhof","III: Készen az ork temetőre","","False","StoryHelper_INFO3.StoryHelper_OrcGraveyard","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:332","Kapitel 4","4. Fejezet","","False","StoryHelper_INFO4.description","",""
-"Scripts/content/AI/Test_Skripts/StoryHelper.d:344","ZURÜCK","VISSZA","","False","StoryHelper_INFO4.StoryHelper_BACK4","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:345","IV:  Suche Teile für Ulu-Mulu","IV:  Tárgyak keresése az Ulu-Mulu-hoz","","False","StoryHelper_INFO4.StoryHelper_SearchForUluMulu","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:346","IV:  Bereit für Angriff auf die Freie Mine","IV:  Készen a Szabad Bányára","","False","StoryHelper_INFO4.StoryHelper_AttackFreeMine","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:347","IV:  Xardas  - Finde Ork Schamanen","IV:  Xardas  - Találd meg az Ork Sámánokat","","False","StoryHelper_INFO4.StoryHelper_XardasFindOrcShaman","Info_AddChoice",""
