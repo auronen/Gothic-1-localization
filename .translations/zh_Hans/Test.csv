@@ -126,7 +126,6 @@
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:350","IV:  Diego   - Freie Mine wurde überfallen","IV：迭戈--自由矿被突袭","","","StoryHelper_INFO4.StoryHelper_FreeMineAmbush","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:351","IV:  Saturas - Feuermagier holen","IV：萨图拉斯--火法师","","","StoryHelper_INFO4.StoryHelper_SaturasBringFoci_SUCCESS","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:571","Kapitel 5","第5章","","","StoryHelper_INFO5.description","",""
-"Scripts/content/AI/Test_Skripts/StoryHelper.d:583","ZURÜCK","返回","","","StoryHelper_INFO5.StoryHelper_BACK5","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:584","V:  URIZIEL ist aufgeladen","五：目标收费","","","StoryHelper_INFO5.StoryHelper_UrizielLoaded","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:585","V:  Bereit für das Laden von URIZIEL","V：准备装载URIZIEL","","","StoryHelper_INFO5.StoryHelper_LoadUriziel","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:586","V:  Erforsche den versunkenen Turm","V：探索沉没的塔","","","StoryHelper_INFO5.StoryHelper_ExploreSunkenTower","Info_AddChoice",""
