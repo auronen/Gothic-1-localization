@@ -118,7 +118,6 @@
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:228","III: BaalLukor - besiegt","III: BaalLukor - kuşatma","","","StoryHelper_INFO3.StoryHelper_BaalLukor_DEFEAT","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:229","III: Bereit für den Ork-Friedhof","III: Ork Mezarlığına Hazırlık","","","StoryHelper_INFO3.StoryHelper_OrcGraveyard","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:332","Kapitel 4","Bölüm 4","","","StoryHelper_INFO4.description","",""
-"Scripts/content/AI/Test_Skripts/StoryHelper.d:344","ZURÜCK","GERİ","","","StoryHelper_INFO4.StoryHelper_BACK4","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:345","IV:  Suche Teile für Ulu-Mulu","IV:   Ulu-Mulu Arayışı","","","StoryHelper_INFO4.StoryHelper_SearchForUluMulu","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:346","IV:  Bereit für Angriff auf die Freie Mine","IV:  Özgür Maden'e Saldırı Hazırlığı","","","StoryHelper_INFO4.StoryHelper_AttackFreeMine","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:347","IV:  Xardas  - Finde Ork Schamanen","IV:  Xardas  - Ork şaman'ı bul","","","StoryHelper_INFO4.StoryHelper_XardasFindOrcShaman","Info_AddChoice",""
