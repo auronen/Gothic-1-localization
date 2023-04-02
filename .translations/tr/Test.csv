@@ -85,7 +85,6 @@
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:740","Novize","Mürit","","","CH_Guild.CH_Novice","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:745","Templer","Tapınakçı","","","CH_Guild.CH_Templar","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:891","ATTRIBUTE: Stärke","NİTELİK: Kuvvet","","","CH_Training_STR.description","",""
-"Scripts/content/AI/Test_Skripts/CharacterHelper.d:906","ZURÜCK","GERİ","","","CH_Training_STR.CH_Training_STR_BACK","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:907","Stärke (alle restlichen Lernpunkte)","Kuvvet (kalan tüm öğrenme puanları)","","","CH_Training_STR.CH_Strength_all","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:908","Stärke (für beste Nahkampfwaffe)","Kuvvet (en iyi yakın dövüş silahı başına)","","","CH_Training_STR.CH_Strength_Weapon","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:981","nötige STR bereits vorhanden","Zaten gerekli kuvvete sahipsiniz","","","_PRINT_CH_STR","",""
