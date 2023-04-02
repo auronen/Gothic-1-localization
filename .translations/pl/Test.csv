@@ -89,7 +89,6 @@
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:908","Stärke (für beste Nahkampfwaffe)","Siła (dla najlepszej broni do walki wręcz)","","False","CH_Training_STR.CH_Strength_Weapon","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:981","nötige STR bereits vorhanden","wymagana SIŁA jest już dostępna","","False","_PRINT_CH_STR","",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:1012","ATTRIBUTE: Geschick","ATRYBUT: Zręczność","","False","CH_Training_DEX.description","",""
-"Scripts/content/AI/Test_Skripts/CharacterHelper.d:1026","ZURÜCK","WRÓĆ","","False","CH_Training_DEX.CH_Training_DEX_BACK","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:1027","Geschick (alle restlichen Lernpunkte)","Zręczność (pozostałe punkty nauki)","","False","CH_Training_DEX.CH_Dexterity_all","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:1028","Geschick (für beste Fernkampfwaffe)","Zręczność (dla najlepszej broni dystansowej)","","False","CH_Training_DEX.CH_Dexterity_Weapon","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:1101","nötige DEX bereits vorhanden","wymagana ZRĘCZNOŚĆ jest już dostępna","","False","_PRINT_CH_DEX","",""
