@@ -1827,4 +1827,4 @@
 "Scripts/content/Story/svm.d:2141","Aaargl","Aaarg!","","","SVM_16_Dead","",""
 "Scripts/content/Story/svm.d:2152","KARROK UR SHAK TOS KARRAS DA GACH","KARROK UR SHAK TOS KARRAS DA GACH","","","SVM_17_OrcSound01","",""
 "Scripts/content/Story/svm.d:2153","ROK KRUSHAK KOR GANORG","ROK KRUSHAK KOR GANORG","","","SVM_17_OrcSound02","",""
-"Scripts/content/Story/svm.d:2154","NEMROK KA VARROK","NEMROK KA VARROK","","","SVM_17_OrcSound03","",""
+"Scripts/content/Story/svm.d:2154","NEMROK KA VARROK","NEMROK KA VARROK","","False","SVM_17_OrcSound03","",""
