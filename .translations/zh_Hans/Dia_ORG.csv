@@ -315,7 +315,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Org_826_Mordrag.d:112","Stimmt es, dass du Kurier für die Magier bist?","您真的是魔术师的快递员吗？","","","Org_826_Mordrag_Courier_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_826_Mordrag.d:113","Und wenn es so wäre?","如果我是怎么办？","","","Org_826_Mordrag_Courier_11_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_826_Mordrag.d:114","Ich würde gerne mal Gelegenheit haben, mit den Magiern zu reden. Ich muss in die Burg.","我想有机会与魔术师交谈。 我必须进入城堡。","","","Org_826_Mordrag_Courier_15_02","",""
-"Scripts/content/Story/MISSIONS/DIA_Org_826_Mordrag.d:115","Die Kuriere der Magier haben ein Siegel, dass ihnen Zutritt zur Burg erlaubt. Wenn du einer von uns wärst, könntest du so ein Siegel bekommen ...","“魔术师的快递员带有印章，使他们进入城堡。如果您是我们中的一员，您可以得到如此密封……”","","","Org_826_Mordrag_Courier_11_03","",""
+"Scripts/content/Story/MISSIONS/DIA_Org_826_Mordrag.d:115","Die Kuriere der Magier haben ein Siegel, dass ihnen Zutritt zur Burg erlaubt. Wenn du einer von uns wärst, könntest du so ein Siegel bekommen ...","魔术师的快递员带有印章，使他们进入城堡。如果您是我们中的一员，您可以得到如此密封……","","False","Org_826_Mordrag_Courier_11_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_826_Mordrag.d:127","Du hast ein Problem.","你有问题。","","","Org_826_Mordrag_Problem.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_826_Mordrag.d:140","Du hast ein Problem.","你有问题。","","","Org_826_Mordrag_Problem_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_826_Mordrag.d:141","Ach? Und das wäre?","真的吗？ 那是什么？","","","Org_826_Mordrag_Problem_11_01","",""
