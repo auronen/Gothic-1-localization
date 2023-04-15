@@ -1094,7 +1094,7 @@ instance Info_Saturas_NOWSLD(C_INFO)
 	nr				= 0;
 	condition		= Info_Saturas_NOWSLD_Condition;
 	information		= Info_Saturas_NOWSLD_Info;
-	description		= GE_BecomeMercenary_2;
+	description		= "Lee hat mich bei den Söldnern aufgenommen.";
 };
 
 func int Info_Saturas_NOWSLD_Condition()
