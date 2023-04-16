@@ -219,7 +219,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Stt_311_Fisk.d:149","Wegen Whistlers Schwert...","关于惠斯勒的剑...","","","Stt_311_Fisk_ForgetSword.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_311_Fisk.d:162","Lass uns noch mal über Whistlers Schwert reden.","让我们再次谈论惠斯勒的剑。","","","Stt_311_Fisk_ForgetSword_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_311_Fisk.d:163","Du kannst ihm sagen, er wird sein Schwert nie kriegen.","您可以告诉他，他永远不会得到他的剑。","","","Stt_311_Fisk_ForgetSword_12_01","",""
-"Scripts/content/Story/MISSIONS/DIA_Stt_311_Fisk.d:191","Hey, du!","嘿，你！","","","Stt_311_Fisk_MordragKO_12_00","",""
+"Scripts/content/Story/MISSIONS/DIA_Stt_311_Fisk.d:191","Hey, du!","嘿，就是你！","","False","Stt_311_Fisk_MordragKO_12_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_311_Fisk.d:192","Mordrag war einer meiner wichtigsten Lieferanten, du Schwachkopf!","Mordrag是我最重要的供应商之一，你这个白痴！","","","Stt_311_Fisk_MordragKO_12_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_311_Fisk.d:193","Wenn du hier im Lager aufgenommen werden willst, kriegst du MEINE Stimme jedenfalls nicht!","如果您想加入这个营地，您将很难获得我的投票！","","","Stt_311_Fisk_MordragKO_12_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_311_Fisk.d:196","Deine Ware gehört den Erzbaronen. Das wird Thorus sicher interessieren...","您正在交易矿石男爵的财产！ Thorus会感兴趣...","","","Stt_311_Fisk_MordragKO.Stt_311_Fisk_MordragKO_Petze","Info_AddChoice",""
