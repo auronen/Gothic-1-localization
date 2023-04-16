@@ -43,7 +43,7 @@
 "Scripts/content/Story/MISSIONS/DIA_GUR_1200_YBerion.d:257","Wie sieht's mit einer Belohnung aus?","那奖励呢？","","","GUR_1200_Yberion_EARN_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1200_YBerion.d:258","Da du kein Bruder unserer Gemeinschaft bist, werde ich dich entlohnen.","“由于您不是我们兄弟会的成员，我会奖励您。","","","GUR_1200_Yberion_EARN_Info_12_02","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1200_YBerion.d:259","Nimm dieses Amulett als Zeichen meiner Dankbarkeit.","以我的感激之情为标志。","","","GUR_1200_Yberion_EARN_Info_12_03","",""
-"Scripts/content/Story/MISSIONS/DIA_GUR_1201_CorKalom.d:24","Was willst du?","你想要什么？","","","GUR_1201_CorKalom_FIRST_10_00","",""
+"Scripts/content/Story/MISSIONS/DIA_GUR_1201_CorKalom.d:24","Was willst du?","你想做什么？","","False","GUR_1201_CorKalom_FIRST_10_00","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1201_CorKalom.d:37","Ich will in die Bruderschaft aufgenommen werden.","我想加入兄弟会。","","","GUR_1201_CorKalom_WannaJoin.description","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1201_CorKalom.d:50","Ich will in die Bruderschaft aufgenommen werden.","我想加入兄弟会。","","","GUR_1201_CorKalom_WannaJoin_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1201_CorKalom.d:51","Ich habe gehört, du bist der Meister der Novizen, und entscheidest, wer aufgenommen wird.","我听说您是新手的大师，您决定谁被允许加入。","","","GUR_1201_CorKalom_WannaJoin_15_01","",""
