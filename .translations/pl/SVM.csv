@@ -695,7 +695,7 @@
 "Scripts/content/Story/svm.d:960","Lass dir das nicht bieten! Hau ihm auf's Maul!","Przestań się mazgaić! Oddaj mu!","","False","SVM_6_Ooh","",""
 "Scripts/content/Story/svm.d:961","Jetzt gib's ihm. Ja, der bewegt sich noch!","No już! Facet jeszcze dycha!","","","SVM_6_YeahWellDone","",""
 "Scripts/content/Story/svm.d:962","Feigling, komm zurück!","Wracaj, tchórzu!","","False","SVM_6_RunCoward","",""
-"Scripts/content/Story/svm.d:963","Der hat genug!","Ma już dość.","","","SVM_6_HeDefeatedHim","",""
+"Scripts/content/Story/svm.d:963","Der hat genug!","Ma już dość!","","False","SVM_6_HeDefeatedHim","",""
 "Scripts/content/Story/svm.d:964","Geschieht ihm recht!","Należało się mu!","","False","SVM_6_HeDeservedIt","",""
 "Scripts/content/Story/svm.d:965","Du bist so gut wie tot! Einfach einen kalt machen.","Jesteś już martwy! To cię oduczy zabijania niewinnych ludzi!","","","SVM_6_HeKilledHim","",""
 "Scripts/content/Story/svm.d:966","Hahaha! Na, dem hast du's aber gezeigt!","Ha ha ha! No! Ale mu pokazałeś!","","","SVM_6_ItWasAGoodFight","",""
