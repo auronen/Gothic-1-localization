@@ -1,6 +1,6 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
 "Scripts/content/Story/Text.d:6","Kiste","盒子","","","MOBNAME_CRATE","",""
-"Scripts/content/Story/Text.d:7","Truhe","胸部","","","MOBNAME_CHEST","",""
+"Scripts/content/Story/Text.d:7","Truhe","箱子","","False","MOBNAME_CHEST","",""
 "Scripts/content/Story/Text.d:8","Bett","床","","","MOBNAME_BED","",""
 "Scripts/content/Story/Text.d:9","Tür","门","","","MOBNAME_DOOR","",""
 "Scripts/content/Story/Text.d:16","Amboss","砧","","","MOBNAME_ANVIL","",""
