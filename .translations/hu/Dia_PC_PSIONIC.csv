@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:23","Dem Ziel entgegen!","Gyerünk!","","","Info_Lester_EXIT_05_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:23","Dem Ziel entgegen!","Gyerünk!","","False","Info_Lester_EXIT_05_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:27","Der Schläfer möge dich behüten!","Az Alvó legyen veled!","","","Info_Lester_EXIT_05_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:55","Du hast einen Guru angesprochen!! Tu das nie wieder! Es ist ein Sakrileg! Wenn der Meister es für richtig hält, mit dir zu reden, wird ER dich ansprechen.","Megzavartál egy Gurut! Sose tegyél ilyet még egyszer! Ez szentségtörés! Ha egy mester beszélni akar veled, majd Ő szól HOZZÁD.","","","DIA_Lester_Sakrileg_05_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:67","Wer bist du?","Ki vagy?","","","DIA_Lester_Hallo.description","",""
