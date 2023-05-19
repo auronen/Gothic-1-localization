@@ -147,5 +147,5 @@
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:1158","Lass uns zusammen die Festung erkunden.","Prozkoumáme pevnost společně.","","","PC_Psionic_COMEAGAIN_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:1159","In Ordnung, du gehst vor!","Dobře, jdi první!","","","PC_Psionic_COMEAGAIN_Info_05_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:1176","Ich habe Diego und Milten vor dem Alten Lager getroffen!","Potkal jsem přes Starým táborem Diega a Miltena!","","","Info_Lester_DIEGOMILTEN.description","",""
-"Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:1197","Sie wollen sich mit dir treffen. An eurem üblichen Treffpunkt.","Chtěli se s tebou setkat. Na obvyklém místě.","","","Info_lester_DIEGOMILTEN_15_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:1197","Sie wollen sich mit dir treffen. An eurem üblichen Treffpunkt.","Chtějí se s tebou setkat. Na obvyklém místě.","","False","Info_lester_DIEGOMILTEN_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:1200","Ich werde noch etwas bleiben, um die alten Bücher zu studieren.","Zůstanu tady, abych si přečetl ty staré knihy.","","","Info_lester_DIEGOMILTEN_05_02","",""
