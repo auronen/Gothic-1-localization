@@ -147,5 +147,5 @@
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:1158","Lass uns zusammen die Festung erkunden.","Let's sound out the fort together.","","","PC_Psionic_COMEAGAIN_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:1159","In Ordnung, du gehst vor!","Alright, you go first!","","","PC_Psionic_COMEAGAIN_Info_05_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:1176","Ich habe Diego und Milten vor dem Alten Lager getroffen!","I met Diego and Milten in front of the Old Camp!","","","Info_Lester_DIEGOMILTEN.description","",""
-"Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:1197","Sie wollen sich mit dir treffen. An eurem üblichen Treffpunkt.","They want to meet you. At your usual rendezvous.","","","Info_lester_DIEGOMILTEN_15_01","",""
-"Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:1200","Ich werde noch etwas bleiben, um die alten Bücher zu studieren.","I'll stay here to read the old books.","","","Info_lester_DIEGOMILTEN_05_02","",""
+"Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:1197","Sie wollen sich mit dir treffen. An eurem üblichen Treffpunkt.","They want a meeting at the usual place.","","False","Info_lester_DIEGOMILTEN_15_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:1200","Ich werde noch etwas bleiben, um die alten Bücher zu studieren.","I'm gonna stay here a bit longer to study the old books.","","False","Info_lester_DIEGOMILTEN_05_02","",""
