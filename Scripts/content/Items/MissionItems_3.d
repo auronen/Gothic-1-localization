@@ -151,12 +151,13 @@ instance ItWr_Troll_01(C_Item)
 	text[4]						= "gewesen zu sein.";							count[4] = 0;
 };
 
+const string Troll_1	= "169. Tag";
+const string Troll_2	= "Heute werde ich es schaffen. Ich weiß es. Die Götter stehen mir bei. Ich habe alles versucht einen Troll zu töten. Härtester Stahl zeigte keine Wirkung und Pfeile prallten von ihm ab als wäre seine Haut aus Stein.";
+const string Troll_3	= "Nun werde ich mich dieser magischen Spruchrolle bedienen, die mir der Händler in Khorinis verkauft hat. Sie hat mich 50 Goldstücke gekostet, aber der Gewinn, den ich durch die Trophäen bekomme, wird mich reich machen.";
+const string Troll_4	= "Heute werde ich einen Troll töten.";
+
 func void UseTroll()
 {
-	const string Troll_1	= "169. Tag";
-	const string Troll_2	= "Heute werde ich es schaffen. Ich weiß es. Die Götter stehen mir bei. Ich habe alles versucht einen Troll zu töten. Härtester Stahl zeigte keine Wirkung und Pfeile prallten von ihm ab als wäre seine Haut aus Stein.";
-	const string Troll_3	= "Nun werde ich mich dieser magischen Spruchrolle bedienen, die mir der Händler in Khorinis verkauft hat. Sie hat mich 50 Goldstücke gekostet, aber der Gewinn, den ich durch die Trophäen bekomme, wird mich reich machen.";
-	const string Troll_4	= "Heute werde ich einen Troll töten.";
 
 	var int nDocID;
 
@@ -253,10 +254,11 @@ instance ItWr_Urkunde_01(C_Item)
 	text[5]						= "Wert                                   400 Pfund Gold";count[5] = 0;
 };
 
+const string Urkunde_1	= "Urkunde";
+const string Urkunde_2	= "Ich, Bergmar Burggraf zu Westfeld und meines Herren zu Tymoris Landrichter über das Gut in dem Gebiet um Khorinis gelegen, ... tue kund, ... das ich ... dem Besitzer dieser Urkunde ... und dem Innoshaus daselbst das Lehen auf der Bergfeste (mitsamt weiteren Zehenten und allen dort befindlichen Minen) aufgegeben und verkauft habe um 400 Pfund Gold.";
+
 func void UseUrkunde()
 {
-	const string Urkunde_1	= "Urkunde";
-	const string Urkunde_2	= "Ich, Bergmar Burggraf zu Westfeld und meines Herren zu Tymoris Landrichter über das Gut in dem Gebiet um Khorinis gelegen, ... tue kund, ... das ich ... dem Besitzer dieser Urkunde ... und dem Innoshaus daselbst das Lehen auf der Bergfeste (mitsamt weiteren Zehenten und allen dort befindlichen Minen) aufgegeben und verkauft habe um 400 Pfund Gold.";
 
 	var int nDocID;
 

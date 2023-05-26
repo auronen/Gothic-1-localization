@@ -137,6 +137,14 @@ instance ItWrFokusbuch(C_Item)
 	text[2]						= "Verwendung sogenannter Fokus-Steine beziehen.";count[2] = 0;
 };
 
+const string ItWrFokusbuch_1	= "Kapitel 23";
+const string ItWrFokusbuch_2	= "Die gebündelte Macht";
+const string ItWrFokusbuch_3	= "Die im Inneren des Steins ruhende und ständige wachsende Kraft wird durch die Worte des Magiers freigesetzt. Beständig oder auf einen Schlag, das liegt alleine im seinem Ermessen. ";
+const string ItWrFokusbuch_4	= "Zugleich wird der Fokus jedoch frei von der Macht, er ist nunmehr eine leere Hülle.";
+const string ItWrFokusbuch_5	= "Die Worte der Macht, um  die in einem Fokus aufbewahrte Energie freizulassen sind vielen Künstlern der arkanen Kraft zugänglich. Auch einen neues Artefakt mit Energie zu füllen ist mehr magische Gepflogenheit geworden denn ein Geheimnis der Wissenden. ";
+const string ItWrFokusbuch_6	= "Doch einen gebrauchten Fokusstein wieder erneut aufzuladen, verstehen nur Auserwählte.Diese Formel aus uralten Tagen dient als Zeichen der hohen Gabe.";
+const string ItWrFokusbuch_7	= "So dann Wissender öffne deinen Geist für die Worte alter Macht  ";
+
 func void UseItWrFokusbuch()
 {
 	if ((Wissen_Almanach == FALSE)
@@ -146,13 +154,6 @@ func void UseItWrFokusbuch()
 		Wissen_Almanach = TRUE;
 	};
 
-	const string ItWrFokusbuch_1	= "Kapitel 23";
-	const string ItWrFokusbuch_2	= "Die gebündelte Macht";
-	const string ItWrFokusbuch_3	= "Die im Inneren des Steins ruhende und ständige wachsende Kraft wird durch die Worte des Magiers freigesetzt. Beständig oder auf einen Schlag, das liegt alleine im seinem Ermessen. ";
-	const string ItWrFokusbuch_4	= "Zugleich wird der Fokus jedoch frei von der Macht, er ist nunmehr eine leere Hülle.";
-	const string ItWrFokusbuch_5	= "Die Worte der Macht, um  die in einem Fokus aufbewahrte Energie freizulassen sind vielen Künstlern der arkanen Kraft zugänglich. Auch einen neues Artefakt mit Energie zu füllen ist mehr magische Gepflogenheit geworden denn ein Geheimnis der Wissenden. ";
-	const string ItWrFokusbuch_6	= "Doch einen gebrauchten Fokusstein wieder erneut aufzuladen, verstehen nur Auserwählte.Diese Formel aus uralten Tagen dient als Zeichen der hohen Gabe.";
-	const string ItWrFokusbuch_7	= "So dann Wissender öffne deinen Geist für die Worte alter Macht  ";
 
 
 	var int nDocID;

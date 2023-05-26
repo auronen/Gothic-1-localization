@@ -277,12 +277,13 @@ instance Cronos_Brief(C_Item)
 	text[5]						= "";											count[5] = 0;
 };
 
+const string CronosBrief_1	= "Hochgeschätzter Meister Corristo,";
+const string CronosBrief_2	= "Saturas, ehrwürdiger Meister der Magier vom Keis des Wassers, möchte Euch ersuchen, gemeinsam mit uns dafür Sorge zu tragen, daß die Spannungen zwischen dem alten und dem neuen Lager in einem Rahmen gehalten werden, der für beide Seiten zuträglich ist. Da Ihr dafür Sorge tragt, daß der König seine monatliche Erzlieferung erhält, ist es in Eurem Interesse, daß die Aktivitäten der Banditen aus dem Neuen Lager eingeschränkt werden. Desweiteren ist es in unserem Interesse, daß seitens des Alten Lagers keine Schritte unternommen werden, die unser Vorhaben, die magische Barriere wieder zu öffnen in Gefahr bringen könnten.";
+const string CronosBrief_3	= "In Erwartung Eurer baldigen Antwort";
+const string CronosBrief_4	= "            Cronos, Hüter des Erzes";
+
 func void UseCronosBrief()
 {
-	const string CronosBrief_1	= "Hochgeschätzter Meister Corristo,";
-	const string CronosBrief_2	= "Saturas, ehrwürdiger Meister der Magier vom Keis des Wassers, möchte Euch ersuchen, gemeinsam mit uns dafür Sorge zu tragen, daß die Spannungen zwischen dem alten und dem neuen Lager in einem Rahmen gehalten werden, der für beide Seiten zuträglich ist. Da Ihr dafür Sorge tragt, daß der König seine monatliche Erzlieferung erhält, ist es in Eurem Interesse, daß die Aktivitäten der Banditen aus dem Neuen Lager eingeschränkt werden. Desweiteren ist es in unserem Interesse, daß seitens des Alten Lagers keine Schritte unternommen werden, die unser Vorhaben, die magische Barriere wieder zu öffnen in Gefahr bringen könnten.";
-	const string CronosBrief_3	= "In Erwartung Eurer baldigen Antwort";
-	const string CronosBrief_4	= "            Cronos, Hüter des Erzes";
 	
 	var int nDocID;
 
@@ -438,18 +439,19 @@ instance TheList(C_Item)
 	text[1]						= "Liste seinen Bedarf an Vorräten aufgeführt.";count[1] = 0;
 };
 
+const string TheList_1	= "Bedarfsliste";
+const string TheList_2	= "20 Laib  Brot - diesmal  aber nicht  das Verschimmelte!";
+const string TheList_3	= "25-30  Äpfel";
+const string TheList_4	= "10  Käse";
+const string TheList_5	= "1 Suppenkelle";
+const string TheList_6	= "1 Bürste";
+const string TheList_7	= "5   Spitzhacken   + 3  Hämmer";
+const string TheList_8	= "Und  reichlich  Sumpfkraut - weißt  ja erste  Lieferung im   Monat! ";
+const string TheList_9	= "Die Lieferung   sollte  übermorgen da sein.";
+const string TheList_10	= "IAN";
+
 func void UseTheList()
 {
-	const string TheList_1	= "Bedarfsliste";
-	const string TheList_2	= "20 Laib  Brot - diesmal  aber nicht  das Verschimmelte!";
-	const string TheList_3	= "25-30  Äpfel";
-	const string TheList_4	= "10  Käse";
-	const string TheList_5	= "1 Suppenkelle";
-	const string TheList_6	= "1 Bürste";
-	const string TheList_7	= "5   Spitzhacken   + 3  Hämmer";
-	const string TheList_8	= "Und  reichlich  Sumpfkraut - weißt  ja erste  Lieferung im   Monat! ";
-	const string TheList_9	= "Die Lieferung   sollte  übermorgen da sein.";
-	const string TheList_10	= "IAN";
 
 	var int nDocID;
 
@@ -502,23 +504,14 @@ instance TheListNC(C_Item)
 	text[3]						= "wirklich meisterhafte Fälschung!)";			count[3] = 0;
 };
 
+const string TheListNC_11	= "Was mir gerade noch einfällt:";
+const string TheListNC_12	= "30 Flaschen Bier";
+const string TheListNC_13	= "5 Flaschen Wein";
+const string TheListNC_14	= "25 gebratene Scavangerkeulen";
+const string TheListNC_15	= "ein halbes Duzend Ersatzwaffen";
+
 func void UseTheListNC()
 {
-	const string TheListNC_1	= "Bedarfsliste";
-	const string TheListNC_2	= "20 Laib  Brot - diesmal  aber nicht  das Verschimmelte!";
-	const string TheListNC_3	= "25-30  Äpfel";
-	const string TheListNC_4	= "10  Käse";
-	const string TheListNC_5	= "1 Suppenkelle";
-	const string TheListNC_6	= "1 Bürste";
-	const string TheListNC_7	= "5   Spitzhacken   + 3  Hämmer";
-	const string TheListNC_8	= "Und  reichlich  Sumpfkraut - weißt  ja erste  Lieferung im   Monat! ";
-	const string TheListNC_9	= "Die Lieferung   sollte  übermorgen da sein.";
-	const string TheListNC_10	= "IAN";
-	const string TheListNC_11	= "Was mir gerade noch einfällt:";
-	const string TheListNC_12	= "30 Flaschen Bier";
-	const string TheListNC_13	= "5 Flaschen Wein";
-	const string TheListNC_14	= "25 gebratene Scavangerkeulen";
-	const string TheListNC_15	= "ein halbes Duzend Ersatzwaffen";
 
 	var int nDocID;
 
@@ -528,19 +521,19 @@ func void UseTheListNC()
 				Doc_SetFont(nDocID, -1, "font_10_book.tga"); // -1 -> all pages
 				Doc_SetMargins(nDocID, -1, 50, 50, 50, 50, 1); // 0 -> margins are in pixels
 
-				Doc_PrintLine	(nDocID, 0, TheListNC_1);
+				Doc_PrintLine	(nDocID, 0, TheList_1);
 				Doc_PrintLine	(nDocID, 0, "");
-				Doc_PrintLines	(nDocID, 0, TheListNC_2);
-				Doc_PrintLine	(nDocID, 0, TheListNC_3);
-				Doc_PrintLine	(nDocID, 0, TheListNC_4);
-				Doc_PrintLine	(nDocID, 0, TheListNC_5);
-				Doc_PrintLine	(nDocID, 0, TheListNC_6);
-				Doc_PrintLine	(nDocID, 0, TheListNC_7);
-				Doc_PrintLines	(nDocID, 0, TheListNC_8);
-				Doc_PrintLine	(nDocID, 0, TheListNC_9);
+				Doc_PrintLines	(nDocID, 0, TheList_2);
+				Doc_PrintLine	(nDocID, 0, TheList_3);
+				Doc_PrintLine	(nDocID, 0, TheList_4);
+				Doc_PrintLine	(nDocID, 0, TheList_5);
+				Doc_PrintLine	(nDocID, 0, TheList_6);
+				Doc_PrintLine	(nDocID, 0, TheList_7);
+				Doc_PrintLines	(nDocID, 0, TheList_8);
+				Doc_PrintLine	(nDocID, 0, TheList_9);
 				Doc_PrintLine	(nDocID, 0, "");
 				Doc_PrintLine	(nDocID, 0, "");
-				Doc_PrintLine	(nDocID, 0, TheListNC_10);
+				Doc_PrintLine	(nDocID, 0, TheList_10);
 				Doc_PrintLine	(nDocID, 0, "");
 				Doc_PrintLine	(nDocID, 0, TheListNC_11);
 				Doc_PrintLine	(nDocID, 0, TheListNC_12);
@@ -684,12 +677,13 @@ instance KalomsRecipe(C_Item)
 };
 
 // ----------------------------------
+const string KalomsRecipe_1	= "Lifrun ak Gharak";
+const string KalomsRecipe_2	= "Gharak Or Nach bin thu. Lifrun mar Orag chtah. Shrunk esp Horinth.";
+const string KalomsRecipe_3	= "Wenn man es rückwärts liest, scheint es einen Sinn zu geben";
+const string KalomsRecipe_4	= "          - Kalom";
+
 func void Use_KalomsRecipe()
 {
-	const string KalomsRecipe_1	= "Lifrun ak Gharak";
-	const string KalomsRecipe_2	= "Gharak Or Nach bin thu. Lifrun mar Orag chtah. Shrunk esp Horinth.";
-	const string KalomsRecipe_3	= "Wenn man es rückwärts liest, scheint es einen Sinn zu geben";
-	const string KalomsRecipe_4	= "          - Kalom";
 	
 	var int nDocID;
 
@@ -1020,13 +1014,14 @@ instance ItWr_Fire_Letter_01(C_Item)
 	text[5]						= NAME_Value;									count[5] = value;
 };
 
+const string fireletter_1	= "Hochgeschätzter Meister";
+const string fireletter_2	= "eure letzte Nachricht erhielten wir mit großer Sorge.Wir haben uns beraten und lassen Euch durch diesen Brief unsere Entscheidung wissen.Die  Bruderschaft bedeutet eine Gefahr. Eine Gefahr für die weiteren Abläufe unseres Handelsabkommen und damit für den König, das gesamte Königreich und auch für Euer Leben. Deshalb solltet Ihr zunächst Kundschafter aussenden und herausfinden, auf welchen Göttern und auf welchem Wissen ihre magische Macht beruht. Wenn Ihr das herausgefunden habt, werden wir die Priester mit Euren Erkenntnissen vertraut machen, auf das wir gemeinsam diesem Spuk ein Ende bereiten werden. Schon in diesem Augenblick studieren die Gelehrten die alten Bücher. Über alle neuen Erkenntnisse berichten wir Euch umgehend auf gewohntem Weg.";
+const string fireletter_3	= "Möge Innos uns schützen";
+
 func void Usefireletter()
 {
 	CreateInvItem(hero, ItWr_Fire_Letter_02);
 
-	const string fireletter_1	= "Hochgeschätzter Meister";
-	const string fireletter_2	= "eure letzte Nachricht erhielten wir mit großer Sorge.Wir haben uns beraten und lassen Euch durch diesen Brief unsere Entscheidung wissen.Die  Bruderschaft bedeutet eine Gefahr. Eine Gefahr für die weiteren Abläufe unseres Handelsabkommen und damit für den König, das gesamte Königreich und auch für Euer Leben. Deshalb solltet Ihr zunächst Kundschafter aussenden und herausfinden, auf welchen Göttern und auf welchem Wissen ihre magische Macht beruht. Wenn Ihr das herausgefunden habt, werden wir die Priester mit Euren Erkenntnissen vertraut machen, auf das wir gemeinsam diesem Spuk ein Ende bereiten werden. Schon in diesem Augenblick studieren die Gelehrten die alten Bücher. Über alle neuen Erkenntnisse berichten wir Euch umgehend auf gewohntem Weg.";
-	const string fireletter_3	= "Möge Innos uns schützen";
 
 
 	var int nDocID;
@@ -1077,11 +1072,12 @@ instance ItWr_Fire_Letter_02(C_Item)
 	text[5]						= NAME_Value;									count[5] = value;
 };
 
+const string fireletter2_1	= "Hochgeschätzter Meister Xardas,";
+const string fireletter2_2	= "Eure letzte Nachricht erhielten wir mit großer Sorge. Wir haben uns beraten und lassen Euch durch diesen Brief unsere Entscheidung wissen. Die Bruderschaft bedeutet eine Gefahr. Eine Gefahr für die weiteren Abläufe unseres Handelsabkommen und damit für den König, das gesamte Königreich und auch für Euer Leben. Deshalb solltet Ihr zunächst Kundschafter aussenden und herausfinden, auf welchen Göttern und auf welchem Wissen ihre magische Macht beruht. Es ist unsere Pflicht, diese Sekte zu zerschlagen und ihr Wissen an uns zu bringen, auf das niemand damit Unheil zu stiften vermag. Sobald uns Eure Antwirt erreicht, werden wir Innos Priester mit Euren Erkenntnissen vertraut machen. Schon in diesem Augenblick studieren die Gelehrten die alten Bücher. Über alle neuen Erkenntnisse berichten wir Euch umgehend auf gewohntem Weg.";
+const string fireletter2_3	= "Möge Innos uns schützen";
+
 func void Usefireletter2()
 {
-	const string fireletter2_1	= "Hochgeschätzter Meister Xardas,";
-	const string fireletter2_2	= "Eure letzte Nachricht erhielten wir mit großer Sorge. Wir haben uns beraten und lassen Euch durch diesen Brief unsere Entscheidung wissen. Die Bruderschaft bedeutet eine Gefahr. Eine Gefahr für die weiteren Abläufe unseres Handelsabkommen und damit für den König, das gesamte Königreich und auch für Euer Leben. Deshalb solltet Ihr zunächst Kundschafter aussenden und herausfinden, auf welchen Göttern und auf welchem Wissen ihre magische Macht beruht. Es ist unsere Pflicht, diese Sekte zu zerschlagen und ihr Wissen an uns zu bringen, auf das niemand damit Unheil zu stiften vermag. Sobald uns Eure Antwirt erreicht, werden wir Innos Priester mit Euren Erkenntnissen vertraut machen. Schon in diesem Augenblick studieren die Gelehrten die alten Bücher. Über alle neuen Erkenntnisse berichten wir Euch umgehend auf gewohntem Weg.";
-	const string fireletter2_3	= "Möge Innos uns schützen";
 
 	var int nDocID;
 
@@ -1341,11 +1337,12 @@ instance theriddle1(C_Item)
 	text[5]						= NAME_Value;									count[5] = value;
 };
 
+const string theriddle1_1	= "Chromanin";
+const string theriddle1_2	= "Der, der gewillt ist allen irdischen Lastern zu entsagen und auf den Pfaden der Rechtschaffenen wandelt, soll wissen wo der Quell meiner Macht verborgen liegt. Auf daß er es nutzen möge die Ketten dieser Welt zu sprengen und sich als würdig zu erweisen, Chromanin zu empfangen.";
+const string theriddle1_3	= "Der Weise verschafft sich großen Überblick, bevor er sich der nächsten Aufgabe widmet.";
+
 func void Usetheriddle1()
 {
-	const string theriddle1_1	= "Chromanin";
-	const string theriddle1_2	= "Der, der gewillt ist allen irdischen Lastern zu entsagen und auf den Pfaden der Rechtschaffenen wandelt, soll wissen wo der Quell meiner Macht verborgen liegt. Auf daß er es nutzen möge die Ketten dieser Welt zu sprengen und sich als würdig zu erweisen, Chromanin zu empfangen.";
-	const string theriddle1_3	= "Der Weise verschafft sich großen Überblick, bevor er sich der nächsten Aufgabe widmet.";
 
 	var int nDocID;
 	nDocID = Doc_Create(); // DocManager
@@ -1413,11 +1410,12 @@ instance theriddle2(C_Item)
 	text[5]						= NAME_Value;									count[5] = value;
 };
 
+const string theriddle2_1	= "Chromanin";
+const string theriddle2_2	= "Getragen von den Gezeiten, haben Chromanins Visionen der Zukunft mir die Augen geöffnet. Kein Preis ist hoch genug, den Glauben daran wieder aufzugeben. Viel zu stark hat es mich bewegt.";
+const string theriddle2_3	= "Was geteilt, wird wieder vereint, wenn auch nur kurz massiv voneinander getrennt.";
+
 func void Usetheriddle2()
 {
-	const string theriddle2_1	= "Chromanin";
-	const string theriddle2_2	= "Getragen von den Gezeiten, haben Chromanins Visionen der Zukunft mir die Augen geöffnet. Kein Preis ist hoch genug, den Glauben daran wieder aufzugeben. Viel zu stark hat es mich bewegt.";
-	const string theriddle2_3	= "Was geteilt, wird wieder vereint, wenn auch nur kurz massiv voneinander getrennt.";
 
 	var int nDocID;
 	nDocID = Doc_Create(); // DocManager
@@ -1486,11 +1484,12 @@ instance theriddle3(C_Item)
 	text[5]						= NAME_Value;									count[5] = value;
 };
 
+const string theriddle3_1	= "Chromanin";
+const string theriddle3_2	= "Oh, ihr Götter der alten Zeiten. Kann es sein, das ein Mensch, wie ich, der nur einfach gestrickt und unwürdig, solch´ großes Vermächtnis erlangen darf. Die Angst ist groß, alles zu verlieren durch ein kleines Wort des Schwankens.";
+const string theriddle3_3	= "Der kluge Fischer, versucht sein Glück auch mal auf der anderen Seite des Sees.";
+
 func void Usetheriddle3()
 {
-	const string theriddle3_1	= "Chromanin";
-	const string theriddle3_2	= "Oh, ihr Götter der alten Zeiten. Kann es sein, das ein Mensch, wie ich, der nur einfach gestrickt und unwürdig, solch´ großes Vermächtnis erlangen darf. Die Angst ist groß, alles zu verlieren durch ein kleines Wort des Schwankens.";
-	const string theriddle3_3	= "Der kluge Fischer, versucht sein Glück auch mal auf der anderen Seite des Sees.";
 
 	var int nDocID;
 	nDocID = Doc_Create(); // DocManager
@@ -1559,11 +1558,12 @@ instance theriddle4(C_Item)
 	text[5]						= NAME_Value;									count[5] = value;
 };
 
+const string theriddle4_1	= "Chromanin";
+const string theriddle4_2	= "Ich wage nicht zu hoffen eines Tages Chromanin selbst zu erleben. Vorbei sind die Tage der Verschwendung und des Klangens. So leicht wird es sein, die völlige Vollendung zu erreichen. Ich bin nicht mehr weit davon entfernt.";
+const string theriddle4_3	= "Vergessen sind die Taten jener, die sich einst an Bord befanden.";
+
 func void Usetheriddle4()
 {
-	const string theriddle4_1	= "Chromanin";
-	const string theriddle4_2	= "Ich wage nicht zu hoffen eines Tages Chromanin selbst zu erleben. Vorbei sind die Tage der Verschwendung und des Klangens. So leicht wird es sein, die völlige Vollendung zu erreichen. Ich bin nicht mehr weit davon entfernt.";
-	const string theriddle4_3	= "Vergessen sind die Taten jener, die sich einst an Bord befanden.";
 
 	var int nDocID;
 	nDocID = Doc_Create(); // DocManager
@@ -1632,11 +1632,12 @@ instance theriddle5(C_Item)
 	text[5]						= NAME_Value;									count[5] = value;
 };
 
+const string theriddle5_1	= "Chromanin";
+const string theriddle5_2	= "Doch soll ich nicht alleine diesen Weg beschreiten. Diese Ehre sei mir vergönnt. Ich muß mich fügen und die Kraft, die in mir wohnt, muß ich teilen mit den Würdigen, die da kommen werden, mich zu finden. Hoffentlich kommen sie bald...";
+const string theriddle5_3	= "Dort, wo alles begann, sollst du mich finden.";
+
 func void Usetheriddle5()
 {
-	const string theriddle5_1	= "Chromanin";
-	const string theriddle5_2	= "Doch soll ich nicht alleine diesen Weg beschreiten. Diese Ehre sei mir vergönnt. Ich muß mich fügen und die Kraft, die in mir wohnt, muß ich teilen mit den Würdigen, die da kommen werden, mich zu finden. Hoffentlich kommen sie bald...";
-	const string theriddle5_3	= "Dort, wo alles begann, sollst du mich finden.";
 
 	var int nDocID;
 	nDocID = Doc_Create(); // DocManager
@@ -1707,9 +1708,10 @@ instance theriddle6(C_Item)
 	text[5]						= NAME_Value;									count[5] = value;
 };
 
+const string theriddle6_1	= "Chromanin";
+
 func void Usetheriddle6()
 {
-	const string theriddle6_1	= "Chromanin";
 	var int nDocID;
 	nDocID = Doc_Create(); // DocManager
 	Doc_SetPages(nDocID, 2); // wieviel Pages

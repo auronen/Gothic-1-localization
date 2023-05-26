@@ -33,14 +33,15 @@ instance ItWr_GolemBook1(C_Item)
 	text[5]						= "";											count[5] = 0;
 };
 
+const string GolemBook1_1	= "ARKANUM GOLUM - Band I";
+const string GolemBook1_2	= "(Magie der Golems)";
+const string GolemBook1_3	= "Nur wer schon einmal einem dieser aus den Elementen erschaffenen Kreaturen begegnet ist, wird wirklich verstehen, welchen Respekt diese magieschen Wesen einem abenteuerlustigen Wanderer einflößen können.";
+const string GolemBook1_4	= "Steingolem";
+const string GolemBook1_5	= "Diese steinernen Kolosse sind im Kampf fast unverwundbar. Schwerter, Äxte und Bögen scheinen diesen Monstren nichts anhaben zu können.";
+const string GolemBook1_6	= "Der einzige glaubhafte Bericht von der Bezwingung eines solchen Leviathans stammt von einem Söldner. Er schrieb davon, wie der stumpfe Aufprall seines Kriegshammers Risse in den Golem trieb, bis dieser schlußendlich zerbarst.";
+
 func void UseGolemBook1()
 {
-	const string GolemBook1_1	= "ARKANUM GOLUM - Band I";
-	const string GolemBook1_2	= "(Magie der Golems)";
-	const string GolemBook1_3	= "Nur wer schon einmal einem dieser aus den Elementen erschaffenen Kreaturen begegnet ist, wird wirklich verstehen, welchen Respekt diese magieschen Wesen einem abenteuerlustigen Wanderer einflößen können.";
-	const string GolemBook1_4	= "Steingolem";
-	const string GolemBook1_5	= "Diese steinernen Kolosse sind im Kampf fast unverwundbar. Schwerter, Äxte und Bögen scheinen diesen Monstren nichts anhaben zu können.";
-	const string GolemBook1_6	= "Der einzige glaubhafte Bericht von der Bezwingung eines solchen Leviathans stammt von einem Söldner. Er schrieb davon, wie der stumpfe Aufprall seines Kriegshammers Risse in den Golem trieb, bis dieser schlußendlich zerbarst.";
 
 	var int nDocID;
 
@@ -95,16 +96,17 @@ instance ItWr_GolemBook2(C_Item)
 	text[5]						= "";											count[5] = 0;
 };
 
+const string GolemBook2_1	= "ARKANUM GOLUM - Band II";
+const string GolemBook2_2	= "Eisgolem";
+const string GolemBook2_3	= "Den Steingolems verwandt sind die Eisgolems, deren physische Substanz jedoch völlig aus gefrorenem Wasser zu bestehen scheint. Jede uns bekannte Waffe scheint an der glatten Oberfläche dieser eisigen Wesen abzugleiten.";
+const string GolemBook2_4	= "Auch sei der abenteuerlustige Wanderer gewarnt vor dem Eisatem dieser Kreatur, schließt sie doch jeden Ahnungslosen im Nu in einer Säule aus Eis ein.";
+const string GolemBook2_5	= "Einst berichtete ein Feuermagier von der Begegnung mit einem solchen Geschöpf, doch schien er keine ernste Bedrohung darin erkannt zu haben.";
+const string GolemBook2_6	= "Feuergolem";
+const string GolemBook2_7	= "Berichten zufolge können diese feurigen Geschöpfe ihre Opfer mit nur einer Berührung in ein Flammenmeer verwandeln.";
+const string GolemBook2_8	= "Erst im letzten Jahr stieß eine Jagdgruppe im Hochland auf solch einen wandelnden Gluthaufen. Der Ausgang ist unklar, doch sollen Blitze und Eis die Höllenkreatur gestoppt haben.";
+
 func void UseGolemBook2()
 {
-	const string GolemBook2_1	= "ARKANUM GOLUM - Band II";
-	const string GolemBook2_2	= "Eisgolem";
-	const string GolemBook2_3	= "Den Steingolems verwandt sind die Eisgolems, deren physische Substanz jedoch völlig aus gefrorenem Wasser zu bestehen scheint. Jede uns bekannte Waffe scheint an der glatten Oberfläche dieser eisigen Wesen abzugleiten.";
-	const string GolemBook2_4	= "Auch sei der abenteuerlustige Wanderer gewarnt vor dem Eisatem dieser Kreatur, schließt sie doch jeden Ahnungslosen im Nu in einer Säule aus Eis ein.";
-	const string GolemBook2_5	= "Einst berichtete ein Feuermagier von der Begegnung mit einem solchen Geschöpf, doch schien er keine ernste Bedrohung darin erkannt zu haben.";
-	const string GolemBook2_6	= "Feuergolem";
-	const string GolemBook2_7	= "Berichten zufolge können diese feurigen Geschöpfe ihre Opfer mit nur einer Berührung in ein Flammenmeer verwandeln.";
-	const string GolemBook2_8	= "Erst im letzten Jahr stieß eine Jagdgruppe im Hochland auf solch einen wandelnden Gluthaufen. Der Ausgang ist unklar, doch sollen Blitze und Eis die Höllenkreatur gestoppt haben.";
 
 	var int nDocID;
 
