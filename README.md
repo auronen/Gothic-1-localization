@@ -55,9 +55,18 @@ Useful links: https://magyaritasok.hu/games/gothic
 Translation team website: http://attilabeke.com/honositasok/g1.html  
 Translator contact e-mail: rzl@freemail.hu  
 
-## :romania: Romanian
-Coming soon.
-
+## :romania: Romanian  
+[![Translation progress](http://weblate.cokoliv.eu/widgets/gothic-1/ro/svg-badge.svg)](http://weblate.cokoliv.eu/engage/gothic-1/ro/)  
+Original translation authors:  
+  - SahnRed
+  - DieGo
+  - Celdor
+  - Stuart
+  - Kthy
+  - Robert
+  - Dorin
+  
+  
 ## :ukraine: Ukranian  
 Coming soon.
 
