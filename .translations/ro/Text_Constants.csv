@@ -226,7 +226,7 @@
 "Scripts/content/Story/Text.d:454","Lerne: Minecrawlerzangen rausschneiden","Lerne: Minecrawlerzangen rausschneiden","","","PRINT_LEARN_CrawlerMandibles2","",""
 "Scripts/content/Story/Text.d:455","Steigere Regenerationsrate","Steigere Regenerationsrate","","","PRINT_LEARN_Regen","",""
 "Scripts/content/Story/Text.d:457","Keine Steigerung über Maximum 100!","Keine Steigerung über Maximum 100!","","","PRINT_MAX_100","",""
-"Scripts/content/Story/Text.d:459","Zu wenig Lernpunkte!","Zu wenig Lernpunkte!","","","PRINT_NotEnoughSkillPoints","",""
+"Scripts/content/Story/Text.d:459","Zu wenig Lernpunkte!","Nu ai destule puncte de invatare!","","False","PRINT_NotEnoughSkillPoints","",""
 "Scripts/content/Story/Text.d:461","+1000 Erz","+1000 Erz","","","PRINT_XP_MAP","",""
 "Scripts/content/Story/Text.d:462","Mana +2","Mana +2","","","PRINT_ItMiJoint_3_Bonus","",""
 "Scripts/content/Story/Text.d:463","Stärke + 5","Stärke + 5","","","PRINT_HORATIO_STRENGTH_5","",""
