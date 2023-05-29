@@ -28,7 +28,7 @@
 "Scripts/content/Story/MISSIONS/DIA_ORC_Freemine.d:221","Du sprichst unsere Sprache?","Vorbesti limba noastra?","","","Info_FreemineOrc_TONGUE_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_ORC_Freemine.d:222","Tarrok schon lange Sklave von Menschen. Tarrok gut zuhören!","Tarrok sclav oameni mult timp. Tarrok asculta bine.","","","Info_FreemineOrc_TONGUE_17_02","",""
 "Scripts/content/Story/MISSIONS/DIA_ORC_Freemine.d:235","Ich kann die Medizin nicht finden!","Nu gasesc medicamentul!","","","Info_FreemineOrc_SEARCHPOTION.description","",""
-"Scripts/content/Story/MISSIONS/DIA_ORC_Freemine.d:250","Ich kann die Medizin nicht finden!","Nu gasesc medicamentul!AI_Output(self, hero,'Info_FreemineOrc_SEARCHPOTION_17_02');","","","Info_FreemineOrc_SEARCHPOTION_15_01","",""
+"Scripts/content/Story/MISSIONS/DIA_ORC_Freemine.d:250","Ich kann die Medizin nicht finden!","Nu gasesc medicamentul!","","False","Info_FreemineOrc_SEARCHPOTION_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_ORC_Freemine.d:251","Fremder suchen weiter! Medizin hier unten sein!","Fremder suchen weiter! Medizin hier unten sein!","","","Info_FreemineOrc_SEARCHPOTION_17_02","",""
 "Scripts/content/Story/MISSIONS/DIA_ORC_Freemine.d:252","Torrok fliehen vor GACH LUG! Tarrok sich bei Flucht verstecken!","Tarrok fugit de GACH LUG! Tarrok ascuns cand fugit!","","","Info_FreemineOrc_SEARCHPOTION_17_03","",""
 "Scripts/content/Story/MISSIONS/DIA_ORC_Freemine.d:253","Fremder auch suchen in Nischen!","Stranger cauta si la nise!","","","Info_FreemineOrc_SEARCHPOTION_17_04","",""
