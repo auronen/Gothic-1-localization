@@ -309,7 +309,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Org_825_Organisator.d:45","Wir passen auf, dass keiner von Lees oder Gomez' Leuten Lares zu nahe kommt.","Ne asiguram ca niciunul dintre oamenii lui Lee sau Gomez ajunge prea aproape de Lares.","","","Org_825_Organisator_PERM_07_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_826_Mordrag.d:53","Hey, Neuer! Ich bin Mordrag. Meinen Namen solltest du dir merken - ich kann dir gute Ware aller Art günstig verkaufen!","Hei, cel nou! Eu sunt Mordrag. Ar trebui sa tii minte numele, poti cumpara orice fel de bunuri de la mine la pret ieftin!","","","Org_826_Mordrag_Greet_11_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_826_Mordrag.d:69","Zeig mir deine Ware.","Arata-mi marfa.","","","Org_826_Mordrag_Trade.description","",""
-"Scripts/content/Story/MISSIONS/DIA_Org_826_Mordrag.d:79","Zeig mir deine Ware.","Arata-mi marfa.AI_Output (self, other,'Org_826_Mordrag_Trade_11_01');","","","Org_826_Mordrag_Trade_15_00","",""
+"Scripts/content/Story/MISSIONS/DIA_Org_826_Mordrag.d:79","Zeig mir deine Ware.","Arata-mi marfa.","","False","Org_826_Mordrag_Trade_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_826_Mordrag.d:80","Such dir was aus ...","Such dir was aus ...","","","Org_826_Mordrag_Trade_11_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_826_Mordrag.d:99","Stimmt es, dass du Kurier für die Magier bist?","Chiar esti curierul magilor?","","","Org_826_Mordrag_Courier.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_826_Mordrag.d:112","Stimmt es, dass du Kurier für die Magier bist?","Chiar esti curierul magicienilor?","","","Org_826_Mordrag_Courier_15_00","",""
