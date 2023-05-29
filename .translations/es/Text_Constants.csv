@@ -226,7 +226,7 @@
 "Scripts/content/Story/Text.d:454","Lerne: Minecrawlerzangen rausschneiden","Aprender: quitar mandíbulas de reptador","","","PRINT_LEARN_CrawlerMandibles2","",""
 "Scripts/content/Story/Text.d:455","Steigere Regenerationsrate","Aumentar ritmo de regeneración","","","PRINT_LEARN_Regen","",""
 "Scripts/content/Story/Text.d:457","Keine Steigerung über Maximum 100!","¡No puede superarse el 100 máximo!","","","PRINT_MAX_100","",""
-"Scripts/content/Story/Text.d:459","Zu wenig Lernpunkte!","Zu wenig Lernpunkte!","","","PRINT_NotEnoughSkillPoints","",""
+"Scripts/content/Story/Text.d:459","Zu wenig Lernpunkte!","¡Faltan puntos de habilidad!","","False","PRINT_NotEnoughSkillPoints","",""
 "Scripts/content/Story/Text.d:461","+1000 Erz","+1000 Erz","","","PRINT_XP_MAP","",""
 "Scripts/content/Story/Text.d:462","Mana +2","Mana +2","","","PRINT_ItMiJoint_3_Bonus","",""
 "Scripts/content/Story/Text.d:463","Stärke + 5","Fuerza +5","","","PRINT_HORATIO_STRENGTH_5","",""
