@@ -225,7 +225,7 @@
 "Scripts/content/Story/Text.d:453","Lerne: Minecrawlerzangen nehmen","學習：切除礦坑爬行者的牙齒","","","PRINT_LEARN_CrawlerMandibles1","",""
 "Scripts/content/Story/Text.d:454","Lerne: Minecrawlerzangen rausschneiden","學習：切除礦坑爬行者的牙齒","","","PRINT_LEARN_CrawlerMandibles2","",""
 "Scripts/content/Story/Text.d:455","Steigere Regenerationsrate","增加再生速度","","","PRINT_LEARN_Regen","",""
-"Scripts/content/Story/Text.d:457","Keine Steigerung über Maximum 100!","Keine Steigerung über Maximum 100!","","","PRINT_MAX_100","",""
+"Scripts/content/Story/Text.d:457","Keine Steigerung über Maximum 100!","最大增加值不過１００！","","False","PRINT_MAX_100","",""
 "Scripts/content/Story/Text.d:459","Zu wenig Lernpunkte!","技能點數不夠！","","","PRINT_NotEnoughSkillPoints","",""
 "Scripts/content/Story/Text.d:461","+1000 Erz","+1000 Erz","","","PRINT_XP_MAP","",""
 "Scripts/content/Story/Text.d:462","Mana +2","法力加２","","","PRINT_ItMiJoint_3_Bonus","",""
