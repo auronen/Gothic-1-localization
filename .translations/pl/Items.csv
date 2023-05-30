@@ -1060,7 +1060,7 @@
 "Scripts/content/Items/Melee_weapons.d:1318","Knochenbrecher","Łamacz kości","","","ItMw_1H_Axe_03.name","",""
 "Scripts/content/Items/Melee_weapons.d:1336","","","","","ItMw_1H_Axe_03.text[0]","",""
 "Scripts/content/Items/Melee_weapons.d:1337","","","","","ItMw_1H_Axe_03.text[1]","",""
-"Scripts/content/Items/Melee_weapons.d:1350","Breitschwert","Miecz szeroki","","","ItMw_1H_Sword_Broad_01.name","",""
+"Scripts/content/Items/Melee_weapons.d:1350","Breitschwert","Szeroki miecz","","False","ItMw_1H_Sword_Broad_01.name","",""
 "Scripts/content/Items/Melee_weapons.d:1368","","","","","ItMw_1H_Sword_Broad_01.text[0]","",""
 "Scripts/content/Items/Melee_weapons.d:1369","","","","","ItMw_1H_Sword_Broad_01.text[1]","",""
 "Scripts/content/Items/Melee_weapons.d:1380","Kriegerurteil","Wyrok wojownika","","","ItMw_1H_Sword_Broad_02.name","",""
