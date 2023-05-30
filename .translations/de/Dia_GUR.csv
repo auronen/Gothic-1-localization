@@ -436,6 +436,8 @@
 "Scripts/content/Story/MISSIONS/DIA_GUR_1211_BaalLukor.d:640","Bestimmt wird er mich dann erleuchten und zu seiner rechten Hand machen.","Bestimmt wird er mich dann erleuchten und zu seiner rechten Hand machen.","","","Info_BaalLukor_ALTAR_13_10","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1211_BaalLukor.d:641","STIRB, UNGLÄUBIGER!!!!","STIRB, UNGLÄUBIGER!!!!","","","Info_BaalLukor_ALTAR_13_11","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1211_BaalLukor.d:642","AIIIEEEEHHHHHH!!!!!!","AIIIEEEEHHHHHH!!!!!!","","","Info_BaalLukor_ALTAR_13_12","",""
+"","Hast du schon was gefunden?","Hast du schon was gefunden?","","","Info_BaalLukorOW_Perm.description","",""
+"","Was machst du hier?","Was machst du hier?","","","Info_BaalLukorOW_Hallo.description","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1212_MadCorKalom.d:19","Schließlich sehen wir uns also wieder!","Schließlich sehen wir uns also wieder!","","","GUR_1212_MadCorKalom_Talk2SC_10_01","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1212_MadCorKalom.d:20","Mein Meister hat mir bereits von deiner Ankunft berichtet!","Mein Meister hat mir bereits von deiner Ankunft berichtet!","","","GUR_1212_MadCorKalom_Talk2SC_10_02","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1212_MadCorKalom.d:21","Er kann deine Nähe spüren.","Er kann deine Nähe spüren.","","","GUR_1212_MadCorKalom_Talk2SC_10_03","",""
