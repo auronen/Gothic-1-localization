@@ -803,7 +803,7 @@
 "Scripts/content/Story/svm.d:1073","Verdammt!","Damn!","","","SVM_7_Help","",""
 "Scripts/content/Story/svm.d:1074","Wir sprechen uns noch!","I'll be seeing you!","","","SVM_7_WeWillMeetAgain","",""
 "Scripts/content/Story/svm.d:1075","Tu das nie wieder!","Never do that again!","","","SVM_7_NeverTryThatAgain","",""
-"Scripts/content/Story/svm.d:1076","Die Waffe behalte ich!","I'll keep that weaon!","","","SVM_7_ITakeYourWeapon","",""
+"Scripts/content/Story/svm.d:1076","Die Waffe behalte ich!","I'll keep that weapon!","","False","SVM_7_ITakeYourWeapon","",""
 "Scripts/content/Story/svm.d:1077","Lieber würde ich dich umbringen, aber das Erz ist auch nicht schlecht!","I'd rather kill you, but the ore is not bad either!","","","SVM_7_ITookYourOre","",""
 "Scripts/content/Story/svm.d:1078","Kein Erz? Du nutzloses Stück Dreck!","No ore? You useless bum!","","","SVM_7_ShitNoOre","",""
 "Scripts/content/Story/svm.d:1079","Behalt deine Drecksgriffel bei dir!","Keep your hands off!","","","SVM_7_HandsOff","",""
