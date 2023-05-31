@@ -579,3 +579,5 @@
 "Scripts/content/Story/MISSIONS/DIA_Gur_1210_BaaTyon.d:134","Und er sah DIR verdammt ähnlich. Wer bist du? Was willst du hier?","Ce qui m'a frappé, c'était sa ressemblance avec TOI. Qui es-tu ? Que désires-tu ?","","","DIA_BaalTyon_Vision_11_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Gur_1210_BaaTyon.d:135","Ich bin nur ein bescheidener Diener des Schläfers ...","Je ne suis qu'un humble serviteur du Dormeur.","","","DIA_BaalTyon_Vision_15_04","",""
 "Scripts/content/Story/MISSIONS/DIA_Gur_1210_BaaTyon.d:136","Geh zu Cor Kalom. Er soll sich weiter mit dir befassen.","Va chez Cor Kalom. Il prendra soin de toi.","","","DIA_BaalTyon_Vision_11_05","",""
+"","Was machst du hier?","Que fais-tu ?","","False","Info_BaalLukorOW_Hallo.description","",""
+"","Hast du schon was gefunden?","As-tu trouvé quelque chose ?","","False","Info_BaalLukorOW_Perm.description","",""
