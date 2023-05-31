@@ -579,3 +579,5 @@
 "Scripts/content/Story/MISSIONS/DIA_Gur_1210_BaaTyon.d:134","Und er sah DIR verdammt ähnlich. Wer bist du? Was willst du hier?","他看上去很像你。 你是谁？ 你想要什么？","","","DIA_BaalTyon_Vision_11_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Gur_1210_BaaTyon.d:135","Ich bin nur ein bescheidener Diener des Schläfers ...","我只是卧铺的谦虚仆人...","","","DIA_BaalTyon_Vision_15_04","",""
 "Scripts/content/Story/MISSIONS/DIA_Gur_1210_BaaTyon.d:136","Geh zu Cor Kalom. Er soll sich weiter mit dir befassen.","去Cor Kalom。 他会照顾你的。","","","DIA_BaalTyon_Vision_11_05","",""
+"","Was machst du hier?","你在做什么？","","False","Info_BaalLukorOW_Hallo.description","",""
+"","Hast du schon was gefunden?","你有什么发现吗？","","False","Info_BaalLukorOW_Perm.description","",""
