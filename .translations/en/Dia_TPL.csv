@@ -255,3 +255,4 @@
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1442_GuardPassage.d:69","Der Novize Lester schickt mich. Ich soll Y'Berion meine Dienste anbieten.","The novice Lester sent me. I shall offer my services to Y'Berion.","","","Info_TPL_1442_FirstWarn_Condition_LESTER_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1442_GuardPassage.d:70","Lester ist vertrauenswürdig. Ich kenne ihn. Du kannst passieren.","Lester is trustworthy. I know him. You may pass.","","","Info_TPL_1442_FirstWarn_Condition_LESTER_13_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1442_GuardPassage.d:105","Noch einen Schritt weiter und du trittst deinem Schöpfer gegenüber!","One step further and you'll cease to exist.","","","Info_TPL_1442_LastWarn_13_01","",""
+"","Wie sieht's aus?","How are things?","","False","DIA_GorBobaOW_PERM.description","",""
