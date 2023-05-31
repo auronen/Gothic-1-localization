@@ -579,3 +579,5 @@
 "Scripts/content/Story/MISSIONS/DIA_Gur_1210_BaaTyon.d:134","Und er sah DIR verdammt ähnlich. Wer bist du? Was willst du hier?","Nagyon hasonlított rád. Ki vagy te? Mit akarsz?","","","DIA_BaalTyon_Vision_11_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Gur_1210_BaaTyon.d:135","Ich bin nur ein bescheidener Diener des Schläfers ...","Én csak az Alvó egyszerű szolgája vagyok...","","","DIA_BaalTyon_Vision_15_04","",""
 "Scripts/content/Story/MISSIONS/DIA_Gur_1210_BaaTyon.d:136","Geh zu Cor Kalom. Er soll sich weiter mit dir befassen.","Menj el Cor Kalomhoz. Majd ő gondoskodik rólad.","","","DIA_BaalTyon_Vision_11_05","",""
+"","Was machst du hier?","Hogy vagy?","","False","Info_BaalLukorOW_Hallo.description","",""
+"","Hast du schon was gefunden?","Találtál valamit?","","False","Info_BaalLukorOW_Perm.description","",""
