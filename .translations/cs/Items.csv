@@ -1692,7 +1692,7 @@
 "Scripts/content/Items/MissionItems_5.d:416","öffnet die Türen","Otevře dveře do","","","ItKe_SunkenTower.text[0]","",""
 "Scripts/content/Items/MissionItems_5.d:417","im versunkenen Turm.","zatopené věže.","","","ItKe_SunkenTower.text[1]","",""
 "Scripts/content/Items/MissionItems_5.d:425","Kerkerschlüssel","Klíč od vězení","","","DungeonKey.name","",""
-"Scripts/content/Items/MissionItems_5.d:436","des Alten Lagers.","Klíč od vězení Starého tábora.","","","DungeonKey.text[0]","",""
+"Scripts/content/Items/MissionItems_5.d:436","des Alten Lagers.","Otevře vězení","","False","DungeonKey.text[0]","",""
 "Scripts/content/Items/MissionItems_5.d:444","URIZIEL's Welle des Todes","Smrtelná vlna URIZIELU","","","UrizielRune.name","",""
 "Scripts/content/Items/MissionItems_5.d:458","Diese mächtige Zauberrune enthält","Tato mocná kouzelná runa obsahuje","","","UrizielRune.text[0]","",""
 "Scripts/content/Items/MissionItems_5.d:459","die uralten Kräfte des Schwertes URIZIEL","prastarou sílu meče URIZIEL","","","UrizielRune.text[1]","",""
@@ -2395,3 +2395,4 @@
 "Scripts/content/Items/Written.d:1665","Dort aber , wo das Erdreich feucht und die Luft schwül ist, werden die Fliegen angelockt vom rinnenden Schweiß aller Kreaturen.Mit ihrem Stachel töten sie ihre Opfer und laben sich an ihrem Blut. ","Krvavé mouchy se shromažďují jen na místech, kde je půda bažinatá, vzduch vlhký ,a kde jsou vábeny potem veškerých bytostí. Svá žihadla používají k usmrcení svých obětí, na jejichž krvi pak hodují.","","","ItWr_Bloodfly_01_3","",""
 "Scripts/content/Items/Written.d:1666","Den Stachel zu entnehmen ist eine Kunst die von vielen Sumpfjägern beherrscht wird.Schneide tief in den Unterleib, um den Stachel herum mit gezackten Schnitten und entferne vorsichtig den Stachel mitsamt dem umgebenen Gewebe.Lasse ihn ausbluten und streife das ungeniessbare Fleisch ab.","Získat takové žihadlo je uměním mnoha lovců z bažin. Provedou do břicha bytosti hluboký řez, potom vedou klikatý řez kolem žihadla, které opatrně vyjmou společně s tkání, která je obklopuje. Nechají skapat krev a oříznou nepoživatelné maso.","","","ItWr_Bloodfly_01_4","",""
 "","Ich glaub', ich hab' ihn gefunden. Er ist Futter für die Ratten... Aargh... Einen von uns umzubringen war dein letzter Fehler!","Myslím, že jsem ho našel. Je z něj žrádlo pro krysy... Aargh... Zabil jsi jednoho z nás! To byl tvůj poslední omyl!","","False","theriddle_tot_15_01","",""
+"Scripts/content/Items/MissionItems_5.d:436","des Alten Lagers.","Starého tábora.","","False","DungeonKey.text[1]","",""
