@@ -7,7 +7,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:82","Das ist Corristo. Was willst du von ihm?","To je Corristo. Co mu chceš?","","","DIA_Milten_Hello_02_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:116","Zeig mir den Brief.","Ukaž mi ten dopis.","","","DIA_Milten_Letter_02_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:129","Das ist nicht mehr nötig.","To už nebude třeba.","","","Info_Milten_SHSEAL_02_05","",""
-"Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:133","Wir haben von deiner Leistung in der Alten Mine gehört. Ohne die Minecrawler ist der Erzabbau viel sicherer geworden.","Slyšeli jsme, co jste dokázali ve Starém dole. Bez důlních červů se ruda získává daleko snadněji.","","","DIA_Milten_GotoCorristo_02_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:133","Wir haben von deiner Leistung in der Alten Mine gehört. Ohne die Minecrawler ist der Erzabbau viel sicherer geworden.","Slyšeli jsme, co jsi dokázal ve Starém dole. Bez důlních červů se ruda získává daleko snadněji.","","False","DIA_Milten_GotoCorristo_02_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:134","Auch Corristo weiß davon. Er wünscht dich zu sprechen. Geh zu ihm.","Corristo o vašem úspěchu taky ví. Chce s tebou mluvit. Jdi za ním.","","","DIA_Milten_GotoCorristo_02_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:148","Ich habe einen Brief für den obersten Feuermagier.","Mám dopis pro Velkého mága Kruhu ohně.","","","DIA_Milten_Letter.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:162","Ich habe einen Brief für den obersten Feuermagier.","Mám dopis pro Velkého mága Kruhu ohně.","","","DIA_Milten_Letter_15_00","",""
