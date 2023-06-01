@@ -1692,7 +1692,7 @@
 "Scripts/content/Items/MissionItems_5.d:416","öffnet die Türen","Az Elsüllyedt toronyban lévő","","False","ItKe_SunkenTower.text[0]","",""
 "Scripts/content/Items/MissionItems_5.d:417","im versunkenen Turm.","ládát nyitja.","","False","ItKe_SunkenTower.text[1]","",""
 "Scripts/content/Items/MissionItems_5.d:425","Kerkerschlüssel","Börtön Kulcs","","False","DungeonKey.name","",""
-"Scripts/content/Items/MissionItems_5.d:436","des Alten Lagers.","a cellákhoz.","","False","DungeonKey.text[0]","",""
+"Scripts/content/Items/MissionItems_5.d:436","des Alten Lagers.","Nyisd ki a cellák","","False","DungeonKey.text[0]","",""
 "Scripts/content/Items/MissionItems_5.d:444","URIZIEL's Welle des Todes","URIZIEL Halál Gyűrűje","","False","UrizielRune.name","",""
 "Scripts/content/Items/MissionItems_5.d:458","Diese mächtige Zauberrune enthält","Ez az erőteljes rúna tartalmazza","","False","UrizielRune.text[0]","",""
 "Scripts/content/Items/MissionItems_5.d:459","die uralten Kräfte des Schwertes URIZIEL","az URIZIEL kardjának ősi erőjét.","","False","UrizielRune.text[1]","",""
@@ -2395,3 +2395,4 @@
 "Scripts/content/Items/Written.d:1665","Dort aber , wo das Erdreich feucht und die Luft schwül ist, werden die Fliegen angelockt vom rinnenden Schweiß aller Kreaturen.Mit ihrem Stachel töten sie ihre Opfer und laben sich an ihrem Blut. ","De ott, ahol nedves a talaj és nyirkos a levegő, a legyeket minden teremtmény futó verejtéke vonzza. Fullánkjaikat az áldozatuk megölésére és a véréből való lakmározására használják. ","","False","ItWr_Bloodfly_01_3","",""
 "Scripts/content/Items/Written.d:1666","Den Stachel zu entnehmen ist eine Kunst die von vielen Sumpfjägern beherrscht wird.Schneide tief in den Unterleib, um den Stachel herum mit gezackten Schnitten und entferne vorsichtig den Stachel mitsamt dem umgebenen Gewebe.Lasse ihn ausbluten und streife das ungeniessbare Fleisch ab.","Az ilyen fullánk kinyerése a mocsárban sok vadász mestersége. Csinálj egy mély bemetszést a lény altestén, utánna vágj egy cikk-cakk vonalat a fullánk körül, majd óvatosan távolítsa el azt a körülvevő szövettel együtt. Hagyd kiszáradni, és kaparjad le a felesleges húst.","","False","ItWr_Bloodfly_01_4","",""
 "","Ich glaub', ich hab' ihn gefunden. Er ist Futter für die Ratten... Aargh... Einen von uns umzubringen war dein letzter Fehler!","Megtaláltam. Patkány eleség lett belőle... Aargh... Az utolsó rossz döntésed hoztad azzal hogy egyikünket megölted!","","False","theriddle_tot_15_01","",""
+"Scripts/content/Items/MissionItems_5.d:436","des Alten Lagers.","a cellákhoz.","","False","DungeonKey.text[1]","",""
