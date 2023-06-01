@@ -616,7 +616,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Grd_214_Torwache.d:73","Hey, gut dass du da bist. Thorus will dich sprechen!","Jsem rád, že tady jsi. Thorus tě chce vidět!","","","Grd_214_Torwache_SEETHORUS_Info_07_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_214_Torwache.d:74","Was will er denn?","Co chce?","","","Grd_214_Torwache_SEETHORUS_Info_15_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_214_Torwache.d:75","Das wird er dir schon selber sagen.","Určitě ti to brzy řekne.","","","Grd_214_Torwache_SEETHORUS_Info_07_03","",""
-"Scripts/content/Story/MISSIONS/DIA_Grd_214_Torwache.d:102","HEY DU!!! Versuchst wohl Dusty hier herauszuschmuggeln, was?","HEJ, TY!!! Nepokoušíš se odtud propašovat rudný prach, že ne?","","","Grd_214_Torwache_NODUSTY_Info_07_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Grd_214_Torwache.d:102","HEY DU!!! Versuchst wohl Dusty hier herauszuschmuggeln, was?","HEJ, TY!!! Nepokoušíš se odtud propašovat Dustyho, že ne?","","False","Grd_214_Torwache_NODUSTY_Info_07_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_214_Torwache.d:103","Wir wollen doch nur...","Chceme přece jen...","","","Grd_214_Torwache_NODUSTY_Info_15_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_214_Torwache.d:104","Du willst gleich gar nichts mehr!","Zanedlouho nebudete už chtít nic!","","","Grd_214_Torwache_NODUSTY_Info_07_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_215_Torwache.d:47","Wo soll's denn hingehen?","Kam máš namířeno?","","","DIA_Grd_215_Torwache_First_06_00","",""
