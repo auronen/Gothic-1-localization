@@ -323,7 +323,7 @@
 "Scripts/content/Story/Text.d:636","Zurück","WRÓĆ","","False","STR_INFO_TRADE_EXIT","",""
 "Scripts/content/Story/Text.d:638","Badenixe","Badenixe","","","STR_BADENIXE","",""
 "Scripts/content/Story/Text.d:644","Kapitel 1","Rozdział 1","","False","KapWechsel_1","",""
-"Scripts/content/Story/Text.d:645","Die Welt der Verurteilten","Witamy w Kolonii!","","","KapWechsel_1_Text","",""
+"Scripts/content/Story/Text.d:645","Die Welt der Verurteilten","Witamy w Kolonii!","","False","KapWechsel_1_Text","",""
 "Scripts/content/Story/Text.d:646","Kapitel 2","Rozdział 2","","False","KapWechsel_2","",""
 "Scripts/content/Story/Text.d:647","Das Nest der Minecrawler","Gniazdo pełzaczy","","","KapWechsel_2_Text","",""
 "Scripts/content/Story/Text.d:648","Kapitel 3","Rozdział 3","","False","KapWechsel_3","",""
