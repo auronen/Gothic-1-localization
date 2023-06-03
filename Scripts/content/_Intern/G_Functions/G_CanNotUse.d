@@ -48,7 +48,7 @@ func void G_CanNotUse(var int bIsPlayer, var int nAttribute, var int nValue)
 	strMessage = ConcatStrings(strMessage, " ");
 	strMessage = ConcatStrings(strMessage, strAttribute);
 	strMessage = ConcatStrings(strMessage, _STR_CANNOTUSE_POST);
-#elif ru
+#elif ru_snowball
 	strMessage = ConcatStrings( strMessage, strDifference);
 	strMessage = ConcatStrings( strMessage, " ");
 	strMessage = ConcatStrings( strMessage, _STR_CANNOTUSE_POINTS);

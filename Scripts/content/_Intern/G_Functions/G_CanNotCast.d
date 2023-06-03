@@ -27,7 +27,7 @@ func void G_CanNotCast(var int bIsPlayer, var int nCircleNeeded, var int nCircle
 		strMessage = ConcatStrings(strMessage, _STR_CANNOTUSE_POST_NPC);
 	};
 
-#if ru
+#if ru_snowball
 	strMessage = ConcatStrings(strMessage, strDifference);
 	strMessage = ConcatStrings(strMessage, _STR_CANNOTUSE_LEVELS);
 #else
