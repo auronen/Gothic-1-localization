@@ -163,7 +163,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:1080","Die Gardisten haben den Mineneingang gesperrt.","Стражники заблокували вхід до копальні.","","","Info_Milten_OCWARN_02_13","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:1093","Wie konnte die Mine einstürzen?","Jak do tego doszіo?","","","Info_Milten_OCMINE.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:1106","Wie konnte die Mine einstürzen?","Як це сталося?","","","Info_Milten_OCMINE_15_01","",""
-"Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:1107","Keine Ahnung. Einige Buddler, die vor dem Mineneingang warteten, erzählten von einem gewaltigen Beben und einer riesigen Staubwolke, die aus dem Stollen kam.","Поняття не маю. Деякі гірники, що стояли біля входу, говорили про потужний землетрус і величезну хмару пилу з тунелю.","","","Info_Milten_OCMINE_02_02","",""
+"Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:1107","Keine Ahnung. Einige Buddler, die vor dem Mineneingang warteten, erzählten von einem gewaltigen Beben und einer riesigen Staubwolke, die aus dem Stollen kam.","Поняття не маю. Деякі Гірники, що стояли біля входу, говорили про потужний землетрус і величезну хмару пилу з тунелю.","","False","Info_Milten_OCMINE_02_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:1108","Warst du dort?","Ти був там, коли це сталося?","","","Info_Milten_OCMINE_15_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:1109","Ja. Dort erfuhr ich dann auch vom Einsturz.","Так. Саме там я дізнався про обвал копальні.","","","Info_Milten_OCMINE_02_04","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:1121","Was sagtest du über die Feuermagier?","Ти сказав щось про Магів Вогню?","","","Info_Milten_OCKDW.description","",""
