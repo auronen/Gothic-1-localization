@@ -1,6 +1,6 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
 "Scripts/content/Story/NPC/BAU_900_Ricelord.d:4","Der Reislord","Рисовий Лорд","","","BAU_900_Ricelord.name","",""
-"Scripts/content/Story/NPC/BAU_901_Horatio.d:4","Horatio","Гораціо ","","","BAU_901_Horatio.name","",""
+"Scripts/content/Story/NPC/BAU_901_Horatio.d:4","Horatio","Гораціо","","False","BAU_901_Horatio.name","",""
 "Scripts/content/Story/NPC/BAU_902_Pock.d:4","Pock","Пок","","","BAU_902_Pock.name","",""
 "Scripts/content/Story/NPC/BAU_903_Rufus.d:4","Rufus","Руфус","","","BAU_903_Rufus.name","",""
 "Scripts/content/Story/NPC/BAU_912_Jeremiah.d:4","Jeremiah","Єремія","","","BAU_912_Jeremiah.name","",""
