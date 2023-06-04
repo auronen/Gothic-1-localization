@@ -68,7 +68,7 @@ Original translation authors:
   
   
 ## :ukraine: Ukranian  
-Coming soon.
+[![Translation progress](http://weblate.cokoliv.eu/widgets/gothic-1/uk/svg-badge.svg)](http://weblate.cokoliv.eu/engage/gothic-1/uk/)  
 
 ## :fr: French
 [![Translation progress](http://weblate.cokoliv.eu/widgets/gothic-1/fr/svg-badge.svg)](http://weblate.cokoliv.eu/engage/gothic-1/fr/)  
