@@ -33,7 +33,7 @@
 "Scripts/content/Story/Text.d:65","Bandit"," Злодій","","","TXT_GUILDS[8]","",""
 "Scripts/content/Story/Text.d:66","Bauer"," Збирач","","","TXT_GUILDS[9]","",""
 "Scripts/content/Story/Text.d:67","Schürfer"," Копач","","","TXT_GUILDS[10]","",""
-"Scripts/content/Story/Text.d:68","Guru"," Гуру","","","TXT_GUILDS[11]","",""
+"Scripts/content/Story/Text.d:68","Guru","Ґуру","","False","TXT_GUILDS[11]","",""
 "Scripts/content/Story/Text.d:69","Novize"," Новак","","","TXT_GUILDS[12]","",""
 "Scripts/content/Story/Text.d:70","Templer"," Храмовий Вартівник","","","TXT_GUILDS[13]","",""
 "Scripts/content/Story/Text.d:71","Dämonenbeschw."," Заклинач Демонів","","","TXT_GUILDS[14]","",""
