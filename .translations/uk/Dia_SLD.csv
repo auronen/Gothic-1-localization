@@ -266,7 +266,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Sld_753_Baloro.d:49","Wunderbar! Frag mich! Ich kann dir vielleicht weiterhelfen!","Чудово! Запитай мене! Можливо, я зможу тобі допомогти!","","","DIA_SLD_753_Baloro_Wasmeinstdu_Info_08_04","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_753_Baloro.d:59","Woran hast du dabei gedacht?","Що ти маєш на увазі?","","","DIA_SLD_753_Baloro_Worumgehts.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_753_Baloro.d:72","Woran hast du dabei gedacht?","Що ти маєш на увазі?","","","DIA_SLD_753_Baloro_Worumgehts_Info_15_01","",""
-"Scripts/content/Story/MISSIONS/DIA_Sld_753_Baloro.d:73","Was brauchst du denn?","Was brauchst du denn?","","","DIA_SLD_753_Baloro_Worumgehts_Info_08_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Sld_753_Baloro.d:73","Was brauchst du denn?","Ну вот що тобі треба?","","False","DIA_SLD_753_Baloro_Worumgehts_Info_08_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_753_Baloro.d:74","Wie wär's mit einem guten Schwert, einer starken Rüstung oder dem Zugang zur Mine?","Для початку: гострий меч, міцний обладунок і доступ до Копальні не пошкодив би.","","","DIA_SLD_753_Baloro_Worumgehts_Info_15_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_753_Baloro.d:75","Ach was! Das ist alles noch viel zu schlapp!","Пф! Потримай моє пиво!","","","DIA_SLD_753_Baloro_Worumgehts_Info_08_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_753_Baloro.d:76","Ich hab' dir was anzubieten, da werden dir die Augen übergehen! Ich kann dir eine Waffe besorgen, mit der du jeden Gegner besiegst!","У мене є дещо, від чого у тебе очі на лоб полізуть. Я можу дати тобі зброю, яка здолає будь-якого ворога!","","","DIA_SLD_753_Baloro_Worumgehts_Info_08_03","",""
