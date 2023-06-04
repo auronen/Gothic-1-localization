@@ -90,3 +90,6 @@ Original [release post](https://forum.worldofplayers.de/forum/threads/1489670-%E
 [![Translation progress](http://weblate.cokoliv.eu/widgets/gothic-1/tr/svg-badge.svg)](http://weblate.cokoliv.eu/engage/gothic-1/tr/)  
 Translation authors:  
   - Wollnir
+
+## :wales: Cymraeg (Welsh) 
+[![Translation progress](http://weblate.cokoliv.eu/widgets/gothic-1/cy/svg-badge.svg)](http://weblate.cokoliv.eu/engage/gothic-1/cy/)  
