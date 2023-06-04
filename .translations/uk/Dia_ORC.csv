@@ -66,7 +66,7 @@
 "Scripts/content/Story/MISSIONS/DIA_ORC_Freemine.d:482","Seien Zähne von Sumpfhai. Wenn Zähne beißen Opfer, dann nie wieder loslassen.","Зуб багняного вужа. Якщо він кусати, ніхто не втече.","","","Info_FreemineOrc_SWAMPSHARK_17_02","",""
 "Scripts/content/Story/MISSIONS/DIA_ORC_Freemine.d:494","Wo finde ich Sumpfhaie?","Де я можу знайти цих багняних вужів?","","","Info_FreemineOrc_SWAMPSHARK2.description","",""
 "Scripts/content/Story/MISSIONS/DIA_ORC_Freemine.d:509","Wo finde ich Sumpfhaie?","Де я можу знайти цих багняних вужів?","","","Info_FreemineOrc_SWAMPSHARK2_15_01","",""
-"Scripts/content/Story/MISSIONS/DIA_ORC_Freemine.d:510","Viele Sumpfhaie bei Lager von Menschen. Lager in Sumpf natürlich!","У людському таборі багато багняних вужів. Це табір на багні!","","","Info_FreemineOrc_SWAMPSHARK2_17_02","",""
+"Scripts/content/Story/MISSIONS/DIA_ORC_Freemine.d:510","Viele Sumpfhaie bei Lager von Menschen. Lager in Sumpf natürlich!","У людському таборі багато багняних вужів. Це Табір на багні!","","False","Info_FreemineOrc_SWAMPSHARK2_17_02","",""
 "Scripts/content/Story/MISSIONS/DIA_ORC_Freemine.d:524","Was ist ein ORTH-ANTAK?","Що означає ОРТ-АНТАК?","","","Info_FreemineOrc_TROLL.description","",""
 "Scripts/content/Story/MISSIONS/DIA_ORC_Freemine.d:537","Was ist ein ORTH-ANTAK?","Що означає ОРТ-АНТАК?","","","Info_FreemineOrc_TROLL_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_ORC_Freemine.d:538","Hauer von großes Troll! Machen großes Löcher in Beute!","Є ікло великого Троля! Робить з людини купу кісток і м'яса!","","","Info_FreemineOrc_TROLL_17_02","",""
