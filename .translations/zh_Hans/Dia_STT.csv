@@ -133,7 +133,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Stt_301_Ian.d:288","Aber es gibt in einem Nebenschacht noch einen alten, kaputten Stampfer. Vielleicht hast du ja dort Glück.","但是，侧轴有一个旧的破碎捣碎器。 也许您会在那里幸运。","","","STT_301_IAN_GEAR_RUN_Info_13_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_301_Ian.d:298","Ich habe das Zahnrad.","我有齿轮。","","","STT_301_IAN_GEAR_SUC.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_301_Ian.d:322","Ich habe das Zahnrad.","我有齿轮。","","","STT_301_IAN_GEAR_SUC_Info_15_01","",""
-"Scripts/content/Story/MISSIONS/DIA_Stt_301_Ian.d:323","Hey, gut gemacht. Ich denke, das wird klappen. Nun zu dir, du suchst das Nest der Minecrawler...hm...","嘿，做得好。 我认为这会起作用。 现在，您正在寻找Minecrawlers的巢...嗯...","","","STT_301_IAN_GEAR_SUC_Info_13_02","",""
+"Scripts/content/Story/MISSIONS/DIA_Stt_301_Ian.d:323","Hey, gut gemacht. Ich denke, das wird klappen. Nun zu dir, du suchst das Nest der Minecrawler...hm...","嘿，做得好。 我认为这会起作用。 现在，您正在寻找矿坑爬虫的巢...嗯...","","False","STT_301_IAN_GEAR_SUC_Info_13_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_301_Ian.d:324","Geh mal zu Asghan, er soll das Tor öffnen, damit du die dunklen Schächte durchsuchen kannst.","只需前往阿斯加安，告诉他打开大门，这样您就可以搜索黑暗的轴。","","","STT_301_IAN_GEAR_SUC_Info_13_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_301_Ian.d:325","Sag ihm einfach, 'Alles wird gut'. Dann wird er wissen, das ich die Erlaubnis gegeben habe.","只要告诉他“一切都会好起来的。”然后，他会知道我已允许您。","","","STT_301_IAN_GEAR_SUC_Info_13_04","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_301_Ian.d:337","Ich suche immer noch das Nest der Crawler.","我仍在寻找爬行者的巢。","","","STT_301_IAN_GOTOASGHAN.description","",""
