@@ -104,7 +104,7 @@
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:99","II:  Vorbereitung für die Beschwörung","II：祈祷的准备","","","StoryHelper_INFO2.StoryHelper_PrepareRitual","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:100","II:  Hole den Almanach","II：取回年鉴","","","StoryHelper_INFO2.StoryHelper_CorKalom_BringBook_RUNNING","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:101","II:  Hole die MCQ-Eier","II：获得MCQ蛋","","","StoryHelper_INFO2.StoryHelper_CorKalom_BringMCQBalls_RUNNING","Info_AddChoice",""
-"Scripts/content/AI/Test_Skripts/StoryHelper.d:102","II:  Bringe Fokus zu Cor Kalom","II：将重点放在Cor Kalom上","","","StoryHelper_INFO2.StoryHelper_YBerion_BringFocus_SUCCESS","Info_AddChoice",""
+"Scripts/content/AI/Test_Skripts/StoryHelper.d:102","II:  Bringe Fokus zu Cor Kalom","II：将重点放在卡洛姆上","","False","StoryHelper_INFO2.StoryHelper_YBerion_BringFocus_SUCCESS","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:103","II:  Kapitelanfang","II：本章开始","","","StoryHelper_INFO2.StoryHelper_Chapter2Start","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:213","Kapitel 3","第3章","","","StoryHelper_INFO3.description","",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:226","III: Saturas  - 4 Foki holen","III: 饱和   - 4 焦点孔","","","StoryHelper_INFO3.StoryHelper_SaturasBringFoci_RUNNING","Info_AddChoice",""
