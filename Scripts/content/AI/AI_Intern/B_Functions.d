@@ -554,11 +554,7 @@ func void B_GiveInvItems(var C_Npc giver, var C_Npc taker, var int itemInstance,
 	{
 		if (itemInstance == ItMiNugget)
 		{
-#if pl
-			msg = ConcatStrings(_STR_MESSAGE_ORE_GIVEN, IntToString(amount));
-#elif ru_snowball
-			msg = ConcatStrings(_STR_MESSAGE_ORE_GIVEN, IntToString(amount));
-#elif uk
+#if (pl || ru_snowball || uk)
 			msg = ConcatStrings(_STR_MESSAGE_ORE_GIVEN, IntToString(amount));
 #else
 			msg = ConcatStrings(IntToString(amount), _STR_MESSAGE_ORE_GIVEN);
@@ -578,11 +574,7 @@ func void B_GiveInvItems(var C_Npc giver, var C_Npc taker, var int itemInstance,
 			}
 			else
 			{
-#if pl
-				msg = ConcatStrings(_STR_MESSAGE_ITEMS_GIVEN, IntToString(amount));
-#elif ru_snowball
-				msg = ConcatStrings(_STR_MESSAGE_ITEMS_GIVEN, IntToString(amount));
-#elif uk
+#if (pl || ru_snowball || uk)
 				msg = ConcatStrings(_STR_MESSAGE_ITEMS_GIVEN, IntToString(amount));
 #else
 				msg = ConcatStrings(IntToString(amount), _STR_MESSAGE_ITEMS_GIVEN);
@@ -595,9 +587,7 @@ func void B_GiveInvItems(var C_Npc giver, var C_Npc taker, var int itemInstance,
 	{
 		if (itemInstance == ItMiNugget)
 		{
-#if pl
-			msg = ConcatStrings(_STR_MESSAGE_ORE_TAKEN, IntToString(amount));
-#elif uk
+#if (pl || uk)
 			msg = ConcatStrings(_STR_MESSAGE_ORE_TAKEN, IntToString(amount));
 #else
 			msg = ConcatStrings(IntToString(amount), _STR_MESSAGE_ORE_TAKEN);
@@ -617,11 +607,7 @@ func void B_GiveInvItems(var C_Npc giver, var C_Npc taker, var int itemInstance,
 			}
 			else
 			{
-#if ru_snowball
-				msg = ConcatStrings(_STR_MESSAGE_ITEMS_TAKEN, IntToString(amount));
-#elif pl
-				msg = ConcatStrings(_STR_MESSAGE_ITEMS_TAKEN, IntToString(amount));
-#elif uk
+#if (pl || ru_snowball || uk)
 				msg = ConcatStrings(_STR_MESSAGE_ITEMS_TAKEN, IntToString(amount));
 #else
 				msg = ConcatStrings(IntToString(amount), _STR_MESSAGE_ITEMS_TAKEN);
