@@ -1692,7 +1692,7 @@
 "Scripts/content/Items/MissionItems_5.d:416","öffnet die Türen","Otwiera drzwi w","","","ItKe_SunkenTower.text[0]","",""
 "Scripts/content/Items/MissionItems_5.d:417","im versunkenen Turm.","zatopionej wieży.","","","ItKe_SunkenTower.text[1]","",""
 "Scripts/content/Items/MissionItems_5.d:425","Kerkerschlüssel","Klucz do lochów","","","DungeonKey.name","",""
-"Scripts/content/Items/MissionItems_5.d:436","des Alten Lagers.","Otwiera drzwi w lochach","","","DungeonKey.text[0]","",""
+"Scripts/content/Items/MissionItems_5.d:436","des Alten Lagers.","Otwiera drzwi w lochach","","False","DungeonKey.text[0]","",""
 "Scripts/content/Items/MissionItems_5.d:444","URIZIEL's Welle des Todes","Fala śmierci Uriziela","","","UrizielRune.name","",""
 "Scripts/content/Items/MissionItems_5.d:458","Diese mächtige Zauberrune enthält","Ta potężna runa magiczna zawiera","","","UrizielRune.text[0]","",""
 "Scripts/content/Items/MissionItems_5.d:459","die uralten Kräfte des Schwertes URIZIEL","starożytną moc miecza Uriziela.","","","UrizielRune.text[1]","",""
