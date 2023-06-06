@@ -248,7 +248,7 @@
 "Scripts/content/Items/Armor.d:1083","","","","","CRW_ARMOR_H.text[0]","",""
 "Scripts/content/Items/Armor.d:1095","antike Erzrüstung","Ancient Ore Armor","","","ORE_ARMOR_M.name","",""
 "Scripts/content/Items/Armor.d:1116","Diese uralte Rüstung wurde vollständig aus magischen Erz geschmiedet.","This ancient armor was made of magic ore.","","","ORE_ARMOR_M.text[0]","",""
-"Scripts/content/Items/Armor.d:1126","verbesserte Erzrüstung","Improved ore Armor","","","ORE_ARMOR_H.name","",""
+"Scripts/content/Items/Armor.d:1126","verbesserte Erzrüstung","Improved Ore Armor","","False","ORE_ARMOR_H.name","",""
 "Scripts/content/Items/Armor.d:1147","Stone der Schmied hat diese antike Rüstung noch verbessern können!","Stone, the smith, even managed to improve it!","","","ORE_ARMOR_H.text[0]","",""
 "Scripts/content/Items/Armor.d:1160","Richterrobe","Judge's Robe","","","LAW_ARMOR.name","",""
 "Scripts/content/Items/Armor.d:1183","","","","","LAW_ARMOR.text[0]","",""
