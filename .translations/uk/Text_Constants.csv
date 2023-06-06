@@ -241,7 +241,7 @@
 "Scripts/content/Story/Text.d:477","Geschicklichkeits-","Спритності","","","_STR_ATTRIBUTE_DEXTERITY","",""
 "Scripts/content/Story/Text.d:478","magische Zauber-","Кола Магії","","","_STR_ATTRIBUTE_MAGIC_CIRCLE","",""
 "Scripts/content/Story/Text.d:481","es fehlen ","Бракує ","","","_STR_CANNOTUSE_PRE_PLAYER","",""
-"Scripts/content/Story/Text.d:482","Punkte","","","False","_STR_CANNOTUSE_POINTS","",""
+"Scripts/content/Story/Text.d:482","Punkte","Пункти","","False","_STR_CANNOTUSE_POINTS","",""
 "Scripts/content/Story/Text.d:483","Stufen"," Магії","","","_STR_CANNOTUSE_LEVELS","",""
 "Scripts/content/Story/Text.d:484",", um diesen Gegenstand anzulegen"," для використання.","","","_STR_CANNOTUSE_POST","",""
 "Scripts/content/Story/Text.d:488",") fehlen ",") Бракує ","","","_STR_CANNOTUSE_POST_NPC","",""
