@@ -58,7 +58,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:409","Ja, ja, immer bescheiden, was?","Ах, завжди скромний, га?","","","Info_Milten_SHWAIT_02_04","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:421","Ich habe Gorn getroffen","Я зустрів Ґорна.","","","Info_Milten_SHGORN.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:434","Ich habe Gorn getroffen.","Я зустрів Ґорна.","","","Info_Milten_SHGORN_15_01","",""
-"Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:435","Wirklich? Wo?","насправді? Де?","","","Info_Milten_SHGORN_02_02","",""
+"Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:435","Wirklich? Wo?","Насправді? Де?","","False","Info_Milten_SHGORN_02_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:436","An der alten Klosterruine am Meer. Wir haben sie gemeinsam nach Schätzen durchsucht.","У руїнах кляштору, біля моря. Ми грали в шукачів скарбів.","","","Info_Milten_SHGORN_15_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:437","Davon wird er mir bei unserem nächsten Treffen bestimmt erzählen.","Можливо, він розповість мені про це під час нашої наступної зустрічі.","","","Info_Milten_SHGORN_02_04","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:449","Lester und ich haben die Bergfestung ausgenommen","Ми з Лестером трохи оглянули фортецю в горах.","","","Info_Milten_SHLESTER.description","",""
