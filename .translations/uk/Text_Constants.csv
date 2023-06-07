@@ -205,7 +205,7 @@
 "Scripts/content/Story/Text.d:427","Mana + ","Мана +","","","NAME_BuyAttributeMAN","",""
 "Scripts/content/Story/Text.d:432","Erfahrung + ","Досвід +","","","NAME_XPGained","",""
 "Scripts/content/Story/Text.d:433","Stufe gestiegen!","Рівень підвищено!","","","NAME_LevelUp","",""
-"Scripts/content/Story/Text.d:435","neuer Tagebucheintrag","Новий запис у щоденнику","","","NAME_NewLogEntry","",""
+"Scripts/content/Story/Text.d:435","neuer Tagebucheintrag","Новий запис у деннику","","False","NAME_NewLogEntry","",""
 "Scripts/content/Story/Text.d:437","Lerne: Kampf mit Einhandwaffen","Нова навичка: Битва одноручною зброєю","","","PRINT_LEARN_Onehanded","",""
 "Scripts/content/Story/Text.d:438","Lerne: Kampf mit Zweihandwaffen","Нова навичка: Битва дворучною зброєю","","","PRINT_LEARN_Twohanded","",""
 "Scripts/content/Story/Text.d:439","Lerne: Bogenschießen","Нова навичка: Стрільба з лука","","","PRINT_LEARN_Bow","",""
