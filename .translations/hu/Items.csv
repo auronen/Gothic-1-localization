@@ -247,7 +247,7 @@
 "Scripts/content/Items/Armor.d:1062","Crawler-Plattenrüstung","Ráklemez Páncél","","False","CRW_ARMOR_H.name","",""
 "Scripts/content/Items/Armor.d:1083","","","","","CRW_ARMOR_H.text[0]","",""
 "Scripts/content/Items/Armor.d:1095","antike Erzrüstung","Ősi Ércpáncél","","False","ORE_ARMOR_M.name","",""
-"Scripts/content/Items/Armor.d:1116","Diese uralte Rüstung wurde vollständig aus magischen Erz geschmiedet.","Ezt az ősi páncélt teljes egészében mágikus ércből kovácsolták.","","False","ORE_ARMOR_M.text[0]","",""
+"Scripts/content/Items/Armor.d:1116","Diese uralte Rüstung wurde vollständig aus magischen Erz geschmiedet.","Teljes egészében mágikus ércből kovácsolták.","","False","ORE_ARMOR_M.text[0]","",""
 "Scripts/content/Items/Armor.d:1126","verbesserte Erzrüstung","Megerősített Ércpáncél","","False","ORE_ARMOR_H.name","",""
 "Scripts/content/Items/Armor.d:1147","Stone der Schmied hat diese antike Rüstung noch verbessern können!","Stone a kovács még jobbá tette ezt az ősi páncélt!","","False","ORE_ARMOR_H.text[0]","",""
 "Scripts/content/Items/Armor.d:1160","Richterrobe","Bíró palástja","","False","LAW_ARMOR.name","",""
