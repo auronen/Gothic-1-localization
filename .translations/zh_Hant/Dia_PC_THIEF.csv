@@ -1,6 +1,6 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
 "Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:26","Ich bin Diego.","我是迪哥。","","","Info_Diego_Gamestart_11_00","",""
-"Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:27","Ich bin...","我是","","","Info_Diego_Gamestart_15_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:27","Ich bin...","我是...","","False","Info_Diego_Gamestart_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:28","Mich interessiert nicht, wer du bist. Du bist neu hier. Ich kümmere mich um die Neuen. Belassen wir es vorerst dabei.","你是誰不管我的事。你剛來這兒。而我負責照看新來的人。就是這樣。","","","Info_Diego_Gamestart_11_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:29","Wenn du vorhast, länger zu leben, solltest du dich ein bißchen mit mir unterhalten. Ich werde dich allerdings nicht daran hindern, in dein Verderben zu rennen. Also, wie sieht's aus?","如果你打算在這兒生活一段時間，你應該告訴我。但是我當然不會阻止你。嗯，你認為如何？","","","Info_Diego_Gamestart_11_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:53","Danke für die Hilfe.","謝謝你的幫助。","","","Info_Diego_EXIT_Gamestart_15_00","",""
