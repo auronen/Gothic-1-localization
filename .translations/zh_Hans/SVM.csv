@@ -423,7 +423,7 @@
 "Scripts/content/Story/svm.d:679","Verschwinde hier!","让自己稀缺！","","","SVM_4_GetOutOfHere","",""
 "Scripts/content/Story/svm.d:680","Hier drinnen hast du nichts verloren!","您没有生意在这里！","","","SVM_4_YouViolatedForbiddenTerritory","",""
 "Scripts/content/Story/svm.d:681","Ich bin nicht in der Stimmung für solche Scherze!","我不想像这样的笑话！","","","SVM_4_YouWannaFoolMe","",""
-"Scripts/content/Story/svm.d:682","Hey, du! Was schleichst du da rum.","嘿，你！你在这里爬什么？","","","SVM_4_WhatsThisSupposedToBe","",""
+"Scripts/content/Story/svm.d:682","Hey, du! Was schleichst du da rum.","嘿，你！你在这儿爬来爬去干什么？","","False","SVM_4_WhatsThisSupposedToBe","",""
 "Scripts/content/Story/svm.d:683","Geh raus, sonst ruf' ich die Wachen!","出去，否则我会打电话给警卫！","","","SVM_4_WhyYouAreInHere","",""
 "Scripts/content/Story/svm.d:684","Was hast du da drinnen getrieben?","你在那里做什么？","","","SVM_4_WhatDidYouInThere","",""
 "Scripts/content/Story/svm.d:685","Da hast du noch mal Glück gehabt.","你在那里很幸运。","","","SVM_4_WiseMove","",""
