@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/content/Story/Text.d:6","Kiste","Тара","","","MOBNAME_CRATE","",""
+"Scripts/content/Story/Text.d:6","Kiste","Ящик","","False","MOBNAME_CRATE","",""
 "Scripts/content/Story/Text.d:7","Truhe","Скриня","","","MOBNAME_CHEST","",""
 "Scripts/content/Story/Text.d:8","Bett","Ліжко","","","MOBNAME_BED","",""
 "Scripts/content/Story/Text.d:9","Tür","Двері","","","MOBNAME_DOOR","",""
