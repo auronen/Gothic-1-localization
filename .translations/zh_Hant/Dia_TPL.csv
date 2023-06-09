@@ -255,3 +255,4 @@
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1442_GuardPassage.d:69","Der Novize Lester schickt mich. Ich soll Y'Berion meine Dienste anbieten.","見習修士萊斯特派我來的。我會為貝理昂服務的。","","","Info_TPL_1442_FirstWarn_Condition_LESTER_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1442_GuardPassage.d:70","Lester ist vertrauenswürdig. Ich kenne ihn. Du kannst passieren.","萊斯特是一個可信的人。我認識他。你可以過去了。","","","Info_TPL_1442_FirstWarn_Condition_LESTER_13_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1442_GuardPassage.d:105","Noch einen Schritt weiter und du trittst deinem Schöpfer gegenüber!","如果你再跨出一步，我就殺了你。","","","Info_TPL_1442_LastWarn_13_01","",""
+"","Wie sieht's aus?","事情怎麼樣？","","False","DIA_GorBobaOW_PERM.description","",""
