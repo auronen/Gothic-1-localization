@@ -127,7 +127,7 @@
 "Scripts/content/Story/svm.d:369"," ... erst mal abwarten. Es wird nichts so heiß gegessen, wie es gekocht wird ..."," ... чекай. Краще не лізти у пекло ...","","","SVM_1_Smalltalk22","",""
 "Scripts/content/Story/svm.d:370"," ... ich dachte, das wäre schon lange geklärt ..."," ... Я думав, що це вже давно з'ясували ...","","","SVM_1_Smalltalk23","",""
 "Scripts/content/Story/svm.d:371"," ... lass uns lieber über was anderes reden ..."," ... поговоримо краще про щось інше ...","","False","SVM_1_Smalltalk24","",""
-"Scripts/content/Story/svm.d:372"," Ommm"," Оммм","","False","SVM_1_Om","",""
+"Scripts/content/Story/svm.d:372"," Ommm"," Оммм","","True","SVM_1_Om","",""
 "Scripts/content/Story/svm.d:379","Keine Magie!","Жодної магії!","","","SVM_2_StopMagic","",""
 "Scripts/content/Story/svm.d:380","HEY! Keine Magie, hab' ich gesagt!","Гей! Я ж сказав: жодної магії!","","","SVM_2_ISaidStopMagic","",""
 "Scripts/content/Story/svm.d:381","Komm, steck das Ding weg!","Негайно прибери зброю!","","","SVM_2_WeaponDown","",""
