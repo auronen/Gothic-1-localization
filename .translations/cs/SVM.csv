@@ -288,7 +288,7 @@
 "Scripts/content/Story/svm.d:540","Wir sehen uns wieder!","Ještě se uvidíme!","","","SVM_3_WeWillMeetAgain","",""
 "Scripts/content/Story/svm.d:541","Versuch so was nicht noch mal!","Už se o to nikdy nepokoušej!","","","SVM_3_NeverTryThatAgain","",""
 "Scripts/content/Story/svm.d:542","Danke für die Waffe!","Díky za tu zbraň!","","","SVM_3_ITakeYourWeapon","",""
-"Scripts/content/Story/svm.d:543","Ich nehme mir noch etwas Erz ...","Vezmu si ještě víc tvojí rudy!","","","SVM_3_ITookYourOre","",""
+"Scripts/content/Story/svm.d:543","Ich nehme mir noch etwas Erz ...","Vezmu si ještě víc tvojí rudy…","","False","SVM_3_ITookYourOre","",""
 "Scripts/content/Story/svm.d:544","Kein Erz dabei? Das ist traurig, Mann, echt traurig!","Ty už nemáš rudu? To je smutné, člověče, opravdu smutné!","","","SVM_3_ShitNoOre","",""
 "Scripts/content/Story/svm.d:545","Finger weg!","Ruce od toho pryč!","","","SVM_3_HandsOff","",""
 "Scripts/content/Story/svm.d:546","Verzieh dich!","Kliď se odsuď!","","","SVM_3_GetOutOfHere","",""
