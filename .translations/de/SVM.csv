@@ -127,7 +127,7 @@
 "Scripts/content/Story/svm.d:369"," ... erst mal abwarten. Es wird nichts so heiß gegessen, wie es gekocht wird ..."," ... erst mal abwarten. Es wird nichts so heiß gegessen, wie es gekocht wird ...","","","SVM_1_Smalltalk22","",""
 "Scripts/content/Story/svm.d:370"," ... ich dachte, das wäre schon lange geklärt ..."," ... ich dachte, das wäre schon lange geklärt ...","","","SVM_1_Smalltalk23","",""
 "Scripts/content/Story/svm.d:371"," ... lass uns lieber über was anderes reden ..."," ... lass uns lieber über was anderes reden ...","","","SVM_1_Smalltalk24","",""
-"Scripts/content/Story/svm.d:372"," Ommm"," Ommm","","","SVM_1_Om","",""
+"Scripts/content/Story/svm.d:372"," Ommm","Ommm","","False","SVM_1_Om","",""
 "Scripts/content/Story/svm.d:379","Keine Magie!","Keine Magie!","","","SVM_2_StopMagic","",""
 "Scripts/content/Story/svm.d:380","HEY! Keine Magie, hab' ich gesagt!","HEY! Keine Magie, hab' ich gesagt!","","","SVM_2_ISaidStopMagic","",""
 "Scripts/content/Story/svm.d:381","Komm, steck das Ding weg!","Komm, steck das Ding weg!","","","SVM_2_WeaponDown","",""
