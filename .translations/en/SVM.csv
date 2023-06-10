@@ -288,7 +288,7 @@
 "Scripts/content/Story/svm.d:540","Wir sehen uns wieder!","We'll meet again!","","","SVM_3_WeWillMeetAgain","",""
 "Scripts/content/Story/svm.d:541","Versuch so was nicht noch mal!","Don't ever try anything like that again!","","","SVM_3_NeverTryThatAgain","",""
 "Scripts/content/Story/svm.d:542","Danke für die Waffe!","Thanks for the weapon!","","","SVM_3_ITakeYourWeapon","",""
-"Scripts/content/Story/svm.d:543","Ich nehme mir noch etwas Erz ...","I'll just take some more of your ore!","","","SVM_3_ITookYourOre","",""
+"Scripts/content/Story/svm.d:543","Ich nehme mir noch etwas Erz ...","I'll just take some more of your ore…","","False","SVM_3_ITookYourOre","",""
 "Scripts/content/Story/svm.d:544","Kein Erz dabei? Das ist traurig, Mann, echt traurig!","No ore? That's sad, man, real sad!","","","SVM_3_ShitNoOre","",""
 "Scripts/content/Story/svm.d:545","Finger weg!","Hands off!","","","SVM_3_HandsOff","",""
 "Scripts/content/Story/svm.d:546","Verzieh dich!","Beat it!","","","SVM_3_GetOutOfHere","",""
