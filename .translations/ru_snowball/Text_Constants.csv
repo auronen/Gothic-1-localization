@@ -243,7 +243,7 @@
 "Scripts/content/Story/Text.d:481","es fehlen ","Для использования этого предмета вам не хватает ","","","_STR_CANNOTUSE_PRE_PLAYER","",""
 "Scripts/content/Story/Text.d:482","Punkte","ед. ","","","_STR_CANNOTUSE_POINTS","",""
 "Scripts/content/Story/Text.d:483","Stufen"," Круга Магии!","","","_STR_CANNOTUSE_LEVELS","",""
-"Scripts/content/Story/Text.d:484",", um diesen Gegenstand anzulegen","","","","_STR_CANNOTUSE_POST","",""
+"Scripts/content/Story/Text.d:484",", um diesen Gegenstand anzulegen",", для использования","","False","_STR_CANNOTUSE_POST","",""
 "Scripts/content/Story/Text.d:488",") fehlen ",")  не хватает","","","_STR_CANNOTUSE_POST_NPC","",""
 "Scripts/content/Story/Text.d:491","kein Dietrich oder passender Schlüssel","Нет отмычки или ключа.","","","_STR_MESSAGE_INTERACT_NO_KEY","",""
 "Scripts/content/Story/Text.d:492","das hörte sich gut an","звучит хорошо.","","","_STR_MESSAGE_PICKLOCK_SUCCESS","",""
