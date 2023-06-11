@@ -81,7 +81,7 @@
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:730","Söldner","Найманець","","","CH_Guild.CH_Mercenary","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:735","Wassermagier","Водякий маг","","","CH_Guild.CH_Watermage","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:740","Novize","Новак","","","CH_Guild.CH_Novice","Info_AddChoice",""
-"Scripts/content/AI/Test_Skripts/CharacterHelper.d:745","Templer","Храмовий вартівник","","","CH_Guild.CH_Templar","Info_AddChoice",""
+"Scripts/content/AI/Test_Skripts/CharacterHelper.d:745","Templer","Храмовник","","False","CH_Guild.CH_Templar","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:891","ATTRIBUTE: Stärke","АТРИБУТ: Сила","","","CH_Training_STR.description","",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:907","Stärke (alle restlichen Lernpunkte)","Сила (на всі пункти вміння)","","","CH_Training_STR.CH_Strength_all","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:908","Stärke (für beste Nahkampfwaffe)","Сила (до кращої зброї)","","","CH_Training_STR.CH_Strength_Weapon","Info_AddChoice",""
