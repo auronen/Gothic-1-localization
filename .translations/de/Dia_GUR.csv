@@ -232,7 +232,7 @@
 "Scripts/content/Story/MISSIONS/DIA_GUR_1202_CorAngar.d:100","Kannst du meine Stärke und mein Geschick trainieren?","Kannst du meine Stärke und mein Geschick trainieren?","","","GUR_1202_CorAngar_Teach.description","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1202_CorAngar.d:113","Kannst du meine Stärke und mein Geschick trainieren?","Kannst du meine Stärke und mein Geschick trainieren?","","","GUR_1202_CorAngar_Teach_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1202_CorAngar.d:114","Kampfkraft und Wendigkeit sind die Vorraussetzungen für jeden Kämpfer.","Kampfkraft und Wendigkeit sind die Vorraussetzungen für jeden Kämpfer.","","","GUR_1202_CorAngar_Teach_08_01","",""
-"Scripts/content/Story/MISSIONS/DIA_GUR_1202_CorAngar.d:183","Ich möchte Templer werden","Ich möchte Templer werden","","","GUR_1202_CorAngar_WANNABETPL.description","",""
+"Scripts/content/Story/MISSIONS/DIA_GUR_1202_CorAngar.d:183","Ich möchte Templer werden","Ich möchte Templer werden!","","False","GUR_1202_CorAngar_WANNABETPL.description","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1202_CorAngar.d:197","Ich möchte Templer werden!","Ich möchte Templer werden!","","","GUR_1202_CorAngar_WANNABETPL_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1202_CorAngar.d:201","Du bist noch nicht bereit. Wenn du erfahrener geworden bist, werde ich dich aufnehmen.","Du bist noch nicht bereit. Wenn du erfahrener geworden bist, werde ich dich aufnehmen.","","","GUR_1202_CorAngar_WANNABETPL_Info_08_02","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1202_CorAngar.d:206","Die Zeit ist gekommen, da du aufgenommen wirst.","Die Zeit ist gekommen, da du aufgenommen wirst.","","","GUR_1202_CorAngar_WANNABETPL_Info_08_03","",""
