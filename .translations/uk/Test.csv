@@ -75,7 +75,7 @@
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:313","Level 5","Рівень 5","","","CH_Level.CH_Level_5","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:691","Gib mir Gilde!","Я хочу гільдію!","","","CH_Guild.description","",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:710","Schatten","Тінь","","","CH_Guild.CH_Shadow","Info_AddChoice",""
-"Scripts/content/AI/Test_Skripts/CharacterHelper.d:715","Gardist","Стражник","","","CH_Guild.CH_Guard","Info_AddChoice",""
+"Scripts/content/AI/Test_Skripts/CharacterHelper.d:715","Gardist","Вартівник","","False","CH_Guild.CH_Guard","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:720","Feuermagier","Вогняний маг","","","CH_Guild.CH_Firemage","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:725","Bandit","Злодій","","","CH_Guild.CH_Bandit","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:730","Söldner","Найманець","","","CH_Guild.CH_Mercenary","Info_AddChoice",""
