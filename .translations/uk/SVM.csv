@@ -37,7 +37,7 @@
 "Scripts/content/Story/svm.d:279","Hey! Wie kommst du hier rein?","Гей! Що ти тут робиш?","","False","SVM_1_YouViolatedForbiddenTerritory","",""
 "Scripts/content/Story/svm.d:280","Du glaubst wohl, ich bin bescheuert!","Ти думаєш, що я настільки тупий?","","","SVM_1_YouWannaFoolMe","",""
 "Scripts/content/Story/svm.d:281","Hey du! Was schleichst du da rum.","Гей, ти! Що ти тут вештаєшся?!","","","SVM_1_WhatsThisSupposedToBe","",""
-"Scripts/content/Story/svm.d:282","Raus aus meiner Hütte oder ich ruf die Wachen!","Геть з моєї хати, або я викличу Стражників!","","False","SVM_1_WhyYouAreInHere","",""
+"Scripts/content/Story/svm.d:282","Raus aus meiner Hütte oder ich ruf die Wachen!","Геть з моєї хати, або я викличу Вартівників!","","False","SVM_1_WhyYouAreInHere","",""
 "Scripts/content/Story/svm.d:283","Du hast da drinnen nichts verloren! Verschwinde!","Нема тут чого шукати! Загубись!","","","SVM_1_WhatDidYouInThere","",""
 "Scripts/content/Story/svm.d:284","Kluges Kerlchen!","Розумний хлопчик!","","","SVM_1_WiseMove","",""
 "Scripts/content/Story/svm.d:285","Wachen! Hierher!","Варта! Сюди!","","","SVM_1_Alarm","",""
