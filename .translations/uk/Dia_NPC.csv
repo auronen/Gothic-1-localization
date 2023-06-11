@@ -40,7 +40,7 @@
 "Scripts/content/Story/NPC/Grd_262_Aaron.d:4","Aaron","Аарон","","","GRD_262_Aaron.name","",""
 "Scripts/content/Story/NPC/Grd_263_Asghan.d:4","Asghan","Асган","","","GRD_263_Asghan.name","",""
 "Scripts/content/Story/NPC/Grd_271_Ulbert.d:4","Ulbert","Ульберт","","","GRD_271_Ulbert.name","",""
-"Scripts/content/Story/NPC/Grd_282_Nek.d:4","Toter Gardist","Мертвий Стражник","","","GRD_282_Nek.name","",""
+"Scripts/content/Story/NPC/Grd_282_Nek.d:4","Toter Gardist","Мертвий Вартівник","","False","GRD_282_Nek.name","",""
 "Scripts/content/Story/NPC/Gur_1200_YBerion.d:4","Y'Berion","І'Беріон","","","GUR_1200_YBerion.name","",""
 "Scripts/content/Story/NPC/Gur_1201_CorKalom.d:4","Cor Kalom","Кор Калом","","","GUR_1201_CorKalom.name","",""
 "Scripts/content/Story/NPC/Gur_1202_CorAngar.d:4","Cor Angar","Кор Анґар","","","GUR_1202_CorAngar.name","",""
