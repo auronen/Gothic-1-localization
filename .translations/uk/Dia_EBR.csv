@@ -39,7 +39,7 @@
 "Scripts/content/Story/MISSIONS/DIA_EBR_100_Gomez.d:191","Das waren alle wichtigen.","Це всі важливі люди котрих я знаю.","","","DIA_Gomez_Hello_Kontakte_ThatsAll_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_EBR_100_Gomez.d:194","Beachtlich - für einen Neuling wie dich ...","не погано - як на такого як ти.","","","DIA_Gomez_Hello_Kontakte_ThatsAll_11_01","",""
 "Scripts/content/Story/MISSIONS/DIA_EBR_100_Gomez.d:195","Du sollst deine Chance kriegen.","Добре, я дам тобі шанс.","","","DIA_Gomez_Hello_Kontakte_ThatsAll_11_02","",""
-"Scripts/content/Story/MISSIONS/DIA_EBR_100_Gomez.d:200","DAMIT willst du mich beeindrucken? Im Lager gibt es BUDDLER, die bessere Beziehungen haben!","І що? Я повинен бути вражений?! Я знаю Гірників, які мають кращі зв’язки, ніж ти!","","","DIA_Gomez_Hello_Kontakte_ThatsAll_INSUFF_11_00","",""
+"Scripts/content/Story/MISSIONS/DIA_EBR_100_Gomez.d:200","DAMIT willst du mich beeindrucken? Im Lager gibt es BUDDLER, die bessere Beziehungen haben!","І що? Я повинен бути вражений?! Я знаю Копачів, які мають кращі зв’язки, ніж ти!","","False","DIA_Gomez_Hello_Kontakte_ThatsAll_INSUFF_11_00","",""
 "Scripts/content/Story/MISSIONS/DIA_EBR_100_Gomez.d:214","Heißt das, ich bin dabei?","Це означає, що я один із вас?","","","DIA_Gomez_Dabei.description","",""
 "Scripts/content/Story/MISSIONS/DIA_EBR_100_Gomez.d:228","Heißt das, ich bin dabei?","Це означає, що я один із вас?","","","DIA_Gomez_Dabei_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_EBR_100_Gomez.d:229","Genau das heißt es. Du bist jetzt einer von uns, Kleiner.","Саме так. Вітаємо в наші дружині хлопчу.","","","DIA_Gomez_Dabei_11_01","",""
