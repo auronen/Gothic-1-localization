@@ -1817,7 +1817,7 @@
 "Scripts/content/Story/svm.d:2126","Funktioniert nicht","Не працює.","","","SVM_15_DoesntWork","",""
 "Scripts/content/Story/svm.d:2127","Hm, abgebrochen."," Хм, зламане.","","","SVM_15_PickBroke","",""
 "Scripts/content/Story/svm.d:2128","Dafür brauch' ich den Schlüssel ..."," Для цього мені потрібний ключ...","","","SVM_15_NeedKey","",""
-"Scripts/content/Story/svm.d:2129","Keine Dietriche mehr ..."," Немає витриху...","","","SVM_15_NoMorePicks","",""
+"Scripts/content/Story/svm.d:2129","Keine Dietriche mehr ...","Немає відмички...","","False","SVM_15_NoMorePicks","",""
 "Scripts/content/Story/svm.d:2130","Mehr kann ich nicht tragen."," Я не можу нести ще більше.","","","SVM_15_InvFull","",""
 "Scripts/content/Story/svm.d:2136","Geh schon! Du darfst nicht mit mir reden!","Іди! Тобі не можна розмовляти зі мною!","","","SVM_16_NotNow","",""
 "Scripts/content/Story/svm.d:2137","","(крик)","","","SVM_16_Help","",""
