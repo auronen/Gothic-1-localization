@@ -125,7 +125,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:769","Dann statten wir dem Wächter mal einen Besuch ab!","Тож ходімо. Настав час відвідати Наглядача.","","","Info_Milten_SHARRIVED_15_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:785","Ich bin verwundet. Bitte hilf mir!","Я поранений. Ти можеш мені допомогти?","","","Info_Milten_SHHEAL.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:801","Ich bin verwundet. Bitte hilf mir!","Я поранений. Ти можеш мені допомогти?","","","Info_Milten_SHHEAL_15_01","",""
-"Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:805","Nimm diesen Heiltrank. Aber sei nicht verschwenderisch, ich habe nicht unendlich viel davon.","Прийміть це цілющій відвар.","","","Info_Milten_SHHEAL_02_02","",""
+"Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:805","Nimm diesen Heiltrank. Aber sei nicht verschwenderisch, ich habe nicht unendlich viel davon.","Прийми цей цілющий відвар.","","False","Info_Milten_SHHEAL_02_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:810","Ich habe keinen Heiltrank mehr.","У мене більше немає має еліксирів.","","","Info_Milten_SHHEAL_02_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:826","Der Wächter lebt noch!","Наглядач ще живий!","","","Info_Milten_SHRUNNING.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:844","Der Wächter lebt noch!","Наглядач ще живий!","","","Info_Milten_SHRUNNING_15_01","",""
