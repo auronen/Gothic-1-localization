@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/content/Story/Log_Constants.d:11","Baloros Waffe","","","False","Baloros_Waffe","",""
+"Scripts/content/Story/Log_Constants.d:11","Baloros Waffe","Arf Baloros","","False","Baloros_Waffe","",""
 "Scripts/content/Story/Log_Constants.d:12","Baloro hat versprochen, mir eine verdammt gute Waffe zu geben, wenn ich ihm ein paar Sachen besorge. Er will 5 Äpfel, 2 Flaschen Reisschnaps, 5 Flaschen Bier, 3 Laibe Brot, 2 Käsestücke und 2 Weintraubenreben.","","","False","Baloros_Waffe_1","",""
 "Scripts/content/Story/Log_Constants.d:13","Hätte ich mir gleich denken können, daß der Typ mich nur verarschen will. Egal! Jetzt bin um eine Erfahrung reicher!","","","False","Baloros_Waffe_2","",""
 "Scripts/content/Story/Log_Constants.d:16","Der Fremde","","","False","theriddle_log","",""
