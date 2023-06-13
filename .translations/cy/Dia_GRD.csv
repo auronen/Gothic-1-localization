@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/content/Story/MISSIONS/DIA_GRD_203_Bullit.d:43","Wen haben wir denn da? Du bist doch der Typ, den ich getauft habe? Was willst du? Noch mehr Schläge?","","","False","DIA_Bullit_First_06_00","",""
+"Scripts/content/Story/MISSIONS/DIA_GRD_203_Bullit.d:43","Wen haben wir denn da? Du bist doch der Typ, den ich getauft habe? Was willst du? Noch mehr Schläge?","Pwy sydd gyda ni yma, felly? Ti yw'r dyn yr oeddwn i wedi ei fedyddio, on'd wyt? Beth wyt ti eisiau? Mwy o guriadau?","","False","DIA_Bullit_First_06_00","",""
 "Scripts/content/Story/MISSIONS/DIA_GRD_203_Bullit.d:55","Ich bin gekommen, um dir dein großes Maul zu stopfen.","","","False","DIA_Bullit_AufsMAul.description","",""
 "Scripts/content/Story/MISSIONS/DIA_GRD_203_Bullit.d:65","Ich bin gekommen, um dir dein großes Maul zu stopfen.","","","False","DIA_Bullit_AufsMAul_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_GRD_203_Bullit.d:66","Ja, dann komm mal her, Bürschchen!","","","False","DIA_Bullit_AufsMAul_06_01","",""
