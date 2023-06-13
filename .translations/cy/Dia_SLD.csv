@@ -1,6 +1,6 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/content/Story/MISSIONS/DIA_SLD_709_Cord.d:31","Ich will besser mit Einhandwaffen umgehen können.","","","False","SLD_709_Cord_TRAINOFFER.description","",""
-"Scripts/content/Story/MISSIONS/DIA_SLD_709_Cord.d:44","Ich will besser mit Einhandwaffen umgehen können.","","","False","SLD_709_Cord_TRAINOFFER_Info_15_01","",""
+"Scripts/content/Story/MISSIONS/DIA_SLD_709_Cord.d:31","Ich will besser mit Einhandwaffen umgehen können.","Dwi eisiau gallu ymdrin yn well gydag arfau un llaw.","","False","SLD_709_Cord_TRAINOFFER.description","",""
+"Scripts/content/Story/MISSIONS/DIA_SLD_709_Cord.d:44","Ich will besser mit Einhandwaffen umgehen können.","Dw i eisiau gallu ymdopi'n well gyda'r arfau un llaw.","","False","SLD_709_Cord_TRAINOFFER_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_SLD_709_Cord.d:45","Natürlich. Kostet aber 'ne Kleinigkeit. 30 Erz will ich sehen.","","","False","SLD_709_Cord_TRAINOFFER_Info_14_02","",""
 "Scripts/content/Story/MISSIONS/DIA_SLD_709_Cord.d:75","Ich will besser mit Einhandwaffen umgehen können.","","","False","SLD_709_Cord_TRAIN_Info_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_SLD_709_Cord.d:81","Gute Entscheidung! Um deine Technik zu verbessern, musst du erst einmal lernen, deine Waffe richtig zu halten.","","","False","SLD_709_Cord_TRAIN_14_01","",""
