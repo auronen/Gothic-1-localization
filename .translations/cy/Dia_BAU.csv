@@ -1,6 +1,6 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:33","Du kümmerst dich um die Reisfelder, richtig?","","","False","DIA_Ricelord_Hello.description","",""
-"Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:43","Du kümmerst dich um die Reisfelder, richtig?","","","False","DIA_Ricelord_Hello_15_00","",""
+"Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:33","Du kümmerst dich um die Reisfelder, richtig?","Wyt ti'n gofalu am y caeau reis, iawn?","","False","DIA_Ricelord_Hello.description","",""
+"Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:43","Du kümmerst dich um die Reisfelder, richtig?","Wyt ti'n gofalu am y caeau reis, iawn?","","False","DIA_Ricelord_Hello_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:44","Warum? Suchst du Arbeit?","","","False","DIA_Ricelord_Hello_12_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:56","Hast du Arbeit für mich?","","","False","DIA_Ricelord_Arbeit.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:71","Hast du Arbeit für mich?","","","False","DIA_Ricelord_Arbeit_15_00","",""
