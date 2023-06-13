@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/content/Story/MISSIONS/DIA_TPL_1402_GorNaToth.d:34","Kannst du mich trainieren?","","","False","DIA_GorNaToth_Abweisend.description","",""
+"Scripts/content/Story/MISSIONS/DIA_TPL_1402_GorNaToth.d:34","Kannst du mich trainieren?","Alli di hyfforddi fi?","","False","DIA_GorNaToth_Abweisend.description","",""
 "Scripts/content/Story/MISSIONS/DIA_TPL_1402_GorNaToth.d:48","Kannst du mich trainieren?","","","False","DIA_GorNaToth_AngarTalked_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_TPL_1402_GorNaToth.d:49","Geh mir aus den Augen, Unwürdiger. Ich trainiere nur die Templer des Schläfers.","","","False","DIA_GorNaToth_AngarTalked_11_01","",""
 "Scripts/content/Story/MISSIONS/DIA_TPL_1402_GorNaToth.d:75","Cor Angar hat mit dir geredet? Was hat er gesagt?","","","False","DIA_GorNaToth_AngarTalked_11_00","",""
