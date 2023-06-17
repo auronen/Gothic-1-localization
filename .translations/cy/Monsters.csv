@@ -62,5 +62,5 @@
 "Scripts/content/AI/Monster/Mst_UndeadOrcWarrior.d:103","Hoher Tempelwächter","Gwarchodwr Deml Uchel","","False","UndeadOWH.name","",""
 "Scripts/content/AI/Monster/Mst_Waran.d:8","Waran","Madfall","","False","Mst_Default_Waran.name","",""
 "Scripts/content/AI/Monster/Mst_Wolf.d:8","Wolf","Blaidd","","False","Mst_Default_Wolf.name","",""
-"Scripts/content/AI/Monster/Mst_Zombie.d:8","Zombie","Sombi","","False","Mst_Default_Zombie.name","",""
+"Scripts/content/AI/Monster/Mst_Zombie.d:8","Zombie","Zombi","","False","Mst_Default_Zombie.name","",""
 "Scripts/content/AI/Monster/Mst_Zombie.d:208","Der Wächter","Y Gwarcheidwad","","False","ZombieTheKeeper.name","",""
