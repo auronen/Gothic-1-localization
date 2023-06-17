@@ -1,6 +1,6 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
 "Scripts/content/Story/MISSIONS/DIA_STT_315_Sly.d:48","Neu hier, was? Dein Gesicht kenne ich nicht.","Newydd yma, ydw? Dy wyneb i ddim yn adnabod.","","False","DIA_STT_315_Sly_10_01","",""
-"Scripts/content/Story/MISSIONS/DIA_STT_315_Sly.d:49","Ich bin Sly. Ich hätte was zu tun für einen Neuen.","","","False","DIA_STT_315_Sly_10_02","",""
+"Scripts/content/Story/MISSIONS/DIA_STT_315_Sly.d:49","Ich bin Sly. Ich hätte was zu tun für einen Neuen.","Sly dw i. Byddai gen i rywbeth i'w wneud ar gyfer rhywun newydd.","","True","DIA_STT_315_Sly_10_02","",""
 "Scripts/content/Story/MISSIONS/DIA_STT_315_Sly.d:63","Du hast was zu tun für mich? Um was geht's?","","","False","DIA_STT_315_LostNek.description","",""
 "Scripts/content/Story/MISSIONS/DIA_STT_315_Sly.d:73","Du hast was zu tun für mich? Um was geht's?","","","False","DIA_STT_315_LostNek_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_STT_315_Sly.d:74","Einer unserer Gardisten ist verschwunden! Er heißt Nek. Er könnte ins Neue Lager übergelaufen sein.","","","False","DIA_STT_315_LostNek_10_01","",""
