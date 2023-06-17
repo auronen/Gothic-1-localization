@@ -1,6 +1,6 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
 "Scripts/content/Story/MISSIONS/DIA_ORG_833_Buster.d:19","Du siehst ganz schön ungelenkig aus, ich könnte dir helfen.","Ti'n edrych yn eithaf lletchwith, alla i dy helpu.","","False","DIA_ORG_833_Buster_02_01","",""
-"Scripts/content/Story/MISSIONS/DIA_ORG_833_Buster.d:51","Wie kannst du mir helfen?","","","False","DIA_ORG_833_Buster3.description","",""
+"Scripts/content/Story/MISSIONS/DIA_ORG_833_Buster.d:51","Wie kannst du mir helfen?","Sut alli di fy helpu i?","","False","DIA_ORG_833_Buster3.description","",""
 "Scripts/content/Story/MISSIONS/DIA_ORG_833_Buster.d:61","Ich kann dir die hohe Kunst der Körperbeherrschung zeigen. AKROBATIK.","","","False","DIA_ORG_833_Buster3_02_01","",""
 "Scripts/content/Story/MISSIONS/DIA_ORG_833_Buster.d:78","Wenn du deinen Körper beherrscht, bist du in der Lage viel weiter zu springen.","","","False","DIA_ORG_833_Buster3_02_02","",""
 "Scripts/content/Story/MISSIONS/DIA_ORG_833_Buster.d:79","Du lernst dich richtig abzurollen und aus dem Fall heraus richtig zu landen. Aber denk daran, du bist nicht unsterblich!","","","False","DIA_ORG_833_Buster3_02_03","",""
