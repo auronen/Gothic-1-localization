@@ -18,7 +18,7 @@
 "Scripts/content/AI/Monster/Mst_Golem.d:266","Brücken Golem","Мостовий Ґолем","","","BridgeGolem.name","",""
 "Scripts/content/AI/Monster/Mst_Harpie.d:8","Harpie","Гарпія","","","Mst_Default_Harpie.name","",""
 "Scripts/content/AI/Monster/Mst_Lurker.d:8","Lurker","Топелець","","","Mst_Default_Lurker.name","",""
-"Scripts/content/AI/Monster/Mst_Lurker.d:104","Dammlurker","Топелець з-під Тами","","","DamLurker.name","",""
+"Scripts/content/AI/Monster/Mst_Lurker.d:104","Dammlurker","Топелець з-під Греблі","","False","DamLurker.name","",""
 "Scripts/content/AI/Monster/Mst_Meatbug.d:8","Fleischwanze","М'ясний жук","","","Mst_Default_Meatbug.name","",""
 "Scripts/content/AI/Monster/Mst_Minecrawler.d:8","Minecrawler","Повзун","","","Mst_Default_Minecrawler.name","",""
 "Scripts/content/AI/Monster/Mst_MinecrawlerQueen.d:8","Minecrawler Königin","Королева Повзунів","","","Mst_Default_MinecrawlerQueen.name","",""
