@@ -104,7 +104,7 @@
 "Scripts/content/Story/Text.d:180","Armee der Finsternis","Армія Темряви","","","TXT_SPELLS[46]","",""
 "Scripts/content/Story/Text.d:181","Sturmfaust","Удар Шторму","","","TXT_SPELLS[47]","",""
 "Scripts/content/Story/Text.d:183","Todeshauch","Дихання смерті","","","TXT_SPELLS[49]","",""
-"Scripts/content/Story/Text.d:184","Schrumpfen","Зменшення потвори","","","TXT_SPELLS[50]","",""
+"Scripts/content/Story/Text.d:184","Schrumpfen","Зменшення Монстра","","False","TXT_SPELLS[50]","",""
 "Scripts/content/Story/Text.d:187","Raserei","Лють","","False","TXT_SPELLS[53]","",""
 "Scripts/content/Story/Text.d:188","Zorn des URIZIEL","Гнів Урізіеля","","","TXT_SPELLS[54]","",""
 "Scripts/content/Story/Text.d:189","New2","New2","","","TXT_SPELLS[55]","",""
