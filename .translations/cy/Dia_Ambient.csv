@@ -587,7 +587,7 @@
 "Scripts/content/Story/B/B_AssignAmbientInfos_Vlk_2.d:123","Wie ist das Leben hier?","","","False","Info_Vlk_2_DieLage_15_00","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Vlk_2.d:124","Wenn die Erzbarone dich schicken, sag ihnen, ich will keinen Ärger. Von mir bekommt keiner was zu hören.","","","False","Info_Vlk_2_DieLage_02_01","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Vlk_2.d:125","Ich bin zufrieden mit dem, was sie uns geben.","","","False","Info_Vlk_2_DieLage_02_02","",""
-"Scripts/content/Story/B/B_AssignAmbientInfos_Vlk_2.d:126","Niemand schickt mich. Ich bin neu hier.","","","False","Info_Vlk_2_DieLage_15_03","",""
+"Scripts/content/Story/B/B_AssignAmbientInfos_Vlk_2.d:126","Niemand schickt mich. Ich bin neu hier.","Ni anfonodd neb fi. Dw i'n newydd yma.","","False","Info_Vlk_2_DieLage_15_03","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Vlk_2.d:127","Ein Neuer ... Neue kriegen hier immer schnell Ärger. Ich will in nichts reingezogen werden, klar?","","","False","Info_Vlk_2_DieLage_02_04","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Vlk_3.d:37","Wie kann ich mich diesem Lager anschliessen?","","","False","Info_Vlk_3_EinerVonEuchWerden.description","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Vlk_3.d:50","Wie kann ich mich diesem Lager anschließen?","","","False","Info_Vlk_3_EinerVonEuchWerden_15_00","",""
