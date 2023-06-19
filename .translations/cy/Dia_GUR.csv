@@ -371,7 +371,7 @@
 "Scripts/content/Story/MISSIONS/DIA_GUR_1211_BaalLukor.d:69","Dann plötzlich bewegte sich die Dunkelheit und überall waren Orks. Ich weiß nicht, was sie hier suchen, aber ihr Auftauchen hier ist mehr als ungewöhnlich!","","","False","Info_BaalLukor_DEAD_13_04","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1211_BaalLukor.d:70","Wo sind die anderen Templer?","","","False","Info_BaalLukor_DEAD_15_05","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1211_BaalLukor.d:71","Tot! Ich habe sie unwissend ins Verderben geführt. Ich hoffe, der Schläfer wird mir das verzeihen.","","","False","Info_BaalLukor_DEAD_13_06","",""
-"Scripts/content/Story/MISSIONS/DIA_GUR_1211_BaalLukor.d:85","Cor Angar schickt mich!","","","False","Info_BaalLukor_SUMMONING.description","",""
+"Scripts/content/Story/MISSIONS/DIA_GUR_1211_BaalLukor.d:85","Cor Angar schickt mich!","Anfonodd Cor Angar fi!","","False","Info_BaalLukor_SUMMONING.description","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1211_BaalLukor.d:95","Cor Angar schickt mich! Habt ihr irgendein Zeichen des Schläfers gefunden?","","","False","Info_BaalLukor_SUMMONING_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1211_BaalLukor.d:96","Bisher noch nicht. Aber was ist mit Y'Berion? Ist er wieder zu sich gekommen?","","","False","Info_BaalLukor_SUMMONING_13_02","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1211_BaalLukor.d:97","Nein, er ist immer noch ohnmächtig.","","","False","Info_BaalLukor_SUMMONING_15_03","",""
