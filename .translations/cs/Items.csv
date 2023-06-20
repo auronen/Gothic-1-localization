@@ -1928,7 +1928,7 @@
 "Scripts/content/Items/Ringe.d:20","","","","","Schutzring_Feuer1.text[1]","",""
 "Scripts/content/Items/Ringe.d:22","","","","","Schutzring_Feuer1.text[3]","",""
 "Scripts/content/Items/Ringe.d:23","","","","","Schutzring_Feuer1.text[4]","",""
-"Scripts/content/Items/Ringe.d:54","Schutz vor Feuer","Ochrana před ohněm","","","Schutzring_Feuer2.description","",""
+"Scripts/content/Items/Ringe.d:54","Schutz vor Feuer","Prsten ohnivé ochrany","","False","Schutzring_Feuer2.description","",""
 "Scripts/content/Items/Ringe.d:55","","","","","Schutzring_Feuer2.text[0]","",""
 "Scripts/content/Items/Ringe.d:56","","","","","Schutzring_Feuer2.text[1]","",""
 "Scripts/content/Items/Ringe.d:58","","","","","Schutzring_Feuer2.text[3]","",""
