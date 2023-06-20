@@ -204,7 +204,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Stt_311_Fisk.d:78","Ich will ein Schwert kaufen. Was mit Ornamenten wär schön.","","","False","Stt_311_Fisk_WhistlersSword.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_311_Fisk.d:91","Ich will ein Schwert kaufen. Aber nicht so ein einfaches Ding. Was mit Ornamenten wär schön.","","","False","Stt_311_Fisk_WhistlersSword_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_311_Fisk.d:92","Ich hab' da eins, das dir gefallen könnte. Der Schatten, der es abholen sollte, kommt nicht mehr .","","","False","Stt_311_Fisk_WhistlersSword_12_01","",""
-"Scripts/content/Story/MISSIONS/DIA_Stt_311_Fisk.d:93","Kostet 110 Erz. Interessiert?","","","False","Stt_311_Fisk_WhistlersSword_12_02","",""
+"Scripts/content/Story/MISSIONS/DIA_Stt_311_Fisk.d:93","Kostet 110 Erz. Interessiert?","Costio 110 Mwyn. Diddordeb?","","False","Stt_311_Fisk_WhistlersSword_12_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_311_Fisk.d:97","Vielleicht später.","","","False","Stt_311_Fisk_WhistlersSword.Stt_311_Fisk_WhistlersSword_BACK","Info_AddChoice",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_311_Fisk.d:98","Whistler wolltest du es für 100 verkaufen...","","","False","Stt_311_Fisk_WhistlersSword.Stt_311_Fisk_WhistlersSword_Fault","Info_AddChoice",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_311_Fisk.d:99","Ja, ich nehme es.","","","False","Stt_311_Fisk_WhistlersSword.Stt_311_Fisk_WhistlersSword_TakeIt","Info_AddChoice",""
