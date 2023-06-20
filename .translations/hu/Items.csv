@@ -1923,7 +1923,7 @@
 "Scripts/content/Items/Ranged_weapons.d:738","","","","","ItAmBolt.text[2]","",""
 "Scripts/content/Items/Ranged_weapons.d:739","","","","","ItAmBolt.text[3]","",""
 "Scripts/content/Items/Ranged_weapons.d:740","","","","","ItAmBolt.text[4]","",""
-"Scripts/content/Items/Ringe.d:18"," Flammenschutzring"," Tűztől védő Gyűrű","","False","Schutzring_Feuer1.description","",""
+"Scripts/content/Items/Ringe.d:18"," Flammenschutzring","Tűztől védő Gyűrű","","False","Schutzring_Feuer1.description","",""
 "Scripts/content/Items/Ringe.d:19","","","","","Schutzring_Feuer1.text[0]","",""
 "Scripts/content/Items/Ringe.d:20","","","","","Schutzring_Feuer1.text[1]","",""
 "Scripts/content/Items/Ringe.d:22","","","","","Schutzring_Feuer1.text[3]","",""
