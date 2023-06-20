@@ -151,7 +151,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Sld_728_Jarvis.d:144","Wo ist der Erzhaufen?","І де той курган?","","","DIA_Jarvis_WoHaufen.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_728_Jarvis.d:157","Wo ist der Erzhaufen?","І де той курган?","","","DIA_Jarvis_WoHaufen_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_728_Jarvis.d:158","Willst mal richtig viel Erz sehen, was? In der Mitte der Höhle ist ein Loch, da kippen sie alles rein.","Ти хочеш побачити це диво на власні очі, чи не так? Прямо у центрі яскині, у ямі, куди ми просто скидаємо руду.","","","DIA_Jarvis_WoHaufen_08_01","",""
-"Scripts/content/Story/MISSIONS/DIA_Sld_728_Jarvis.d:159","Aber ran kommst du da nicht, das kann ich dir gleich sagen. Die Magier und unsere Leute bewachen das Erz Tag und Nacht.","Але я тебе відразу попереджую. Ти не не зможеш до неї підійти. Маги і наші люди охороняють руду вдень і вночі.","","","DIA_Jarvis_WoHaufen_08_02","",""
+"Scripts/content/Story/MISSIONS/DIA_Sld_728_Jarvis.d:159","Aber ran kommst du da nicht, das kann ich dir gleich sagen. Die Magier und unsere Leute bewachen das Erz Tag und Nacht.","Але я тебе відразу попереджую. Ти не зможеш до неї підійти. Маги і наші люди охороняють руду вдень і вночі.","","False","DIA_Jarvis_WoHaufen_08_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_728_Jarvis.d:160","Ich war nur neugierig.","Та ну, просто цікаво було.","","","DIA_Jarvis_WoHaufen_15_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_728_Jarvis.d:172","Was ist mit dem Rest der Leute?","А як щодо інших людей?","","","DIA_Jarvis_Rest.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_728_Jarvis.d:185","Was ist mit dem Rest der Leute?","А як щодо інших людей?","","","DIA_Jarvis_Rest_15_00","",""
