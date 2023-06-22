@@ -226,7 +226,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Sld_737_Torlof.d:78","Wenn die Jungs hier merken, dass du gegen Gomez bist, hast du hier keine Probleme mehr.","As soon as the boys notice that you're against Gomez, you won't have any more trouble here.","","","DIA_Torlof_Mitmachen_04_04","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_737_Torlof.d:79","Und wie stelle ich das an?","And how do I do that?","","","DIA_Torlof_Mitmachen_15_05","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_737_Torlof.d:80","Du mußt ihr VERTRAUEN gewinnen - und dann haust du sie über's Ohr!","You need to win their TRUST - and then you can rip 'em off!","","","DIA_Torlof_Mitmachen_04_06","",""
-"Scripts/content/Story/MISSIONS/DIA_Sld_751_Soeldner.d:21","Ah, Besuch! Mach uns keinen Ärger, sonst bekommst du welchen!","Ah, a visitor! Don't make any trouble here or or else you'll be for it!","","","DIA_SLD_751_Soeldner_INTRO_INFO_01_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Sld_751_Soeldner.d:21","Ah, Besuch! Mach uns keinen Ärger, sonst bekommst du welchen!","Ah, a visitor! Don't make any trouble here or else you'll be for it!","","False","DIA_SLD_751_Soeldner_INTRO_INFO_01_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_751_Soeldner.d:31","Ich geh dann mal.","I'd better be going.","","","DIA_SLD_751_Soeldner_EXIT_1.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_751_Soeldner.d:41","Ich geh' dann mal.","I'd better be going.","","","DIA_SLD_751_Soeldner_EXIT_1_INFO_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_751_Soeldner.d:42","Ich hoffe, wir verstehen uns.","I hope we understand each other.","","","DIA_SLD_751_Soeldner_EXIT_1_INFO_01_02","",""
