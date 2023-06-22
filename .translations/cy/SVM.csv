@@ -287,7 +287,7 @@
 "Scripts/content/Story/svm.d:539","Ich muss weg!","","","False","SVM_3_Help","",""
 "Scripts/content/Story/svm.d:540","Wir sehen uns wieder!","","","False","SVM_3_WeWillMeetAgain","",""
 "Scripts/content/Story/svm.d:541","Versuch so was nicht noch mal!","","","False","SVM_3_NeverTryThatAgain","",""
-"Scripts/content/Story/svm.d:542","Danke für die Waffe!","","","False","SVM_3_ITakeYourWeapon","",""
+"Scripts/content/Story/svm.d:542","Danke für die Waffe!","Diolch am yr arf!","","False","SVM_3_ITakeYourWeapon","",""
 "Scripts/content/Story/svm.d:543","Ich nehme mir noch etwas Erz ...","","","False","SVM_3_ITookYourOre","",""
 "Scripts/content/Story/svm.d:544","Kein Erz dabei? Das ist traurig, Mann, echt traurig!","","","False","SVM_3_ShitNoOre","",""
 "Scripts/content/Story/svm.d:545","Finger weg!","","","False","SVM_3_HandsOff","",""
