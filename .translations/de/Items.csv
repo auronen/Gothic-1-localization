@@ -2335,7 +2335,7 @@
 "Scripts/content/Items/Written.d:1313","Der Kern der geistigen und körperlichen Lehren des Meisters hat viele Jahre überlebt.  ","Der Kern der geistigen und körperlichen Lehren des Meisters hat viele Jahre überlebt.","","False","Kampfkunst_3","",""
 "Scripts/content/Items/Written.d:1314","Sein einzigartiger Erfolg hat Generationen beeinflußt. Jahrtausende, in denen zwar die Welt ihr Äußeres schon oft verändert hat, in der aber eines für immer Bestand haben wird: Die Harmonie der inneren Kräfte mit der gezielten äußeren Bewegung des Körpers.","Sein einzigartiger Erfolg hat Generationen beeinflußt. Jahrtausende, in denen zwar die Welt ihr Äußeres schon oft verändert hat, in der aber eines für immer Bestand haben wird: Die Harmonie der inneren Kräfte mit der gezielten äußeren Bewegung des Körpers.","","","Kampfkunst_4","",""
 "Scripts/content/Items/Written.d:1351","Die Gruft","Die Gruft","","","Die_Gruft.name","",""
-"Scripts/content/Items/Written.d:1363","Kampfkunst","Kampfkunst","","","Die_Gruft.description","",""
+"Scripts/content/Items/Written.d:1363","Kampfkunst","Die Gruft","","False","Die_Gruft.description","",""
 "Scripts/content/Items/Written.d:1364","","","","","Die_Gruft.text[0]","",""
 "Scripts/content/Items/Written.d:1365","","","","","Die_Gruft.text[1]","",""
 "Scripts/content/Items/Written.d:1366","","","","","Die_Gruft.text[2]","",""
