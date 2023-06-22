@@ -856,7 +856,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Grd_275_Brueckenwache.d:73","Wir passen auf, dass keine Viecher über die Brücke kommen.","We make sure that no beasts cross the bridge.","","","Info_GRD_275_WasMachtIhrHier_06_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_275_Brueckenwache.d:86","Hast du irgendwelche Tipps für mich?","Have you got any advice for me?","","","Info_GRD_275_Tips.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_275_Brueckenwache.d:96","Hast du irgendwelche Tipps für mich?","Have you got any advice for me?","","","Info_GRD_275_Tips_15_00","",""
-"Scripts/content/Story/MISSIONS/DIA_Grd_275_Brueckenwache.d:97","Ja. Geh nich' allein in den Wald.","Yeah. Don't go in the forest in your own.","","","Info_GRD_275_Tips_06_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Grd_275_Brueckenwache.d:97","Ja. Geh nich' allein in den Wald.","Yeah. Don't go in the forest on your own.","","False","Info_GRD_275_Tips_06_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_275_Brueckenwache.d:98","Es sei denn, du bist stark genug, gegen die ganzen Viecher anzukommen.","Unless you're strong enough to fight off all the beasts.","","","Info_GRD_275_Tips_06_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_276_Brueckenwache.d:33","Hi! Ich bin neu hier.","Hi! I'm new here.","","","Info_GRD_276_Tips.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_276_Brueckenwache.d:46","Hi! Ich bin neu hier.","Hi! I'm new here.","","","Info_GRD_276_Tips_15_00","",""
