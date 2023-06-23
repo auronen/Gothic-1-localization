@@ -525,7 +525,7 @@
 "Scripts/content/Items/Food.d:164","","","","","ItFoLoaf.text[2]","",""
 "Scripts/content/Items/Food.d:165","","","","","ItFoLoaf.text[3]","",""
 "Scripts/content/Items/Food.d:166","","","","","ItFoLoaf.text[4]","",""
-"Scripts/content/Items/Food.d:178","gebratenes Fleisch","Grilled meat","","","ItFoMutton.name","",""
+"Scripts/content/Items/Food.d:178","gebratenes Fleisch","Grilled Meat","","False","ItFoMutton.name","",""
 "Scripts/content/Items/Food.d:191","","","","","ItFoMutton.text[0]","",""
 "Scripts/content/Items/Food.d:193","","","","","ItFoMutton.text[2]","",""
 "Scripts/content/Items/Food.d:194","","","","","ItFoMutton.text[3]","",""
