@@ -626,7 +626,7 @@
 "Scripts/content/Story/B/B_AssignAmbientInfos_Vlk_4.d:134","Alles klar?","","","False","Info_Vlk_4_DieLage_15_00","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Vlk_4.d:135","So klar wie vor 20 Jahren. Und seitdem hat sich hier nicht viel verändert.","","","False","Info_Vlk_4_DieLage_04_01","",""
 "Scripts/content/Story/B/B_AssignFindNpc_NC.d:10","Wo finde ich...","","","False","Info_FindNPC_NC.description","",""
-"Scripts/content/Story/B/B_AssignFindNpc_NC.d:26","...einen der Magier?","","","False","Info_FindNPC_NC.Info_FindNPC_NC_Mage","Info_AddChoice",""
+"Scripts/content/Story/B/B_AssignFindNpc_NC.d:26","...einen der Magier?","...un o'r Dewiniaid?","","False","Info_FindNPC_NC.Info_FindNPC_NC_Mage","Info_AddChoice",""
 "Scripts/content/Story/B/B_AssignFindNpc_NC.d:32","...Gorn?","...Gorn?","","False","Info_FindNPC_NC.Info_FindNPC_NC_Gorn","Info_AddChoice",""
 "Scripts/content/Story/B/B_AssignFindNpc_NC.d:38","...Lares?","...Lares?","","False","Info_FindNPC_NC.Info_FindNPC_NC_Lares","Info_AddChoice",""
 "Scripts/content/Story/B/B_AssignFindNpc_NC.d:44","...Lee?","...Lee?","","False","Info_FindNPC_NC.Info_FindNPC_NC_Lee","Info_AddChoice",""
