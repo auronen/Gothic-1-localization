@@ -52,7 +52,7 @@
 "Scripts/content/AI/Monster/Mst_Skeleton.d:376","Skelett Krieger","Sgerbwd Rhyfelwr","","False","SummonedByPC_SkeletonWarrior.name","",""
 "Scripts/content/AI/Monster/Mst_Skeleton.d:409","Skelett Krieger","Sgerbwd Rhyfelwr","","False","SummonedByNPC_SkeletonWarrior.name","",""
 "Scripts/content/AI/Monster/Mst_Sleeper.d:8","Der Schläfer","Y Cysguwr","","False","Mst_Default_Sleeper.name","",""
-"Scripts/content/AI/Monster/Mst_Snapper.d:8","Snapper","Snaper","","False","Mst_Default_Snapper.name","",""
+"Scripts/content/AI/Monster/Mst_Snapper.d:8","Snapper","Snaperyn","","False","Mst_Default_Snapper.name","",""
 "Scripts/content/AI/Monster/Mst_Swampshark.d:8","Sumpfhai","Anghenfil y Gors","","False","Mst_Default_Swampshark.name","",""
 "Scripts/content/AI/Monster/Mst_Swampshark.d:104","verletzter Sumpfhai","Anghenfil y Gors Brifo","","False","HurtSwampshark.name","",""
 "Scripts/content/AI/Monster/Mst_Troll.d:8","Troll","Trol","","False","Mst_Default_Troll.name","",""
