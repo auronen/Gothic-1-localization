@@ -1386,7 +1386,7 @@
 "Scripts/content/Items/MissionItems_1.d:1235","öffnet Aarons Truhe","opens Aaron's chest","","","ItKe_OM_02.text[0]","",""
 "Scripts/content/Items/MissionItems_1.d:1236","in der Alten Mine.","in the Old Mine.","","","ItKe_OM_02.text[1]","",""
 "Scripts/content/Items/MissionItems_1.d:1242","Truhenschlüssel","Key to a Chest","","","ItKe_OM_03.name","",""
-"Scripts/content/Items/MissionItems_1.d:1253","öffnet die Truhen","opens the chests in the","","","ItKe_OM_03.text[0]","",""
+"Scripts/content/Items/MissionItems_1.d:1253","öffnet die Truhen","Opens the chests in the","","False","ItKe_OM_03.text[0]","",""
 "Scripts/content/Items/MissionItems_1.d:1254","im Lagerschuppen der Alten Mine.","store shed of the Old Mine.","","","ItKe_OM_03.text[1]","",""
 "Scripts/content/Items/MissionItems_1.d:1260","Truhenschlüssel","Key to a Chest","","","ItKe_OM_04.name","",""
 "Scripts/content/Items/MissionItems_1.d:1271","Albertos Lager","Alberto's store.","","","ItKe_OM_04.text[0]","",""
