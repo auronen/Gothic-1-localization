@@ -89,7 +89,7 @@
 "Scripts/system/MENU/menu_opt_audio.d:98","Läutstärke der Hintergrundmusik.","Volume of background music.","","","MENUITEM_AUDIO_MUSICVOL.text[1]","",""
 "Scripts/system/MENU/menu_opt_audio.d:133","Musik","Music","","","MENUITEM_AUDIO_MUSIC.text[0]","",""
 "Scripts/system/MENU/menu_opt_audio.d:134","Hintergrundmusik an- bzw. ausschalten.","Toggle background music on/off.","","","MENUITEM_AUDIO_MUSIC.text[1]","",""
-"Scripts/system/MENU/menu_opt_audio.d:176","Soundprovider","Soundprovider","","","MENUITEM_AUDIO_PROVIDER.text[0]","",""
+"Scripts/system/MENU/menu_opt_audio.d:176","Soundprovider","Sound provider","","False","MENUITEM_AUDIO_PROVIDER.text[0]","",""
 "Scripts/system/MENU/menu_opt_audio.d:177","Eine Änderung wirkt sich erst beim Neustart aus!","Restart Gothic to avtivate the new settings.","","","MENUITEM_AUDIO_PROVIDER.text[1]","",""
 "Scripts/system/MENU/menu_opt_audio.d:209","Lautsprecher","Speakers","","","MENUITEM_AUDIO_SPEEKER.text[0]","",""
 "Scripts/system/MENU/menu_opt_audio.d:225","2 Lautsprecher|Kopfhörer|Surround|4 Lautsprecher","2 Speakers|Headphones|Surround|4 Speakers","","","MENUITEM_AUDIO_SPEEKER_CHOICE.text[0]","",""
