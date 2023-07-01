@@ -93,7 +93,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:606","Wie kommst du dann an diesem Bannzauber vorbei?","Чи є спосіб уникнути прокляття?","","","Info_Milten_SHSEAL_15_04","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:608","Vor einigen Jahren war ein Erzbaron, der zum Zeitvertreib Orks jagte, unvorsichtig genug, die Gruft zu betreten.","Кілька років тому один із Магнатів, які полювали на орків заради розваги, виявився настільки легковажним, що спустився до крипти.","","","Info_Milten_SHSEAL_02_06","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:609","Nun ist ER der Wächter über alle Schätze dort unten.","Тепер ВІН є хранителем скарбів, що спочивають під землею.","","","Info_Milten_SHSEAL_02_07","",""
-"Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:621","Was hat es mit diesem Talisman auf sich?","А як щодо твого талісмана??","","","Info_Milten_SHTALISMAN.description","",""
+"Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:621","Was hat es mit diesem Talisman auf sich?","А як щодо твого талісмана?","","False","Info_Milten_SHTALISMAN.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:634","Was hat es mit diesem Talisman auf sich?","А як щодо твого талісмана?","","","Info_Milten_SHTALISMAN_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:635","Ich vermute, sein ehemaliger Besitzer benutzte ihn, um sich wütende Orks vom Hals zu halten.","Я впевнений, що його попередній власник використовував його, щоб захиститися від розлючених орків.","","","Info_Milten_SHTALISMAN_02_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:636","Wenn ich Recht habe, kann der Talisman von großem Nutzen sein.","Якщо я правий, цей талісман може виявитися надзвичайно корисним.","","","Info_Milten_SHTALISMAN_02_03","",""
