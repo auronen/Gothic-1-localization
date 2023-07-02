@@ -67,7 +67,7 @@ Original translation authors:
   - Dorin
   
   
-## :ukraine: Ukranian  
+## :ukraine: Ukrainian  
 [![Translation progress](http://weblate.cokoliv.eu/widgets/gothic-1/uk/svg-badge.svg)](http://weblate.cokoliv.eu/engage/gothic-1/uk/)  
 
 ## :fr: French
