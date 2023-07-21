@@ -209,7 +209,7 @@ func void ORG_801_Lares_BringListAnteil_Info()
 	};
 
 	B_LogEntry(CH1_JoinNC, CH1_JoinNC_5);
-	gorn.aivar[AIV_FINDABLE] == TRUE;
+	gorn.aivar[AIV_FINDABLE] = TRUE;
 };
 
 // ******************************
