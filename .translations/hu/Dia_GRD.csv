@@ -52,7 +52,7 @@
 "Scripts/content/Story/MISSIONS/DIA_GRD_205_Scorpio.d:334","Alles klar bei dir?","Rendben vagy?","","","GRD_205_Scorpio_BANISHED_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_GRD_205_Scorpio.d:335","Ich habe mich hier her verzogen. Für den Mist, den die Gardisten gerade abziehen, habe ich nichts übrig.","Itt bújtam el. Nem érdekel az a sok szar amivel az őrök foglalkoznak.","","","GRD_205_Scorpio_BANISHED_Info_13_02","",""
 "Scripts/content/Story/MISSIONS/DIA_GRD_205_Scorpio.d:336","Aber ich habe mir ein paar gute Stücke aus der Waffenkammer mitgenommen. Wenn du eine Waffe brauchst, sag mir Bescheid.","De elhoztam néhány kiváló cuccot a raktárból. Ha fegyverre van szükséged, szólj nekem.","","","GRD_205_Scorpio_BANISHED_Info_13_03","",""
-"Scripts/content/Story/MISSIONS/DIA_GRD_205_Scorpio.d:356","Zeig mir deine Ware","Mutasd mid van","","False","GRD_205_Scorpio_TRADE.description","",""
+"Scripts/content/Story/MISSIONS/DIA_GRD_205_Scorpio.d:356","Zeig mir deine Ware","Mutasd mid van.","","False","GRD_205_Scorpio_TRADE.description","",""
 "Scripts/content/Story/MISSIONS/DIA_GRD_205_Scorpio.d:369","Zeig mir deine Ware.","Mutasd mid van.","","","GRD_205_Scorpio_TRADE_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_GRD_208_Cutter.d:33","Ihr habt ganz schön viel Platz hier in der Burg.","Ez a kastély eléggé nagy.","","","DIA_Cutter_Hello.description","",""
 "Scripts/content/Story/MISSIONS/DIA_GRD_208_Cutter.d:46","Ihr habt ganz schön viel Platz hier in der Burg.","Ez a kastély eléggé nagy.","","","DIA_Cutter_Hello_15_00","",""
