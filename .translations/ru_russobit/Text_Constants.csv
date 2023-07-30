@@ -160,7 +160,7 @@
 "Scripts/content/Story/Text.d:351","Apokalyptischer Templer","Страж Апокалипсиса","","","NAME_MadTemplar2","",""
 "Scripts/content/Story/Text.d:353","Ur-Shak","Ур-Шак","","","NAME_OrcShaman","",""
 "Scripts/content/Story/Text.d:354","Tarrok","Таррок","","","NAME_CuredOrc","",""
-"Scripts/content/Story/Text.d:361","ENDE","ЗАКОНЧИТЬ РАЗГОВОР","","","DIALOG_ENDE","",""
+"Scripts/content/Story/Text.d:361","ENDE","КОНЕЦ","","False","DIALOG_ENDE","",""
 "Scripts/content/Story/Text.d:362","ZURÜCK","НАЗАД","","","DIALOG_BACK","",""
 "Scripts/content/Story/Text.d:363","(Tauschen)","(Обмен)","","","DIALOG_TRADE","",""
 "Scripts/content/Story/Text.d:369","Ring","Кольцо","","","NAME_Ring","",""
