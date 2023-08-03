@@ -335,7 +335,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Vlk_581_Snaf.d:47","Du könntest mir einen Gefallen tun.","你可以帮我一个忙。","","","DIA_Snaf_Hello_01_04","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_581_Snaf.d:65","Was kann ich für dich tun?","我能为你做什么？","","","DIA_Snaf_Zutaten.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_581_Snaf.d:78","Was kann ich für dich tun?","我能为你做什么？","","","DIA_Snaf_Zutaten_15_00","",""
-"Scripts/content/Story/MISSIONS/DIA_Vlk_581_Snaf.d:79","Du bist sicher gutes Essen gewöhnt. Ich hab' da ein neues Rezept: Fleischwanzen-Ragout ŕ la Snaf, mit Reis und Pilzen.","您必须习惯于美食。 我有一个新的食谱：肉食抹布撒上米饭和蘑菇。","","","DIA_Snaf_Zutaten_01_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Vlk_581_Snaf.d:79","Du bist sicher gutes Essen gewöhnt. Ich hab' da ein neues Rezept: Fleischwanzen-Ragout ŕ la Snaf, mit Reis und Pilzen.","您必须习惯于美食。 我有一个新的食谱：肉食抹布撒上米饭和蘑菇。","","False","DIA_Snaf_Zutaten_01_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_581_Snaf.d:80","Du kannst haben, so viel du willst, aber ich brauche aber noch 3 Fleischwanzen und einige Höllenpilze - 5 müssten reichen.","你可以随心所欲，但是我仍然需要3个肉类和一些地狱蘑菇-5应该足够了。","","False","DIA_Snaf_Zutaten_01_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_581_Snaf.d:83","Willst du, dass ich kotze?","你要我吐吗？","","","DIA_Snaf_Zutaten.DIA_Snaf_Zutaten_KOTZ","Info_AddChoice",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_581_Snaf.d:84","Hört sich gut an.","听起来不错。","","","DIA_Snaf_Zutaten.DIA_Snaf_Zutaten_DoIt","Info_AddChoice",""
