@@ -307,7 +307,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Sld_753_Baloro.d:266","Wir haben unseren Spaß gehabt! Jetzt zieh´ Leine, Mann!","Wir haben unseren Spaß gehabt! Jetzt zieh´ Leine, Mann!","","","DIA_SLD_753_Baloro_SC_wills_wissen_Info_08_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_753_Baloro.d:267","Ich glaube, du hast mich nicht verstanden!","Ich glaube, du hast mich nicht verstanden!","","","DIA_SLD_753_Baloro_SC_wills_wissen_Info_15_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_753_Baloro.d:268","Na gut! Du willst es ja nicht anders! Ich hab' dich gewarnt!","Na gut! Du willst es ja nicht anders! Ich hab' dich gewarnt!","","","DIA_SLD_753_Baloro_SC_wills_wissen_Info_08_02","",""
-"Scripts/content/Story/MISSIONS/DIA_Sld_753_Baloro.d:281","Ich muss weiter!","Ich muss weiter!","","","DIA_SLD_753_Baloro_Exit.description","",""
+"Scripts/content/Story/MISSIONS/DIA_Sld_753_Baloro.d:281","Ich muss weiter!","Ich muss weiter! (ENDE)","","False","DIA_SLD_753_Baloro_Exit.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_753_Baloro.d:296","Nee, nee! Lass mal! Kein Interesse!","Nee, nee! Lass mal! Kein Interesse!","","","DIA_SLD_753_Baloro_Exit_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_753_Baloro.d:297","Na gut! Wie du willst! Du hattest deine Chance!","Na gut! Wie du willst! Du hattest deine Chance!","","","DIA_SLD_753_Baloro_Exit_Info_08_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_753_Baloro.d:303","Tut mir Leid! Ich hab' leider keine Zeit für ein Pläuschchen!","Tut mir Leid! Ich hab' leider keine Zeit für ein Pläuschchen!","","","DIA_SLD_753_Baloro_Exit_Info_15_03","",""
