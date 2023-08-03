@@ -1,0 +1,35 @@
+name: "compile"
+
+# Run only manually for now
+on:
+  workflow_dispatch
+
+jobs:
+  pre-release:
+    name: "Release"
+    runs-on: "ubuntu-latest"
+
+    steps:
+      # ..
+      - name: "Checkout repo"
+        uses: actions/checkout@v3
+      - name: "Substituting Gothic 1 Localizations..."
+        run: |
+          .scripts/release.sh
+      - name: Generate release tag
+        id: generate_release_tag
+        uses: amitsingh-007/next-release-tag@v4.0.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          tag_prefix: ''
+          tag_template: 'dd.mm.yyyy.i'
+      - name: "Generate body"
+        run: |
+          printf "# Gothic 1 - Localized\n\nGothic 1 scripts in all languages hosted on my instance of [weblate](https://weblate.cokoliv.eu/projects/gothic-1/#languages)\nGenerated: %s\n\n## Installation:\n0. Union is strongly recommended (mandatory for utf8 languages)\n1. Unzip into your Gothic 1 installation directory\n2. Run GothicStarter.exe\n3. Pick your language\n4. Play and report translation mistakes :)\n\n<details>\n\n<summary>Contents</summary>\n\n## Fonts  \nThe compiler supports escaped strings so you should see some new characters. The new fonts have been extended to cover all of the supported lagnuages and containt a lot of new characters. Please provide feedback about the fonts as well.  \n## Save files  \nSince the different releases are only different by the content of the string table, the versions are fully compatible. To allow for \"fast\" iteration of log entries, there is a plugin included (only available if you play with Union) that makes the logs persistent (if the translation changes, you do not have to start a new game to see the change).\n## Files  \n - \`G1_base.mod\` - contains the common DAT files and the plugin for persistent logs\n - \`G1_fonts_cp125*.mod\` - contain new fonts\n - \`G1_fonts_chinese.mod\` - contains the chinese font + the [zFont](https://github.com/gratt-5r2/zfont) plugin by Gratt\n - \`G1_[lang].mod\`- contains the localized scripts GOTHIC.DAT, MENU.DAT and the output unit file (OU.BIN)\n\n</details>\n" $(date "+%d-%m-%Y") > body.md
+      - name: "Release"
+        uses: ncipollo/release-action@v1
+        with:
+          artifacts: "release/release/*.zip"
+          bodyFile: "body.md"
+          tag: ${{ steps.generate_release_tag.outputs.next_release_tag }}
+          name: Release ${{ steps.generate_release_tag.outputs.next_release_tag }}
