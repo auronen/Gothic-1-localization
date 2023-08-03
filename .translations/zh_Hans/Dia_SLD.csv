@@ -307,7 +307,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Sld_753_Baloro.d:266","Wir haben unseren Spaß gehabt! Jetzt zieh´ Leine, Mann!","我们玩得开心！ 现在迷路了，伙计！","","","DIA_SLD_753_Baloro_SC_wills_wissen_Info_08_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_753_Baloro.d:267","Ich glaube, du hast mich nicht verstanden!","我相信你不了解我！","","","DIA_SLD_753_Baloro_SC_wills_wissen_Info_15_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_753_Baloro.d:268","Na gut! Du willst es ja nicht anders! Ich hab' dich gewarnt!","好吧！ 你自找的！ 你被警告了！","","","DIA_SLD_753_Baloro_SC_wills_wissen_Info_08_02","",""
-"Scripts/content/Story/MISSIONS/DIA_Sld_753_Baloro.d:281","Ich muss weiter!","我需要继续！","","","DIA_SLD_753_Baloro_Exit.description","",""
+"Scripts/content/Story/MISSIONS/DIA_Sld_753_Baloro.d:281","Ich muss weiter!","我需要继续！( 结束 )","","False","DIA_SLD_753_Baloro_Exit.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_753_Baloro.d:296","Nee, nee! Lass mal! Kein Interesse!","不，不！ 就别管了！ 我对此不感兴趣！","","","DIA_SLD_753_Baloro_Exit_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_753_Baloro.d:297","Na gut! Wie du willst! Du hattest deine Chance!","好吧！ 如你所愿！ 你有机会！","","","DIA_SLD_753_Baloro_Exit_Info_08_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_753_Baloro.d:303","Tut mir Leid! Ich hab' leider keine Zeit für ein Pläuschchen!","对不起！ 不幸的是，我没有时间聊天！","","","DIA_SLD_753_Baloro_Exit_Info_15_03","",""
