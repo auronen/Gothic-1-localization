@@ -307,7 +307,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Sld_753_Baloro.d:266","Wir haben unseren Spaß gehabt! Jetzt zieh´ Leine, Mann!","Nous nous sommes suffisamment amusé ! Fous le camp maintenant, l'ami !","","","DIA_SLD_753_Baloro_SC_wills_wissen_Info_08_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_753_Baloro.d:267","Ich glaube, du hast mich nicht verstanden!","Je crois que tu ne m'as pas compris !","","","DIA_SLD_753_Baloro_SC_wills_wissen_Info_15_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_753_Baloro.d:268","Na gut! Du willst es ja nicht anders! Ich hab' dich gewarnt!","D'accord ! Tu lui as demandé ! Tu as été averti !","","","DIA_SLD_753_Baloro_SC_wills_wissen_Info_08_02","",""
-"Scripts/content/Story/MISSIONS/DIA_Sld_753_Baloro.d:281","Ich muss weiter!","Je dois continuer.","","","DIA_SLD_753_Baloro_Exit.description","",""
+"Scripts/content/Story/MISSIONS/DIA_Sld_753_Baloro.d:281","Ich muss weiter!","Je dois continuer. (FIN)","","False","DIA_SLD_753_Baloro_Exit.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_753_Baloro.d:296","Nee, nee! Lass mal! Kein Interesse!","Non, non ! Va-t-en ! Je ne suis pas intéressé !","","","DIA_SLD_753_Baloro_Exit_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_753_Baloro.d:297","Na gut! Wie du willst! Du hattest deine Chance!","Bon, comme tu veux ! Tu as eu ta chance !","","","DIA_SLD_753_Baloro_Exit_Info_08_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_753_Baloro.d:303","Tut mir Leid! Ich hab' leider keine Zeit für ein Pläuschchen!","Je suis désolé ! Malheureusement je n'ai pas le temps de bavarder !","","","DIA_SLD_753_Baloro_Exit_Info_15_03","",""
