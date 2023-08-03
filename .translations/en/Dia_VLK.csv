@@ -335,7 +335,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Vlk_581_Snaf.d:47","Du könntest mir einen Gefallen tun.","You could do me a favor.","","","DIA_Snaf_Hello_01_04","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_581_Snaf.d:65","Was kann ich für dich tun?","What can I do for you?","","","DIA_Snaf_Zutaten.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_581_Snaf.d:78","Was kann ich für dich tun?","What can I do for you?","","","DIA_Snaf_Zutaten_15_00","",""
-"Scripts/content/Story/MISSIONS/DIA_Vlk_581_Snaf.d:79","Du bist sicher gutes Essen gewöhnt. Ich hab' da ein neues Rezept: Fleischwanzen-Ragout ŕ la Snaf, mit Reis und Pilzen.","You must be used to good food. I have a new recipe: meatbug ragout a la Snaf with rice and mushrooms.","","","DIA_Snaf_Zutaten_01_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Vlk_581_Snaf.d:79","Du bist sicher gutes Essen gewöhnt. Ich hab' da ein neues Rezept: Fleischwanzen-Ragout ŕ la Snaf, mit Reis und Pilzen.","You must be used to good food. I have a new recipe: meatbug ragout a la Snaf with rice and mushrooms.","","False","DIA_Snaf_Zutaten_01_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_581_Snaf.d:80","Du kannst haben, so viel du willst, aber ich brauche aber noch 3 Fleischwanzen und einige Höllenpilze - 5 müssten reichen.","You can have as much as you want, but I still need  3 meatbugs and some hell mushrooms - 5 should be enough.","","","DIA_Snaf_Zutaten_01_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_581_Snaf.d:83","Willst du, dass ich kotze?","You want me to throw up?","","","DIA_Snaf_Zutaten.DIA_Snaf_Zutaten_KOTZ","Info_AddChoice",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_581_Snaf.d:84","Hört sich gut an.","Sounds good.","","","DIA_Snaf_Zutaten.DIA_Snaf_Zutaten_DoIt","Info_AddChoice",""
