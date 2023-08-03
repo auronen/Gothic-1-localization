@@ -255,3 +255,4 @@
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1442_GuardPassage.d:69","Der Novize Lester schickt mich. Ich soll Y'Berion meine Dienste anbieten.","M-a trimis Lester.Trebuie sa-mi ofer serviciile lui Y'Berrion.","","","Info_TPL_1442_FirstWarn_Condition_LESTER_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1442_GuardPassage.d:70","Lester ist vertrauenswürdig. Ich kenne ihn. Du kannst passieren.","Lester e de incredere. Il cunosc.Poti trece.","","","Info_TPL_1442_FirstWarn_Condition_LESTER_13_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1442_GuardPassage.d:105","Noch einen Schritt weiter und du trittst deinem Schöpfer gegenüber!","Un pas in plus si nu vei mai exista.","","","Info_TPL_1442_LastWarn_13_01","",""
+"","Wie sieht's aus?","Ce faci?","","False","DIA_GorBobaOW_PERM.description","",""
