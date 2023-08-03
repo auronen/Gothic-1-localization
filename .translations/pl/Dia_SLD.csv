@@ -307,7 +307,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Sld_753_Baloro.d:266","Wir haben unseren Spaß gehabt! Jetzt zieh´ Leine, Mann!","No już - pośmialiśmy się trochę, a teraz spadaj stąd! Sio!","","","DIA_SLD_753_Baloro_SC_wills_wissen_Info_08_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_753_Baloro.d:267","Ich glaube, du hast mich nicht verstanden!","Chyba mnie nie zrozumiałeś!","","","DIA_SLD_753_Baloro_SC_wills_wissen_Info_15_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_753_Baloro.d:268","Na gut! Du willst es ja nicht anders! Ich hab' dich gewarnt!","No dobra! Sam się o to prosiłeś! Ostrzegałem cię!","","","DIA_SLD_753_Baloro_SC_wills_wissen_Info_08_02","",""
-"Scripts/content/Story/MISSIONS/DIA_Sld_753_Baloro.d:281","Ich muss weiter!","Muszę już iść.","","","DIA_SLD_753_Baloro_Exit.description","",""
+"Scripts/content/Story/MISSIONS/DIA_Sld_753_Baloro.d:281","Ich muss weiter!","Muszę już iść. (KONIEC)","","False","DIA_SLD_753_Baloro_Exit.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_753_Baloro.d:296","Nee, nee! Lass mal! Kein Interesse!","Nie, nie! Nieważne! Nie jestem zainteresowany!","","","DIA_SLD_753_Baloro_Exit_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_753_Baloro.d:297","Na gut! Wie du willst! Du hattest deine Chance!","Cóż, jak sobie życzysz! Marnujesz niepowtarzalną okazję!","","","DIA_SLD_753_Baloro_Exit_Info_08_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_753_Baloro.d:303","Tut mir Leid! Ich hab' leider keine Zeit für ein Pläuschchen!","Przykro mi, ale nie mam czasu na pogawędki!","","","DIA_SLD_753_Baloro_Exit_Info_15_03","",""
