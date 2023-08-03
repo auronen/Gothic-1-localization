@@ -437,7 +437,7 @@
 "Scripts/content/Story/MISSIONS/DIA_GUR_1211_BaalLukor.d:641","STIRB, UNGLÄUBIGER!!!!","MARW, ANFFYDOL!!!!","","False","Info_BaalLukor_ALTAR_13_11","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1211_BaalLukor.d:642","AIIIEEEEHHHHHH!!!!!!","AIIIEEEEHHHHHH!!!!!!","","False","Info_BaalLukor_ALTAR_13_12","",""
 "","Hast du schon was gefunden?","","","False","Info_BaalLukorOW_Perm.description","",""
-"","Was machst du hier?","","","False","Info_BaalLukorOW_Hallo.description","",""
+"","Was machst du hier?","Beth wyt ti'n ei wneud yma?","","False","Info_BaalLukorOW_Hallo.description","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1212_MadCorKalom.d:19","Schließlich sehen wir uns also wieder!","","","False","GUR_1212_MadCorKalom_Talk2SC_10_01","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1212_MadCorKalom.d:20","Mein Meister hat mir bereits von deiner Ankunft berichtet!","","","False","GUR_1212_MadCorKalom_Talk2SC_10_02","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1212_MadCorKalom.d:21","Er kann deine Nähe spüren.","","","False","GUR_1212_MadCorKalom_Talk2SC_10_03","",""
