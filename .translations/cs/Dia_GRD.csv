@@ -863,7 +863,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Grd_276_Brueckenwache.d:47","Schön für dich.","To se teda máš!","","","Info_GRD_276_Tips_07_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_276_Brueckenwache.d:60","Ist das da hinten das Alte Lager?","Je támhleto Starý tábor?","","","Info_GRD_276_Bla.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_276_Brueckenwache.d:73","Ist das da hinten das Alte Lager?","Je támhleto Starý tábor?","","","Info_GRD_276_Bla_15_00","",""
-"Scripts/content/Story/MISSIONS/DIA_Grd_276_Brueckenwache.d:74","Nein, das ist das Neue Lager. Das Alte Lager liegt unter der Brücke.","Ne, to je Nový tábor. Starý tábor je za mostem.","","","Info_GRD_276_Bla_07_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Grd_276_Brueckenwache.d:74","Nein, das ist das Neue Lager. Das Alte Lager liegt unter der Brücke.","Ne, to je Nový tábor. Starý tábor je pod mostem.","","False","Info_GRD_276_Bla_07_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_277_Orkwache.d:10","Was ist mit dem Ork da?","Co je s tím skřetem?","","","Grd_277_Gardist_SITTINGORK.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_277_Orkwache.d:23","Was ist mit dem Ork da?","Co je s tím skřetem?","","","Grd_277_Gardist_SITTINGORK_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_277_Orkwache.d:24","Unser Gefangener. Sein Glück, dass das Zahnrad des Stampfers gebrochen ist.So kann dieser Hundesohn ausruhen.","Je to náš vězeň. Má štěstí, že ozubené kolo drtičky je rozbité. Proto si ten čubčí syn může dopřávat přestávku.","","","Grd_277_Gardist_SITTINGORK_Info_06_02","",""
