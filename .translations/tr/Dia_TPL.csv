@@ -255,3 +255,4 @@
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1442_GuardPassage.d:69","Der Novize Lester schickt mich. Ich soll Y'Berion meine Dienste anbieten.","Beni mürit Lester gönderdi. Y'Berion'a hizmetlerimi sunacağım.","","","Info_TPL_1442_FirstWarn_Condition_LESTER_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1442_GuardPassage.d:70","Lester ist vertrauenswürdig. Ich kenne ihn. Du kannst passieren.","Lester güvenilir biridir. Onu tanırım. Geçebilirsin.","","","Info_TPL_1442_FirstWarn_Condition_LESTER_13_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1442_GuardPassage.d:105","Noch einen Schritt weiter und du trittst deinem Schöpfer gegenüber!","Bir adım daha atarsan son nefesini verirsin!","","","Info_TPL_1442_LastWarn_13_01","",""
+"","Wie sieht's aus?","İşler nasıl?","","False","DIA_GorBobaOW_PERM.description","",""
