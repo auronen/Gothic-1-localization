@@ -7,7 +7,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:72","Geh zu Lefty. Er ist meistens hier vorne rechts neben der Scheune.","Va voir Lefty. D'habitude il se trouve à droite de la remise","","","DIA_Ricelord_Arbeit_12_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:86","Wir könnten handeln...","Nous pouvons nous arranger...","","","DIA_Ricelord_TRADE.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:99","Wir könnten handeln ...","Nous pouvons nous arranger...","","","DIA_Ricelord_TRADE_15_00","",""
-"Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:100","Was hast du denn zu bieten?","Qu'as-tu à m'offrir ? ","","","DIA_Ricelord_TRADE_12_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:100","Was hast du denn zu bieten?","Qu'as-tu à m'offrir ?","","False","DIA_Ricelord_TRADE_12_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:113","Lefty schickt mich.","Lefty m'envoie.","","","DIA_Ricelord_LeftySentMe.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:129","Lefty schickt mich.","Lefty m'envoie.","","","DIA_Ricelord_LeftySentMe_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:130","Ach so. Was hat er gesagt?","Ah oui. Qu'a-t-il dit ?","","","DIA_Ricelord_LeftySentMe_12_01","",""
