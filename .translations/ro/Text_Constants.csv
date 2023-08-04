@@ -160,7 +160,7 @@
 "Scripts/content/Story/Text.d:351","Apokalyptischer Templer","Templier apocaliptic","","","NAME_MadTemplar2","",""
 "Scripts/content/Story/Text.d:353","Ur-Shak","Ur-Shak","","","NAME_OrcShaman","",""
 "Scripts/content/Story/Text.d:354","Tarrok","Tarrok","","","NAME_CuredOrc","",""
-"Scripts/content/Story/Text.d:361","ENDE","Termina","","","DIALOG_ENDE","",""
+"Scripts/content/Story/Text.d:361","ENDE","TERMINA","","False","DIALOG_ENDE","",""
 "Scripts/content/Story/Text.d:362","ZURÜCK","Inapoi","","","DIALOG_BACK","",""
 "Scripts/content/Story/Text.d:363","(Tauschen)","(Negot)","","","DIALOG_TRADE","",""
 "Scripts/content/Story/Text.d:369","Ring","Inel","","","NAME_Ring","",""
