@@ -472,7 +472,7 @@
 "Scripts/content/Story/svm.d:728","Du hast einen der Gurus besiegt. Respekt. Aber lass dir nicht einfallen, das noch mal zu probieren.","Has vencido a un gurú. Estoy impresionado. Pero ni se te ocurra intentarlo de nuevo.","","","SVM_4_SuckerDefeatedGur","",""
 "Scripts/content/Story/svm.d:729","Einen Magier zu besiegen ... Du bist einer!","Si has vencido a un mago... ¡debes ser un hombre valiente!","","","SVM_4_SuckerDefeatedMage","",""
 "Scripts/content/Story/svm.d:730","Du hast sie ja wohl nicht alle, einfach einen Novizen umhauen.","Debes estar loco para sacudir así a un novicio.","","","SVM_4_SuckerDefeatedNov_Guard","",""
-"Scripts/content/Story/svm.d:731","Was fällt dir eigentlich ein, einen Buddler zu verkloppen ?","¿Qué creías que hacías sacudiendo a un cavador?","","","SVM_4_SuckerDefeatedVlk_Guard","",""
+"Scripts/content/Story/svm.d:731","Was fällt dir eigentlich ein, einen Buddler zu verkloppen ?","¿Qué creías que hacías sacudiendo a un cavador?","","False","SVM_4_SuckerDefeatedVlk_Guard","",""
 "Scripts/content/Story/svm.d:732","Du hast dich mit einem Freund von mir angelegt! Du bist wirklich unvorsichtig!","¡Te has metido con uno de mis amigos! ¡Eso es muy arriesgado!","","","SVM_4_YouDefeatedMyComrade","",""
 "Scripts/content/Story/svm.d:733","Vergreif dich noch einmal an einem Novizen und es wird dir Leid tun!","¡Si vuelves a poner la mano encima de un novicio lo lamentarás!","","","SVM_4_YouDefeatedNOV_Guard","",""
 "Scripts/content/Story/svm.d:734","Du bist echt zu mutig, einen meiner Schützlinge anzufassen, kann dich teuer zu stehen kommen.","Eres demasiado valiente; si tocas a uno de los protegidos, te podrías meter en un lío.","","","SVM_4_YouDefeatedVLK_Guard","",""
