@@ -63,7 +63,7 @@
 "Scripts/system/MENU/menu_main.d:151","Credits","Créditos","","","MENUITEM_MAIN_CREDITS.text[1]","",""
 "Scripts/system/MENU/menu_main.d:171","Gothic beenden","Salir de Gothic","","","MENUITEM_MAIN_EXIT.text[0]","",""
 "Scripts/system/MENU/menu_main.d:172","Die Welt von Gothic verlassen.","Salir del mundo de Gothic.","","","MENUITEM_MAIN_EXIT.text[1]","",""
-"Scripts/system/MENU/menu_misc.d:23","Gothic verlassen?","żDeseas salir?","","","MENUITEM_LEAVE_GAME_HEADLINE.text[0]","",""
+"Scripts/system/MENU/menu_misc.d:23","Gothic verlassen?","¿Deseas salir?","","False","MENUITEM_LEAVE_GAME_HEADLINE.text[0]","",""
 "Scripts/system/MENU/menu_misc.d:36","Ja","Sí","","","MENUITEM_LEAVE_GAME_YES.text[0]","",""
 "Scripts/system/MENU/menu_misc.d:37","Ja, ich möchte Gothic verlassen.","Sí, deseo salir de Gothic.","","","MENUITEM_LEAVE_GAME_YES.text[1]","",""
 "Scripts/system/MENU/menu_misc.d:52","Nein","No","","","MENUITEM_LEAVE_GAME_NO.text[0]","",""
