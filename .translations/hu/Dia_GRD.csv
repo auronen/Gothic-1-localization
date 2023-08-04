@@ -762,7 +762,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Grd_260_Drake.d:137","Erzähl mir mehr davon!","Mesélj még erről!","","","Grd_260_Drake_Mine_Mehr_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_260_Drake.d:138","Wenn du mehr wissen willst, dann wende dich an Viper. Er ist der Schmelzer.","Ha többet akarsz tudni, beszélj Viperrel. Ő a kohász.","","","Grd_260_Drake_Mine_Mehr_Info_11_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_260_Drake.d:139","Oder wende dich an Ian. Er ist der Boss. Er organisiert hier in der Mine alles.","Vagy beszélj Iannal. Ő a főnök. Ő szervez meg mindent itt a bányában.","","","Grd_260_Drake_Mine_Mehr_Info_11_03","",""
-"Scripts/content/Story/MISSIONS/DIA_Grd_260_Drake.d:149","Wo kann ich Ian finden ?","Merre találom Iant?","","","Grd_260_Drake_Ian.description","",""
+"Scripts/content/Story/MISSIONS/DIA_Grd_260_Drake.d:149","Wo kann ich Ian finden ?","Merre találom Iant?","","False","Grd_260_Drake_Ian.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_260_Drake.d:162","Wo kann ich Ian finden ?","Merre találom Iant?","","","Grd_260_Drake_Ian_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_260_Drake.d:163","Er steht in der Mitte des Hauptschachtes, beim Warenlager.","A fő járat közepén találod, a raktár mellett.","","","Grd_260_Drake_Ian_Info_11_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_260_Drake.d:164","Ach noch was, du kennst doch Thorus? Vergiss ihn!","Oh mégvalami - ismered Thorust nem de? Felejtsd el!","","","Grd_260_Drake_Ian_Info_11_03","",""
