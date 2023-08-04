@@ -62,6 +62,7 @@ for dir in release/langs/*; do
         mkdir -p "$dir/_work/Data/Scripts"
         mv "$dir"/_compiled "$dir"/_work/Data/Scripts/_compiled
         mv "$dir"/content   "$dir"/_work/Data/Scripts/content
+        mkdir -p "$dir"/_work/Data/Scripts/content/CUTSCENE
         mv "$dir"/system    "$dir"/_work/Data/Scripts/system
 
         LANG=$(basename "$dir")
