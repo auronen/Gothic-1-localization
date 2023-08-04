@@ -472,7 +472,7 @@
 "Scripts/content/Story/svm.d:728","Du hast einen der Gurus besiegt. Respekt. Aber lass dir nicht einfallen, das noch mal zu probieren.","Pokonałeś jednego z Guru. Jestem pod wrażeniem. Ale już nigdy więcej tego nie próbuj.","","","SVM_4_SuckerDefeatedGur","",""
 "Scripts/content/Story/svm.d:729","Einen Magier zu besiegen ... Du bist einer!","Pokonać maga... musisz być dzielnym człowiekiem!","","","SVM_4_SuckerDefeatedMage","",""
 "Scripts/content/Story/svm.d:730","Du hast sie ja wohl nicht alle, einfach einen Novizen umhauen.","Oszalałeś? Dlaczego bez powodu atakujesz Nowicjuszy?","","","SVM_4_SuckerDefeatedNov_Guard","",""
-"Scripts/content/Story/svm.d:731","Was fällt dir eigentlich ein, einen Buddler zu verkloppen ?","Co ci strzeliło do głowy, żeby atakować Kopacza?","","","SVM_4_SuckerDefeatedVlk_Guard","",""
+"Scripts/content/Story/svm.d:731","Was fällt dir eigentlich ein, einen Buddler zu verkloppen ?","Co ci strzeliło do głowy, żeby atakować Kopacza?","","False","SVM_4_SuckerDefeatedVlk_Guard","",""
 "Scripts/content/Story/svm.d:732","Du hast dich mit einem Freund von mir angelegt! Du bist wirklich unvorsichtig!","Podpadłeś mojemu kumplowi. Teraz masz przechlapane!","","","SVM_4_YouDefeatedMyComrade","",""
 "Scripts/content/Story/svm.d:733","Vergreif dich noch einmal an einem Novizen und es wird dir Leid tun!","Podnieś jeszcze raz rękę na Nowicjusza, a pożałujesz!","","","SVM_4_YouDefeatedNOV_Guard","",""
 "Scripts/content/Story/svm.d:734","Du bist echt zu mutig, einen meiner Schützlinge anzufassen, kann dich teuer zu stehen kommen.","Jesteś taki odważny czy taki głupi? Zadzieranie z moimi protegowanymi nie wyjdzie ci na zdrowie.","","","SVM_4_YouDefeatedVLK_Guard","",""
