@@ -73,4 +73,4 @@ done
 
 cd release/release
 
-zip -r "Gothic 1 Localized.zip" Data System
+zip -r "Gothic_1_Localized.zip" Data System
