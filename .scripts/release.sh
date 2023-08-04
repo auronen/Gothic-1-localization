@@ -50,7 +50,9 @@ for dir in release/langs/*; do
         ENC=$(get_encoding "$LANG")
         echo "Compiling Gothic 1: Language $LANG with $ENC"
 
-        mkdir "$dir"/_compiled # the repo does not have this directory, because it is empty...
+        # the repo does not have these directories, because it is empty...
+        mkdir "$dir"/_compiled
+        mkdir -p "$dir"/content/CUTSCENE
 
         .scripts/dacode compile -c "$dir" -i $ENC -g g1 -p gothic,menu
     fi
@@ -62,7 +64,6 @@ for dir in release/langs/*; do
         mkdir -p "$dir/_work/Data/Scripts"
         mv "$dir"/_compiled "$dir"/_work/Data/Scripts/_compiled
         mv "$dir"/content   "$dir"/_work/Data/Scripts/content
-        mkdir -p "$dir"/_work/Data/Scripts/content/CUTSCENE
         mv "$dir"/system    "$dir"/_work/Data/Scripts/system
 
         LANG=$(basename "$dir")
@@ -70,6 +71,7 @@ for dir in release/langs/*; do
 
         .scripts/vdfs -b "$dir" -c "Gothic 1 localization project ($LANG)" -o release/release/Data/modvdf/G1_$LANG.mod .scripts/g1.yml
     fi
+
 done
 
 cd release/release
