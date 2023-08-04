@@ -472,7 +472,7 @@
 "Scripts/content/Story/svm.d:728","Du hast einen der Gurus besiegt. Respekt. Aber lass dir nicht einfallen, das noch mal zu probieren.","Porazil jsi jednoho z Guru. Obdivuhodné, ale už se o to znovu nepokoušej .","","","SVM_4_SuckerDefeatedGur","",""
 "Scripts/content/Story/svm.d:729","Einen Magier zu besiegen ... Du bist einer!","Zvítězit nad mágem... Musíš mít pro strach uděláno!","","","SVM_4_SuckerDefeatedMage","",""
 "Scripts/content/Story/svm.d:730","Du hast sie ja wohl nicht alle, einfach einen Novizen umhauen.","Musíš být šílený, žes srazil toho novice.","","","SVM_4_SuckerDefeatedNov_Guard","",""
-"Scripts/content/Story/svm.d:731","Was fällt dir eigentlich ein, einen Buddler zu verkloppen ?","Co sis vlastně myslel, že děláš, když jsi zabíjel kopáče?","","","SVM_4_SuckerDefeatedVlk_Guard","",""
+"Scripts/content/Story/svm.d:731","Was fällt dir eigentlich ein, einen Buddler zu verkloppen ?","Co sis vlastně myslel, že děláš, když jsi zabíjel kopáče?","","False","SVM_4_SuckerDefeatedVlk_Guard","",""
 "Scripts/content/Story/svm.d:732","Du hast dich mit einem Freund von mir angelegt! Du bist wirklich unvorsichtig!","Dostal ses do maléru s jedním z mých přátel! To je dost zlý!","","","SVM_4_YouDefeatedMyComrade","",""
 "Scripts/content/Story/svm.d:733","Vergreif dich noch einmal an einem Novizen und es wird dir Leid tun!","Ještě jednou se dotkneš některého novice a budeš litovat!","","","SVM_4_YouDefeatedNOV_Guard","",""
 "Scripts/content/Story/svm.d:734","Du bist echt zu mutig, einen meiner Schützlinge anzufassen, kann dich teuer zu stehen kommen.","Jsi příliš smělý, problém s některým z mých chráněnců by pro tebe mohl znamenat nebezpečí.","","","SVM_4_YouDefeatedVLK_Guard","",""
