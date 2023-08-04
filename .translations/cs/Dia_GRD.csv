@@ -762,7 +762,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Grd_260_Drake.d:137","Erzähl mir mehr davon!","Řekni mi o tom ještě víc!","","","Grd_260_Drake_Mine_Mehr_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_260_Drake.d:138","Wenn du mehr wissen willst, dann wende dich an Viper. Er ist der Schmelzer.","Když chceš vědět víc, zajdi za Viperem. To je tavič.","","","Grd_260_Drake_Mine_Mehr_Info_11_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_260_Drake.d:139","Oder wende dich an Ian. Er ist der Boss. Er organisiert hier in der Mine alles.","Nebo řekni Ianovi. To je šéf. Organizuje práci v celém dole.","","","Grd_260_Drake_Mine_Mehr_Info_11_03","",""
-"Scripts/content/Story/MISSIONS/DIA_Grd_260_Drake.d:149","Wo kann ich Ian finden ?","Kde najdu Iana?","","","Grd_260_Drake_Ian.description","",""
+"Scripts/content/Story/MISSIONS/DIA_Grd_260_Drake.d:149","Wo kann ich Ian finden ?","Kde najdu Iana?","","False","Grd_260_Drake_Ian.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_260_Drake.d:162","Wo kann ich Ian finden ?","Kde najdu Iana?","","","Grd_260_Drake_Ian_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_260_Drake.d:163","Er steht in der Mitte des Hauptschachtes, beim Warenlager.","Je přímo uprostřed hlavní šachty, za skladištěm.","","","Grd_260_Drake_Ian_Info_11_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_260_Drake.d:164","Ach noch was, du kennst doch Thorus? Vergiss ihn!","Jo, a ještě něco - znáš Thoruse, že jo? Pusť ho z hlavy!","","False","Grd_260_Drake_Ian_Info_11_03","",""
