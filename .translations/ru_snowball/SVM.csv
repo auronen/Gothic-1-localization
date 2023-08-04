@@ -472,7 +472,7 @@
 "Scripts/content/Story/svm.d:728","Du hast einen der Gurus besiegt. Respekt. Aber lass dir nicht einfallen, das noch mal zu probieren.","Ты победил одного из Гуру. Впечатляет. Но даже не пытайся сделать это еще раз!","","","SVM_4_SuckerDefeatedGur","",""
 "Scripts/content/Story/svm.d:729","Einen Magier zu besiegen ... Du bist einer!","Победить мага... ты, должно быть, храбрый парень!","","","SVM_4_SuckerDefeatedMage","",""
 "Scripts/content/Story/svm.d:730","Du hast sie ja wohl nicht alle, einfach einen Novizen umhauen.","Нужно быть полным придурком, чтобы драться с новичками!","","","SVM_4_SuckerDefeatedNov_Guard","",""
-"Scripts/content/Story/svm.d:731","Was fällt dir eigentlich ein, einen Buddler zu verkloppen ?","Думаешь, тебе позволено бить рудокопов?","","","SVM_4_SuckerDefeatedVlk_Guard","",""
+"Scripts/content/Story/svm.d:731","Was fällt dir eigentlich ein, einen Buddler zu verkloppen ?","Думаешь, тебе позволено бить рудокопов?","","False","SVM_4_SuckerDefeatedVlk_Guard","",""
 "Scripts/content/Story/svm.d:732","Du hast dich mit einem Freund von mir angelegt! Du bist wirklich unvorsichtig!","Ты ударил одного из моих друзей! Рискуешь, парень!","","","SVM_4_YouDefeatedMyComrade","",""
 "Scripts/content/Story/svm.d:733","Vergreif dich noch einmal an einem Novizen und es wird dir Leid tun!","Еще раз обидишь новичка, и ты об этом крупно пожалеешь!","","","SVM_4_YouDefeatedNOV_Guard","",""
 "Scripts/content/Story/svm.d:734","Du bist echt zu mutig, einen meiner Schützlinge anzufassen, kann dich teuer zu stehen kommen.","Может быть ты и храбр, но обижать людей, которые находятся под чьей-нибудь защитой, все равно опасно.","","","SVM_4_YouDefeatedVLK_Guard","",""
