@@ -453,7 +453,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Nov_1357_Fortuno.d:106","Ich will mir meine tägliche Ration abholen.","Przyszedłem po moją codzienną porcję ziela.","","False","DIA_Fortuno_DailyRation_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1357_Fortuno.d:109","Hier nimm. 3 Schwarzer Weiser - aber nicht alle auf einmal rauchen.","Proszę bardzo. Trzy sztuki Mroku Północy. Tylko nie wypal wszystkiego na raz!","","","DIA_Fortuno_DailyRation_05_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1357_Fortuno.d:116","Du hattest deine Tagesration schon. Wenn du mehr willst, komm morgen wieder oder kauf was.","Dostałeś już dziś swoją porcję. Jeśli chcesz więcej, będziesz musiał zapłacić. Najlepiej przyjdź jutro.","","False","DIA_Fortuno_DailyRation_05_02","",""
-"Scripts/content/Story/MISSIONS/DIA_Nov_1357_Fortuno.d:131","Ich will handeln.","Chcę coś kupić.","","True","DIA_Fortuno_BuyJoints.description","",""
+"Scripts/content/Story/MISSIONS/DIA_Nov_1357_Fortuno.d:131","Ich will handeln.","Chcę coś kupić.","","False","DIA_Fortuno_BuyJoints.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1357_Fortuno.d:144","Ich will handeln.","Chcę coś kupić.","","False","DIA_Fortuno_BuyJoints_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1357_Fortuno.d:145","Was willst du haben? Oder willst du was verkaufen?","Czego szukasz? A może chcesz coś sprzedać?","","False","DIA_Fortuno_BuyJoints_05_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1358_Harlok.d:33","Ghorim schickt mich.","Przysyła mnie Ghorim.","","False","DIA_Harlok_FetchHarlok.description","",""

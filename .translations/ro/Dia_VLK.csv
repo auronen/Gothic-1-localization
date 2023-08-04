@@ -335,7 +335,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Vlk_581_Snaf.d:47","Du könntest mir einen Gefallen tun.","M-ai putea ajuta cu ceva.","","","DIA_Snaf_Hello_01_04","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_581_Snaf.d:65","Was kann ich für dich tun?","Cu ce te pot ajuta?","","","DIA_Snaf_Zutaten.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_581_Snaf.d:78","Was kann ich für dich tun?","Cu ce te pot ajuta?","","","DIA_Snaf_Zutaten_15_00","",""
-"Scripts/content/Story/MISSIONS/DIA_Vlk_581_Snaf.d:79","Du bist sicher gutes Essen gewöhnt. Ich hab' da ein neues Rezept: Fleischwanzen-Ragout ŕ la Snaf, mit Reis und Pilzen.","Trebuie sa fii obisnuit cu mancare buna. Am o reteta noua: tocanita de gandaci cu orez si ciuperci a la Snaf.","","","DIA_Snaf_Zutaten_01_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Vlk_581_Snaf.d:79","Du bist sicher gutes Essen gewöhnt. Ich hab' da ein neues Rezept: Fleischwanzen-Ragout ŕ la Snaf, mit Reis und Pilzen.","Trebuie sa fii obisnuit cu mancare buna. Am o reteta noua: tocanita de gandaci cu orez si ciuperci a la Snaf.","","False","DIA_Snaf_Zutaten_01_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_581_Snaf.d:80","Du kannst haben, so viel du willst, aber ich brauche aber noch 3 Fleischwanzen und einige Höllenpilze - 5 müssten reichen.","Poti avea cata poftesti, dar imi mai trebuie 3 gandaci si niste ciuperci - 5 ar fi destule.","","","DIA_Snaf_Zutaten_01_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_581_Snaf.d:83","Willst du, dass ich kotze?","Vrei sa vomit?","","","DIA_Snaf_Zutaten.DIA_Snaf_Zutaten_KOTZ","Info_AddChoice",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_581_Snaf.d:84","Hört sich gut an.","Suna delicios.","","","DIA_Snaf_Zutaten.DIA_Snaf_Zutaten_DoIt","Info_AddChoice",""
