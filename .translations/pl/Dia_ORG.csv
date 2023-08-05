@@ -614,4 +614,4 @@
 "Scripts/content/Story/MISSIONS/DIA_Org_888_Erpresser.d:55","Ähm... hab' gerade keine 10 Erz...","Ummm... Nie mam przy sobie 10 bryłek.","","","Info_Erpresser_Choice_Zahlen_15_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_888_Erpresser.d:56","Das ist aber schade...","Wielka szkoda...","","","Info_Erpresser_Choice_Zahlen_13_04","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_888_Erpresser.d:88","Du hast bezahlt. Du kannst vorbei. Geh jetzt, bevor ich's mir anders überlege.","Zapłaciłeś - możesz przejść. Właź, zanim się rozmyślę.","","","Info_BereitsErpresst_Info_13_02","",""
-"Scripts/content/Story/MISSIONS/DIA_Org_888_Erpresser.d:114","Mach, dass du wegkommst, oder ich hau dir noch eins aufs Maul!","Spadaj zanim zetrę ten głupi uśmiech z twojej gęby!","","","Info_BereitsAufsMaul_Info_13_02","",""
+"Scripts/content/Story/MISSIONS/DIA_Org_888_Erpresser.d:114","Mach, dass du wegkommst, oder ich hau dir noch eins aufs Maul!","Spadaj zanim zetrę ten głupi uśmiech z twojej gęby!","","False","Info_BereitsAufsMaul_Info_13_02","",""
