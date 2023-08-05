@@ -472,7 +472,7 @@
 "Scripts/content/Story/svm.d:728","Du hast einen der Gurus besiegt. Respekt. Aber lass dir nicht einfallen, das noch mal zu probieren.","Tu as vaincu un des Sages. Je suis impressionné. Mais ne recommence plus jamais ça.","","","SVM_4_SuckerDefeatedGur","",""
 "Scripts/content/Story/svm.d:729","Einen Magier zu besiegen ... Du bist einer!","Gagner contre un magicien... Tu dois être brave !","","","SVM_4_SuckerDefeatedMage","",""
 "Scripts/content/Story/svm.d:730","Du hast sie ja wohl nicht alle, einfach einen Novizen umhauen.","Tu dois être malade d'avoir frappé un novice comme ça.","","","SVM_4_SuckerDefeatedNov_Guard","",""
-"Scripts/content/Story/svm.d:731","Was fällt dir eigentlich ein, einen Buddler zu verkloppen ?","Que crois-tu faire, taper un mineur ?","","","SVM_4_SuckerDefeatedVlk_Guard","",""
+"Scripts/content/Story/svm.d:731","Was fällt dir eigentlich ein, einen Buddler zu verkloppen ?","Que crois-tu faire, taper un mineur ?","","False","SVM_4_SuckerDefeatedVlk_Guard","",""
 "Scripts/content/Story/svm.d:732","Du hast dich mit einem Freund von mir angelegt! Du bist wirklich unvorsichtig!","Tu t'es embrouillé avec un de mes amis ! C'est risqué !","","","SVM_4_YouDefeatedMyComrade","",""
 "Scripts/content/Story/svm.d:733","Vergreif dich noch einmal an einem Novizen und es wird dir Leid tun!","Pose encore tes mains sur un novice et tu le regrettera !","","","SVM_4_YouDefeatedNOV_Guard","",""
 "Scripts/content/Story/svm.d:734","Du bist echt zu mutig, einen meiner Schützlinge anzufassen, kann dich teuer zu stehen kommen.","Tu es trop brave, touché à un protégé peut être très dangereux pour toi.","","","SVM_4_YouDefeatedVLK_Guard","",""
