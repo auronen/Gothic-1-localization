@@ -762,7 +762,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Grd_260_Drake.d:137","Erzähl mir mehr davon!","Dis m'en plus à ce sujet.","","","Grd_260_Drake_Mine_Mehr_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_260_Drake.d:138","Wenn du mehr wissen willst, dann wende dich an Viper. Er ist der Schmelzer.","Si tu veux en savoir davantage, va voir Viper, c'est un fondeur.","","","Grd_260_Drake_Mine_Mehr_Info_11_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_260_Drake.d:139","Oder wende dich an Ian. Er ist der Boss. Er organisiert hier in der Mine alles.","Ou parle à Ian. C'est lui le chef. C'est lui qui dirige tout dans la mine.","","","Grd_260_Drake_Mine_Mehr_Info_11_03","",""
-"Scripts/content/Story/MISSIONS/DIA_Grd_260_Drake.d:149","Wo kann ich Ian finden ?","Où puis-je trouver Ian ?","","","Grd_260_Drake_Ian.description","",""
+"Scripts/content/Story/MISSIONS/DIA_Grd_260_Drake.d:149","Wo kann ich Ian finden ?","Où puis-je trouver Ian ?","","False","Grd_260_Drake_Ian.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_260_Drake.d:162","Wo kann ich Ian finden ?","Où puis-je trouver Ian ?","","","Grd_260_Drake_Ian_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_260_Drake.d:163","Er steht in der Mitte des Hauptschachtes, beim Warenlager.","Il est juste au milieu de la galerie principale, à côté de la réserve.","","","Grd_260_Drake_Ian_Info_11_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_260_Drake.d:164","Ach noch was, du kennst doch Thorus? Vergiss ihn!","Oh, encore une chose - tu connais Thorus, n'est-ce pas? Et bien oublie-le !","","","Grd_260_Drake_Ian_Info_11_03","",""
