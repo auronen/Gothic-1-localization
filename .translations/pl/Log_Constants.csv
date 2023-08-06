@@ -105,7 +105,7 @@
 "Scripts/content/Story/Log_Constants.d:154","Aufnahme Altes Lager","Przyjęcie do Starego Obozu","","False","CH1_JoinOC","",""
 "Scripts/content/Story/Log_Constants.d:155","Von heute an arbeite ich für Gomez und das Alte Lager. Raven wird mir alles weitere erzählen!","Od dziś pracuję dla Gomeza w Starym Obozie. Kruk ma mi udzielić wszystkich potrzebnych informacji!","","False","CH1_JoinOC_1","",""
 "Scripts/content/Story/Log_Constants.d:156","Scatty der Arenameister wird von mir beeindruckt sein, wenn ich einen der Kämpfer fordere.","Scatty, organizator walk na arenie, chciałby zobaczyć, jak sobie poradzę w starciu z którymś z jego wojowników.","","False","CH1_JoinOC_2","",""
-"Scripts/content/Story/Log_Constants.d:157","Meinem Niederlage gegen Kirgo hat Scatty nicht sehr beeindruckt.","Porażka w walce z Kirgo nie zjednała mi bynajmniej sympatii Scatty'ego.","","","CH1_JoinOC_3","",""
+"Scripts/content/Story/Log_Constants.d:157","Meinem Niederlage gegen Kirgo hat Scatty nicht sehr beeindruckt.","Porażka w walce z Kirgo nie zjednała mi sympatii Scatty'ego.","","False","CH1_JoinOC_3","",""
 "Scripts/content/Story/Log_Constants.d:158","Scatty ist beeindruckt von meinem Kampf gegen Kirgo.","Scatty był pod wrażeniem mojej walki z Kirgo.","","False","CH1_JoinOC_4","",""
 "Scripts/content/Story/Log_Constants.d:159","Ich bin Kharim unterlegen! Mein Mut hat Scatty gefallen, aber meine Kampffähigkeiten nicht.","Zostałem pokonany przez Kharima! Scatty podziwia moją odwagę, ale uważa, że wojownik ze mnie żaden.","","False","CH1_JoinOC_5","",""
 "Scripts/content/Story/Log_Constants.d:160","Ich habe es Kharim gezeigt! Scatty hat gestaunt.","Pokazałem Kharimowi, gdzie raki zimują. Scatty był pod wrażeniem.","","","CH1_JoinOC_6","",""
