@@ -289,7 +289,7 @@
 "Scripts/content/Story/svm.d:541","Versuch so was nicht noch mal!","Nigdy więcej tego nie próbuj!","","False","SVM_3_NeverTryThatAgain","",""
 "Scripts/content/Story/svm.d:542","Danke für die Waffe!","Dzięki za broń!","","False","SVM_3_ITakeYourWeapon","",""
 "Scripts/content/Story/svm.d:543","Ich nehme mir noch etwas Erz ...","Pożyczę sobie trochę twojej rudy…","","False","SVM_3_ITookYourOre","",""
-"Scripts/content/Story/svm.d:544","Kein Erz dabei? Das ist traurig, Mann, echt traurig!","Nie masz rudy? Ty biedny głupcze!","","","SVM_3_ShitNoOre","",""
+"Scripts/content/Story/svm.d:544","Kein Erz dabei? Das ist traurig, Mann, echt traurig!","Nie masz rudy? Ty biedny głupcze!","","False","SVM_3_ShitNoOre","",""
 "Scripts/content/Story/svm.d:545","Finger weg!","Łapy precz!","","","SVM_3_HandsOff","",""
 "Scripts/content/Story/svm.d:546","Verzieh dich!","Spadaj!","","","SVM_3_GetOutOfHere","",""
 "Scripts/content/Story/svm.d:547","Hey! Wo kommst du denn her?","Hej! Jak tu wlazłeś?!","","","SVM_3_YouViolatedForbiddenTerritory","",""
