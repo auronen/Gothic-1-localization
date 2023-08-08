@@ -1976,7 +1976,7 @@
 "Scripts/content/Items/Ringe.d:389","","","","","Schutzring_Geschosse1_Waffen1.text[0]","",""
 "Scripts/content/Items/Ringe.d:390","","","","","Schutzring_Geschosse1_Waffen1.text[1]","",""
 "Scripts/content/Items/Ringe.d:393","","","","","Schutzring_Geschosse1_Waffen1.text[4]","",""
-"Scripts/content/Items/Ringe.d:428","Ring der Unantastbarkeit","Kruh viny","","","Schutzring_Geschosse2_Waffen2.description","",""
+"Scripts/content/Items/Ringe.d:428","Ring der Unantastbarkeit","Prsten nedotknutelnosti","","False","Schutzring_Geschosse2_Waffen2.description","",""
 "Scripts/content/Items/Ringe.d:429","","","","","Schutzring_Geschosse2_Waffen2.text[0]","",""
 "Scripts/content/Items/Ringe.d:430","","","","","Schutzring_Geschosse2_Waffen2.text[1]","",""
 "Scripts/content/Items/Ringe.d:433","","","","","Schutzring_Geschosse2_Waffen2.text[4]","",""
