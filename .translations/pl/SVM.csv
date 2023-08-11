@@ -994,7 +994,7 @@
 "Scripts/content/Story/svm.d:1269","Einen meiner Schützlinge anzugreifen kann dich den Kopf kosten.","Jeśli jeszcze raz zaczepisz któregoś z moich protegowanych, skrócę cię o głowę.","","","SVM_8_YouDefeatedVLK_Guard","",""
 "Scripts/content/Story/svm.d:1270","Du wagst es mir unter die Augen zu treten, dreckiger Dieb?","Jak śmiesz się tu pokazywać, parszywy złodzieju?!","","","SVM_8_YouStoleFromMe","",""
 "Scripts/content/Story/svm.d:1271","Du hast einige Sachen, die uns gehören. Gib sie besser wieder her.","Masz kilka rzeczy, które należą do nas. Teraz je nam grzecznie oddasz.","","False","SVM_8_YouStoleFromUs","",""
-"Scripts/content/Story/svm.d:1272","Mann! Du hast die Erzbarone beklaut! Na, die werden toben!","Człowieku! Okradłeś Magnatów?! Ale się wściekną.","","","SVM_8_YouStoleFromEBr","",""
+"Scripts/content/Story/svm.d:1272","Mann! Du hast die Erzbarone beklaut! Na, die werden toben!","Człowieku! Okradłeś Magnatów! Ale się wściekną!","","False","SVM_8_YouStoleFromEBr","",""
 "Scripts/content/Story/svm.d:1273","Du hast die Gurus um ein paar Sachen erleichtert, was?","Pożyczyłeś sobie kilka rzeczy Guru, prawda?","","False","SVM_8_YouStoleFromGur","",""
 "Scripts/content/Story/svm.d:1274","Du hast die Magier um ein paar Sachen erleichtert, was?","Pożyczyłeś sobie kilka rzeczy należących do magów, prawda?","","","SVM_8_StoleFromMage","",""
 "Scripts/content/Story/svm.d:1275","Du hast einen von unseren Jungs auf dem Gewissen. Noch ein kleiner Fehler und du bist dran!","Masz na sumieniu jednego z naszych! Jeszcze jeden taki wybryk i będziesz gryzł ziemię!","","","SVM_8_YouKilledMyFriend","",""
