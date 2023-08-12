@@ -1598,7 +1598,7 @@
 "Scripts/content/Items/MissionItems_4.d:106","Berichten zufolge können diese feurigen Geschöpfe ihre Opfer mit nur einer Berührung in ein Flammenmeer verwandeln.","Podle zpráv dokážou tyto ohnivé bytosti jediným dotykem proměnit své oběti v moře plamenů.","","","GolemBook2_7","",""
 "Scripts/content/Items/MissionItems_4.d:107","Erst im letzten Jahr stieß eine Jagdgruppe im Hochland auf solch einen wandelnden Gluthaufen. Der Ausgang ist unklar, doch sollen Blitze und Eis die Höllenkreatur gestoppt haben.","Bylo to sotva před rokem, kdy skupina lovců potkala jednoho z nich, jak si vykračuje po řeřavém uhlí. O výsledku střetnutí nebyla podána zpráva, ale blesky a led na tuto pekelnou stvůru zřejmě trochu účinkovaly.","","","GolemBook2_8","",""
 "Scripts/content/Items/MissionItems_4.d:145","Karte","Mapa","","","ItWrWorldmap_Orc.name","",""
-"Scripts/content/Items/MissionItems_4.d:158","Karte der Kolonie (ergänzt)","Mapa kolonie (doplněná)","","","ItWrWorldmap_Orc.description","",""
+"Scripts/content/Items/MissionItems_4.d:158","Karte der Kolonie (ergänzt)","Mapa Kolonie (doplněná)","","","ItWrWorldmap_Orc.description","",""
 "Scripts/content/Items/MissionItems_4.d:159","Ur-Shak der Ork-Schamane hat das","Ur-Shak, skřetí šaman, do ní zakreslil","","","ItWrWorldmap_Orc.text[0]","",""
 "Scripts/content/Items/MissionItems_4.d:160","Orkgebiet eingezeichnet!","skřetí území!","","","ItWrWorldmap_Orc.text[1]","",""
 "Scripts/content/Items/MissionItems_4.d:161","","","","","ItWrWorldmap_Orc.text[2]","",""

@@ -323,7 +323,7 @@
 "Scripts/content/Story/Text.d:636","Zurück","ZPĚT","","False","STR_INFO_TRADE_EXIT","",""
 "Scripts/content/Story/Text.d:638","Badenixe","Badenixe","","","STR_BADENIXE","",""
 "Scripts/content/Story/Text.d:644","Kapitel 1","Kapitola 1","","False","KapWechsel_1","",""
-"Scripts/content/Story/Text.d:645","Die Welt der Verurteilten","Vítej do kolonie","","","KapWechsel_1_Text","",""
+"Scripts/content/Story/Text.d:645","Die Welt der Verurteilten","Vítej v Kolonii","","","KapWechsel_1_Text","",""
 "Scripts/content/Story/Text.d:646","Kapitel 2","Kapitola 2","","False","KapWechsel_2","",""
 "Scripts/content/Story/Text.d:647","Das Nest der Minecrawler","Hnízdo důlních červů","","False","KapWechsel_2_Text","",""
 "Scripts/content/Story/Text.d:648","Kapitel 3","Kapitola 3","","False","KapWechsel_3","",""
