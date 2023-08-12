@@ -285,7 +285,7 @@
 "Scripts/content/Story/MISSIONS/DIA_GUR_1202_CorAngar.d:427","Offensichtlich kam er mit der großen Enttäuschung, nichts gefunden zu haben, nicht zurecht.","Vypadalo to, že se nemůže smířit s tím, že nic nenašel.","","","GUR_1202_CorAngar_AFTER_Info_08_08","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1202_CorAngar.d:428","Ich glaube nicht, dass der Einfluss des Schläfers solch grausame Taten verursacht.","Nemůžu uvěřit, že by Spáčův vliv mohl vést k takovýmhle násilným činům.","","","GUR_1202_CorAngar_AFTER_Info_08_09","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1202_CorAngar.d:429","Es darf nicht ... darf nicht ... EGAL!","To nemůže být... nemůže být... JEN TAK!","","","GUR_1202_CorAngar_AFTER_Info_08_10","",""
-"Scripts/content/Story/MISSIONS/DIA_GUR_1202_CorAngar.d:430","Die Hauptsache ist, dass Baal Lukor in seinem Wahn keinen Erfolg hatte.","Nejdůležitější ale je, že se to Baalu Lukorovi v jeho šílenství nepodařilo.","","","GUR_1202_CorAngar_AFTER_Info_08_11","",""
+"Scripts/content/Story/MISSIONS/DIA_GUR_1202_CorAngar.d:430","Die Hauptsache ist, dass Baal Lukor in seinem Wahn keinen Erfolg hatte.","Nejdůležitější ale je, že se to Baal Lukorovi v jeho šílenství nepodařilo.","","False","GUR_1202_CorAngar_AFTER_Info_08_11","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1202_CorAngar.d:431","Y'Berion ist nun unsere einzige Hoffnung.","Y'Berion je teď naše jediná naděje.","","","GUR_1202_CorAngar_AFTER_Info_08_12","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1202_CorAngar.d:446","Wie steht es um Y'Berion?","Co je s Y'Berionem?","","","Info_CorAngar_FindHerb.description","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1202_CorAngar.d:459","Wie steht es um Y'Berion?","Co je s Y'Berionem?","","","Mis_3_NC_CorAngar_FindHerb_15_01","",""
