@@ -1812,7 +1812,7 @@
 "Scripts/content/Story/svm.d:2121","Aargh","Ааргх","","","SVM_15_Aargh_1","",""
 "Scripts/content/Story/svm.d:2122","Aargh","Ааргх","","","SVM_15_Aargh_2","",""
 "Scripts/content/Story/svm.d:2123","Aargh","Ааргх","","","SVM_15_Aargh_3","",""
-"Scripts/content/Story/svm.d:2124","Aaargl","Ааарг!","","","SVM_15_Dead","",""
+"Scripts/content/Story/svm.d:2124","Aaargl","Ааарг","","False","SVM_15_Dead","",""
 "Scripts/content/Story/svm.d:2125","","(прокидається)","","","SVM_15_Awake","",""
 "Scripts/content/Story/svm.d:2126","Funktioniert nicht","Не працює.","","","SVM_15_DoesntWork","",""
 "Scripts/content/Story/svm.d:2127","Hm, abgebrochen.","Хм, зламане.","","False","SVM_15_PickBroke","",""
