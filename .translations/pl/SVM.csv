@@ -533,7 +533,7 @@
 "Scripts/content/Story/svm.d:793","Ich hab' dich gewarnt. Wer an meine Sachen geht, kriegt Ärger!","Ostrzegałem cię. Jak będziesz grzebał w moich rzeczach, dostaniesz po łapach!","","False","SVM_5_IWillTeachYouRespectForForeignProperty","",""
 "Scripts/content/Story/svm.d:794","Du Dieb! Ich bring dir Manieren bei!","Ty złodzieju! Ja ci pokażę!","","False","SVM_5_DirtyThief","",""
 "Scripts/content/Story/svm.d:795","Niemand vergreift sich ungestraft an meinen Jungs!","Zadzieranie z moimi chłopakami nie wyjdzie ci na dobre!","","False","SVM_5_YouAttackedMyCharge","",""
-"Scripts/content/Story/svm.d:796","Du hast einen meiner Jungs platt gemacht. Jetzt mach' ich DICH platt!","Zabiłeś jednego z moich ludzi. Teraz ja zabiję ciebie!","","","SVM_5_YouKilledOneOfUs","",""
+"Scripts/content/Story/svm.d:796","Du hast einen meiner Jungs platt gemacht. Jetzt mach' ich DICH platt!","Zabiłeś jednego z moich ludzi. Teraz ja zabiję CIEBIE!","","False","SVM_5_YouKilledOneOfUs","",""
 "Scripts/content/Story/svm.d:797","Aaarg","Aaarg!","","","SVM_5_Dead","",""
 "Scripts/content/Story/svm.d:798","Aargh","Aargh","","False","SVM_5_Aargh_1","",""
 "Scripts/content/Story/svm.d:799","Aargh","Aargh","","False","SVM_5_Aargh_2","",""
