@@ -37,7 +37,7 @@
 "Scripts/content/Story/MISSIONS/DIA_SfB_1037_Swiney.d:116","Wieviel Erz habt ihr schon gesammelt?","Jak dużo rudy udało się wam uzbierać do tej pory?","","False","Info_Swiney_PERM.description","",""
 "Scripts/content/Story/MISSIONS/DIA_SfB_1037_Swiney.d:129","Wie viel Erz habt ihr schon gesammelt?","Jak dużo rudy udało się wam uzbierać do tej pory?","","False","Info_Swiney_PERM_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_SfB_1037_Swiney.d:130","Die Magier sagen, viel brauchen wir nicht mehr. Geh ins Neue Lager und sieh dir den Haufen an.","Magowie mówią, że mamy już niemal całą potrzebną ilość. Kiedy będziesz w Nowym Obozie, rzuć okiem na kopiec.","","False","Info_Swiney_PERM_09_01","",""
-"Scripts/content/Story/MISSIONS/DIA_IE_397_Announcer.d:43","Hochverehrte Erzbarone, geehrte Gardisten, Schatten und Buddler ...","Moi szanowni Magnaci, drodzy Strażnicy, Cienie i Kopacze...","","False","Info_Announcer_ANNOUNCE_11_01","",""
+"Scripts/content/Story/MISSIONS/DIA_IE_397_Announcer.d:43","Hochverehrte Erzbarone, geehrte Gardisten, Schatten und Buddler ...","Moi szanowni magnaci, drodzy strażnicy, Cienie i Kopacze...","","False","Info_Announcer_ANNOUNCE_11_01","",""
 "Scripts/content/Story/MISSIONS/DIA_IE_397_Announcer.d:44","Ich präsentiere ihnen ...","Z prawdziwą przyjemnością przedstawiam wam...","","False","Info_Announcer_ANNOUNCE_11_02","",""
 "Scripts/content/Story/MISSIONS/DIA_IE_397_Announcer.d:45","!!! IN EXTREMO !!!!","!!! IN EXTREMO !!!!","","False","Info_Announcer_ANNOUNCE_11_03","",""
 "Scripts/content/Story/ZS/ZS_Meditate.d:44","Omm...","Omm...","","False","ZS_Meditate_Om","",""
