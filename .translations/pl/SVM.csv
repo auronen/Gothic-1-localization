@@ -647,7 +647,7 @@
 "Scripts/content/Story/svm.d:912","Hör auf mit der Magie-Scheiße!","Żadnej magii!","","False","SVM_6_StopMagic","",""
 "Scripts/content/Story/svm.d:913","Magie weg! Sofort!!","Przestań czarować! Natychmiast!","","False","SVM_6_ISaidStopMagic","",""
 "Scripts/content/Story/svm.d:914","Steck die scheiß Waffe weg!","Odłóż tę cholerną broń!","","False","SVM_6_WeaponDown","",""
-"Scripts/content/Story/svm.d:915","Soll ich dir aufs Maul hauen? Steck das Ding weg!!!","Chcesz oberwać? Schowaj tę broń!","","","SVM_6_ISaidWeaponDown","",""
+"Scripts/content/Story/svm.d:915","Soll ich dir aufs Maul hauen? Steck das Ding weg!!!","Chcesz oberwać? Schowaj tę broń!!!","","False","SVM_6_ISaidWeaponDown","",""
 "Scripts/content/Story/svm.d:916","Nimm das Ding runter, oder es passiert was!","Schowaj broń, albo się wkurzę!","","False","SVM_6_WatchYourAim","",""
 "Scripts/content/Story/svm.d:917","Na, ziel ruhig weiter auf mich, wenn du eine aufs Mauls willst!","Jak nie przestaniesz we mnie celować, to oberwiesz!","","False","SVM_6_WatchYourAimAngry","",""
 "Scripts/content/Story/svm.d:918","He! Pass auf!","Hej! Uważaj!","","False","SVM_6_WhatAreYouDoing","",""
