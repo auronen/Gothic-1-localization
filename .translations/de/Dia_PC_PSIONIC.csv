@@ -69,7 +69,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:432","Du weißt ja, wo du mich finden kannst.","Du weißt ja, wo du mich finden kannst.","","","PC_Psionic_CHANGE_Info_05_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:446","Zeig mir den Weg...","Zeig mir den Weg...","","","PC_Psionic_GUIDEFIRST.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:461","Zeig mir den Weg ...","Zeig mir den Weg ...","","","PC_Psionic_GUIDEFIRST_Info_15_01","",""
-"Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:467","zurück zum Hauptor","zurück zum Hauptor","","","PC_Psionic_GUIDEFIRST.PC_Psionic_GUIDEFIRST_MAINGATE","Info_AddChoice",""
+"Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:467","zurück zum Hauptor","…zurück zum Hauptor.","","False","PC_Psionic_GUIDEFIRST.PC_Psionic_GUIDEFIRST_MAINGATE","Info_AddChoice",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:468","zur Schmiede","zur Schmiede","","","PC_Psionic_GUIDEFIRST.PC_Psionic_GUIDEFIRST_SMITH","Info_AddChoice",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:469","zum Tempel","zum Tempel","","","PC_Psionic_GUIDEFIRST.PC_Psionic_GUIDEFIRST_TEMPEL","Info_AddChoice",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:470","zu den Lehrern","zu den Lehrern","","","PC_Psionic_GUIDEFIRST.PC_Psionic_GUIDEFIRST_TRAIN","Info_AddChoice",""
