@@ -988,7 +988,7 @@
 "Scripts/content/Story/svm.d:1263","Du hast einen der Gurus besiegt. Respekt. Aber lass dir nicht einfallen, das noch einmal zu probieren.","Pokonałeś jednego z Guru. Jestem pod wrażeniem. Ale już nigdy więcej tego nie próbuj.","","False","SVM_8_SuckerDefeatedGur","",""
 "Scripts/content/Story/svm.d:1264","Einen Magier zu besiegen ... Du bist ja einer!","Pokonać maga... musisz być dzielnym człowiekiem!","","False","SVM_8_SuckerDefeatedMage","",""
 "Scripts/content/Story/svm.d:1265","Du weißt, dass die Novizen unter meinem Schutz stehen. Und trotzdem vergreifst du dich an Ihnen?","Wiesz, że wszyscy nowicjusze są pod moją opieką, a mimo to śmiesz ich zaczepiać?","","False","SVM_8_SuckerDefeatedNov_Guard","",""
-"Scripts/content/Story/svm.d:1266","Wenn du dich an Buddlern vergreifst, vergreifst du dich an meiner Kasse!","Atakując Kopaczy psujesz mi interes.","","","SVM_8_SuckerDefeatedVlk_Guard","",""
+"Scripts/content/Story/svm.d:1266","Wenn du dich an Buddlern vergreifst, vergreifst du dich an meiner Kasse!","Atakując Kopaczy psujesz mi interes!","","False","SVM_8_SuckerDefeatedVlk_Guard","",""
 "Scripts/content/Story/svm.d:1267","Du solltest dich nicht mit meinen Freunden anlegen.","Lepiej nie wchodzić w drogę moim przyjaciołom!","","False","SVM_8_YouDefeatedMyComrade","",""
 "Scripts/content/Story/svm.d:1268","Vergreif dich noch einmal an unseren Jungs und es wird dir Leid tun.","Spróbuj jeszcze raz zaczepić Nowicjusza, a pożałujesz!","","","SVM_8_YouDefeatedNOV_Guard","",""
 "Scripts/content/Story/svm.d:1269","Einen meiner Schützlinge anzugreifen kann dich den Kopf kosten.","Jeśli jeszcze raz zaczepisz któregoś z moich protegowanych, skrócę cię o głowę.","","False","SVM_8_YouDefeatedVLK_Guard","",""
