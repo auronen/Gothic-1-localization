@@ -990,7 +990,7 @@
 "Scripts/content/Story/svm.d:1265","Du weißt, dass die Novizen unter meinem Schutz stehen. Und trotzdem vergreifst du dich an Ihnen?","Wiesz, że wszyscy nowicjusze są pod moją opieką, a mimo to śmiesz ich zaczepiać?","","False","SVM_8_SuckerDefeatedNov_Guard","",""
 "Scripts/content/Story/svm.d:1266","Wenn du dich an Buddlern vergreifst, vergreifst du dich an meiner Kasse!","Atakując Kopaczy psujesz mi interes!","","False","SVM_8_SuckerDefeatedVlk_Guard","",""
 "Scripts/content/Story/svm.d:1267","Du solltest dich nicht mit meinen Freunden anlegen.","Lepiej nie wchodzić w drogę moim przyjaciołom!","","False","SVM_8_YouDefeatedMyComrade","",""
-"Scripts/content/Story/svm.d:1268","Vergreif dich noch einmal an unseren Jungs und es wird dir Leid tun.","Spróbuj jeszcze raz zaczepić Nowicjusza, a pożałujesz!","","","SVM_8_YouDefeatedNOV_Guard","",""
+"Scripts/content/Story/svm.d:1268","Vergreif dich noch einmal an unseren Jungs und es wird dir Leid tun.","Spróbuj jeszcze raz zaczepić nowicjusza, a pożałujesz!","","False","SVM_8_YouDefeatedNOV_Guard","",""
 "Scripts/content/Story/svm.d:1269","Einen meiner Schützlinge anzugreifen kann dich den Kopf kosten.","Jeśli jeszcze raz zaczepisz któregoś z moich protegowanych, skrócę cię o głowę.","","False","SVM_8_YouDefeatedVLK_Guard","",""
 "Scripts/content/Story/svm.d:1270","Du wagst es mir unter die Augen zu treten, dreckiger Dieb?","Jak śmiesz się tu pokazywać, parszywy złodzieju?!","","","SVM_8_YouStoleFromMe","",""
 "Scripts/content/Story/svm.d:1271","Du hast einige Sachen, die uns gehören. Gib sie besser wieder her.","Masz kilka rzeczy, które należą do nas. Teraz je nam grzecznie oddasz.","","False","SVM_8_YouStoleFromUs","",""
