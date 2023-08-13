@@ -1721,7 +1721,7 @@
 "Scripts/content/Story/svm.d:2024","Ein Kampf!","Walka!","","False","SVM_14_TheresAFight","",""
 "Scripts/content/Story/svm.d:2025","Na ja.","Hmmm.","","","SVM_14_HeyHeyHey","",""
 "Scripts/content/Story/svm.d:2026","Wie uneffektiv!","Jakie to... nieefektywne.","","","SVM_14_CheerFight","",""
-"Scripts/content/Story/svm.d:2027","Sieht anstrengend aus!","To chyba dość męczące.","","","SVM_14_CheerFriend","",""
+"Scripts/content/Story/svm.d:2027","Sieht anstrengend aus!","To chyba dość męczące!","","False","SVM_14_CheerFriend","",""
 "Scripts/content/Story/svm.d:2028","Schmerzhaft!","To musiało boleć!","","False","SVM_14_Ooh","",""
 "Scripts/content/Story/svm.d:2029","So geht's auch ...","Cóż, tak też można...","","False","SVM_14_YeahWellDone","",""
 "Scripts/content/Story/svm.d:2030","Er hat was gelernt!","Czegoś się nauczył!","","False","SVM_14_RunCoward","",""
