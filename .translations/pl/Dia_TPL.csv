@@ -116,7 +116,7 @@
 "Scripts/content/Story/MISSIONS/DIA_TPL_1455_GorBoba.d:41","Ich kann dir zeigen, wie unsterblich du bist!","Ja ci pokażę tę waszą nieśmiertelność!","","False","Info_TPL_1455_GorBoba1_15_04","",""
 "Scripts/content/Story/MISSIONS/DIA_TPL_1455_GorBoba.d:42","Mache dich bereit, deinem Schöpfer gegenüber zu treten.","Przygotuj się na spotkanie ze stwórcą!","","False","Info_TPL_1455_GorBoba1_08_05","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1400_GorNaBar.d:19","Möge der Schläfer dich schützen!","Niech Śniący zawsze będzie z tobą!","","False","Tpl_1400_GorNaBar_Exit_Info_09_02","",""
-"Scripts/content/Story/MISSIONS/DIA_Tpl_1400_GorNaBar.d:30","Ich brauche deine Hilfe","Potrzebuję twojej pomocy.","","False","Tpl_1400_GorNaBar_SUGGEST.description","",""
+"Scripts/content/Story/MISSIONS/DIA_Tpl_1400_GorNaBar.d:30","Ich brauche deine Hilfe","Potrzebuję twojej pomocy.","","True","Tpl_1400_GorNaBar_SUGGEST.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1400_GorNaBar.d:44","Ich brauche deine Hilfe","Potrzebuję twojej pomocy.","","False","Tpl_1400_GorNaBar_SUGGEST_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1400_GorNaBar.d:45","Ich bin auf der Suche nach Sekret für Kalom und glaube zu wissen, wo das Nest der Crawler ist.","Szukam wydzieliny pełzaczy dla Kaloma i chyba wiem już, gdzie znajduje się gniazdo tych drapieżców.","","False","Tpl_1400_GorNaBar_SUGGEST_Info_15_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1400_GorNaBar.d:46","Wenn der Durchgang geöffnet wird, bist du dabei?","Możemy na ciebie liczyć, kiedy już odblokujemy prowadzące do niego przejście?","","False","Tpl_1400_GorNaBar_SUGGEST_Info_15_03","",""
