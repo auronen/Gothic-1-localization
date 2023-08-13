@@ -1161,7 +1161,7 @@
 "Scripts/content/Story/svm.d:1440"," ... lass uns lieber über was anderes reden ..."," ...pogadajmy lepiej o czymś innym...","","False","SVM_9_Smalltalk24","",""
 "Scripts/content/Story/svm.d:1441","Omm...","Omm...","","False","SVM_9_Om","",""
 "Scripts/content/Story/svm.d:1446","Hör mit der Magie auf!","Żadnej magii!","","False","SVM_10_StopMagic","",""
-"Scripts/content/Story/svm.d:1447","Hör sofort damit auf!!!","Natychmiast przestań!","","","SVM_10_ISaidStopMagic","",""
+"Scripts/content/Story/svm.d:1447","Hör sofort damit auf!!!","Natychmiast przestań!!!","","False","SVM_10_ISaidStopMagic","",""
 "Scripts/content/Story/svm.d:1448","Steck die Waffe weg!","Schowaj broń!","","False","SVM_10_WeaponDown","",""
 "Scripts/content/Story/svm.d:1449","Was soll das werden? Willst du dich mit mir anlegen?","Co ty wyprawiasz? Szukasz guza?!","","","SVM_10_ISaidWeaponDown","",""
 "Scripts/content/Story/svm.d:1450","Nimm das Ding runter, oder ich sorg' selbst dafür!","Schowasz to sam, czy mam ci pomóc?!","","","SVM_10_WatchYourAim","",""
