@@ -1049,7 +1049,7 @@
 "Scripts/content/Story/svm.d:1328","Ich habe dich gewarnt. Wer an meine Sachen geht, kriegt Ärger!","Ostrzegałem cię! Jak będziesz grzebał w moich rzeczach, dostaniesz po łapach!","","False","SVM_9_IWillTeachYouRespectForForeignProperty","",""
 "Scripts/content/Story/svm.d:1329","Du Dieb! Ich mach dich fertig!","Ty złodzieju! Ja ci pokażę!","","False","SVM_9_DirtyThief","",""
 "Scripts/content/Story/svm.d:1330","Niemand vergreift sich an meinen Jungs!","Nikt nie będzie podskakiwał moim chłopcom!","","False","SVM_9_YouAttackedMyCharge","",""
-"Scripts/content/Story/svm.d:1331","Du hast einen meiner Jungs platt gemacht. Jetzt mach' ich DICH platt!","Zabiłeś jednego z moich ludzi. Teraz ja zabiję ciebie!","","","SVM_9_YouKilledOneOfUs","",""
+"Scripts/content/Story/svm.d:1331","Du hast einen meiner Jungs platt gemacht. Jetzt mach' ich DICH platt!","Zabiłeś jednego z moich ludzi. Teraz ja zabiję CIEBIE!","","False","SVM_9_YouKilledOneOfUs","",""
 "Scripts/content/Story/svm.d:1332","Aaarg","Aaarg!","","","SVM_9_Dead","",""
 "Scripts/content/Story/svm.d:1333","Aargh","Aargh","","","SVM_9_Aargh_1","",""
 "Scripts/content/Story/svm.d:1334","Aargh","Aargh","","","SVM_9_Aargh_2","",""
