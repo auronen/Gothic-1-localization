@@ -693,7 +693,7 @@
 "Scripts/content/Items/Food.d:1190","","","","","ItFo_Plants_Stoneroot_02.text[2]","",""
 "Scripts/content/Items/Food.d:1191","","","","","ItFo_Plants_Stoneroot_02.text[3]","",""
 "Scripts/content/Items/Food.d:1192","","","","","ItFo_Plants_Stoneroot_02.text[4]","",""
-"Scripts/content/Items/Food.d:1207","Trollkirsche","Trolest","","","ItFo_Plants_Trollberrys_01.name","",""
+"Scripts/content/Items/Food.d:1207","Trollkirsche","Trolest","","False","ItFo_Plants_Trollberrys_01.name","",""
 "Scripts/content/Items/Food.d:1223","","","","","ItFo_Plants_Trollberrys_01.text[0]","",""
 "Scripts/content/Items/Food.d:1224","","","","","ItFo_Plants_Trollberrys_01.text[1]","",""
 "Scripts/content/Items/Food.d:1225","","","","","ItFo_Plants_Trollberrys_01.text[2]","",""
