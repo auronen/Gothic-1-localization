@@ -726,7 +726,7 @@
 "Scripts/content/Story/svm.d:991","Sie haben einen unserer Jungs erwischt. Wenn ich das Schwein kriege ...","Dorwali jednego z naszych. Jak się dowiem, kto to zrobił...","","False","SVM_6_TheyKilledMyFriend","",""
 "Scripts/content/Story/svm.d:992","Verdammt, warum weckst du mich?","Do diabła! Czemu mnie obudziłeś?!","","False","SVM_6_YouDisturbedMySlumber","",""
 "Scripts/content/Story/svm.d:993","Haste was aufs Maul gekriegt? Geschieht dir Recht!","Dostałeś tęgie baty? Należało ci się!","","False","SVM_6_SuckerGotSome","",""
-"Scripts/content/Story/svm.d:994","Du hast einen Erzbaron umgehauen. Er ist so richtig wütend!","Pobiłeś Magnata. Jest na ciebie wściekły.","","","SVM_6_SuckerDefeatedEBr","",""
+"Scripts/content/Story/svm.d:994","Du hast einen Erzbaron umgehauen. Er ist so richtig wütend!","Pobiłeś Magnata. Jest na ciebie wściekły!","","False","SVM_6_SuckerDefeatedEBr","",""
 "Scripts/content/Story/svm.d:995","Du hast einen Guru niedergeschlagen. Irgendwie ziehst du Ärger an!","Pokonałeś Guru! Chyba przyciągasz kłopoty jak jakiś magnes!","","","SVM_6_SuckerDefeatedGur","",""
 "Scripts/content/Story/svm.d:996","Einen Magier zu besiegen ist 'ne wirklich beschissene Idee, Mann!","Pokonać maga... chyba jesteś niespełna rozumu!","","","SVM_6_SuckerDefeatedMage","",""
 "Scripts/content/Story/svm.d:997","Du kannst hier nicht rumrennen und die Novizen verprügeln!","Nie możesz tak po prostu atakować nowicjuszy!","","False","SVM_6_SuckerDefeatedNov_Guard","",""
