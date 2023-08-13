@@ -591,7 +591,7 @@
 "Scripts/content/Story/svm.d:851","Ich hab' NICHTS gesehen ... war irgendwas?","Ja NIC nie widziałem! Nawet nie wiem, co się stało!","","False","SVM_5_LookAway","",""
 "Scripts/content/Story/svm.d:852","Schon gut, behalt es!","Dobra, zatrzymaj to sobie!","","False","SVM_5_OkayKeepIt","",""
 "Scripts/content/Story/svm.d:853","Was war denn das?","Co to było?","","False","SVM_5_WhatsThat","",""
-"Scripts/content/Story/svm.d:854","Ich würde es vorziehen, meine Waffe zurückzubekommen!","Wolałbym dostać z powrotem moją broń.","","","SVM_5_ThatsMyWeapon","",""
+"Scripts/content/Story/svm.d:854","Ich würde es vorziehen, meine Waffe zurückzubekommen!","Wolałbym dostać z powrotem moją broń!","","False","SVM_5_ThatsMyWeapon","",""
 "Scripts/content/Story/svm.d:855","Gib schon her!","Daj mi to!","","False","SVM_5_GiveItToMe","",""
 "Scripts/content/Story/svm.d:856","Na ja, auch nicht so schlimm! Ich hab' noch mehr davon!","Cóż, nie ma tego złego... Mam tego więcej!","","False","SVM_5_YouCanKeeptheCrap","",""
 "Scripts/content/Story/svm.d:857","Sie haben einen unserer Jungs erwischt. Wenn ich das Schwein kriege ...","Dorwali jednego z naszych. Jak się dowiem, kto to zrobił...","","False","SVM_5_TheyKilledMyFriend","",""
