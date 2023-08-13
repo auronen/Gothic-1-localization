@@ -1755,7 +1755,7 @@
 "Scripts/content/Story/svm.d:2058","Schon gut. Ich will es nicht mehr!","A zresztą... I tak tego nie potrzebowałem!","","False","SVM_14_YouCanKeeptheCrap","",""
 "Scripts/content/Story/svm.d:2059","Einer von uns wurde getötet. Wir finden den Schuldigen ...","Zginął jeden z naszych ludzi. Jeśli znajdziemy winnego...","","False","SVM_14_TheyKilledMyFriend","",""
 "Scripts/content/Story/svm.d:2060","Du störst meine Studien!","Przeszkadzasz mi w badaniach!","","False","SVM_14_YouDisturbedMySlumber","",""
-"Scripts/content/Story/svm.d:2061","Du hattest Probleme, hab' ich gehört!","Słyszałem, że wpakowałeś się w jakąś kabałę...","","","SVM_14_SuckerGotSome","",""
+"Scripts/content/Story/svm.d:2061","Du hattest Probleme, hab' ich gehört!","Słyszałem, że wpakowałeś się w jakąś kabałę!","","False","SVM_14_SuckerGotSome","",""
 "Scripts/content/Story/svm.d:2062","Du hast einen Erzbaron umgehauen. Er war beeindruckt!","Powaliłeś magnata! Facet był pod wrażeniem!","","False","SVM_14_SuckerDefeatedEBr","",""
 "Scripts/content/Story/svm.d:2063","Du hast einen der Gurus besiegt. Respekt.","Pokonałeś jednego z Guru. Jestem pod wrażeniem.","","False","SVM_14_SuckerDefeatedGur","",""
 "Scripts/content/Story/svm.d:2064","Einen Magier zu besiegen ...","Pokonać maga... no, no...","","","SVM_14_SuckerDefeatedMage","",""
