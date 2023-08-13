@@ -585,7 +585,7 @@
 "Scripts/content/Story/svm.d:845","Kann ich dir helfen?","Czym mogę służyć?","","False","SVM_5_WhatDoYouWant","",""
 "Scripts/content/Story/svm.d:846","Was willst du?","Czego chcesz?","","False","SVM_5_ISaidWhatDoYouWant","",""
 "Scripts/content/Story/svm.d:847","Lass mich mal durch.","Przepuść mnie.","","False","SVM_5_MakeWay","",""
-"Scripts/content/Story/svm.d:848","Komm schon, ich will vorbei!","No rusz się, chcę przejść.","","","SVM_5_OutOfMyWay","",""
+"Scripts/content/Story/svm.d:848","Komm schon, ich will vorbei!","No rusz się, chcę przejść!","","False","SVM_5_OutOfMyWay","",""
 "Scripts/content/Story/svm.d:849","Bist du taub oder suchst du Streit?","Głuchy jesteś, czy szukasz kłopotów?","","False","SVM_5_YouDeafOrWhat","",""
 "Scripts/content/Story/svm.d:850","Willst du dich noch mal mit mir anlegen?","Nadal szukasz kłopotów?","","False","SVM_5_LookingForTroubleAgain","",""
 "Scripts/content/Story/svm.d:851","Ich hab' NICHTS gesehen ... war irgendwas?","Ja NIC nie widziałem! Nawet nie wiem, co się stało!","","False","SVM_5_LookAway","",""
