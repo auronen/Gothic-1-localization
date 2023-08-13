@@ -1812,7 +1812,7 @@
 "Scripts/content/Story/svm.d:2121","Aargh","Aargh","","","SVM_15_Aargh_1","",""
 "Scripts/content/Story/svm.d:2122","Aargh","Aargh","","","SVM_15_Aargh_2","",""
 "Scripts/content/Story/svm.d:2123","Aargh","Aargh","","","SVM_15_Aargh_3","",""
-"Scripts/content/Story/svm.d:2124","Aaargl","Aaargl","","","SVM_15_Dead","",""
+"Scripts/content/Story/svm.d:2124","Aaargl","Aaarg","","False","SVM_15_Dead","",""
 "Scripts/content/Story/svm.d:2125","","","","","SVM_15_Awake","",""
 "Scripts/content/Story/svm.d:2126","Funktioniert nicht","Funktioniert nicht","","","SVM_15_DoesntWork","",""
 "Scripts/content/Story/svm.d:2127","Hm, abgebrochen.","Hm, abgebrochen.","","","SVM_15_PickBroke","",""
