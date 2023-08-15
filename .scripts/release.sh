@@ -42,22 +42,6 @@ cp -R .release/* release/release
 
 echo "Compiling Gothic 1 Localizations..."
 
-# Loop over the directories in the specified directory
-# and compile the language specific DAT files
-for dir in release/langs/*; do
-    if [ -d "$dir" ]; then
-        LANG=$(basename "$dir")
-        ENC=$(get_encoding "$LANG")
-        echo "Compiling Gothic 1: Language $LANG with $ENC"
-
-        # the repo does not have these directories, because it is empty...
-        mkdir "$dir"/_compiled
-        mkdir -p "$dir"/content/CUTSCENE
-
-        .scripts/dacode compile -c "$dir" -i $ENC -g g1 -p gothic,menu
-    fi
-done
-
 for dir in release/langs/*; do
     if [ -d "$dir" ]; then
 
