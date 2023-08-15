@@ -1,7 +1,6 @@
 # Gothic 1 - Localized
 
-Gothic 1 scripts in all languages hosted on my instance of [weblate](https://weblate.cokoliv.eu/projects/gothic-1/#languages)
-Generated: 03-08-2023
+Gothic 1 compiled scripts in all languages hosted on my instance of [weblate](https://weblate.cokoliv.eu/projects/gothic-1/#languages)
 
 ## Installation:
 0. Union is strongly recommended (mandatory for utf8 languages)
@@ -23,5 +22,7 @@ Since the different releases are only different by the content of the string tab
  - `G1_fonts_cp125*.mod` - these contain new fonts for each used codepage
  - `G1_fonts_chinese.mod` - contains the Chinese font + the [zFont](https://github.com/gratt-5r2/zfont) plugin
  - `G1_[lang].mod` - contains the localized scripts GOTHIC.DAT, MENU.DAT and the output unit file (OU.BIN)
+## Localized scripts
+If you want the scripts with substituted language, let me know.
 
 </details>
