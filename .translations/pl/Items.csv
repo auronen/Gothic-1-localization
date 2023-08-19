@@ -1598,7 +1598,7 @@
 "Scripts/content/Items/MissionItems_4.d:106","Berichten zufolge können diese feurigen Geschöpfe ihre Opfer mit nur einer Berührung in ein Flammenmeer verwandeln.","Według dawnych doniesień, golemy ognia obdarzone są parzącym dotykiem o niszczycielskiej sile.","","","GolemBook2_7","",""
 "Scripts/content/Items/MissionItems_4.d:107","Erst im letzten Jahr stieß eine Jagdgruppe im Hochland auf solch einen wandelnden Gluthaufen. Der Ausgang ist unklar, doch sollen Blitze und Eis die Höllenkreatur gestoppt haben.","Kilka lat temu grupa myśliwych stawiła czoła jednemu z owych potworów, i choć wynik starcia pozostaje nieznany, mówi się, że ogniste golemy podatne są na zaklęcia błyskawic i zimna.","","","GolemBook2_8","",""
 "Scripts/content/Items/MissionItems_4.d:145","Karte","Mapa","","","ItWrWorldmap_Orc.name","",""
-"Scripts/content/Items/MissionItems_4.d:158","Karte der Kolonie (ergänzt)","Mapa kolonii (uzupełniona)","","","ItWrWorldmap_Orc.description","",""
+"Scripts/content/Items/MissionItems_4.d:158","Karte der Kolonie (ergänzt)","Mapa Kolonii (uzupełniona)","","False","ItWrWorldmap_Orc.description","",""
 "Scripts/content/Items/MissionItems_4.d:159","Ur-Shak der Ork-Schamane hat das","Szaman Ur-Shak uzupełnił mapę","","","ItWrWorldmap_Orc.text[0]","",""
 "Scripts/content/Items/MissionItems_4.d:160","Orkgebiet eingezeichnet!","o terytoria należące do orków!","","","ItWrWorldmap_Orc.text[1]","",""
 "Scripts/content/Items/MissionItems_4.d:161","","","","","ItWrWorldmap_Orc.text[2]","",""
