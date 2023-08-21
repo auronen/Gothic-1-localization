@@ -33,7 +33,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:138","Aber du bist noch nicht bereit für die Söldner. Sammle erst noch mehr Erfahrung, dann bist du dabei.","Aber du bist noch nicht bereit für die Söldner. Sammle erst noch mehr Erfahrung, dann bist du dabei.","","","Sld_700_Lee_BECOMESLD_Info_08_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:144","Ich gebe dir eine Chance. Wie siehts aus?","Ich gebe dir eine Chance. Was meinst du?","","False","Sld_700_Lee_BECOMESLD_Info_08_04","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:152","Dir fehlt es noch an Erfahrung. Du mußt deine Fähigkeiten noch steigern.","Dir fehlt es noch an Erfahrung. Du mußt deine Fähigkeiten noch steigern.","","","DIA_Lee_NowReady_08_01","",""
-"Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:172","Ich will Söldner werden","Ich will Söldner werden","","","Sld_700_Lee_BECOMESLDNOW.description","",""
+"Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:172","Ich will Söldner werden","Ich will Söldner werden.","","False","Sld_700_Lee_BECOMESLDNOW.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:186","Ich will Söldner werden.","Ich will Söldner werden.","","","Sld_700_Lee_BECOMESLDNOW_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:187","Eine gute Entscheidung. Du wirst sie nicht bereuen.","Eine gute Entscheidung. Du wirst sie nicht bereuen.","","","Sld_700_Lee_BECOMESLDNOW_Info_08_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:188","Sag mir eins, warum? Warum hast du dich uns angeschlossen und nicht dem Alten Lager oder der Bruderschaft?","Sag mir eins, warum? Warum hast du dich uns angeschlossen und nicht dem Alten Lager oder der Bruderschaft?","","","Sld_700_Lee_BECOMESLDNOW_Info_08_03","",""
