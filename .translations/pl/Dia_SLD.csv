@@ -33,7 +33,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:138","Aber du bist noch nicht bereit für die Söldner. Sammle erst noch mehr Erfahrung, dann bist du dabei.","Ale nie jesteś gotowy do służby w naszych szeregach. Musisz zdobyć jeszcze trochę doświadczenia.","","False","Sld_700_Lee_BECOMESLD_Info_08_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:144","Ich gebe dir eine Chance. Wie siehts aus?","Dam ci szansę. Co ty na to?","","False","Sld_700_Lee_BECOMESLD_Info_08_04","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:152","Dir fehlt es noch an Erfahrung. Du mußt deine Fähigkeiten noch steigern.","Nadal nie jesteś dość doświadczony. Musisz się jeszcze wiele nauczyć.","","False","DIA_Lee_NowReady_08_01","",""
-"Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:172","Ich will Söldner werden","Chcę zostać najemnikiem.","","False","Sld_700_Lee_BECOMESLDNOW.description","",""
+"Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:172","Ich will Söldner werden","Chcę zostać najemnikiem.","","True","Sld_700_Lee_BECOMESLDNOW.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:186","Ich will Söldner werden.","Chcę zostać najemnikiem.","","False","Sld_700_Lee_BECOMESLDNOW_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:187","Eine gute Entscheidung. Du wirst sie nicht bereuen.","Mądra decyzja. Nie pożałujesz.","","False","Sld_700_Lee_BECOMESLDNOW_Info_08_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:188","Sag mir eins, warum? Warum hast du dich uns angeschlossen und nicht dem Alten Lager oder der Bruderschaft?","Powiedz mi: dlaczego? Dlaczego dołączyłeś do nas, a nie do Bractwa, albo do Starego Obozu?","","","Sld_700_Lee_BECOMESLDNOW_Info_08_03","",""
