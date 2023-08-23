@@ -39,7 +39,7 @@
 "Scripts/content/Story/MISSIONS/DIA_SfB_1037_Swiney.d:130","Die Magier sagen, viel brauchen wir nicht mehr. Geh ins Neue Lager und sieh dir den Haufen an.","Маги говорят, что очень скоро ее будет достаточно. Ты сможешь сходить в Новый лагерь и увидеть гору руды своими глазами.","","","Info_Swiney_PERM_09_01","",""
 "Scripts/content/Story/MISSIONS/DIA_IE_397_Announcer.d:43","Hochverehrte Erzbarone, geehrte Gardisten, Schatten und Buddler ...","Многоуважаемые Бароны, уважаемые стражники, Призраки и рудокопы...","","","Info_Announcer_ANNOUNCE_11_01","",""
 "Scripts/content/Story/MISSIONS/DIA_IE_397_Announcer.d:44","Ich präsentiere ihnen ...","Позвольте представить вашему вниманию группу...","","","Info_Announcer_ANNOUNCE_11_02","",""
-"Scripts/content/Story/MISSIONS/DIA_IE_397_Announcer.d:45","!!! IN EXTREMO !!!!","IN EXTREMO!","","","Info_Announcer_ANNOUNCE_11_03","",""
+"Scripts/content/Story/MISSIONS/DIA_IE_397_Announcer.d:45","!!! IN EXTREMO !!!!","!!! IN EXTREMO !!!!","","False","Info_Announcer_ANNOUNCE_11_03","",""
 "Scripts/content/Story/ZS/ZS_Meditate.d:44","Omm...","","","","ZS_Meditate_Om","",""
 "Scripts/content/Story/ZS/pers/ZS_Preach_YBerion.d:34","Der Schläfer hat zu mir gesprochen.","Спящий говорил со мной!","","","ZS_Preach_YBerion01","",""
 "Scripts/content/Story/ZS/pers/ZS_Preach_YBerion.d:38","Der Schläfer wird uns alle befreien.","Спящий освободит нас.","","","ZS_Preach_YBerion02","",""
