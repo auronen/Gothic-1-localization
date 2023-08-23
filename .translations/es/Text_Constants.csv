@@ -232,7 +232,7 @@
 "Scripts/content/Story/Text.d:463","Stärke + 5","Fuerza +5","","","PRINT_HORATIO_STRENGTH_5","",""
 "Scripts/content/Story/Text.d:464","Stärke: 100","Fuerza: 100","","","PRINT_HORATIO_STRENGTH_100","",""
 "Scripts/content/Story/Text.d:465","Du hast geschlafen und bist ausgeruht!","Has dormido bien; te sientes mejor.","","","PRINT_MES_SLEEP","",""
-"Scripts/content/Story/Text.d:470","(Unbekannt)-","(Unknown)-","","","_STR_INVALID","",""
+"Scripts/content/Story/Text.d:470","(Unbekannt)-","(Desconocido)-","","False","_STR_INVALID","",""
 "Scripts/content/Story/Text.d:472","Lebens-","puntos de Vida","","","_STR_ATTRIBUTE_HITPOINTS","",""
 "Scripts/content/Story/Text.d:473","maximale Lebens-","puntos de Vida máxima","","","_STR_ATTRIBUTE_HITPOINTS_MAX","",""
 "Scripts/content/Story/Text.d:474","Mana-","puntos de Mana","","","_STR_ATTRIBUTE_MANA","",""
