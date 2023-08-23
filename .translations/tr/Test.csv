@@ -25,7 +25,7 @@
 "Scripts/content/AI/Test_Skripts/Babes.d:250","babe7","babe7","","","Babe7.name","",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:12","CharacterHelper","CharacterHelper","","","CH.name","",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:65","Level Up: Lernpunkte:","Level Up: Lernpunkte:","","","_PRINT_LevelUp","",""
-"Scripts/content/AI/Test_Skripts/CharacterHelper.d:66","Hitpoints:","Hitpoints:","","","_PRINT_HP","",""
+"Scripts/content/AI/Test_Skripts/CharacterHelper.d:66","Hitpoints:","Hitpoints:","","False","_PRINT_HP","",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:99","Lernpunkte:","Lernpunkte:","","","_PRINT_LearningPoints","",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:100","Str:","Kuvvet:","","","_PRINT_Strength","",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:101","Dex:","Beceri:","","","_PRINT_Dexterity","",""
