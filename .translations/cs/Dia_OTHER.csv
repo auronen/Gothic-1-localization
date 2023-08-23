@@ -39,7 +39,7 @@
 "Scripts/content/Story/MISSIONS/DIA_SfB_1037_Swiney.d:130","Die Magier sagen, viel brauchen wir nicht mehr. Geh ins Neue Lager und sieh dir den Haufen an.","Mágové říkají, že už jí nebude tolik potřeba. Jdi do Nového tábora a prohlédni si haldu.","","","Info_Swiney_PERM_09_01","",""
 "Scripts/content/Story/MISSIONS/DIA_IE_397_Announcer.d:43","Hochverehrte Erzbarone, geehrte Gardisten, Schatten und Buddler ...","Mí vážení Rudobaroni, ctěné stráže, Stíny a kopáči...","","","Info_Announcer_ANNOUNCE_11_01","",""
 "Scripts/content/Story/MISSIONS/DIA_IE_397_Announcer.d:44","Ich präsentiere ihnen ...","Mám tu nesmírnou čest vám představit...","","","Info_Announcer_ANNOUNCE_11_02","",""
-"Scripts/content/Story/MISSIONS/DIA_IE_397_Announcer.d:45","!!! IN EXTREMO !!!!","!!! V POSLEDNÍ CHVÍLI ŽIVOTA !!!","","","Info_Announcer_ANNOUNCE_11_03","",""
+"Scripts/content/Story/MISSIONS/DIA_IE_397_Announcer.d:45","!!! IN EXTREMO !!!!","!!! IN EXTREMO !!!!","","False","Info_Announcer_ANNOUNCE_11_03","",""
 "Scripts/content/Story/ZS/ZS_Meditate.d:44","Omm...","Omm...","","","ZS_Meditate_Om","",""
 "Scripts/content/Story/ZS/pers/ZS_Preach_YBerion.d:34","Der Schläfer hat zu mir gesprochen.","Spáč ke mně promluvil.","","","ZS_Preach_YBerion01","",""
 "Scripts/content/Story/ZS/pers/ZS_Preach_YBerion.d:38","Der Schläfer wird uns alle befreien.","Spáč nás všechny osvobodí.","","","ZS_Preach_YBerion02","",""
