@@ -37,7 +37,7 @@
 "Scripts/content/Story/Text.d:69","Novize","Послушник","","","TXT_GUILDS[12]","",""
 "Scripts/content/Story/Text.d:70","Templer","Страж","","","TXT_GUILDS[13]","",""
 "Scripts/content/Story/Text.d:71","Dämonenbeschw."," Некромант","","","TXT_GUILDS[14]","",""
-"Scripts/content/Story/Text.d:72","Babe","babe","","","TXT_GUILDS[15]","",""
+"Scripts/content/Story/Text.d:72","Babe","Девица","","False","TXT_GUILDS[15]","",""
 "Scripts/content/Story/Text.d:74","Waran","Ящерица","","","TXT_GUILDS[17]","",""
 "Scripts/content/Story/Text.d:75","Sleeper"," Спящий","","","TXT_GUILDS[18]","",""
 "Scripts/content/Story/Text.d:76","Goblin","Гоблин","","","TXT_GUILDS[19]","",""
