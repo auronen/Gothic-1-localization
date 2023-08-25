@@ -186,7 +186,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1433_GorNaVid.d:57","Ich suche das Nest der Minecrawler","Szukam gniazda pełzaczy.","","","Tpl_1433_GorNaVid_IAN.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1433_GorNaVid.d:71","Ich suche das Nest der Minecrawler","Szukam gniazda pełzaczy.","","","Tpl_1433_GorNaVid_IAN_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1433_GorNaVid.d:72","Hier in der Mine gibt es viele Höhlen neben dem Hauptschacht, aber dort haben wir noch kein Nest gefunden.","W pobliżu głównego szybu znajduje się wiele jaskiń, ale nie udało się nam jeszcze odnaleźć gniazda.","","","Tpl_1433_GorNaVid_IAN_Info_13_02","",""
-"Scripts/content/Story/MISSIONS/DIA_Tpl_1433_GorNaVid.d:82","(Heiltrank geben)","(daj napój uzdrawiający)","","","Tpl_1433_GorNaVid_HEALTH_SUC.description","",""
+"Scripts/content/Story/MISSIONS/DIA_Tpl_1433_GorNaVid.d:82","(Heiltrank geben)","(Daj napój uzdrawiający)","","False","Tpl_1433_GorNaVid_HEALTH_SUC.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1433_GorNaVid.d:98","Hier, vielleicht hilft dir das.","Proszę, może to ci pomoże.","","","Tpl_1433_GorNaVid_HEALTH_SUC_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1433_GorNaVid.d:99","Danke. Du kannst auf meine Stärke zählen. Wir treffen uns unten bei Ashgan.","Dzięki. Możesz na mnie liczyć. Spotkamy się na dole, u Asghana.","","","Tpl_1433_GorNaVid_HEALTH_SUC_Info_13_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1433_GorNaVid.d:100","Ich werde dort sein.","Będę czekał.","","","Tpl_1433_GorNaVid_HEALTH_SUC_Info_15_03","",""
