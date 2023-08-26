@@ -1383,7 +1383,7 @@
 "Scripts/content/Items/MissionItems_1.d:1217","Oberer Warentauschplatz","Wyższe miejsce wymiany.","","False","ItKe_OM_01.text[1]","",""
 "Scripts/content/Items/MissionItems_1.d:1218","Alte Mine","Stara Kopalnia.","","False","ItKe_OM_01.text[2]","",""
 "Scripts/content/Items/MissionItems_1.d:1224","Truhenschlüssel","Klucz do skrzyni","","False","ItKe_OM_02.name","",""
-"Scripts/content/Items/MissionItems_1.d:1235","öffnet Aarons Truhe","otwiera skrzynię Aarona","","False","ItKe_OM_02.text[0]","",""
+"Scripts/content/Items/MissionItems_1.d:1235","öffnet Aarons Truhe","Otwiera skrzynię Aarona","","False","ItKe_OM_02.text[0]","",""
 "Scripts/content/Items/MissionItems_1.d:1236","in der Alten Mine.","w Starej Kopalni.","","False","ItKe_OM_02.text[1]","",""
 "Scripts/content/Items/MissionItems_1.d:1242","Truhenschlüssel","Klucz do skrzyni","","False","ItKe_OM_03.name","",""
 "Scripts/content/Items/MissionItems_1.d:1253","öffnet die Truhen","Otwiera skrzynie w składowisku","","False","ItKe_OM_03.text[0]","",""
