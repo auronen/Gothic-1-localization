@@ -304,7 +304,7 @@
 "Scripts/content/Story/Text.d:600","maximale Mana +","Макс. маг. сила +","","","NAME_RaiseManaMax","",""
 "Scripts/content/Story/Text.d:601","maximale Lebensenergie +","Макс. жизненная сила +","","","NAME_RaiseHealthMax","",""
 "Scripts/content/Story/Text.d:605","Meister, ich möchte die hohe Robe des Feuers tragen.","Учитель, я хочу носить одеяние верховных магов Круга Огня.","","","NAME_CorristoHighRobe","",""
-"Scripts/content/Story/Text.d:606","Hohe Robe","Одеяние верховного мага","","","NAME_SaturasHighRobe","",""
+"Scripts/content/Story/Text.d:606","Hohe Robe","Я хочу носить одеяние верховных магов Воды.","","False","NAME_SaturasHighRobe","",""
 "Scripts/content/Story/Text.d:607","Schwere Schattenrüstung. Schutz: Waffen 40, Pfeile 5, Feuer 20","Тяжелый доспех Призрака: оружие 40, стрелы 5, огонь 20","","","NAME_DiegoHeavyShadows","",""
 "Scripts/content/Story/Text.d:608","Schwere Garderüstung. Schutz: Waffen 70, Pfeile 10, Feuer 35","Тяж. доспех стражника: оружие 70, стрелы 10, огонь 35","","False","NAME_StoneHeavyGuards","",""
 "Scripts/content/Story/Text.d:609","Garderüstung. Schutz: Waffen 55, Pfeile 10, Feuer 25","Доспех стражника: оружие 55, стрелы 10, огонь 25","","False","NAME_StoneGuards","",""
