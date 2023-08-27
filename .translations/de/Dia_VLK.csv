@@ -387,7 +387,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Vlk_584_Snipes.d:42","Wie sieht's aus?","Wie sieht's aus?","","","VLK_584_Snipes_DEAL_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_584_Snipes.d:43","Ich schlage dir ein Geschäft vor.","Ich schlage dir ein Geschäft vor.","","","VLK_584_Snipes_DEAL_Info_07_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_584_Snipes.d:44","Wenn du Aaron dazu kriegst, dass er von der Truhe abhaut, dann gebe ich dir 10 Erz!","Wenn du Aaron dazu kriegst, dass er von der Truhe abhaut, dann gebe ich dir 10 Erz!","","","VLK_584_Snipes_DEAL_Info_07_03","",""
-"Scripts/content/Story/MISSIONS/DIA_Vlk_584_Snipes.d:59","Du schuldest mir 10 Erz","Du schuldest mir 10 Erz","","","VLK_584_Snipes_DEAL_RUN.description","",""
+"Scripts/content/Story/MISSIONS/DIA_Vlk_584_Snipes.d:59","Du schuldest mir 10 Erz","Du schuldest mir 10 Erz!","","False","VLK_584_Snipes_DEAL_RUN.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_584_Snipes.d:72","Du schuldest mir 10 Erz","Du schuldest mir 10 Erz","","","VLK_584_Snipes_DEAL_RUN_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_584_Snipes.d:73","Hier, die 10 Erz hast du dir verdient.","Hier, die 10 Erz hast du dir verdient.","","","VLK_584_Snipes_DEAL_RUN_Info_07_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_584_Snipes.d:74","Ach noch was, den Schlüssel für seine Truhe hab' ich auch. Für dich nur 30 Erz!","Ach noch was, den Schlüssel für seine Truhe hab' ich auch. Für dich nur 30 Erz!","","","VLK_584_Snipes_DEAL_RUN_Info_07_03","",""
