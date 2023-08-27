@@ -437,7 +437,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Vlk_585_Aleph.d:273","15 Erz? Ich weiß nichts von einem Schlüssel!","15 bryłek? Za 15 bryłek nie mam pojęcia o jakim kluczu mówisz!","","False","VLK_585_Aleph_SCHUPPEN_15_05_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_585_Aleph.d:290","Weißt du was über den Schlüssel für die Truhen im Lagerschuppen?","Wiesz może coś o kluczu do skrzyni ze składowiska?","","False","VLK_585_Aleph_DIRTY.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_585_Aleph.d:303","Weißt du was über den Schlüssel für die Truhen im Lagerschuppen?","Wiesz może coś o kluczu do skrzyni ze składowiska?","","False","VLK_585_Aleph_DIRTY_Info_15_01","",""
-"Scripts/content/Story/MISSIONS/DIA_Vlk_585_Aleph.d:304","Nun, das kommt ganz darauf an ...","Cóż, to zależy...","","False","VLK_585_Aleph_DIRTY_Info_05_02","",""
+"Scripts/content/Story/MISSIONS/DIA_Vlk_585_Aleph.d:304","Nun, das kommt ganz darauf an ...","Cóż... To zależy...","","False","VLK_585_Aleph_DIRTY_Info_05_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_585_Aleph.d:305","Darauf, wieviel Erz ich dir gebe?","Od ilości bryłek rudy, które jestem gotów zapłacić?","","False","VLK_585_Aleph_DIRTY_Info_15_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_585_Aleph.d:306","Du lernst schnell. Ich will 100 Erz.","Szybko się uczysz. To cię będzie kosztować 100 bryłek.","","False","VLK_585_Aleph_DIRTY_Info_05_04","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_585_Aleph.d:310","(100 Erz zahlen)","(Zapłać 100 bryłek rudy)","","False","VLK_585_Aleph_DIRTY.VLK_585_Aleph_DIRTY_100","Info_AddChoice",""
