@@ -304,7 +304,7 @@
 "Scripts/content/Story/Text.d:600","maximale Mana +","Mana Maximum +","","","NAME_RaiseManaMax","",""
 "Scripts/content/Story/Text.d:601","maximale Lebensenergie +","Vie Maximum +","","","NAME_RaiseHealthMax","",""
 "Scripts/content/Story/Text.d:605","Meister, ich möchte die hohe Robe des Feuers tragen.","Maitre, j'aimerai porter la Grande Robe de Feu.","","","NAME_CorristoHighRobe","",""
-"Scripts/content/Story/Text.d:606","Hohe Robe","Grande Robe","","","NAME_SaturasHighRobe","",""
+"Scripts/content/Story/Text.d:606","Hohe Robe","J'ai aimé revêtir la Grande Robe de l'Eau.","","False","NAME_SaturasHighRobe","",""
 "Scripts/content/Story/Text.d:607","Schwere Schattenrüstung. Schutz: Waffen 40, Pfeile 5, Feuer 20","Armure lourde d'Ombre. Protection: Armes 40, Flêches 5, Feu 20","","","NAME_DiegoHeavyShadows","",""
 "Scripts/content/Story/Text.d:608","Schwere Garderüstung. Schutz: Waffen 70, Pfeile 10, Feuer 35","Armure lourde de Garde. Protection: Armes 70, Flèches 10, Feu 35","","","NAME_StoneHeavyGuards","",""
 "Scripts/content/Story/Text.d:609","Garderüstung. Schutz: Waffen 55, Pfeile 10, Feuer 25","Armure de Garde. Protection: Armes 55, Flèches 10, Feu 25","","","NAME_StoneGuards","",""
