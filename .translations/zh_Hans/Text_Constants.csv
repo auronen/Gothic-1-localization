@@ -304,7 +304,7 @@
 "Scripts/content/Story/Text.d:600","maximale Mana +","最大 +","","","NAME_RaiseManaMax","",""
 "Scripts/content/Story/Text.d:601","maximale Lebensenergie +","最大寿命 +","","","NAME_RaiseHealthMax","",""
 "Scripts/content/Story/Text.d:605","Meister, ich möchte die hohe Robe des Feuers tragen.","师父，我想穿着高高的火袍。","","","NAME_CorristoHighRobe","",""
-"Scripts/content/Story/Text.d:606","Hohe Robe","高长袍","","","NAME_SaturasHighRobe","",""
+"Scripts/content/Story/Text.d:606","Hohe Robe","我想穿高袍的水。","","False","NAME_SaturasHighRobe","",""
 "Scripts/content/Story/Text.d:607","Schwere Schattenrüstung. Schutz: Waffen 40, Pfeile 5, Feuer 20","沉重的影子的盔甲。 保护：武器40，箭5，火20","","","NAME_DiegoHeavyShadows","",""
 "Scripts/content/Story/Text.d:608","Schwere Garderüstung. Schutz: Waffen 70, Pfeile 10, Feuer 35","重型警卫的盔甲。 保护：武器70，箭10，火35","","","NAME_StoneHeavyGuards","",""
 "Scripts/content/Story/Text.d:609","Garderüstung. Schutz: Waffen 55, Pfeile 10, Feuer 25","警卫的盔甲。 保护：武器55，箭10，火25","","","NAME_StoneGuards","",""
