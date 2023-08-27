@@ -387,7 +387,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Vlk_584_Snipes.d:42","Wie sieht's aus?","Jak leci?","","False","VLK_584_Snipes_DEAL_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_584_Snipes.d:43","Ich schlage dir ein Geschäft vor.","Mam dla ciebie pewną propozycję.","","False","VLK_584_Snipes_DEAL_Info_07_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_584_Snipes.d:44","Wenn du Aaron dazu kriegst, dass er von der Truhe abhaut, dann gebe ich dir 10 Erz!","Spraw, żeby Aaron odczepił się od tej skrzyni, a zapłacę ci 10 bryłek rudy.","","False","VLK_584_Snipes_DEAL_Info_07_03","",""
-"Scripts/content/Story/MISSIONS/DIA_Vlk_584_Snipes.d:59","Du schuldest mir 10 Erz","Należy mi się 10 bryłek rudy!","","True","VLK_584_Snipes_DEAL_RUN.description","",""
+"Scripts/content/Story/MISSIONS/DIA_Vlk_584_Snipes.d:59","Du schuldest mir 10 Erz","Należy mi się 10 bryłek rudy!","","False","VLK_584_Snipes_DEAL_RUN.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_584_Snipes.d:72","Du schuldest mir 10 Erz","Należy mi się 10 bryłek rudy!","","False","VLK_584_Snipes_DEAL_RUN_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_584_Snipes.d:73","Hier, die 10 Erz hast du dir verdient.","Proszę, zasłużyłeś na nie.","","False","VLK_584_Snipes_DEAL_RUN_Info_07_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_584_Snipes.d:74","Ach noch was, den Schlüssel für seine Truhe hab' ich auch. Für dich nur 30 Erz!","Ach, i jeszcze coś: mam przy sobie klucz do tej skrzyni. Jak dla ciebie - 30 bryłek.","","False","VLK_584_Snipes_DEAL_RUN_Info_07_03","",""
