@@ -304,7 +304,7 @@
 "Scripts/content/Story/Text.d:600","maximale Mana +","Максимальная мана +","","","NAME_RaiseManaMax","",""
 "Scripts/content/Story/Text.d:601","maximale Lebensenergie +","Максимальне здоров'я +","","","NAME_RaiseHealthMax","",""
 "Scripts/content/Story/Text.d:605","Meister, ich möchte die hohe Robe des Feuers tragen.","Майстер, я хотів би одягти рясу Архімейстру Вогню.","","","NAME_CorristoHighRobe","",""
-"Scripts/content/Story/Text.d:606","Hohe Robe","Ряса Архімейстра","","","NAME_SaturasHighRobe","",""
+"Scripts/content/Story/Text.d:606","Hohe Robe","Я хотів би одягнути мантію Архімейстра Води.","","False","NAME_SaturasHighRobe","",""
 "Scripts/content/Story/Text.d:607","Schwere Schattenrüstung. Schutz: Waffen 40, Pfeile 5, Feuer 20","Важкі обладунки Тіні. Зброя 40, Снаряди 5, Вогонь 20","","","NAME_DiegoHeavyShadows","",""
 "Scripts/content/Story/Text.d:608","Schwere Garderüstung. Schutz: Waffen 70, Pfeile 10, Feuer 35","Важкі обладунки Вартівника. Зброя 70, Снаряди 10, Вогонь 35","","False","NAME_StoneHeavyGuards","",""
 "Scripts/content/Story/Text.d:609","Garderüstung. Schutz: Waffen 55, Pfeile 10, Feuer 25","Обладунки Вартівника. Зброя 55, Снаряди 10, Вогонь 25","","False","NAME_StoneGuards","",""
