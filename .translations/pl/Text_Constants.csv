@@ -187,7 +187,7 @@
 "Scripts/content/Story/Text.d:400","Schaden","Obrażenia:","","","NAME_Damage","",""
 "Scripts/content/Story/Text.d:401"," (pro Mana)","/mana:","","","NAME_PerMana","",""
 "Scripts/content/Story/Text.d:402","Schaden pro Sec.","Obrażenia/sek.:","","","NAME_DamagePerSec","",""
-"Scripts/content/Story/Text.d:404","Schutz vor Waffen:","Ochrona przed bronią:","","","NAME_Prot_Edge","",""
+"Scripts/content/Story/Text.d:404","Schutz vor Waffen:","Ochrona przed bronią:","","False","NAME_Prot_Edge","",""
 "Scripts/content/Story/Text.d:405","Schutz vor Pfeilen:","Ochrona przed pociskami:","","","NAME_Prot_Point","",""
 "Scripts/content/Story/Text.d:406","Schutz vor Feuer:","Ochrona przed ogniem:","","","NAME_Prot_Fire","",""
 "Scripts/content/Story/Text.d:407","Schutz vor Magie:","Ochrona przed magią:","","","NAME_Prot_Magic","",""
