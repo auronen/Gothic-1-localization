@@ -304,7 +304,7 @@
 "Scripts/content/Story/Text.d:600","maximale Mana +","Mana máximo +","","","NAME_RaiseManaMax","",""
 "Scripts/content/Story/Text.d:601","maximale Lebensenergie +","Vida máxima +","","","NAME_RaiseHealthMax","",""
 "Scripts/content/Story/Text.d:605","Meister, ich möchte die hohe Robe des Feuers tragen.","Maestro, me gustaría vestir la Gran Túnica del Fuego.","","","NAME_CorristoHighRobe","",""
-"Scripts/content/Story/Text.d:606","Hohe Robe","Gran túnica","","","NAME_SaturasHighRobe","",""
+"Scripts/content/Story/Text.d:606","Hohe Robe","Me gustaría vestir la Gran Túnica de Agua.","","False","NAME_SaturasHighRobe","",""
 "Scripts/content/Story/Text.d:607","Schwere Schattenrüstung. Schutz: Waffen 40, Pfeile 5, Feuer 20","Armadura p. Sombra. Protecc.: Armas 40, Flechas 5, Fuego 20","","","NAME_DiegoHeavyShadows","",""
 "Scripts/content/Story/Text.d:608","Schwere Garderüstung. Schutz: Waffen 70, Pfeile 10, Feuer 35","Armadura p. guardia. Protecc.: Armas 70, Flechas 10, Fuego 35","","","NAME_StoneHeavyGuards","",""
 "Scripts/content/Story/Text.d:609","Garderüstung. Schutz: Waffen 55, Pfeile 10, Feuer 25","Armadura guardia. Protecc.: Armas 55, Flechas 10, Fuego 25","","","NAME_StoneGuards","",""
