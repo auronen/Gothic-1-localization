@@ -335,3 +335,4 @@
 "Scripts/content/Story/Text.d:654","Kapitel 6","Capitolo 6","","","KapWechsel_6","",""
 "Scripts/content/Story/Text.d:655","Die Hallen des Schläfers","L'antro del Dormiente","","","KapWechsel_6_Text","",""
 "","Ich möchte eine bessere Rüstung haben.","Vorrei un'armatura migliore.","","False","NAME_BaalNamibHeavyNov","",""
+"","Ende","Fine","","False","_STR_MESSAGE_GAMEOVER","",""
