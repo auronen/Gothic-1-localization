@@ -335,3 +335,4 @@
 "Scripts/content/Story/Text.d:654","Kapitel 6","6. Fejezet","","False","KapWechsel_6","",""
 "Scripts/content/Story/Text.d:655","Die Hallen des Schläfers","Az Alvó Temploma","","False","KapWechsel_6_Text","",""
 "","Ich möchte eine bessere Rüstung haben.","Jobb páncélt akarok.","","False","NAME_BaalNamibHeavyNov","",""
+"","Ende","Vége","","False","_STR_MESSAGE_GAMEOVER","",""
