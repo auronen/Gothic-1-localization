@@ -905,7 +905,7 @@
 "Scripts/content/Story/svm.d:1180","Keine Zaubereien, in meiner Nähe!","Nie próbuj ze mną tych magicznych sztuczek!","","False","SVM_8_StopMagic","",""
 "Scripts/content/Story/svm.d:1181","Aufhören, sag' ich! Sofort!","Przestań! Natychmiast!","","False","SVM_8_ISaidStopMagic","",""
 "Scripts/content/Story/svm.d:1182","Waffe weg!","Schowaj broń!","","False","SVM_8_WeaponDown","",""
-"Scripts/content/Story/svm.d:1183","Steck das Ding weg, oder du bist dran!","Schowaj broń, albo się zdenerwują!","","","SVM_8_ISaidWeaponDown","",""
+"Scripts/content/Story/svm.d:1183","Steck das Ding weg, oder du bist dran!","Schowaj broń, albo się zdenerwują!","","False","SVM_8_ISaidWeaponDown","",""
 "Scripts/content/Story/svm.d:1184","Waffe runter, Idiot!","Schowaj broń, idioto!","","False","SVM_8_WatchYourAim","",""
 "Scripts/content/Story/svm.d:1185","Du Wurm wagst es, auf mich anzulegen?","Śmiesz we mnie celować, psie?","","False","SVM_8_WatchYourAimAngry","",""
 "Scripts/content/Story/svm.d:1186","Pass doch auf!","Uważaj!","","False","SVM_8_WhatAreYouDoing","",""
