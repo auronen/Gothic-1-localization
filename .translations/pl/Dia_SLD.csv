@@ -324,7 +324,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Sld_760_Soeldner.d:68","Dann geh mal.","No to idź!","","False","DIA_SLD_760_Soeldner_EXIT_2_INFO_13_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_760_Soeldner.d:79","Ich will mich hier nur mal umsehen.","Chciałbym się tutaj trochę rozejrzeć.","","False","DIA_SLD_760_Soeldner_UMSEHEN.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_760_Soeldner.d:89","Ich will mich hier nur mal umsehen.","Chciałbym się tutaj trochę rozejrzeć.","","False","DIA_SLD_760_Soeldner_UMSEHEN_INFO_15_01","",""
-"Scripts/content/Story/MISSIONS/DIA_Sld_760_Soeldner.d:90","Dann lass deine Finger bei dir, sonst werde ich sie dir anschneiden.","Tylko trzymaj łapy przy sobie, albo ci je odrąbię.","","False","DIA_SLD_760_Soeldner_UMSEHEN_INFO_13_02","",""
+"Scripts/content/Story/MISSIONS/DIA_Sld_760_Soeldner.d:90","Dann lass deine Finger bei dir, sonst werde ich sie dir anschneiden.","Tylko trzymaj łapy przy sobie albo ci je odrąbię.","","False","DIA_SLD_760_Soeldner_UMSEHEN_INFO_13_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_760_Soeldner.d:100","Ich will in die Mine.","Chciałbym się dostać do kopalni.","","False","DIA_SLD_760_Soeldner_INMINE.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_760_Soeldner.d:110","Ich will in die Mine.","Chciałbym się dostać do kopalni.","","False","DIA_SLD_760_Soeldner_INMINE_INFO_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_760_Soeldner.d:111","In die Mine? Ich lass' hier gar keinen rein ohne die ausdrückliche Erlaubnis von Okyl.","Do kopalni? Nie wpuszczę nikogo, kto nie otrzymał upoważnienia od Okyla.","","False","DIA_SLD_760_Soeldner_INMINE_INFO_13_02","",""
