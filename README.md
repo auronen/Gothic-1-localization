@@ -4,7 +4,7 @@ Localization of Gothic 1 scripts. Scripts based on https://github.com/VaanaCZ/go
 The goal is to provide consistent compiled scripts and output units (spoken dialogue) for Gothic, that share the same code base.
 
 # Contributing
-New translations and corrections of existing translations happen on my instance of [weblate](https://weblate.cokoliv.eu/). If you wish to help with corrections, translations or you want to translate Gothic 1 into new language let me know by opening an issue, sending me a message on GitHub or, preferably, on our [GMC discord server](https://discord.gg/7zjNpVN8H6).
+New translations and corrections of existing translations happen on my instance of [weblate](https://weblate.cokoliv.eu/projects/gothic-1/). If you wish to help with corrections, translations or you want to translate Gothic 1 into new language let me know by opening an issue, sending me a message on GitHub or, preferably, on our [GMC discord server](https://discord.gg/7zjNpVN8H6).
 
 # Languages
 
