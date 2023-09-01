@@ -1816,7 +1816,7 @@
 "Scripts/content/Items/Potions.d:803","","","","","ItFo_Potion_Haste_02.text[4]","",""
 "Scripts/content/Items/Potions.d:829","Trank der Eile","Napój przyspieszenia","","False","ItFo_Potion_Haste_03.description","",""
 "Scripts/content/Items/Potions.d:830","","","","","ItFo_Potion_Haste_03.text[0]","",""
-"Scripts/content/Items/Potions.d:831","Ermöglicht längeres Sprinten ","Pozwala postaci na dłuższe sprinty.","","False","ItFo_Potion_Haste_03.text[1]","",""
+"Scripts/content/Items/Potions.d:831","Ermöglicht längeres Sprinten ","Pozwala postaci na dłuższy sprint.","","False","ItFo_Potion_Haste_03.text[1]","",""
 "Scripts/content/Items/Potions.d:832","","","","","ItFo_Potion_Haste_03.text[2]","",""
 "Scripts/content/Items/Potions.d:834","","","","","ItFo_Potion_Haste_03.text[4]","",""
 "Scripts/content/Items/Ranged_weapons.d:4","Kurzbogen","Krótki łuk","","False","ItRw_Bow_Small_01.name","",""
