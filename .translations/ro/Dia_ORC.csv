@@ -73,7 +73,7 @@
 "Scripts/content/Story/MISSIONS/DIA_ORC_Freemine.d:550","Wo finde ich einen Troll?","Unde gasesc Trolli?","","","Info_FreemineOrc_TROLL2.description","",""
 "Scripts/content/Story/MISSIONS/DIA_ORC_Freemine.d:565","Wo finde ich einen Troll?","Unde gasesc Trolli?","","","Info_FreemineOrc_TROLL2_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_ORC_Freemine.d:566","Troll leben in Bergen! Troll lieben viel Platz!","Trollii traiesc in munti! Trollii plac mult spatiu!","","","Info_FreemineOrc_TROLL2_17_02","",""
-"Scripts/content/Story/MISSIONS/DIA_ORC_Freemine.d:567","Fremder gehen suchen in Nordberge! Aber passen auf auf Faust von Troll!","Strainul merge cauta in muntii din nord! Dar grija la pumnul trollului!AI_Output(self, hero,'Info_FreemineOrc_TROLL2_17_04');","","","Info_FreemineOrc_TROLL2_17_03","",""
+"Scripts/content/Story/MISSIONS/DIA_ORC_Freemine.d:567","Fremder gehen suchen in Nordberge! Aber passen auf auf Faust von Troll!","Strainul merge cauta in muntii din nord! Dar grija la pumnul trollului!","","False","Info_FreemineOrc_TROLL2_17_03","",""
 "Scripts/content/Story/MISSIONS/DIA_ORC_Freemine.d:568","Faust treffen, dann Fremder fallen von Berg runter!","Faust treffen, dann Fremder fallen von Berg runter!","","","Info_FreemineOrc_TROLL2_17_04","",""
 "Scripts/content/Story/MISSIONS/DIA_ORC_Freemine.d:583","Ich habe noch nicht alle vier Teile beisammen.","Inca nu am toate cele patru obiecte.","","","Info_FreemineOrc_LOOKINGULUMULU.description","",""
 "Scripts/content/Story/MISSIONS/DIA_ORC_Freemine.d:603","Ich habe noch nicht alle vier Teile beisammen.","Inca nu am toate cele patru obiecte.","","","Info_FreemineOrc_LOOKINGULUMULU_15_01","",""
