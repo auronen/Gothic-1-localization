@@ -127,7 +127,7 @@
 "Scripts/content/Story/svm.d:369"," ... erst mal abwarten. Es wird nichts so heiß gegessen, wie es gekocht wird ..."," ... 不挂断。 最好不要冲进任何东西...","","","SVM_1_Smalltalk22","",""
 "Scripts/content/Story/svm.d:370"," ... ich dachte, das wäre schon lange geklärt ..."," ...我以为很久以前就已经清除了...","","","SVM_1_Smalltalk23","",""
 "Scripts/content/Story/svm.d:371"," ... lass uns lieber über was anderes reden ..."," ...让我们谈谈其他事情...","","","SVM_1_Smalltalk24","",""
-"Scripts/content/Story/svm.d:372","Omm..."," OMM","","","SVM_1_Om","",""
+"Scripts/content/Story/svm.d:372","Omm...","额...","","False","SVM_1_Om","",""
 "Scripts/content/Story/svm.d:379","Keine Magie!","没有巫术！","","","SVM_2_StopMagic","",""
 "Scripts/content/Story/svm.d:380","HEY! Keine Magie, hab' ich gesagt!","嘿！ 我说没有魔术！","","","SVM_2_ISaidStopMagic","",""
 "Scripts/content/Story/svm.d:381","Komm, steck das Ding weg!","来吧，把那东西扔掉！","","","SVM_2_WeaponDown","",""
