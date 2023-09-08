@@ -487,3 +487,4 @@
 "Scripts/content/Story/MISSIONS/DIA_Nov_1371_BaalNetbek.d:65","Hey, gehts dir gut?","Ehi, come va?","","","Nov_1371_BaalNetbek_AGAIN.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1371_BaalNetbek.d:78","Hey, geht's dir gut?","Ehi, come va?","","","Nov_1371_BaalNetbek_AGAIN_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1371_BaalNetbek.d:79","Pass auf, dass du meine Bäume nicht verletzt!","Non far del male ai miei alberi!","","","Nov_1371_BaalNetbek_AGAIN_Info_03_02","",""
+"","Vergiß es.","Lascia stare.","","False","DIA_Balor_RipOff.DIA_Balor_RipOff_ForgetIt","Info_AddChoice",""
