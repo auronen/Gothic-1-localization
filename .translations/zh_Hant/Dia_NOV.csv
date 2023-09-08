@@ -487,3 +487,4 @@
 "Scripts/content/Story/MISSIONS/DIA_Nov_1371_BaalNetbek.d:65","Hey, gehts dir gut?","嘿，怎麼樣？","","","Nov_1371_BaalNetbek_AGAIN.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1371_BaalNetbek.d:78","Hey, geht's dir gut?","嘿，怎麼樣？","","","Nov_1371_BaalNetbek_AGAIN_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1371_BaalNetbek.d:79","Pass auf, dass du meine Bäume nicht verletzt!","注意不要傷害我的樹！","","","Nov_1371_BaalNetbek_AGAIN_Info_03_02","",""
+"","Vergiß es.","算了吧。","","False","DIA_Balor_RipOff.DIA_Balor_RipOff_ForgetIt","Info_AddChoice",""
