@@ -488,3 +488,4 @@
 "Scripts/content/Story/MISSIONS/DIA_Nov_1371_BaalNetbek.d:78","Hey, geht's dir gut?","Hej, jak to jde?","","","Nov_1371_BaalNetbek_AGAIN_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1371_BaalNetbek.d:79","Pass auf, dass du meine Bäume nicht verletzt!","Pamatuj, neubližuj mým stromům!","","","Nov_1371_BaalNetbek_AGAIN_Info_03_02","",""
 "","Vergiß es.","Na to zapomeň.","","False","DIA_Balor_RipOff.DIA_Balor_RipOff_ForgetIt","Info_AddChoice",""
+"","50 sind fair - hier, nimm.","50, to je fér - tady jsou.","","False","DIA_Balor_RipOff.DIA_Balor_RipOff_Pay","Info_AddChoice",""
