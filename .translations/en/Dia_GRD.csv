@@ -187,7 +187,7 @@
 "Scripts/content/Story/MISSIONS/DIA_GRD_219_Stone.d:84","Ich brauche eine Rüstung.","I need armor.","","","GRD_219_Stone_GETSTUFF_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_GRD_219_Stone.d:85","Thorus hat dich in die Truppe aufgenommen? Glückwunsch!","So, Thorus has accepted you, eh? Congratulations!","","","GRD_219_Stone_GETSTUFF_Info_06_02","",""
 "Scripts/content/Story/MISSIONS/DIA_GRD_219_Stone.d:86","Wieder einer mehr, der seinen Hals für Gomez in die Schlinge legt. Na, mir soll's recht sein.","Another one eager to stick his neck out for Gomez. Oh well, what do I care?","","","GRD_219_Stone_GETSTUFF_Info_06_03","",""
-"Scripts/content/Story/MISSIONS/DIA_GRD_219_Stone.d:87","Hier, nimm die Rüstung und dieses Schwert. Willkommen bei der Garde.","Here, takes this armor and sword. Welcome to the Guards.","","","GRD_219_Stone_GETSTUFF_Info_06_04","",""
+"Scripts/content/Story/MISSIONS/DIA_GRD_219_Stone.d:87","Hier, nimm die Rüstung und dieses Schwert. Willkommen bei der Garde.","Here, take this armor and sword. Welcome to the Guards.","","False","GRD_219_Stone_GETSTUFF_Info_06_04","",""
 "Scripts/content/Story/MISSIONS/DIA_GRD_219_Stone.d:111","Ich brauche eine bessere Rüstung.","I need better armor.","","","GRD_219_Stone_BETTERARMOR.description","",""
 "Scripts/content/Story/MISSIONS/DIA_GRD_219_Stone.d:125","Ich brauche eine bessere Rüstung.","I need better armor.","","","GRD_219_Stone_BETTERARMOR_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_GRD_219_Stone.d:126","Wenn die Zeit gekommen ist und du genug Erz hast ...","You can have it when you're ready for it and only if you have enough ore...","","","GRD_219_Stone_BETTERARMOR_Info_06_02","",""
