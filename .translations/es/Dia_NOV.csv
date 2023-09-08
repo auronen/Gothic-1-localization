@@ -487,3 +487,4 @@
 "Scripts/content/Story/MISSIONS/DIA_Nov_1371_BaalNetbek.d:65","Hey, gehts dir gut?","Eh, ¿qué tal?","","","Nov_1371_BaalNetbek_AGAIN.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1371_BaalNetbek.d:78","Hey, geht's dir gut?","Oye, ¿cómo va la cosa?","","","Nov_1371_BaalNetbek_AGAIN_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1371_BaalNetbek.d:79","Pass auf, dass du meine Bäume nicht verletzt!","¡Ten cuidado, no hagas daño a mis árboles!","","","Nov_1371_BaalNetbek_AGAIN_Info_03_02","",""
+"","Vergiß es.","Olvídalo.","","False","DIA_Balor_RipOff.DIA_Balor_RipOff_ForgetIt","Info_AddChoice",""
