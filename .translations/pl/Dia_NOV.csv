@@ -488,3 +488,4 @@
 "Scripts/content/Story/MISSIONS/DIA_Nov_1371_BaalNetbek.d:78","Hey, geht's dir gut?","Cześć, co słychać?","","False","Nov_1371_BaalNetbek_AGAIN_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1371_BaalNetbek.d:79","Pass auf, dass du meine Bäume nicht verletzt!","Tylko uważaj, żebyś nie skrzywdził moich kochanych drzew!","","False","Nov_1371_BaalNetbek_AGAIN_Info_03_02","",""
 "","Vergiß es.","Zapomnij o tym.","","False","DIA_Balor_RipOff.DIA_Balor_RipOff_ForgetIt","Info_AddChoice",""
+"","50 sind fair - hier, nimm.","50 bryłek to uczciwa cena. Proszę bardzo.","","False","DIA_Balor_RipOff.DIA_Balor_RipOff_Pay","Info_AddChoice",""
