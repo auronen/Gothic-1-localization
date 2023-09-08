@@ -179,6 +179,8 @@
 "Scripts/content/Story/MISSIONS/DIA_Nov_1304_Balor.d:235","Immer tüchtig weitersammeln!","Immer tüchtig weitersammeln!","","","DIA_Balor_Perm.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1304_Balor.d:248","Immer tüchtig weitersammeln!","Immer tüchtig weitersammeln!","","","DIA_Balor_Perm_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1304_Balor.d:249","Na klar, was denkst du denn, was ich hier mache? Mir die Eier schaukeln?","Na klar, was denkst du denn, was ich hier mache? Mir die Eier schaukeln?","","","DIA_Balor_Perm_01_01","",""
+"","Vergiß es.","Vergiß es.","","","DIA_Balor_RipOff.DIA_Balor_TellDealer_ForgetIt","Info_AddChoice",""
+"","50 sind fair - hier, nimm.","50 sind fair - hier, nimm.","","","DIA_Balor_RipOff.DIA_Balor_TellDealer_Pay","Info_AddChoice",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1305_Joru.d:33","Was machst du hier?","Was machst du hier?","","","DIA_Joru_Greet.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1305_Joru.d:43","Was machst du hier?","Was machst du hier?","","","DIA_Joru_Greet_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1305_Joru.d:44","Ich verbreite die Lehre des Schläfers an die Novizen.","Ich verbreite die Lehre des Schläfers an die Novizen.","","","DIA_Joru_Greet_07_01","",""
