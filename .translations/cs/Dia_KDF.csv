@@ -187,7 +187,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Kdf_404_Xardas.d:123","NEIN!","NE!","","","Info_Xardas_SATURAS_14_05","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdf_404_Xardas.d:135","Die Feuermagier sind alle tot!","Všichni mágové Ohně jsou mrtví!","","","Info_Xardas_KDW.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdf_404_Xardas.d:148","Die Feuermagier sind alle tot!","Všichni mágové Ohně jsou mrtví!","","","Info_Xardas_KDW_15_01","",""
-"Scripts/content/Story/MISSIONS/DIA_Kdf_404_Xardas.d:149","Gomez hat sie ermorden lassen.","Gomez je povraždil.","","","Info_Xardas_KDW_15_02","",""
+"Scripts/content/Story/MISSIONS/DIA_Kdf_404_Xardas.d:149","Gomez hat sie ermorden lassen.","Gomez je nechal povraždit.","","False","Info_Xardas_KDW_15_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdf_404_Xardas.d:150","Das wundert mich nicht sonderlich. Diesen dummen barbarischen Schlächtern in der Burg, allen voran Gomez, war noch nie zu trauen.","To mě nepřekvapuje. Těm bláznivým barbarům na hradě, hlavně Gomezovi, nikdy není co věřit.","","","Info_Xardas_KDW_14_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdf_404_Xardas.d:151","Corristo und die anderen Magier haben sich ihren Henker selbst gewählt, als sie Gomez damals halfen, die Macht an sich zu reißen.","Corristo a další mágové si sami zvolili šibenici, když pomáhali Gomezovi převzít moc.","","","Info_Xardas_KDW_14_04","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdf_404_Xardas.d:163","Der so genannte 'Schläfer' soll ein übler Erzdämon sein.","O tom takzvaném 'Spáčovi' se říká, že je to zlý arcidémon.","","","Info_Xardas_SLEEPER.description","",""
