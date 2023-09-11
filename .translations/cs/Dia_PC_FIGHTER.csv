@@ -79,7 +79,7 @@
 "Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:606","Dieses verfluchte Tor. Man erzählt sich, dass bisher kein Mensch in der Kolonie es öffnen konnte.","Ta proklatá brána. Říkají, že ji nikdo z Kolonie nedokáže otevřít.","","","Info_Gorn_RUINWALL_09_01","",""
 "Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:607","Die kleinen Biester da drüben scheinen die Einzigen zu sein, die es geschafft haben, in den Innenhof zu gelangen.","Ty malé bestie jsou zřejmě jediné, co se dokáže dostat do vnitřního prostoru.","","","Info_Gorn_RUINWALL_09_02","",""
 "Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:625","Wie geht es nun weiter?","Co se děje?","","False","Info_Gorn_RUINWALLWHAT.description","",""
-"Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:639","Wie geht es nun weiter?","Co se děje?","","","Info_Gorn_RUINWALLWHAT_15_01","",""
+"Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:639","Wie geht es nun weiter?","Co se stane teď?","","False","Info_Gorn_RUINWALLWHAT_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:640","Du musst einen Weg finden, auf die andere Seite des Tors zu gelangen.","Musíš najít cestu na druhou stranu brány.","","","Info_Gorn_RUINWALLWHAT_09_02","",""
 "Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:668","Dort oben ist eine Art Plattform. Aber es scheint zu hoch zu sein, um zu klettern.","Tamhle nahoře je nějaká plošina. Ale vypadá to, že je moc vysoko, aby se na ní dalo vyšplhat.","","","Info_Gorn_RUINLEDGE_09_01","",""
 "Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:669","Wir müssen einen anderen Weg finden.","Musíme najít jinou cestu.","","","Info_Gorn_RUINLEDGE_09_02","",""
