@@ -405,7 +405,7 @@
 "Scripts/content/Story/svm.d:661","Du hat es gewagt, mich zu bestehlen!","Troufl sis mě okrást!","","","SVM_4_DirtyThief","",""
 "Scripts/content/Story/svm.d:662","Wenn du dich mit uns anlegst, wird dir das nicht gut bekommen.","To, že ses s náma dostal do křížku, ti nic dobrého nepřinese!","","","SVM_4_YouAttackedMyCharge","",""
 "Scripts/content/Story/svm.d:663","Du hast einen von uns getötet! Dein Leben für seins!","Zabil jsi jednoho z nás. Oko za oko!","","","SVM_4_YouKilledOneOfUs","",""
-"Scripts/content/Story/svm.d:664","Aaarg","Aaaaaargl!","","","SVM_4_Dead","",""
+"Scripts/content/Story/svm.d:664","Aaarg","Aaarg","","False","SVM_4_Dead","",""
 "Scripts/content/Story/svm.d:665","Aargh","Aargh","","","SVM_4_Aargh_1","",""
 "Scripts/content/Story/svm.d:666","Aargh","Aargh","","","SVM_4_Aargh_2","",""
 "Scripts/content/Story/svm.d:667","Aargh","Aargh","","","SVM_4_Aargh_3","",""
