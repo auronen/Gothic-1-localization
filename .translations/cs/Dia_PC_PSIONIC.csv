@@ -80,7 +80,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:495","folge mir!","Pojď za mnou!","","False","PC_Psionic_GUIDEFIRST_TEMPEL_Info_05_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:503","... zu den Lehrern.","…k učitelům.","","False","PC_Psionic_GUIDEFIRST_TRAIN_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:504","folge mir!","Pojď za mnou!","","False","PC_Psionic_GUIDEFIRST_TARIN_Info_05_02","",""
-"Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:512","... zum Alchemielabor!","…k alchymistické dílně.","","True","PC_Psionic_GUIDEFIRST_HERB_Info_15_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:512","... zum Alchemielabor!","…k alchymistické dílně.","","False","PC_Psionic_GUIDEFIRST_HERB_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:513","folge mir!","Pojď za mnou!","","","PC_Psionic_GUIDEFIRST_HERB_Info_05_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:545","Hier unten findest du Baal Cadar. Er unterrichtet die Novizen.","Dole najdeš Baal Cadara. Vyučuje novice.","","False","PC_Psionic_TRAIN_Info_05_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:548","Die Leiter rauf kommst du zum Übungsplatz der Templer. Ich warte hier auf dich. Wenn du trödelst, dann triffst du mich wieder bei Baal Namib am Eingang des Lagers.","Když vylezeš po tomhle žebříku, dostaneš se na templářské cvičiště. Budu tady na tebe čekat. Kdyby ses zpozdil, budu zase u Baal Namiba u vchodu do tábora.","","False","PC_Psionic_TRAIN_Info_05_02","",""
