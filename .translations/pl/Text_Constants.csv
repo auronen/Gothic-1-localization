@@ -177,7 +177,7 @@
 "Scripts/content/Story/Text.d:387","benötigtes Mana:","Wymagana mana:","","False","NAME_Mana_needed","",""
 "Scripts/content/Story/Text.d:388","benötigte Stärke:","Wymagana siła:","","False","NAME_Str_needed","",""
 "Scripts/content/Story/Text.d:389","benötigte Geschicklichkeit:","Wymagana zręczność:","","False","NAME_Dex_needed","",""
-"Scripts/content/Story/Text.d:391","Aufladbarer Zauber","Zaklęcie ładowalne","","False","NAME_Spell_Load","",""
+"Scripts/content/Story/Text.d:391","Aufladbarer Zauber","Zaklęcie ładowane","","False","NAME_Spell_Load","",""
 "Scripts/content/Story/Text.d:392","Aufrechterhaltungs-Zauber","Zaklęcie inwestycyjne","","False","NAME_Spell_Invest","",""
 "Scripts/content/Story/Text.d:394","Waffenschaden","Obr. od broni","","False","NAME_Dam_Edge","",""
 "Scripts/content/Story/Text.d:395","Pfeilschaden","Obr. od pocisków","","False","NAME_Dam_Point","",""
