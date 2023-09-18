@@ -56,7 +56,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Nov_1300_Talas.d:87","Das kostet dich 30 Erz.","Це буде коштувати тобі 30 брилок.","","","Nov_1300_Talas_HELP_BRING_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1300_Talas.d:88","In Ordnung, wir können losgehen, sobald du bereit bist.","Добре. Ми можемо піти, як тільки ти будеш готовий.","","","Nov_1300_Talas_HELP_BRING_02_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1300_Talas.d:96","Gib mir 50 Erz und ich bin dabei.","Я піду з тобою за... 50 брилок руди.","","","Nov_1300_Talas_HELP_MORE_15_01","",""
-"Scripts/content/Story/MISSIONS/DIA_Nov_1300_Talas.d:97","Was? Du beraubst mich. Nun gut, sag mir Bescheid, wenn du so weit bist.","Co? Toї to rozbуj! A zreszt№. Daj mi znaж, gdy bкdziesz gotowy do drogi.","","","Nov_1300_Talas_HELP_MORE_02_02","",""
+"Scripts/content/Story/MISSIONS/DIA_Nov_1300_Talas.d:97","Was? Du beraubst mich. Nun gut, sag mir Bescheid, wenn du so weit bist.","Що? Це ж пограбування. Ох, гаразд, дай знати, коли будеш готовий.","","False","Nov_1300_Talas_HELP_MORE_02_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1300_Talas.d:110","Ich bin bereit, wir können losgehen","Я готовий, ми можемо йти.","","","Nov_1300_Talas_READY.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1300_Talas.d:124","Ich bin bereit, wir können losgehen.","Я готовий, ми можемо йти.","","","Nov_1300_Talas_READY_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1300_Talas.d:125","In Ordnung. Folge mir.","Добре. Йди за мною.","","","Nov_1300_Talas_READY_Info_02_02","",""
