@@ -517,7 +517,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Org_851_Butch.d:33","Hi. Wer bist du?","Привіт. Хто ти?","","","DIA_Butch_Hello.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_851_Butch.d:43","Hi. Wer bist du?","Привіт. Хто ти?","","","DIA_Butch_Hello_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_851_Butch.d:44","Das geht dich einen Dreck an! Deine Fresse gefällt mir nicht!","Не твоє діло! Мені не подобається твоє обличчя!","","","DIA_Butch_Hello_13_01","",""
-"Scripts/content/Story/MISSIONS/DIA_Org_859_Aidan.d:33","Was machst du hier?","Czym siк tutaj zajmujesz?","","","DIA_Aidan_Hello.description","",""
+"Scripts/content/Story/MISSIONS/DIA_Org_859_Aidan.d:33","Was machst du hier?","Що ти тут робиш?","","False","DIA_Aidan_Hello.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_859_Aidan.d:43","Was machst du hier?","Що ти тут робиш?","","","DIA_Aidan_Hello_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_859_Aidan.d:44","Ich bin Jäger. Ich lebe vom Verkauf von Fellen und Zähnen.","Я мисливець. Я заробляю на життя продажем шкур і іклів убитих тварин.","","","DIA_Aidan_Hello_13_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_859_Aidan.d:45","Bringt das viel ein?","На цьому можна заробити?","","","DIA_Aidan_Hello_15_02","",""
