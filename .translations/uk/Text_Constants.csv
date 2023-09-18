@@ -321,7 +321,7 @@
 "Scripts/content/Story/Text.d:634","Annehmen","Прийняти","","","STR_INFO_TRADE_ACCEPT","",""
 "Scripts/content/Story/Text.d:635","Ablehnen","Скасувати","","","STR_INFO_TRADE_RESET","",""
 "Scripts/content/Story/Text.d:636","Zurück","НАЗАД","","","STR_INFO_TRADE_EXIT","",""
-"Scripts/content/Story/Text.d:638","Badenixe","Badenixe","","","STR_BADENIXE","",""
+"Scripts/content/Story/Text.d:638","Badenixe","Жінка, що миється","","True","STR_BADENIXE","",""
 "Scripts/content/Story/Text.d:644","Kapitel 1","Розділ 1","","","KapWechsel_1","",""
 "Scripts/content/Story/Text.d:645","Die Welt der Verurteilten","Вітаємо у Колонії!","","","KapWechsel_1_Text","",""
 "Scripts/content/Story/Text.d:646","Kapitel 2","Розділ 2","","","KapWechsel_2","",""
