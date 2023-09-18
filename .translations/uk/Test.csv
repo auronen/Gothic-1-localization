@@ -29,7 +29,7 @@
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:99","Lernpunkte:","Lernpunkte:","","","_PRINT_LearningPoints","",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:100","Str:","Str:","","","_PRINT_Strength","",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:101","Dex:","Dex:","","","_PRINT_Dexterity","",""
-"Scripts/content/AI/Test_Skripts/CharacterHelper.d:102","Mana:","Mana:","","","_PRINT_Mana","",""
+"Scripts/content/AI/Test_Skripts/CharacterHelper.d:102","Mana:","Mana:","","False","_PRINT_Mana","",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:129","nötig STR 11  DEX 16","nötig STR 11  DEX 16","","","_PRINT_SetGeroWeapon_1","",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:137","nötig STR 17  DEX 22","nötig STR 17  DEX 22","","","_PRINT_SetGeroWeapon_2","",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:145","nötig: STR 26  DEX 28","nötig: STR 26  DEX 28","","","_PRINT_SetGeroWeapon_3","",""
