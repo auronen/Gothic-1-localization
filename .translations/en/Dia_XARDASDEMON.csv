@@ -1,6 +1,6 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
 "Scripts/content/Story/MISSIONS/DIA_XardasDemon.d:20","... Sterblicher? ... Wer, ich? ... Ich geh ja schon!","... Mortal?... who, me?... Okay, I'm on my way!","","","Info_Saturas_EXIT_15_01","",""
-"Scripts/content/Story/MISSIONS/DIA_XardasDemon.d:55","Moment... Wer... Wer spricht hier.","Hold on... Who.... Who's talking to me?","","","Info_XardasDemon_INTRO_15_01","",""
+"Scripts/content/Story/MISSIONS/DIA_XardasDemon.d:55","Moment... Wer... Wer spricht hier.","Hold on... Who... Who's talking to me?","","False","Info_XardasDemon_INTRO_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_XardasDemon.d:57","DUUUU sprichst zu mir ??? Wie ... wie kommst du in meinen Kopf?","YOU are talking to me??? How did you get into my head?","","","Info_XardasDemon_INTRO_15_02","",""
 "Scripts/content/Story/MISSIONS/DIA_XardasDemon.d:59","Du bist was? ... der Diener deines Herren?","You are what?... The servant of your master?","","","Info_XardasDemon_INTRO_15_03","",""
 "Scripts/content/Story/MISSIONS/DIA_XardasDemon.d:60","Du erscheinst mir eher wie eine Kreatur der Hölle!","You seem to be a creature from hell!","","","Info_XardasDemon_INTRO_15_04","",""
