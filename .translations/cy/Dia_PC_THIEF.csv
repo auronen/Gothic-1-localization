@@ -1,6 +1,6 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
 "Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:26","Ich bin Diego.","Diego dw i.","","False","Info_Diego_Gamestart_11_00","",""
-"Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:27","Ich bin...","Dw i'n....","","False","Info_Diego_Gamestart_15_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:27","Ich bin...","Dw i'n...","","False","Info_Diego_Gamestart_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:28","Mich interessiert nicht, wer du bist. Du bist neu hier. Ich kümmere mich um die Neuen. Belassen wir es vorerst dabei.","Does dim ots 'da fi pwy wyt ti. Ti'n newydd yma. Dw i'n gofalu am y rhai newydd. Gadewch i ni ei adael fel hyn am y tro.","","False","Info_Diego_Gamestart_11_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:29","Wenn du vorhast, länger zu leben, solltest du dich ein bißchen mit mir unterhalten. Ich werde dich allerdings nicht daran hindern, in dein Verderben zu rennen. Also, wie sieht's aus?","","","False","Info_Diego_Gamestart_11_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:53","Danke für die Hilfe.","Diolch am y cymorth.","","False","Info_Diego_EXIT_Gamestart_15_00","",""
