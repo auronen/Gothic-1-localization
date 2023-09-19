@@ -59,7 +59,7 @@
 "Scripts/content/Story/MISSIONS/DIA_EBR_101_Scar.d:69","Was ist deine Aufgabe hier?","你的工作是什么？","","","DIA_SCAR_What_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_EBR_101_Scar.d:70","Ich und Arto passen auf, dass Gomez niemand zu nahe kommt, der hier nicht eingeladen wurde,","我和阿尔托确保没有人可以见到戈麦斯，除非他们被邀请。","","False","DIA_SCAR_What_08_01","",""
 "Scripts/content/Story/MISSIONS/DIA_EBR_101_Scar.d:71","Außerdem kümmere ich mich darum, dass die Frauen hier nicht zu kurz kommen .","我还确保妇女们不会感到不安。","","","DIA_SCAR_What_08_02","",""
-"Scripts/content/Story/MISSIONS/DIA_EBR_101_Scar.d:83","Als sie mich reingeworfen haben, habe ich eine Frau gesehen.","当他们把我扔在这里时，我看到一个女人被带下来......","","","DIA_SCAR_Frau.description","",""
+"Scripts/content/Story/MISSIONS/DIA_EBR_101_Scar.d:83","Als sie mich reingeworfen haben, habe ich eine Frau gesehen.","当他们把我扔在这里时，我看到一个女人被带下来...","","False","DIA_SCAR_Frau.description","",""
 "Scripts/content/Story/MISSIONS/DIA_EBR_101_Scar.d:96","Als sie mich reingeworfen haben, habe ich gesehen, wie eine Frau zusammen mit den Waren heruntergefahren wurde.","当他们把我扔到这里时，我看到一个女人被带着货物下来。","","","DIA_SCAR_Frau_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_EBR_101_Scar.d:97","Und?","那又怎样？","","","DIA_SCAR_Frau_08_01","",""
 "Scripts/content/Story/MISSIONS/DIA_EBR_101_Scar.d:98","Ist sie hier?","她在这里吗？","","","DIA_SCAR_Frau_15_02","",""
