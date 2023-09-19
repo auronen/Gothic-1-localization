@@ -848,7 +848,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Grd_271_Ulbert.d:179","Hör zu, Ian und die anderen sitzen unten und lassen sich gebratenes Fleisch schmecken.","Figyelj, Ian és a többiek a fenéken vannak és grillezett húst esznek.","","","GRD_271_ULBERT_LOCK_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_271_Ulbert.d:180","Was? Ohne mich? Na, ich werde mir meinen Anteil schon holen!","Mi? Nélkülem? Majd én behajtom a részemet!","","","GRD_271_ULBERT_LOCK_Info_07_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_271_Ulbert.d:208","Hey du, es gab gar kein gebratenes Fleisch!","Hé te, nem is volt grillezett hús!","","","GRD_271_ULBERT_ANGRY_Info_07_01","",""
-"Scripts/content/Story/MISSIONS/DIA_Grd_271_Ulbert.d:209","Oh ... äh ... ... da muss ich mich wohl geirrt haben! Schönen Tag noch!","Oh...uh...... Akkor biztos tévedtem! További kellemes napot!","","","GRD_271_ULBERT_ANGRY_Info_15_02","",""
+"Scripts/content/Story/MISSIONS/DIA_Grd_271_Ulbert.d:209","Oh ... äh ... ... da muss ich mich wohl geirrt haben! Schönen Tag noch!","Oh... uh... ...Akkor biztos tévedtem! További kellemes napot!","","False","GRD_271_ULBERT_ANGRY_Info_15_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_275_Brueckenwache.d:23","Sieh zu, dass du zum Alten Lager kommst, sie halten schon ne Spitzhacke für dich bereit, hee, hee!","Menj el a Régi Táborba, Tartogatnak számodra egy csákányt, hi, hi!","","","Info_GRD_275_PreExit_06_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_275_Brueckenwache.d:61","Was macht ihr hier?","Mit csinálsz itt?","","","Info_GRD_275_WasMachtIhrHier.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_275_Brueckenwache.d:71","Was macht ihr hier?","Mit csinálsz itt?","","","Info_GRD_275_WasMachtIhrHier_15_00","",""
