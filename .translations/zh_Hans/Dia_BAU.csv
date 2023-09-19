@@ -53,7 +53,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:245","Zur Selbstverteidigung!","自卫!","","","DIA_Horatio_PleaseTeachSTR.DIA_Horatio_PleaseTeachSTR_Defend","Info_AddChoice",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:246","Um den Mistkerlen hier zu zeigen, wie man mit mir zu sprechen hat!","教导这些混蛋如何正确地与我交谈!","","","DIA_Horatio_PleaseTeachSTR.DIA_Horatio_PleaseTeachSTR_Attack","Info_AddChoice",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:255","Um den Mistkerlen hier zu zeigen, wie man mit mir zu sprechen hat!","教导这些混蛋如何正确地与我交谈!","","","DIA_Horatio_PleaseTeachSTR_Attack_15_00","",""
-"Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:256","Und bevor du dich versiehst, bist du nur ein weiterer Mistkerl mehr ... Nein! Dafür werde ich dir nichts beibringen.","在你知道之前，你自己也会成为那些混蛋中的一员......。不，先生，我不会为此训练你的。","","","DIA_Horatio_PleaseTeachSTR_Attack_09_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:256","Und bevor du dich versiehst, bist du nur ein weiterer Mistkerl mehr ... Nein! Dafür werde ich dir nichts beibringen.","在你知道之前，你自己也会成为那些混蛋中的一员...。不，先生，我不会为此训练你的。","","False","DIA_Horatio_PleaseTeachSTR_Attack_09_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:262","Zur Selbstverteidigung!","自卫!","","","DIA_Horatio_PleaseTeachSTR_Defend_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:263","Dazu musst du nur schnell sein und nicht stark. Glaubst du, dass Schädel spalten besser ist als seinen Frieden zu finden?","这需要速度，而不是力量。你认为打碎头骨比找到和平好吗？","","","DIA_Horatio_PleaseTeachSTR_Defend_09_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:268","Gute Frage. Ich werde drüber nachdenken ...","好问题。我会考虑的...","","","DIA_Horatio_PleaseTeachSTR_BACK_15_00","",""
