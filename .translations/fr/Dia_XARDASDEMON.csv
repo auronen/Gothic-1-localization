@@ -1,6 +1,6 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
 "Scripts/content/Story/MISSIONS/DIA_XardasDemon.d:20","... Sterblicher? ... Wer, ich? ... Ich geh ja schon!","... Mortel ?... qui, moi ?... D'accord, je m'en vais !","","","Info_Saturas_EXIT_15_01","",""
-"Scripts/content/Story/MISSIONS/DIA_XardasDemon.d:55","Moment... Wer... Wer spricht hier.","Une seconde... Qui.... Qui me parle ?","","","Info_XardasDemon_INTRO_15_01","",""
+"Scripts/content/Story/MISSIONS/DIA_XardasDemon.d:55","Moment... Wer... Wer spricht hier.","Une seconde... Qui... Qui me parle ?","","False","Info_XardasDemon_INTRO_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_XardasDemon.d:57","DUUUU sprichst zu mir ??? Wie ... wie kommst du in meinen Kopf?","TU es en train de me parler ??? Comment es-tu entré dans ma tête ?","","","Info_XardasDemon_INTRO_15_02","",""
 "Scripts/content/Story/MISSIONS/DIA_XardasDemon.d:59","Du bist was? ... der Diener deines Herren?","Tu es quoi ?... Le serviteur... du maître ?","","","Info_XardasDemon_INTRO_15_03","",""
 "Scripts/content/Story/MISSIONS/DIA_XardasDemon.d:60","Du erscheinst mir eher wie eine Kreatur der Hölle!","Tu sembles être une créature des enfers !","","","Info_XardasDemon_INTRO_15_04","",""
