@@ -592,7 +592,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Org_876_Tuersteher.d:171","Geh rein und frag Silas. WIR können uns nicht beklagen.","İçeri girip Silas'a sor. BİZ şikayetçi değiliz.","","","DIA_Org_876_PERM_06_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_876_Tuersteher.d:196","Halt! Du kennst die Regeln. Nur Schürfer und Banditen!","Dur! Kuralları biliyorsun! Sadece madenciler ve haydutlar!","","","DIA_Org_876_ScSld_06_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_876_Tuersteher.d:197","Willst du mich aufhalten?","Beni durdurmaya mı çalışacaksın?","","","DIA_Org_876_ScSld_15_01","",""
-"Scripts/content/Story/MISSIONS/DIA_Org_876_Tuersteher.d:198","Nein ... Geh nur ...","Hayır... gir....","","","DIA_Org_876_ScSld_06_02","",""
+"Scripts/content/Story/MISSIONS/DIA_Org_876_Tuersteher.d:198","Nein ... Geh nur ...","Hayır... gir...","","False","DIA_Org_876_ScSld_06_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_876_Tuersteher.d:224","Eigentlich lassen wir ja nur unsere Jungs hier rein, aber gegen die Bruderschaft kann man wirklich nichts einwenden.","Aslında sadece bizimkilerin girmesine izin veriyoruz ama Kardeşlik ile de bir alıp veremediğimiz yok.","","","DIA_Org_876_ScSekte_06_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_876_Tuersteher.d:225","Vor allem nicht, wenn die Leute was zu rauchen dabei haben.","Özellikle de üzerlerinde tüttürecek bir şeyler varsa.","","","DIA_Org_876_ScSekte_06_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_876_Tuersteher.d:240","Ich habe ein paar Krautstengel bei mir - hier, nimm einen.","Yanımda birkaç dal var - işte, birini vereyim.","","","DIA_Org_876_GibKraut.description","",""
