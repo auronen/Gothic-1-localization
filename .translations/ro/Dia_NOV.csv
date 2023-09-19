@@ -12,7 +12,7 @@
 "Scripts/content/Story/MISSIONS/DIA_NOV_1301_Caine.d:132","Und was tust du?","Cu ce te ocupi?","","","DIA_Caine_Job.description","",""
 "Scripts/content/Story/MISSIONS/DIA_NOV_1301_Caine.d:145","Und was tust du?","Si cu ce te ocupi tu?","","","DIA_Caine_Job_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_NOV_1301_Caine.d:146","Ich helfe meinem Meister bei der Aufbereitung der alchimistischen Substanzen.","Eu... Eu... eu imi ajut maestrul sa prepare potiunile sale magice.","","","DIA_Caine_Job_13_01","",""
-"Scripts/content/Story/MISSIONS/DIA_NOV_1301_Caine.d:147","Im wesentlichen Sumpfkraut und Minecrawlersekret. Vor allem das Sekret braucht er dringend.","Cu multe ierburi si secretii de minecrawler.... Secretiile sunt necesare urgent.","","","DIA_Caine_Job_13_02","",""
+"Scripts/content/Story/MISSIONS/DIA_NOV_1301_Caine.d:147","Im wesentlichen Sumpfkraut und Minecrawlersekret. Vor allem das Sekret braucht er dringend.","Cu multe ierburi si secretii de minecrawler... Secretiile sunt necesare urgent.","","False","DIA_Caine_Job_13_02","",""
 "Scripts/content/Story/MISSIONS/DIA_NOV_1301_Caine.d:159","Wo bekomme ich das Sekret der Minecrawler?","De unde pot aduce niste secretii de minecrawler?","","","DIA_Caine_WoSekret.description","",""
 "Scripts/content/Story/MISSIONS/DIA_NOV_1301_Caine.d:172","Wo bekomme ich das Sekret der Minecrawler?","De unde pot aduce secretii de minecrawleri?","","","DIA_Caine_WoSekret_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_NOV_1301_Caine.d:173","Crawler findest du in der Alten Mine. Aber du musst wissen wie du ihnen das Sekret abzapfst.","Poti gasi minecrawleri in Mina Veche. Dar trebuie sa stii cum sa iei secretia.","","","DIA_Caine_WoSekret_13_01","",""
