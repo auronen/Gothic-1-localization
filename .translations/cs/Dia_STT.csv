@@ -290,7 +290,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Stt_329_Dexter.d:226","Wo ist das Sektenlager?","Kde je Sektovní tábor?","","","DIA_Dexter_WhereST.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_329_Dexter.d:239","Wo ist das Sektenlager?","Kde je Sektovní tábor?","","","DIA_Dexter_WhereST_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_329_Dexter.d:240","Durch den Südausgang aus dem Lager raus, dann immer östlich halten. Am besten besorgst du dir eine Karte -","Vyjdeš z tábora jižním východem, pak se dáš na východ. Měl by sis pořídit mapu -","","","DIA_Dexter_WhereST_10_01","",""
-"Scripts/content/Story/MISSIONS/DIA_Stt_329_Dexter.d:245","Ich hab' eine da für 50 Erz ...","Mám tadyjednu za 50 nugetů...","","","DIA_Dexter_WhereST_10_02","",""
+"Scripts/content/Story/MISSIONS/DIA_Stt_329_Dexter.d:245","Ich hab' eine da für 50 Erz ...","Mám tady jednu za 50 nugetů...","","False","DIA_Dexter_WhereST_10_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_329_Dexter.d:248","Der Südausgang ist der umgestürzte Turm, richtig?","Jižní východ je ta zhroucená věž, ne?","","","DIA_Dexter_WhereST_15_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_329_Dexter.d:249","Stimmt genau.","Přesně tak.","","","DIA_Dexter_WhereST_10_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_329_Dexter.d:268","Ich hab' das Rezept, das du wolltest!","Mám ten recept, co jsi chtěl!","","","DIA_Dexter_KalomsRecipeSuccess.description","",""
