@@ -1447,7 +1447,7 @@
 "Scripts/content/Items/MissionItems_1.d:1638","Doch soll ich nicht alleine diesen Weg beschreiten. Diese Ehre sei mir vergönnt. Ich muß mich fügen und die Kraft, die in mir wohnt, muß ich teilen mit den Würdigen, die da kommen werden, mich zu finden. Hoffentlich kommen sie bald...","Но я не должен идти по этой тропе в одиночестве. Я поделюсь своей силой с теми достойными, кто придет ко мне, кто найдет меня. Надеюсь, они придут скоро…","","","theriddle5_2","",""
 "Scripts/content/Items/MissionItems_1.d:1639","Dort, wo alles begann, sollst du mich finden.","Ты найдешь меня там, где все это началось.","","","theriddle5_3","",""
 "Scripts/content/Items/MissionItems_1.d:1688","Altes Buch","Старая книга","","","theriddle6.name","",""
-"Scripts/content/Items/MissionItems_1.d:1701","Chromanin 6","Хроманин 5","","","theriddle6.description","",""
+"Scripts/content/Items/MissionItems_1.d:1701","Chromanin 6","Хроманин 6","","False","theriddle6.description","",""
 "Scripts/content/Items/MissionItems_1.d:1702","","","","","theriddle6.text[0]","",""
 "Scripts/content/Items/MissionItems_1.d:1703","","","","","theriddle6.text[1]","",""
 "Scripts/content/Items/MissionItems_1.d:1704","","","","","theriddle6.text[2]","",""
