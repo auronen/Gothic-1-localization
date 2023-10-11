@@ -638,7 +638,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Grd_215_Torwache.d:99","Gut, hier sind deine 10 Erz.","Gut, hier sind deine 10 Erz.","","","DIA_Grd_215_Torwache_First_Pay_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_215_Torwache.d:100","Dann mal immer rein mit dir.","Dann mal immer rein mit dir.","","","DIA_Grd_215_Torwache_First_Pay_06_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_215_Torwache.d:105","So viel hab' ich nicht.","So viel hab' ich nicht.","","","DIA_Grd_215_Torwache_First_Pay_NoOre_15_00","",""
-"Scripts/content/Story/MISSIONS/DIA_Grd_215_Torwache.d:106","Diesmal mach' ich noch 'ne Ausnahme - weil du neu bist .","Diesmal mach' ich noch 'ne Ausnahme - weil du neu bist .","","","DIA_Grd_215_Torwache_First_Pay_NoOre_06_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Grd_215_Torwache.d:106","Diesmal mach' ich noch 'ne Ausnahme - weil du neu bist .","Diesmal mach' ich noch 'ne Ausnahme - weil du neu bist.","","False","DIA_Grd_215_Torwache_First_Pay_NoOre_06_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_215_Torwache.d:123","Irgendwas Neues passiert?","Irgendwas Neues passiert?","","","DIA_Grd_215_Torwache_PERM.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_215_Torwache.d:133","Irgendwas Neues passiert?","Irgendwas Neues passiert?","","","DIA_Grd_215_Torwache_PERM_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_215_Torwache.d:134","Nein. Alles wie immer.","Nein. Alles wie immer.","","","DIA_Grd_215_Torwache_PERM_06_01","",""
