@@ -126,7 +126,7 @@
 "Scripts/content/Story/NPC/ORG_862_Jacko.d:4","Jacko","Jacko","","","ORG_862_Jacko.name","",""
 "Scripts/content/Story/NPC/ORG_873_Cipher.d:4","Cipher","Cipher","","","ORG_873_Cipher.name","",""
 "Scripts/content/Story/NPC/ORG_888_Erpresser.d:4","Erpresser","Vyděrač","","","ORG_888_Erpresser.name","",""
-"Scripts/content/Story/NPC/ORG_889_CoErpresser.d:4","Co Erpresser","Kumpán vyděrače","","","ORG_889_CoErpresser.name","",""
+"Scripts/content/Story/NPC/ORG_889_CoErpresser.d:4","Co Erpresser","Vyděračův kumpán","","False","ORG_889_CoErpresser.name","",""
 "Scripts/content/Story/NPC/PC_Fighter.d:5","Gorn","Gorn","","","PC_Fighter.name","",""
 "Scripts/content/Story/NPC/PC_Fighter.d:167","Gorn","Gorn","","","PC_FighterFM.name","",""
 "Scripts/content/Story/NPC/PC_Hero.d:4","Ich","Já","","","PC_Hero.name","",""
