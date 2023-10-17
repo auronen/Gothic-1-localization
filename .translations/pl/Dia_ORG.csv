@@ -430,7 +430,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Org_842_Shrike.d:75","Wir sprechen uns noch!","Porozmawiamy innym razem!","","False","DIA_Shrike_GetLost_07_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_843_Sharky.d:32","Fisk aus dem Alten Lager sucht nach einem neuen Handelspartner.","Fisk ze Starego Obozu szuka nowego partnera do interesów.","","False","Org_843_Sharky_Fisk.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_843_Sharky.d:45","Fisk aus dem Alten Lager ist auf der Suche nach einem neuen Handelspartner.","Fisk ze Starego Obozu szuka nowego partnera do interesów.","","False","Org_843_Sharky_Fisk_Info_15_00","",""
-"Scripts/content/Story/MISSIONS/DIA_Org_843_Sharky.d:46","Und warum erzählst du mir das?","A dlaczego mówisz o tym właśnie mi?","","False","Org_843_Sharky_Fisk_Info_10_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Org_843_Sharky.d:46","Und warum erzählst du mir das?","A dlaczego mówisz o tym właśnie mnie?","","False","Org_843_Sharky_Fisk_Info_10_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_843_Sharky.d:47","Ich dachte, du hättest vielleicht Lust, ein bisschen Erz zu verdienen.","Pomyślałem, że zainteresuje cię możliwość zarobienia paru bryłek rudy.","","False","Org_843_Sharky_Fisk_Info_15_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_843_Sharky.d:48","Warum nicht ... Sag Fisk, er kann in den nächsten Tagen mit mir rechnen.","Czemu nie... Powiedz Fiskowi, że może na mnie liczyć.","","False","Org_843_Sharky_Fisk_Info_10_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_843_Sharky.d:62","Ich könnte ein paar Sachen gebrauchen","Przydałoby mi się kilka drobiazgów.","","False","Org_843_Sharky_TRADE.description","",""
