@@ -638,7 +638,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Grd_215_Torwache.d:99","Gut, hier sind deine 10 Erz.","好吧，给你10个矿石。","","False","DIA_Grd_215_Torwache_First_Pay_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_215_Torwache.d:100","Dann mal immer rein mit dir.","那就进去吧。","","False","DIA_Grd_215_Torwache_First_Pay_06_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_215_Torwache.d:105","So viel hab' ich nicht.","我没带那么多矿石。","","False","DIA_Grd_215_Torwache_First_Pay_NoOre_15_00","",""
-"Scripts/content/Story/MISSIONS/DIA_Grd_215_Torwache.d:106","Diesmal mach' ich noch 'ne Ausnahme - weil du neu bist .","这次例外，因为你是这儿新来的。","","False","DIA_Grd_215_Torwache_First_Pay_NoOre_06_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Grd_215_Torwache.d:106","Diesmal mach' ich noch 'ne Ausnahme - weil du neu bist .","这次我要破例——因为你是新来的。","","False","DIA_Grd_215_Torwache_First_Pay_NoOre_06_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_215_Torwache.d:123","Irgendwas Neues passiert?","有新闻吗？","","False","DIA_Grd_215_Torwache_PERM.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_215_Torwache.d:133","Irgendwas Neues passiert?","有新闻吗？","","False","DIA_Grd_215_Torwache_PERM_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_215_Torwache.d:134","Nein. Alles wie immer.","没有，一切正常。","","False","DIA_Grd_215_Torwache_PERM_06_01","",""
