@@ -606,7 +606,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Org_876_Tuersteher.d:358","Du hörst wohl schlecht, Bürschchen!","Are you deaf or what, pal!","","","Info_Org_876_LastWarn_06_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_888_Erpresser.d:24","Hey, Junge, wenn du hier vorbei willst, mußt du 10 Erz zahlen, oder du bekommst aufs Maul, kapiert?","Hey, boy, if you want to pass, you have to pay 10 ore or you'll be whacked, got it?","","","Info_Erpresser_Info_13_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_888_Erpresser.d:27","Dann komm doch her und hol dir dein Erz!","Then why don't you come here and get your ore!","","","Info_Erpresser.Info_Erpresser_Choice_AufsMaul","Info_AddChoice",""
-"Scripts/content/Story/MISSIONS/DIA_Org_888_Erpresser.d:28","Drei Erz? Das ist nicht viel. Hier nimm...","Three ore? That's not much. Here you go ...","","","Info_Erpresser.Info_Erpresser_Choice_Zahlen","Info_AddChoice",""
+"Scripts/content/Story/MISSIONS/DIA_Org_888_Erpresser.d:28","Drei Erz? Das ist nicht viel. Hier nimm...","Ten ore? That's not much. Here you go ...","","False","Info_Erpresser.Info_Erpresser_Choice_Zahlen","Info_AddChoice",""
 "Scripts/content/Story/MISSIONS/DIA_Org_888_Erpresser.d:33","Dann komm doch her und hol dir dein Erz!","Then why don't you come here and get your ore!","","","Info_Erpresser_Choice_AufsMaul_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_888_Erpresser.d:34","Danke, Mann. Du rettest mir den Tag.","Thanks, man. You just made my day.","","","Info_Erpresser_Choice_AufsMaul_13_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_888_Erpresser.d:48","Hier, 10 Erz.","Here, 10 ore.","","","Info_Erpresser_Choice_Zahlen_15_01","",""
