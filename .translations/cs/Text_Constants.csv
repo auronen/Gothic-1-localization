@@ -336,3 +336,8 @@
 "Scripts/content/Story/Text.d:655","Die Hallen des Schläfers","Spáčovy síně","","False","KapWechsel_6_Text","",""
 "","Ich möchte eine bessere Rüstung haben.","Rád bych lepší zbroj.","","False","NAME_BaalNamibHeavyNov","",""
 "","Ende","Konec","","False","_STR_MESSAGE_GAMEOVER","",""
+"","","Pro použití této runy je potřeba ","","","_STR_CANNOTCAST_PRE_CS","",""
+"","",". magický kruh","","","_STR_CANNOTCAST_POST_CS","",""
+"",""," bod ","","","_STR_POINTS_SINGULAR_CS","",""
+"",""," body ","","","_STR_POINTS_PLURAL1_CS","",""
+"",""," bodů ","","","_STR_POINTS_PLURAL2_CS","",""
