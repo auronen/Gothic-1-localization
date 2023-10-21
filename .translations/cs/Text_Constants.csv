@@ -240,7 +240,7 @@
 "Scripts/content/Story/Text.d:476","Stärke-","síly","","False","_STR_ATTRIBUTE_STRENGTH","",""
 "Scripts/content/Story/Text.d:477","Geschicklichkeits-","obratnosti","","False","_STR_ATTRIBUTE_DEXTERITY","",""
 "Scripts/content/Story/Text.d:478","magische Zauber-","Kouzelný svitek","","","_STR_ATTRIBUTE_MAGIC_CIRCLE","",""
-"Scripts/content/Story/Text.d:481","es fehlen ","Pro použití této položky schází ","","False","_STR_CANNOTUSE_PRE_PLAYER","",""
+"Scripts/content/Story/Text.d:481","es fehlen ","Pro použití tohoto předmětu schází ","","False","_STR_CANNOTUSE_PRE_PLAYER","",""
 "Scripts/content/Story/Text.d:482","Punkte","bodů","","","_STR_CANNOTUSE_POINTS","",""
 "Scripts/content/Story/Text.d:483","Stufen","úrovní","","","_STR_CANNOTUSE_LEVELS","",""
 "Scripts/content/Story/Text.d:484",", um diesen Gegenstand anzulegen",", pro použití této položky","","","_STR_CANNOTUSE_POST","",""
