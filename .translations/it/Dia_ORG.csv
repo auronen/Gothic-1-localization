@@ -606,7 +606,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Org_876_Tuersteher.d:358","Du hörst wohl schlecht, Bürschchen!","Sei sordo, amico?","","","Info_Org_876_LastWarn_06_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_888_Erpresser.d:24","Hey, Junge, wenn du hier vorbei willst, mußt du 10 Erz zahlen, oder du bekommst aufs Maul, kapiert?","Ehi, ragazzo! Se vuoi passare devi pagare 10 pezzi di metallo. Capito?","","","Info_Erpresser_Info_13_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_888_Erpresser.d:27","Dann komm doch her und hol dir dein Erz!","Perché non vieni a prenderti il tuo metallo?","","","Info_Erpresser.Info_Erpresser_Choice_AufsMaul","Info_AddChoice",""
-"Scripts/content/Story/MISSIONS/DIA_Org_888_Erpresser.d:28","Drei Erz? Das ist nicht viel. Hier nimm...","Tre pezzi di metallo? Non è molto...","","","Info_Erpresser.Info_Erpresser_Choice_Zahlen","Info_AddChoice",""
+"Scripts/content/Story/MISSIONS/DIA_Org_888_Erpresser.d:28","Drei Erz? Das ist nicht viel. Hier nimm...","Dieci pezzi di metallo? Non è molto...","","False","Info_Erpresser.Info_Erpresser_Choice_Zahlen","Info_AddChoice",""
 "Scripts/content/Story/MISSIONS/DIA_Org_888_Erpresser.d:33","Dann komm doch her und hol dir dein Erz!","Perché non vieni a prenderti il tuo metallo?","","","Info_Erpresser_Choice_AufsMaul_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_888_Erpresser.d:34","Danke, Mann. Du rettest mir den Tag.","Grazie, amico! La giornata è stata proficua.","","","Info_Erpresser_Choice_AufsMaul_13_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_888_Erpresser.d:48","Hier, 10 Erz.","Ecco i 10 pezzi.","","","Info_Erpresser_Choice_Zahlen_15_01","",""
