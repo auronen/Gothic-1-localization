@@ -606,7 +606,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Org_876_Tuersteher.d:358","Du hörst wohl schlecht, Bürschchen!","¿Estás sordo o qué, amigo?","","","Info_Org_876_LastWarn_06_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_888_Erpresser.d:24","Hey, Junge, wenn du hier vorbei willst, mußt du 10 Erz zahlen, oder du bekommst aufs Maul, kapiert?","Eh, muchacho, si quieres entrar tienes que pagar 10 pepitas o recibirás una zurra. ¿Entiendes?","","","Info_Erpresser_Info_13_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_888_Erpresser.d:27","Dann komm doch her und hol dir dein Erz!","¿Por qué no vienes y coges tu mineral?","","","Info_Erpresser.Info_Erpresser_Choice_AufsMaul","Info_AddChoice",""
-"Scripts/content/Story/MISSIONS/DIA_Org_888_Erpresser.d:28","Drei Erz? Das ist nicht viel. Hier nimm...","¿Tres pepitas? No es mucho. Aquí tienes...","","","Info_Erpresser.Info_Erpresser_Choice_Zahlen","Info_AddChoice",""
+"Scripts/content/Story/MISSIONS/DIA_Org_888_Erpresser.d:28","Drei Erz? Das ist nicht viel. Hier nimm...","¿Diez pepitas? No es mucho. Aquí tienes...","","False","Info_Erpresser.Info_Erpresser_Choice_Zahlen","Info_AddChoice",""
 "Scripts/content/Story/MISSIONS/DIA_Org_888_Erpresser.d:33","Dann komm doch her und hol dir dein Erz!","Entonces, ¿por qué no vienes a por tu mineral?","","","Info_Erpresser_Choice_AufsMaul_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_888_Erpresser.d:34","Danke, Mann. Du rettest mir den Tag.","Gracias, colega. Me has alegrado el día.","","","Info_Erpresser_Choice_AufsMaul_13_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_888_Erpresser.d:48","Hier, 10 Erz.","Aquí tienes 10 pepitas.","","","Info_Erpresser_Choice_Zahlen_15_01","",""
