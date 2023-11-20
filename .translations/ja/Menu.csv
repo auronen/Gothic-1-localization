@@ -47,7 +47,7 @@
 "Scripts/system/MENU/menu_log.d:220","Zeit:","","","False","MENU_ITEM_TIME_TITLE.text[0]","",""
 "Scripts/system/MENU/menu_log.d:229","XX.","","","False","MENU_ITEM_DAY.text[0]","",""
 "Scripts/system/MENU/menu_log.d:239","XX:XX","","","False","MENU_ITEM_TIME.text[0]","",""
-"Scripts/system/MENU/menu_main.d:38","Neues Spiel","ニューゲーム","","True","MENUITEM_MAIN_NEWGAME.text[0]","",""
+"Scripts/system/MENU/menu_main.d:38","Neues Spiel","ニューゲーム","","False","MENUITEM_MAIN_NEWGAME.text[0]","",""
 "Scripts/system/MENU/menu_main.d:39","Ein neues Abenteuer beginnen.","新しい冒険を始めよう。","","False","MENUITEM_MAIN_NEWGAME.text[1]","",""
 "Scripts/system/MENU/menu_main.d:60","Spiel laden","ゲームをロードする","","False","MENUITEM_MAIN_SAVEGAME_LOAD.text[0]","",""
 "Scripts/system/MENU/menu_main.d:61","Einen gespeicherten Spielstand laden.","セーブしたゲームをロードする。","","False","MENUITEM_MAIN_SAVEGAME_LOAD.text[1]","",""
