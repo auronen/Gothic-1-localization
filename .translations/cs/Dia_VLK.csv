@@ -229,7 +229,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Vlk_573_Graham.d:132","Ich würde gerne eine Karte kaufen.","Chtěl bych koupit mapu.","","","DIA_Graham_BuyMaps.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_573_Graham.d:145","Ich würde gerne eine Karte kaufen.","Chtěl bych koupit mapu.","","","DIA_Graham_BuyMaps_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_573_Graham.d:146","Klar ... Was suchst du? Je mehr drauf zu sehen ist, desto teurer sind die Karten.","Jistě... Jakou máš na mysli? Čím více toho na mapě vidíš, tím je dražší.","","","DIA_Graham_BuyMaps_02_01","",""
-"Scripts/content/Story/MISSIONS/DIA_Vlk_574_Mud.d:55","Hey, Mann! Neu hier? Dich hab' ich hier noch nie gesehen.","Hej, člověče! Nějaké noviny? Nikdy jsem tě tu neviděl.","","","DIA_Mud_FirstEXIT_07_00","",""
+"Scripts/content/Story/MISSIONS/DIA_Vlk_574_Mud.d:55","Hey, Mann! Neu hier? Dich hab' ich hier noch nie gesehen.","Hej, člověče! Jsi tu nový, že? Nikdy jsem tě tu neviděl.","","False","DIA_Mud_FirstEXIT_07_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_574_Mud.d:56","Wenn du nichts dagegen hast, komme ich ein Stück mit. Du kannst sicher einen Freund brauchen.","Jestli dovolíš, na chvilku se k tobě přidám. Určitě potřebuješ přítele.","","","DIA_Mud_FirstEXIT_07_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_574_Mud.d:58","Verpiss dich!","Ztrať se!","","","DIA_Mud_FirstEXIT.DIA_Mud_FirstEXIT_Verpiss","Info_AddChoice",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_574_Mud.d:59","Warum nicht - komm mit!","Proč ne - pojď.","","","DIA_Mud_FirstEXIT.DIA_Mud_FirstEXIT_Komm","Info_AddChoice",""
