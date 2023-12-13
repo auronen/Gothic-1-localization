@@ -68,7 +68,7 @@
 "Scripts/system/MENU/menu_misc.d:37","Ja, ich möchte Gothic verlassen.","Так, я хочу залишити Ґотику.","","","MENUITEM_LEAVE_GAME_YES.text[1]","",""
 "Scripts/system/MENU/menu_misc.d:52","Nein","Ні","","","MENUITEM_LEAVE_GAME_NO.text[0]","",""
 "Scripts/system/MENU/menu_misc.d:53","Nein, ich möchte weiterspielen.","Ні, я хочу продовжити гру.","","","MENUITEM_LEAVE_GAME_NO.text[1]","",""
-"Scripts/system/MENU/menu_opt.d:34","EINSTELLUNGEN","ПАРАМЕТРИ","","","MENUITEM_OPT_HEADING.text[0]","",""
+"Scripts/system/MENU/menu_opt.d:34","EINSTELLUNGEN","НАЛАШТУВАННЯ","","False","MENUITEM_OPT_HEADING.text[0]","",""
 "Scripts/system/MENU/menu_opt.d:47","Spiel","Гра","","","MENUITEM_OPT_GAME.text[0]","",""
 "Scripts/system/MENU/menu_opt.d:48","Diverse Spieleinstellungen vornehmen.","Зробіть різні налаштування гри.","","","MENUITEM_OPT_GAME.text[1]","",""
 "Scripts/system/MENU/menu_opt.d:64","Grafik","Графіка","","","MENUITEM_OPT_GRAPHICS.text[0]","",""
