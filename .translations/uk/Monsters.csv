@@ -47,7 +47,7 @@
 "Scripts/content/AI/Monster/Mst_Skeleton.d:8","Skelett","Скелет","","","Mst_Default_Skeleton.name","",""
 "Scripts/content/AI/Monster/Mst_Skeleton.d:175","Skelett Späher","Скелет розвідник","","","SkeletonScout.name","",""
 "Scripts/content/AI/Monster/Mst_Skeleton.d:205","Skelett Krieger","Скелет Воїн","","False","SkeletonWarrior.name","",""
-"Scripts/content/AI/Monster/Mst_Skeleton.d:237","Skelett Magier","Скелет маг","","","SkeletonMage.name","",""
+"Scripts/content/AI/Monster/Mst_Skeleton.d:237","Skelett Magier","Скелет Маг","","False","SkeletonMage.name","",""
 "Scripts/content/AI/Monster/Mst_Skeleton.d:276","Skelett Magier des Nebelturms","Скелет мага з Вежи Імли","","","SkeletonMage_fogtower.name","",""
 "Scripts/content/AI/Monster/Mst_Skeleton.d:376","Skelett Krieger","Скелет Воїн","","False","SummonedByPC_SkeletonWarrior.name","",""
 "Scripts/content/AI/Monster/Mst_Skeleton.d:409","Skelett Krieger","Скелет Воїн","","False","SummonedByNPC_SkeletonWarrior.name","",""
