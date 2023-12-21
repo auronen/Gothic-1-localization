@@ -5,7 +5,7 @@
 "Scripts/content/Story/MISSIONS/DIA_GUR_1200_YBerion.d:71","Ah! Du kommst mir bekannt vor!","Ah! Du kommst mir bekannt vor!","","","DIA_YBerion_Kennen_12_01","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1200_YBerion.d:72","Unmöglich. Wir haben uns noch nie gesehen.","Unmöglich. Wir haben uns noch nie gesehen.","","","DIA_YBerion_Kennen_15_02","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1200_YBerion.d:73","Und ich dachte ... Nun gut - was willst du?","Und ich dachte ... Nun gut - was willst du?","","","DIA_YBerion_Kennen_12_03","",""
-"Scripts/content/Story/MISSIONS/DIA_GUR_1200_YBerion.d:86","Mir kam zu Ohren, du suchst etwas","Mir kam zu Ohren, du suchst etwas","","","Info_YBerion_BringFocus.description","",""
+"Scripts/content/Story/MISSIONS/DIA_GUR_1200_YBerion.d:86","Mir kam zu Ohren, du suchst etwas","Mir kam zu Ohren, du suchst etwas.","","False","Info_YBerion_BringFocus.description","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1200_YBerion.d:102","Mir kam zu Ohren, du suchst etwas.","Mir kam zu Ohren, du suchst etwas.","","","Sit_2_PSI_Yberion_BringFocus_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1200_YBerion.d:103","Das ist richtig. Wir brauchen einen magischen Fokus.","Das ist richtig. Wir brauchen einen magischen Fokus.","","","Sit_2_PSI_Yberion_BringFocus_Info_12_02","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1200_YBerion.d:104","Wir haben den Novizen Nyras losgeschickt, um den Fokus zu holen. Doch er ist bisher nicht zurückgekehrt.","Wir haben den Novizen Nyras losgeschickt, um den Fokus zu holen. Doch er ist bisher nicht zurückgekehrt.","","","Sit_2_PSI_Yberion_BringFocus_Info_12_03","",""
