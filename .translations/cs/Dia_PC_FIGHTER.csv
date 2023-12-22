@@ -65,7 +65,7 @@
 "Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:473","Was du suchst, befindet sich vielleicht innerhalb der Klosterruinen dort jenseits der Schlucht.","Ta věc, kterou hledáš, by mohla být ve zřícenině kláštera za kaňonem.","","","Info_Gorn_RUINFOCUS_09_03","",""
 "Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:485","Wir könnten unseren Weg gemeinsam fortsetzen.","Mohli bychom pokračovat společně.","","","Info_Gorn_RUINJOIN.description","",""
 "Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:498","Wir können unseren Weg gemeinsam fortsetzen.","Mohli bysme pokračovat společně.","","","Info_Gorn_RUINJOIN_15_01","",""
-"Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:499","Gute Idee. Hier wimmelt es nur so von Snappern.","Dobrý nápad. Tahle oblast se hemží kousavci.","","","Info_Gorn_RUINJOIN_09_02","",""
+"Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:499","Gute Idee. Hier wimmelt es nur so von Snappern.","Dobrý nápad. Tahle oblast se hemží chňapavci.","","False","Info_Gorn_RUINJOIN_09_02","",""
 "Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:500","Einzeln sind sie für einen geübten Kämpfer zwar kein Problem, aber sie jagen meistens in Rudeln.","Samotní nejsou pro zkušeného lovce problém, ale většinou loví ve smečkách.","","","Info_Gorn_RUINJOIN_09_03","",""
 "Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:501","So ein Rudel kann auch den gewieftesten Schwertmeister in Fetzen reißen.","Smečka může dokonce i toho nejudatnějšího šermíře roztrhat na kusy.","","","Info_Gorn_RUINJOIN_09_04","",""
 "Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:502","Wir gehen also zusammen?","Tak půjdeme spolu?","","","Info_Gorn_RUINJOIN_15_05","",""
