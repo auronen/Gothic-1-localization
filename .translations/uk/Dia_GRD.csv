@@ -581,7 +581,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Grd_201_Jackal.d:253","Hättest mich damals bezahlen sollen, als es noch Zeit war.","Треба було заплатити мені, коли ти мав можливість.","","","Info_Jackal_PAYDAY_07_08","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_201_Jackal.d:256","Ihr seid zu weit gegangen! Der Überfall auf die Mine war dumm von euch!","Ви зайшли занадто далеко. Напад на копальню був серйозною помилкою!","","False","Info_Jackal_PAYDAY_15_09","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_201_Jackal.d:257","Scheint aber funktioniert zu haben. Und du wirst daran auch nichts ändern, dafür werde ich persönlich Sorge tragen!","Але, схоже, це спрацювало. І тобі зараз буде вже не до цього!","","False","Info_Jackal_PAYDAY_07_10","",""
-"Scripts/content/Story/MISSIONS/DIA_Grd_201_Jackal.d:258","LOS, WIR MACHEN IHN KALT, JUNGS!!!","ДАВАЙТЕ, ХЛОПЦІ! ВБИЙТЕ ЙОГО!!!","","","Info_Jackal_PAYDAY_07_11","",""
+"Scripts/content/Story/MISSIONS/DIA_Grd_201_Jackal.d:258","LOS, WIR MACHEN IHN KALT, JUNGS!!!","НУМО, ХЛОПЦІ! ВБИЙТЕ ЙОГО!!!","","False","Info_Jackal_PAYDAY_07_11","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_212_GuardPassage.d:45","HALT!","СТІЙ!","","","Info_Grd_212_FirstWarn_Info_13_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_212_GuardPassage.d:46","Was ist?","Що відбувається?","","","Info_Grd_212_FirstWarn_Info_15_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_212_GuardPassage.d:47","Die Burg darf nur mit Genehmigung betreten werden! Mach, dass du verschwindest!","Тобі заборонено входити в замок без дозволу. Забирайся звідси!","","","Info_Grd_212_FirstWarn_Info_13_03","",""
