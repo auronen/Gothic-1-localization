@@ -1302,7 +1302,7 @@
 "Scripts/content/Items/MissionItems_1.d:762","Karte der Kolonie","Мапа колонії","","False","ItWrWorldmap.name","",""
 "Scripts/content/Items/MissionItems_1.d:776","Leider fehlt darauf ein großes Gebiet","На жаль, на південному","","False","ItWrWorldmap.text[0]","",""
 "Scripts/content/Items/MissionItems_1.d:777","im Südwesten.","заході бракує великої","","False","ItWrWorldmap.text[1]","",""
-"Scripts/content/Items/MissionItems_1.d:778","","частини карти.","","","ItWrWorldmap.text[2]","",""
+"Scripts/content/Items/MissionItems_1.d:778","","частини мапи.","","False","ItWrWorldmap.text[2]","",""
 "Scripts/content/Items/MissionItems_1.d:779","","","","","ItWrWorldmap.text[3]","",""
 "Scripts/content/Items/MissionItems_1.d:780","","","","","ItWrWorldmap.text[4]","",""
 "Scripts/content/Items/MissionItems_1.d:822","Karte","Мапа","","False","ItWrOCmap.name","",""
