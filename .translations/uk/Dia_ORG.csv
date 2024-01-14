@@ -7,7 +7,7 @@
 "Scripts/content/Story/MISSIONS/DIA_ORG_833_Buster.d:80","Auch im Kampf ist Akrobatik sehr hilfreich. Du kannst deinen Abstand zum Gegner sehr schnell verändern. Viel Glück!","Акробатика також стане в пригоді в бою. Я покажу тобі, як швидко зменшити або збільшити дистанцію між тобою та суперником. Удачі!","","False","DIA_ORG_833_Buster3_02_04","",""
 "Scripts/content/Story/MISSIONS/DIA_ORG_840_Roscoe.d:33","Ich habe die Bedarfsliste der alten Mine.","У мене тут список замовлень для Старої копальні.","","False","DIA_Roscoe_BringList.description","",""
 "Scripts/content/Story/MISSIONS/DIA_ORG_840_Roscoe.d:46","Ich habe die Bedarfsliste der alten Mine.","У мене тут список замовлень для Старої копальні.","","False","DIA_Roscoe_BringList_15_00","",""
-"Scripts/content/Story/MISSIONS/DIA_ORG_840_Roscoe.d:47","Nicht schlecht. Wie bist du daran gekommen?","Не погано! Звідки ти його взяв?","","","DIA_Roscoe_BringList_10_01","",""
+"Scripts/content/Story/MISSIONS/DIA_ORG_840_Roscoe.d:47","Nicht schlecht. Wie bist du daran gekommen?","Непогано! Звідки ти його взяв?","","False","DIA_Roscoe_BringList_10_01","",""
 "Scripts/content/Story/MISSIONS/DIA_ORG_840_Roscoe.d:48","Ian hat sie mir gegeben.","Я отримав його від Іана.","","","DIA_Roscoe_BringList_15_02","",""
 "Scripts/content/Story/MISSIONS/DIA_ORG_840_Roscoe.d:49","Du hast Nerven. Sie haben dich geschickt, um dich zu prüfen, was? Thorus geht bestimmt schon die Wände hoch.","Та в тебе сталеві яйця! Вони послали тебе, щоб ти приніс його їм, так? Б’юсь об заклад, що зараз Торус волосся на голові рве.","","False","DIA_Roscoe_BringList_10_03","",""
 "Scripts/content/Story/MISSIONS/DIA_ORG_840_Roscoe.d:50","Diego hat mir den Auftrag gegeben.","То Дієго дав мені це завдання.","","","DIA_Roscoe_BringList_15_04","",""
