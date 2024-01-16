@@ -115,7 +115,7 @@
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:345","IV:  Suche Teile für Ulu-Mulu","IV:  Пошук елементів для УЛУ-МУЛУ","","False","StoryHelper_INFO4.StoryHelper_SearchForUluMulu","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:346","IV:  Bereit für Angriff auf die Freie Mine","IV:  Підготовка до атаки на вільну копальню","","False","StoryHelper_INFO4.StoryHelper_AttackFreeMine","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:347","IV:  Xardas  - Finde Ork Schamanen","IV:  Ксардас — Пошук шамана орків","","False","StoryHelper_INFO4.StoryHelper_XardasFindOrcShaman","Info_AddChoice",""
-"Scripts/content/AI/Test_Skripts/StoryHelper.d:348","IV:  Xardas  - Erste Begegnung","IV:  Ксардас — Перша зустріч","","False","StoryHelper_INFO4.StoryHelper_XardasIntro","Info_AddChoice",""
+"Scripts/content/AI/Test_Skripts/StoryHelper.d:348","IV:  Xardas  - Erste Begegnung","IV:  Ксардас — перша зустріч","","False","StoryHelper_INFO4.StoryHelper_XardasIntro","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:349","IV:  Saturas - Finde Xardas","IV:  Сатурас — Пошук Ксардаса","","False","StoryHelper_INFO4.StoryHelper_SaturasFindXardas","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:350","IV:  Diego   - Freie Mine wurde überfallen","IV:  Дієго   — Вільна копальня атакована","","False","StoryHelper_INFO4.StoryHelper_FreeMineAmbush","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:351","IV:  Saturas - Feuermagier holen","IV:  Сатурас — Привести магів вогню","","False","StoryHelper_INFO4.StoryHelper_SaturasBringFoci_SUCCESS","Info_AddChoice",""
