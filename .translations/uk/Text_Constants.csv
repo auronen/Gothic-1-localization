@@ -151,7 +151,7 @@
 "Scripts/content/Story/Text.d:341","Schürfer","Гірник","","False","NAME_Schuerfer","",""
 "Scripts/content/Story/Text.d:342","Bandit","Злодій","","False","NAME_Organisator","",""
 "Scripts/content/Story/Text.d:343","Söldner","Найманець","","False","NAME_Soeldner","",""
-"Scripts/content/Story/Text.d:344","Novize","Новак","","","NAME_Novize","",""
+"Scripts/content/Story/Text.d:344","Novize","Новак","","False","NAME_Novize","",""
 "Scripts/content/Story/Text.d:345","Templer","Храмовник","","False","NAME_Templer","",""
 "Scripts/content/Story/Text.d:346","Räuber","Нальотчик","","False","NAME_Raeuber","",""
 "Scripts/content/Story/Text.d:347","Rausschmeisser","Громило","","False","NAME_Tuersteher","",""
