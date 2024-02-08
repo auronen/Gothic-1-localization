@@ -1,7 +1,7 @@
 instance GUR_1211_BaalLukor(Npc_Default)
 {
 	// -------- primary data --------
-	name							= "Baal Lukor";
+	name							= NAME_BaalLukor;
 	npctype							= NpcType_Friend;
 	guild							= GIL_GUR;
 	level							= 50;

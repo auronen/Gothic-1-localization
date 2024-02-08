@@ -353,6 +353,9 @@ const string TXT_INV_CAT [INV_CAT_MAX] = {
 	const string NAME_OrcShaman					= "Ur-Shak";
 	const string NAME_CuredOrc					= "Tarrok";
 
+	const string NAME_BaalLukor					= "Baal Lukor";
+	const string NAME_GorBoba					= "Gor Boba";
+
 
 // *************************************************************
 // DIALOG OPTIONEN
