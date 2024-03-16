@@ -125,7 +125,7 @@
 "Scripts/content/Story/MISSIONS/DIA_ORC_Shaman.d:175","Was heißt KRUSHAK?","КРУШАК? Хто це такий?","","","Info_OrcShaman_KRUSHAK.description","",""
 "Scripts/content/Story/MISSIONS/DIA_ORC_Shaman.d:188","Was heißt KRUSHAK?","КРУШАК? Хто це такий?","","","Info_OrcShaman_KRUSHAK_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_ORC_Shaman.d:189","Menschen sagen SCHLAFEN.","Люди кажуть — СПИТИ.","","False","Info_OrcShaman_KRUSHAK_17_02","",""
-"Scripts/content/Story/MISSIONS/DIA_ORC_Shaman.d:190","Du meinst 'Schläfer'?","Ти маєш на увазі Сплячего?","","","Info_OrcShaman_KRUSHAK_15_03","",""
+"Scripts/content/Story/MISSIONS/DIA_ORC_Shaman.d:190","Du meinst 'Schläfer'?","Ти маєш на увазі Сплячого?","","False","Info_OrcShaman_KRUSHAK_15_03","",""
 "Scripts/content/Story/MISSIONS/DIA_ORC_Shaman.d:191","Ja, Menschen sagen SCHLÄFER!","Так, люди кажуть СПЛЯЧИЙ!","","","Info_OrcShaman_KRUSHAK_17_04","",""
 "Scripts/content/Story/MISSIONS/DIA_ORC_Shaman.d:203","Was weißt du über den Schläfer?","Що ти знаєш про Сплячого?","","","Info_OrcShaman_SLEEPER.description","",""
 "Scripts/content/Story/MISSIONS/DIA_ORC_Shaman.d:216","Was weißt du über den Schläfer?","Що ти знаєш про Сплячого?","","","Info_OrcShaman_SLEEPER_15_01","",""
