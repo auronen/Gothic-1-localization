@@ -123,7 +123,7 @@
 "Scripts/content/Story/MISSIONS/DIA_EBR_105_Raven.d:361","Was belästigst du mich dann?","Чому тоді мене турбуєш?","","","DIA_Raven_SpyBericht_10_06","",""
 "Scripts/content/Story/MISSIONS/DIA_EBR_106_Bartholo.d:33","Wer bist du?","Ким ти є?","","","Info_Bartholo_HAllo.description","",""
 "Scripts/content/Story/MISSIONS/DIA_EBR_106_Bartholo.d:43","Wer bist du?","Ким ти є?","","","Info_Bartholo_HAllo_15_00","",""
-"Scripts/content/Story/MISSIONS/DIA_EBR_106_Bartholo.d:44","Ich bin Bartholo. Ich kümmere mich um die Versorgung der Erzbarone.","Мене звати Бартоло. Я постачальник магнатів.","","False","Info_Bartholo_HAllo_12_01","",""
+"Scripts/content/Story/MISSIONS/DIA_EBR_106_Bartholo.d:44","Ich bin Bartholo. Ich kümmere mich um die Versorgung der Erzbarone.","Мене звати Бартоло. Я постачальник баронів.","","False","Info_Bartholo_HAllo_12_01","",""
 "Scripts/content/Story/MISSIONS/DIA_EBR_106_Bartholo.d:45","Ich regele alles - von Krautlieferungen, über Essen bis hin zur Versorgung der Frauen.","Я забезпечую їх усім: від трави до їжі та жінок.","","","Info_Bartholo_HAllo_12_02","",""
 "Scripts/content/Story/MISSIONS/DIA_EBR_106_Bartholo.d:46","Außerdem sorge ich dafür, dass die beiden idiotischen Köche ihre Arbeit gut machen.","Крім того, я стежу за цими недоумками з кухні.","","","Info_Bartholo_HAllo_12_03","",""
 "Scripts/content/Story/MISSIONS/DIA_EBR_106_Bartholo.d:47","Sie sollten mir dafür dankbar sein. Gomez lässt sich nicht jeden Fraß gefallen. Die letzten beiden hat er an die Snapper im Fluss verfüttert.","Ці дурні повинні бути мені вдячні. Ґомез не терпить халтур, навіть на кухні. Попередніх двох кухарів він згодував топельцям у річці.","","","Info_Bartholo_HAllo_12_04","",""
