@@ -289,7 +289,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Stt_329_Dexter.d:199","Gut, gut, 50 Erzbrocken kann ich gerade noch entbehren. Enttäusch mich nicht, Kleiner!","Ах, хай тобі грець! Ось твої 50 брилок. Тільки не намагайся мене обдурити, хлопче!","","","DIA_Dexter_JoinOC_ForgetIt_10_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_329_Dexter.d:226","Wo ist das Sektenlager?","Як мені дістатися до табору на багні?","","","DIA_Dexter_WhereST.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_329_Dexter.d:239","Wo ist das Sektenlager?","Як мені дістатися до табору на багні?","","","DIA_Dexter_WhereST_15_00","",""
-"Scripts/content/Story/MISSIONS/DIA_Stt_329_Dexter.d:240","Durch den Südausgang aus dem Lager raus, dann immer östlich halten. Am besten besorgst du dir eine Karte -","Вийди із Зовнішнього кільця через південну браму, потім прямуй на схід. Найкраще взяти з собою мапу...","","False","DIA_Dexter_WhereST_10_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Stt_329_Dexter.d:240","Durch den Südausgang aus dem Lager raus, dann immer östlich halten. Am besten besorgst du dir eine Karte -","Вийди із зовнішнього кільця через південну браму, потім прямуй на схід. Найкраще взяти з собою мапу...","","False","DIA_Dexter_WhereST_10_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_329_Dexter.d:245","Ich hab' eine da für 50 Erz ...","У мене тут є одна як раз. Коштує всього 50 брилок...","","","DIA_Dexter_WhereST_10_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_329_Dexter.d:248","Der Südausgang ist der umgestürzte Turm, richtig?","Південна брама — це та, що біля зруйнованої вежі, так?","","False","DIA_Dexter_WhereST_15_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_329_Dexter.d:249","Stimmt genau.","Точно.","","","DIA_Dexter_WhereST_10_03","",""
