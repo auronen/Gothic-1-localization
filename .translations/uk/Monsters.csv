@@ -27,7 +27,7 @@
 "Scripts/content/AI/Monster/Mst_Molerat.d:8","Molerat","Кротощур","","False","Mst_Default_Molerat.name","",""
 "Scripts/content/AI/Monster/Mst_Molerat.d:105","junge Molerat","Молодий кротощур","","False","YMolerat.name","",""
 "Scripts/content/AI/Monster/Mst_OrcBiter.d:8","Beisser","Кусач","","False","Mst_Default_OrcBiter.name","",""
-"Scripts/content/AI/Monster/Mst_OrcDog.d:8","Orc-Hund","Оркський пес","","False","Mst_Default_OrcDog.name","",""
+"Scripts/content/AI/Monster/Mst_OrcDog.d:8","Orc-Hund","Орочий пес","","False","Mst_Default_OrcDog.name","",""
 "Scripts/content/AI/Monster/Mst_OrcScout.d:8","Orc Jäger","Орк розвідник","","False","Mst_Default_OrcScout.name","",""
 "Scripts/content/AI/Monster/Mst_OrcScout.d:109","Ork","Орк","","False","OrcPeasantEatAndDrink.name","",""
 "Scripts/content/AI/Monster/Mst_OrcScout.d:140","Orc Späher","Орк розвідник","","False","OrcScoutGYD.name","",""
