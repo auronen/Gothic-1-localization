@@ -7,7 +7,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:57","Wie du willst. War nett, dich gekannt zu haben.","Як хочеш. Було приємно познайомитися з тобою.","","","Info_Diego_EXIT_Gamestart_11_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:61","Wir sehen uns im Alten Lager.","Зустрінемося в Старому таборі.","","False","Info_Diego_EXIT_Gamestart_11_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:96","Weiter geht's.","Ходімо.","","","Info_Diego_EXIT_11_01","",""
-"Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:100","Mach's gut.","Зачекай.","","","Info_Diego_EXIT_15_00","",""
+"Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:100","Mach's gut.","Стережися.","","False","Info_Diego_EXIT_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:115","Ich habe einen Brief für den obersten Feuermagier.","У мене є лист до верховного мага вогню.","","False","Info_Diego_Brief.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:128","Ich habe einen Brief für den obersten Feuermagier.","У мене є лист до верховного мага вогню.","","False","Info_Diego_Brief_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:129","So...?","Справді...?","","","Info_Diego_Brief_11_01","",""
