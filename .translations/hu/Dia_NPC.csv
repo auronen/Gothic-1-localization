@@ -51,7 +51,7 @@
 "Scripts/content/Story/NPC/Gur_1208_BaalCadar.d:4","Baal Cadar","Baal Cadar","","","GUR_1208_BaalCadar.name","",""
 "Scripts/content/Story/NPC/Gur_1209_BaalOrun.d:4","Baal Orun","Baal Orun","","","GUR_1209_BaalOrun.name","",""
 "Scripts/content/Story/NPC/Gur_1210_BaalTyon.d:4","Baal Tyon","Baal Tyon","","","GUR_1210_BaalTyon.name","",""
-"Scripts/content/Story/NPC/Gur_1211_BaalLukor.d:4","Baal Lukor","Baal Lukor","","","NAME_BaalLukor","",""
+"Scripts/content/Story/NPC/Gur_1211_BaalLukor.d:4","Baal Lukor","Baal Lukor","","False","NAME_BaalLukor","",""
 "Scripts/content/Story/NPC/InExtremo.d:7","Dr. Pymonte","Dr. Pymonte","","","InExtremo_DrPymonte.name","",""
 "Scripts/content/Story/NPC/InExtremo.d:63","The Flail","The Flail","","","InExtremo_TheFlail.name","",""
 "Scripts/content/Story/NPC/InExtremo.d:120","Thomas the forger","Thomas a Kovács","","","InExtremo_ThomasTheForger.name","",""
