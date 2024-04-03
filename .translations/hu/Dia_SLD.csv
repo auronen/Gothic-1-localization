@@ -335,7 +335,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Sld_760_Soeldner.d:124","Also ein wenig mehr Respekt, wenn ich bitten darf.","Szóval mutass kicsit több tiszteletet, kérlek.","","False","DIA_SLD_760_Soeldner_INMINE_INFO_13_06","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_760_Soeldner.d:125","Ich weiß zwar nicht, wo er gerade ist, aber wenn du ihm begegnest. solltest du das immer im Hinterkopf haben.","Nem tudom merre van épp, de ha összefutsz vele, jobb ha észben tartod amit elmeséltem.","","False","DIA_SLD_760_Soeldner_INMINE_INFO_13_07","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_761_Soeldner.d:21","Was machst du hier an der Mine?","Mit művelsz itt a bányánál?","","False","DIA_SLD_761_Soeldner_INTRO_INFO_03_01","",""
-"Scripts/content/Story/MISSIONS/DIA_Sld_761_Soeldner.d:31","Ich hab' noch was zu erledigen.","El kell intéznem egy-két ügyet. (VÉGE)","","False","DIA_SLD_761_Soeldner_EXIT_1.description","",""
+"Scripts/content/Story/MISSIONS/DIA_Sld_761_Soeldner.d:31","Ich hab' noch was zu erledigen.","Még van befejezetlen teendőm. (VÉGE)","","False","DIA_SLD_761_Soeldner_EXIT_1.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_761_Soeldner.d:41","Ich hab' noch was zu erledigen.","El kell intéznem egy-két ügyet.","","False","DIA_SLD_761_Soeldner_EXIT_1_INFO_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_761_Soeldner.d:42","Das denke ich auch.","Ezt én is így gondolom.","","False","DIA_SLD_761_Soeldner_EXIT_1_INFO_03_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_761_Soeldner.d:54","Ich geh dann mal.","Jobban teszem ha megyek. (VÉGE)","","False","DIA_SLD_761_Soeldner_EXIT_2.description","",""
