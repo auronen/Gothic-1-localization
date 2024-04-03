@@ -304,7 +304,7 @@
 "Scripts/content/Story/Text.d:600","maximale Mana +","Maximum Mana +","","False","NAME_RaiseManaMax","",""
 "Scripts/content/Story/Text.d:601","maximale Lebensenergie +","Maximum Életerő +","","False","NAME_RaiseHealthMax","",""
 "Scripts/content/Story/Text.d:605","Meister, ich möchte die hohe Robe des Feuers tragen.","Mester, viselni szeretném a Tűzmágus Mesterek palástját.","","False","NAME_CorristoHighRobe","",""
-"Scripts/content/Story/Text.d:606","Hohe Robe","Szeretném viselni a Víz Mesterköpenyét.","","False","NAME_SaturasHighRobe","",""
+"Scripts/content/Story/Text.d:606","Hohe Robe","Szeretném viselni a Víz Mester palástját.","","False","NAME_SaturasHighRobe","",""
 "Scripts/content/Story/Text.d:607","Schwere Schattenrüstung. Schutz: Waffen 40, Pfeile 5, Feuer 20","Nehéz Árnypáncél. Védelem: Fegyverek 40, Nyilak 5, Tűz 20","","False","NAME_DiegoHeavyShadows","",""
 "Scripts/content/Story/Text.d:608","Schwere Garderüstung. Schutz: Waffen 70, Pfeile 10, Feuer 35","Nehéz Őrpáncél. Védelem: Fegyverek 70, Nyilak 10, Tűz 35","","False","NAME_StoneHeavyGuards","",""
 "Scripts/content/Story/Text.d:609","Garderüstung. Schutz: Waffen 55, Pfeile 10, Feuer 25","Őrpáncél. Védelem: Fegyverek 55, Nyilak 10, Tűz 25","","False","NAME_StoneGuards","",""
