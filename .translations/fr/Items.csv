@@ -764,7 +764,7 @@
 "Scripts/content/Items/MISC.d:331","","","","","ItMiSwordbladehot.text[1]","",""
 "Scripts/content/Items/MISC.d:332","","","","","ItMiSwordbladehot.text[2]","",""
 "Scripts/content/Items/MISC.d:333","","","","","ItMiSwordbladehot.text[3]","",""
-"Scripts/content/Items/MISC.d:340","Klinge","Blade","","","ItMiSwordblade.name","",""
+"Scripts/content/Items/MISC.d:340","Klinge","Lame","","False","ItMiSwordblade.name","",""
 "Scripts/content/Items/MISC.d:351","","","","","ItMiSwordblade.text[0]","",""
 "Scripts/content/Items/MISC.d:352","","","","","ItMiSwordblade.text[1]","",""
 "Scripts/content/Items/MISC.d:353","","","","","ItMiSwordblade.text[2]","",""
