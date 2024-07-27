@@ -113,7 +113,7 @@ class C_Item
 	var func on_state [4];
 
 	// Besitzer
-	var func owner; // Besitzer : Instanz-Name
+	var int owner; // Besitzer : Instanz-Name
 	var int ownerGuild; // Besitzer : Gilde
 	var int disguiseGuild; // Zur Schau getragene Gilde durch Verkleidung
 
