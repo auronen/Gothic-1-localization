@@ -205,7 +205,7 @@
 "Scripts/content/Story/Text.d:427","Mana + ","Маг. сила +","","","NAME_BuyAttributeMAN","",""
 "Scripts/content/Story/Text.d:432","Erfahrung + ","Опыт +","","","NAME_XPGained","",""
 "Scripts/content/Story/Text.d:433","Stufe gestiegen!","Достигнут новый уровень!","","","NAME_LevelUp","",""
-"Scripts/content/Story/Text.d:435","neuer Tagebucheintrag","В дневнике появилась новая запись.","","","NAME_NewLogEntry","",""
+"Scripts/content/Story/Text.d:435","neuer Tagebucheintrag","В дневнике появилась новая запись.","","True","NAME_NewLogEntry","",""
 "Scripts/content/Story/Text.d:437","Lerne: Kampf mit Einhandwaffen","Навык: владение одноручным мечом","","","PRINT_LEARN_Onehanded","",""
 "Scripts/content/Story/Text.d:438","Lerne: Kampf mit Zweihandwaffen","Навык: владение двуручным мечом","","","PRINT_LEARN_Twohanded","",""
 "Scripts/content/Story/Text.d:439","Lerne: Bogenschießen","Навык: стрельба из лука","","","PRINT_LEARN_Bow","",""
