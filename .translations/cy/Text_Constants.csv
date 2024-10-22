@@ -205,7 +205,7 @@
 "Scripts/content/Story/Text.d:427","Mana + ","Mana + ","","False","NAME_BuyAttributeMAN","",""
 "Scripts/content/Story/Text.d:432","Erfahrung + ","","","False","NAME_XPGained","",""
 "Scripts/content/Story/Text.d:433","Stufe gestiegen!","Lefel Newydd!","","False","NAME_LevelUp","",""
-"Scripts/content/Story/Text.d:435","neuer Tagebucheintrag","cofnod dyddiadur newydd","","False","NAME_NewLogEntry","",""
+"Scripts/content/Story/Text.d:435","neuer Tagebucheintrag","cofnod dyddiadur newydd","","True","NAME_NewLogEntry","",""
 "Scripts/content/Story/Text.d:437","Lerne: Kampf mit Einhandwaffen","","","False","PRINT_LEARN_Onehanded","",""
 "Scripts/content/Story/Text.d:438","Lerne: Kampf mit Zweihandwaffen","","","False","PRINT_LEARN_Twohanded","",""
 "Scripts/content/Story/Text.d:439","Lerne: Bogenschießen","Dysgu: Saethu bwa","","False","PRINT_LEARN_Bow","",""
