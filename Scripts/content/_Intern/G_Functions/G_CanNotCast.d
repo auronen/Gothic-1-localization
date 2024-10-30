@@ -27,16 +27,16 @@ func void G_CanNotCast(var int bIsPlayer, var int nCircleNeeded, var int nCircle
 		strMessage = ConcatStrings(strMessage, _STR_CANNOTUSE_POST_NPC);
 	};
 
-#if ru_snowball
+#if ru_snowball {
 	strMessage = ConcatStrings(strMessage, strDifference);
 	strMessage = ConcatStrings(strMessage, _STR_CANNOTUSE_LEVELS);
-#else
+} else {
 	strMessage = ConcatStrings(strMessage, strDifference);
 	strMessage = ConcatStrings(strMessage, " ");
 	strMessage = ConcatStrings(strMessage, _STR_ATTRIBUTE_MAGIC_CIRCLE);
 	strMessage = ConcatStrings(strMessage, _STR_CANNOTUSE_LEVELS);
 	strMessage = ConcatStrings(strMessage, _STR_CANNOTUSE_POST);
-#endif
+} 
 
 	//
 	//	PRINT MESSAGE

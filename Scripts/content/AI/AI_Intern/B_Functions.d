@@ -554,31 +554,31 @@ func void B_GiveInvItems(var C_Npc giver, var C_Npc taker, var int itemInstance,
 	{
 		if (itemInstance == ItMiNugget)
 		{
-#if (pl || ru_snowball || uk)
+#if (pl || ru_snowball || uk) {
 			msg = ConcatStrings(_STR_MESSAGE_ORE_GIVEN, IntToString(amount));
-#else
+} else {
 			msg = ConcatStrings(IntToString(amount), _STR_MESSAGE_ORE_GIVEN);
-#endif
+} 
 			PrintScreen(msg, -1, _YPOS_MESSAGE_GIVEN, "FONT_OLD_10_WHITE.TGA", _TIME_MESSAGE_GIVEN);
 		}
 		else
 		{
 			if (amount == 1)
 			{
-#if ru_snowball
+#if ru_snowball {
 				msg = ConcatStrings(_STR_MESSAGE_ITEM_GIVEN, " ");
-#else
+} else {
 				msg = ConcatStrings(IntToString(amount), _STR_MESSAGE_ITEM_GIVEN);
-#endif
+} 
 				PrintScreen(msg, -1, _YPOS_MESSAGE_GIVEN, "FONT_OLD_10_WHITE.TGA", _TIME_MESSAGE_GIVEN);
 			}
 			else
 			{
-#if (pl || ru_snowball || uk)
+#if (pl || ru_snowball || uk) {
 				msg = ConcatStrings(_STR_MESSAGE_ITEMS_GIVEN, IntToString(amount));
-#else
+} else {
 				msg = ConcatStrings(IntToString(amount), _STR_MESSAGE_ITEMS_GIVEN);
-#endif
+} 
 				PrintScreen(msg, -1, _YPOS_MESSAGE_GIVEN, "FONT_OLD_10_WHITE.TGA", _TIME_MESSAGE_GIVEN);
 			};
 		};
@@ -587,31 +587,31 @@ func void B_GiveInvItems(var C_Npc giver, var C_Npc taker, var int itemInstance,
 	{
 		if (itemInstance == ItMiNugget)
 		{
-#if (pl || uk)
+#if (pl || uk) {
 			msg = ConcatStrings(_STR_MESSAGE_ORE_TAKEN, IntToString(amount));
-#else
+} else {
 			msg = ConcatStrings(IntToString(amount), _STR_MESSAGE_ORE_TAKEN);
-#endif
+} 
 			PrintScreen(msg, -1, _YPOS_MESSAGE_TAKEN, "FONT_OLD_10_WHITE.TGA", _TIME_MESSAGE_TAKEN);
 		}
 		else
 		{
 			if (amount == 1)
 			{
-#if ru_snowball
+#if ru_snowball {
 				msg = ConcatStrings(_STR_MESSAGE_ITEM_TAKEN, " ");
-#else
+} else {
 				msg = ConcatStrings(IntToString(amount), _STR_MESSAGE_ITEM_TAKEN);
-#endif
+} 
 				PrintScreen(msg, -1, _YPOS_MESSAGE_TAKEN, "FONT_OLD_10_WHITE.TGA", _TIME_MESSAGE_TAKEN);
 			}
 			else
 			{
-#if (pl || ru_snowball || uk)
+#if (pl || ru_snowball || uk) {
 				msg = ConcatStrings(_STR_MESSAGE_ITEMS_TAKEN, IntToString(amount));
-#else
+} else {
 				msg = ConcatStrings(IntToString(amount), _STR_MESSAGE_ITEMS_TAKEN);
-#endif
+} 
 				PrintScreen(msg, -1, _YPOS_MESSAGE_TAKEN, "FONT_OLD_10_WHITE.TGA", _TIME_MESSAGE_TAKEN);
 			};
 		};
