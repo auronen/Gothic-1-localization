@@ -120,8 +120,8 @@ func void UseLukor_Bugfixbook()
 
 	var C_Npc bugfix_baallukor; bugfix_baallukor = Hlp_GetNpc(GUR_1211_BaalLukor);
 	Npc_ExchangeRoutine(bugfix_baallukor, "Follow");
-	Npc_RemoveInvItem(hero, Lukor_Bugfixbook);
-	Wld_RemoveItem(Lukor_Bugfixbook);
+	_ = Npc_RemoveInvItem(hero, Lukor_Bugfixbook);
+	_ = Wld_RemoveItem(Lukor_Bugfixbook);
 };
 
 instance Lester_Bugfixbook(C_Item)
@@ -180,8 +180,8 @@ func void UseLester_Bugfixbook()
 
 	var C_Npc bugfix_lester; bugfix_lester = Hlp_GetNpc(PC_PSIONIC);
 	Npc_ExchangeRoutine(bugfix_lester, "start");
-	Npc_RemoveInvItem(hero, Lester_Bugfixbook);
-	Wld_RemoveItem(Lester_Bugfixbook);
+	_ = Npc_RemoveInvItem(hero, Lester_Bugfixbook);
+	_ = Wld_RemoveItem(Lester_Bugfixbook);
 };
 
 /*

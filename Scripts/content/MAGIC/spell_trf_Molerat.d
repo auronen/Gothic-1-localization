@@ -11,7 +11,7 @@ func int Spell_Logic_Trf_Molerat(var int manaInvested)
 
 	if (manaInvested >= SPL_SENDCAST_TRF_MOLERAT)
 	{
-		Npc_SetActiveSpellInfo(self, Molerat);
+		_ = Npc_SetActiveSpellInfo(self, Molerat);
 		return SPL_SENDCAST;
 	};
 

@@ -15,7 +15,7 @@ func void ZS_HerbAlchemy()
 			AI_GotoWP(self, self.wp);
 		};
 
-		AI_UseMob(self, "HERB", 1); // Benutze den Mob einmal bis zum angegebenen State
+		_ = AI_UseMob(self, "HERB", 1); // Benutze den Mob einmal bis zum angegebenen State
 	};
 };
 
@@ -35,7 +35,7 @@ func void ZS_HerbAlchemy_Loop()
 
 func void ZS_HerbAlchemy_End()
 {
-	AI_UseMob(self, "HERB", -1); // Verlasse diesen Mobsi
+	_ = AI_UseMob(self, "HERB", -1); // Verlasse diesen Mobsi
 
 	PrintDebugNpc(PD_TA_FRAME, "ZS_HerbAlchemy_End");
 };

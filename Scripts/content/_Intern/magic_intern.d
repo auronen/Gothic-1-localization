@@ -102,7 +102,7 @@ class C_Spell {
 };
 
 prototype C_Spell_Proto(C_Spell) {
-	time_per_mana = 500; // Zeit pro investierten Manapunkt (ms)
+	time_per_mana = 500.0; // Zeit pro investierten Manapunkt (ms)
 	damage_per_level = 1; // Schaden pro Level
 	damageType = DAM_BLUNT; // CAN BE ONLY ONE DAMAGE TYPE
 	spellType = SPELL_BAD; // Good, Neutral or Bad

@@ -129,7 +129,7 @@ func void ORG_801_Lares_BringList_Info()
 	Points_NC = Points_NC + 10;
 
 	Lares_BringListBack = LOG_RUNNING;
-	Npc_RemoveInvItem(hero, TheList);
+	_ = Npc_RemoveInvItem(hero, TheList);
 	CreateInvItem(hero, TheListNC);
 
 	if (Npc_GetTrueGuild(hero) == GIL_NONE)
@@ -405,12 +405,12 @@ func void ORG_801_Lares_Reicht_Info()
 		AI_Output(self, other, "ORG_801_Lares_Reicht_AUFNAHME_11_01"); //Und ich habe sogar ein Geschenk für dich. Eine bessere Rüstung. Nicht viel, aber du hast sie dir verdient.
 
 		hero.guild = GIL_ORG;
-		Npc_SetTrueGuild(hero, GIL_ORG);
+		_ = Npc_SetTrueGuild(hero, GIL_ORG);
 		CreateInvItem(hero, ORG_ARMOR_L);
 
 		CreateInvItem(self, ItAmArrow);
 		B_GiveInvItems(self, hero, ItAmArrow, 1);
-		Npc_RemoveInvItem(hero, ItAmArrow);
+		_ = Npc_RemoveInvItem(hero, ItAmArrow);
 
 		AI_EquipBestArmor(hero);
 		B_GiveXP(XP_BecomeBandit);

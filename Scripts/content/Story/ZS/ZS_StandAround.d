@@ -131,7 +131,7 @@ func void ZS_StandAround_End()
 {
 	PrintDebugNpc(PD_TA_FRAME, "ZS_StandAround_End");
 
-	C_StopLookAt(self);
+	_ = C_StopLookAt(self);
 	B_ClearItem(self);
 };
 
@@ -150,7 +150,7 @@ func void B_SmallTalk()
 		B_FullStop(other);
 		Npc_SetTarget(other, self);
 
-		Npc_GetTarget(self);
+		_ = Npc_GetTarget(self);
 		AI_StartState(other, ZS_Smalltalk, 1, "");
 
 		Npc_PercDisable(self, PERC_ASSESSPLAYER);
@@ -158,7 +158,7 @@ func void B_SmallTalk()
 		B_FullStop(self);
 		Npc_SetTarget(self, other);
 
-		Npc_GetTarget(self);
+		_ = Npc_GetTarget(self);
 		AI_StartState(self, ZS_Smalltalk, 1, "");
 	};
 };

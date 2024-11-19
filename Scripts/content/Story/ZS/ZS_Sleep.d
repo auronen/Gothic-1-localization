@@ -28,12 +28,12 @@ func void ZS_SleepBed()
 
 	if (Wld_IsMobAvailable(self, "BED"))
 	{
-		AI_UseMob(self, "BED", 1);
+		_ = AI_UseMob(self, "BED", 1);
 	}
 	else if (Wld_IsMobAvailable(self, "BEDHIGH") || Wld_IsMobAvailable(self, "BEDLOW"))
 	{
-		AI_UseMob(self, "BEDHIGH", 1); // Mehrfache Mob-Benutzung okay, weil nachfolgende UseMobs ignoriert werden, wenn UseMob schon aktiv ist
-		AI_UseMob(self, "BEDLOW", 1); // Mobs werden nur benutzt, wenn NSC sie sehen kann und wenn sie frei sind (sagt Ulf)
+		_ = AI_UseMob(self, "BEDHIGH", 1); // Mehrfache Mob-Benutzung okay, weil nachfolgende UseMobs ignoriert werden, wenn UseMob schon aktiv ist
+		_ = AI_UseMob(self, "BEDLOW", 1); // Mobs werden nur benutzt, wenn NSC sie sehen kann und wenn sie frei sind (sagt Ulf)
 	}
 	else
 	{
@@ -65,9 +65,9 @@ func void ZS_SleepBed_End()
 		B_Say(self, NULL, "$AWAKE");
 	};
 
-	AI_UseMob(self, "BEDHIGH", -1);
-	AI_UseMob(self, "BEDLOW", -1);
-	AI_UseMob(self, "BED", -1);
+	_ = AI_UseMob(self, "BEDHIGH", -1);
+	_ = AI_UseMob(self, "BEDLOW", -1);
+	_ = AI_UseMob(self, "BED", -1);
 };
 
 func void B_SleepQuietSound()

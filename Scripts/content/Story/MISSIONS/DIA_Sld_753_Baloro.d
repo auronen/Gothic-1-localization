@@ -175,13 +175,13 @@ func void DIA_SLD_753_Baloro_habsdabei_Info()
 
 	B_GiveInvItems(other, self, ItFoApple, 19); // Nötig für die Ausschrift "19 Itmes abgegeben", wird sofort angeglichen.
 
-	Npc_RemoveInvItems(other, ItFoBooze, 2);
-	Npc_RemoveInvItems(other, ItFoBeer, 5);
-	Npc_RemoveInvItems(other, ItFoLoaf, 3);
-	Npc_RemoveInvItems(other, ItFoCheese, 2);
-	Npc_RemoveInvItems(other, ItFo_wineberrys_01, 2);
+	_ = Npc_RemoveInvItems(other, ItFoBooze, 2);
+	_ = Npc_RemoveInvItems(other, ItFoBeer, 5);
+	_ = Npc_RemoveInvItems(other, ItFoLoaf, 3);
+	_ = Npc_RemoveInvItems(other, ItFoCheese, 2);
+	_ = Npc_RemoveInvItems(other, ItFo_wineberrys_01, 2);
 
-	Npc_RemoveInvItems(self, ItFoApple, 14);
+	_ = Npc_RemoveInvItems(self, ItFoApple, 14);
 	CreateInvItems(self, ItFoBooze, 2);
 	CreateInvItems(self, ItFoBeer, 5);
 	CreateInvItems(self, ItFoLoaf, 3);

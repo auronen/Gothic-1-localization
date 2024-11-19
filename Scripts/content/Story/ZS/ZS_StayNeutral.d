@@ -43,5 +43,5 @@ func void ZS_StayNeutral_End()
 	PrintDebugNpc(PD_TA_FRAME, "ZS_StayNeutral_End");
 	self.senses = hero.senses;
 
-	C_StopLookAt(self);
+	_ = C_StopLookAt(self);
 };

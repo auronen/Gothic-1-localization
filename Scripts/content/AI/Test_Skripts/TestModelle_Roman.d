@@ -473,7 +473,7 @@ instance Allround_Testmodell(NPC_DEFAULT)
 // ----------------------------------------------------------------
 /*func void B_SetCutScenePerceptions()
 {
-	PrintScreen("B_SetCutScenePerceptions ...", -1, 50, "FONT_OLD_20_WHITE.TGA", 10);
+	_ = PrintScreen("B_SetCutScenePerceptions ...", -1, 50, "FONT_OLD_20_WHITE.TGA", 10);
 };
 
 */
@@ -502,7 +502,7 @@ func void ZS_TestEmpty()
 	//
 	//	LOOK AT PLAYER
 	//
-	PrintScreen("Looking at player ...", -1, 50, "FONT_OLD_20_WHITE.TGA", 2);
+	_ = PrintScreen("Looking at player ...", -1, 50, "FONT_OLD_20_WHITE.TGA", 2);
 
 	AI_LookAtNpc(self, hero);
 };
@@ -534,7 +534,7 @@ func void ZS_TestEmpty_End()
 func void ZS_TestSmoke()
 {
 	B_ChooseJoint(self);
-	AI_UseMob(self, "SMOKE", 1);
+	_ = AI_UseMob(self, "SMOKE", 1);
 };
 
 // ----------------------------------------------------------------
@@ -552,7 +552,7 @@ func int ZS_TestSmoke_Loop()
 // ----------------------------------------------------------------
 func void ZS_TestSmoke_End()
 {
-	AI_UseMob(self, "SMOKE", -1);
+	_ = AI_UseMob(self, "SMOKE", -1);
 	AI_UseItemToState(self, ItMiJoint_1, -1);
 };
 
@@ -573,7 +573,7 @@ func void ZS_TestGuild()
 	else if (m_nGuild == GIL_NONE) { m_nGuild = GIL_GRD; }
 	else if (m_nGuild == GIL_GRD) { m_nGuild = GIL_VLK; }
 	else if (m_nGuild == GIL_VLK) { m_nGuild = GIL_NONE; };
-	Npc_SetTrueGuild(hero, m_nGuild);
+	_ = Npc_SetTrueGuild(hero, m_nGuild);
 };
 
 // ----------------------------------------------------------------
@@ -632,7 +632,7 @@ func void ZS_TestInfos_End()
 // ----------------------------------------------------------------
 func void ZS_TestTimedMDS()
 {
-	PrintScreen("Applying druken overlay for 5000 ticks ...", -1, -1, "FONT_OLD_20_WHITE.TGA", 3);
+	_ = PrintScreen("Applying druken overlay for 5000 ticks ...", -1, -1, "FONT_OLD_20_WHITE.TGA", 3);
 
 	Mdl_ApplyOverlayMDSTimed(self, "HUMANS_DRUNKEN.MDS", 5000);
 };
@@ -670,7 +670,7 @@ func void ZS_TestSpell()
 	//
 	//	ACTIVATE SPELL
 	//
-	PrintScreen("Increasing Mana ...", -1, 50, "FONT_OLD_20_WHITE.TGA", 3);
+	_ = PrintScreen("Increasing Mana ...", -1, 50, "FONT_OLD_20_WHITE.TGA", 3);
 
 	g_nMana = g_nMana + 1;
 
@@ -689,7 +689,7 @@ func void ZS_TestSpell()
 	//
 	if (Npc_HasSpell(self, g_nSpell))
 	{
-		PrintScreen("Readying spell ...", -1, 40, "FONT_OLD_20_WHITE.TGA", 3);
+		_ = PrintScreen("Readying spell ...", -1, 40, "FONT_OLD_20_WHITE.TGA", 3);
 		AI_ReadySpell(self, SPL_FIREBALL, g_nMana);
 	};
 };
@@ -725,17 +725,17 @@ func void ZS_TestMagic()
 	//
 	//	ACTIVATE SPELL
 	//
-	PrintScreen("Unreadying spell ...", -1, 30, "FONT_OLD_20_WHITE.TGA", 3);
+	_ = PrintScreen("Unreadying spell ...", -1, 30, "FONT_OLD_20_WHITE.TGA", 3);
 	AI_UnreadySpell(self);
 
 	if (Npc_HasSpell(self, g_nSpell))
 	{
-		PrintScreen("Readying spell ...", -1, 40, "FONT_OLD_20_WHITE.TGA", 3);
+		_ = PrintScreen("Readying spell ...", -1, 40, "FONT_OLD_20_WHITE.TGA", 3);
 		AI_ReadySpell(self, g_nSpell, 50);
 	}
 	else
 	{
-		PrintScreen("Spell unavailable ...", -1, 60, "FONT_OLD_20_WHITE.TGA", 3);
+		_ = PrintScreen("Spell unavailable ...", -1, 60, "FONT_OLD_20_WHITE.TGA", 3);
 	};
 
 	//
@@ -776,13 +776,13 @@ func void ZS_TestMagic_End()
 // ----------------------------------------------------------------
 func void ZS_TestDefend()
 {
-	PrintScreen("Readying weapon ...", -1, 30, "FONT_OLD_20_WHITE.TGA", 3);
+	_ = PrintScreen("Readying weapon ...", -1, 30, "FONT_OLD_20_WHITE.TGA", 3);
 
 	AI_StandUp(self);
-	AI_EquipBestMeleeWeapon(self);
+	_ = AI_EquipBestMeleeWeapon(self);
 	AI_ReadyMeleeWeapon(self);
 
-	PrintScreen("Defending self ...", -1, 40, "FONT_OLD_20_WHITE.TGA", 3);
+	_ = PrintScreen("Defending self ...", -1, 40, "FONT_OLD_20_WHITE.TGA", 3);
 	AI_Defend(self);
 };
 
@@ -812,7 +812,7 @@ func void ZS_TestDefend_End()
 // ----------------------------------------------------------------
 func void ZS_TestDamage()
 {
-	PrintScreen("Got damage ...", -1, 30, "FONT_OLD_20_WHITE.TGA", 3);
+	_ = PrintScreen("Got damage ...", -1, 30, "FONT_OLD_20_WHITE.TGA", 3);
 
 	AI_StartState(self, ZS_TestDefend, 0, "  ");
 };
@@ -887,7 +887,7 @@ func void ZS_TestPatrol_End()
 // ----------------------------------------------------------------
 func void ZS_TestMoveMob()
 {
-	PrintScreen("Stopping ...", -1, 30, "FONT_OLD_20_WHITE.TGA", 3);
+	_ = PrintScreen("Stopping ...", -1, 30, "FONT_OLD_20_WHITE.TGA", 3);
 
 	//
 	//	ANHALTEN
@@ -906,7 +906,7 @@ func void ZS_TestMoveMob_Loop()
 	//
 	if (!Npc_IsWayBlocked(self))
 	{
-		PrintScreen("Way is free now ...", -1, 40, "FONT_OLD_20_WHITE.TGA", 3);
+		_ = PrintScreen("Way is free now ...", -1, 40, "FONT_OLD_20_WHITE.TGA", 3);
 
 		//
 		//	DANN MAL LOS
@@ -961,7 +961,7 @@ func void ZS_TestTeleport()
 	strWaypoint = ConcatStrings(strWaypoint, g_strWaypoint);
 	strWaypoint = ConcatStrings(strWaypoint, " ...");
 
-	PrintScreen(strWaypoint, -1, -1, "FONT_OLD_20_WHITE.TGA", 3);
+	_ = PrintScreen(strWaypoint, -1, -1, "FONT_OLD_20_WHITE.TGA", 3);
 
 	//
 	//	ACTUALLY GO THERE
@@ -1023,7 +1023,7 @@ func void ZS_TestAttitude()
 // ----------------------------------------------------------------
 func void ZS_TestAttitude_Loop()
 {
-	PrintScreen(strMessage, -1, -1, "FONT_OLD_20_WHITE.TGA", 1);
+	_ = PrintScreen(strMessage, -1, -1, "FONT_OLD_20_WHITE.TGA", 1);
 };
 
 // ----------------------------------------------------------------
@@ -1049,23 +1049,23 @@ func void ZS_TestDraw()
 	//
 	//	ARM RANGED WEAPON
 	//
-	PrintScreen("Arming ranged weapon ...", -1, 50, "FONT_OLD_20_WHITE.TGA", 2);
+	_ = PrintScreen("Arming ranged weapon ...", -1, 50, "FONT_OLD_20_WHITE.TGA", 2);
 
 	AI_StandUp(self);
-	AI_EquipBestRangedWeapon(self);
+	_ = AI_EquipBestRangedWeapon(self);
 	AI_ReadyRangedWeapon(self);
 
 	//
 	//	AIM AT PLAYER
 	//
-	PrintScreen("Aiming at player ...", -1, 60, "FONT_OLD_20_WHITE.TGA", 2);
+	_ = PrintScreen("Aiming at player ...", -1, 60, "FONT_OLD_20_WHITE.TGA", 2);
 
 	AI_AimAt(self, hero);
 
 	//
 	//	... NEXT TIME SOMEONE TALKS TO ME, I WILL SHOOT ...
 	//
-	PrintScreen("Next time I will shoot ...", -1, 70, "FONT_OLD_20_WHITE.TGA", 2);
+	_ = PrintScreen("Next time I will shoot ...", -1, 70, "FONT_OLD_20_WHITE.TGA", 2);
 
 	Npc_PercEnable(self, PERC_ASSESSTALK, ZS_TestShoot);
 };
@@ -1099,21 +1099,21 @@ func void ZS_TestShoot()
 	//
 	//	SHOOT
 	//
-	PrintScreen("Shooting at player ...", -1, 50, "FONT_OLD_20_WHITE.TGA", 2);
+	_ = PrintScreen("Shooting at player ...", -1, 50, "FONT_OLD_20_WHITE.TGA", 2);
 
 	AI_ShootAt(self, hero);
 
 	//
 	//	STAND UP
 	//
-	PrintScreen("Standing up ...", -1, 60, "FONT_OLD_20_WHITE.TGA", 2);
+	_ = PrintScreen("Standing up ...", -1, 60, "FONT_OLD_20_WHITE.TGA", 2);
 
 	AI_StandUp(self);
 
 	//
 	//	UNREADY WEAPON
 	//
-	PrintScreen("Removing weapon ...", -1, 70, "FONT_OLD_20_WHITE.TGA", 2);
+	_ = PrintScreen("Removing weapon ...", -1, 70, "FONT_OLD_20_WHITE.TGA", 2);
 
 	AI_RemoveWeapon(self);
 
@@ -1150,11 +1150,11 @@ func void ZS_TestShoot_End()
 func void ZS_TestFinishMove()
 {
 	//	INFO
-	PrintScreen("Arming weapon ...", -1, 20, "FONT_OLD_20_WHITE.TGA", 2);
+	_ = PrintScreen("Arming weapon ...", -1, 20, "FONT_OLD_20_WHITE.TGA", 2);
 
 	//	ARM
 	AI_StandUp(self);
-	AI_EquipBestMeleeWeapon(self);
+	_ = AI_EquipBestMeleeWeapon(self);
 	AI_ReadyMeleeWeapon(self);
 	Npc_SetAttitude(self, ATT_HOSTILE);
 
@@ -1172,7 +1172,7 @@ func void ZS_TestFinishMove_Loop()
 	//
 	// ATTACK
 	//
-	PrintScreen("Attacking hero ...", -1, 25, "FONT_OLD_20_WHITE.TGA", 2);
+	_ = PrintScreen("Attacking hero ...", -1, 25, "FONT_OLD_20_WHITE.TGA", 2);
 
 	AI_Attack(self);
 
@@ -1181,7 +1181,7 @@ func void ZS_TestFinishMove_Loop()
 		//
 		// FINISH MOVE
 		//
-		PrintScreen("Finishing hero ...", -1, 30, "FONT_OLD_20_WHITE.TGA", 2);
+		_ = PrintScreen("Finishing hero ...", -1, 30, "FONT_OLD_20_WHITE.TGA", 2);
 
 		AI_FinishingMove(self, hero);
 
@@ -1226,7 +1226,7 @@ func void ZS_TestUse()
 	//	GEH ZUM BETT
 	//
 	AI_GotoWP(self, "WP_INDOOR_14");
-	AI_UseMob(self, "BEDHIGH", 1);
+	_ = AI_UseMob(self, "BEDHIGH", 1);
 };
 
 // ----------------------------------------------------------------
@@ -1270,24 +1270,24 @@ func void ZS_TestTalk()
 	//
 
 	//	X-CENTERED
-	PrintScreen("There is urest in the forest", -1, 10, "FONT_OLD_10_WHITE.TGA", 5);
-	PrintScreen("There is trouble with the trees", -1, 15, "FONT_OLD_10_WHITE.TGA", 6);
-	PrintScreen("For the maples want more sunlight", -1, 20, "FONT_OLD_10_WHITE.TGA", 7);
-	PrintScreen("And the oaks ignore their please", -1, 25, "FONT_OLD_10_WHITE.TGA", 8);
+	_ = PrintScreen("There is urest in the forest", -1, 10, "FONT_OLD_10_WHITE.TGA", 5);
+	_ = PrintScreen("There is trouble with the trees", -1, 15, "FONT_OLD_10_WHITE.TGA", 6);
+	_ = PrintScreen("For the maples want more sunlight", -1, 20, "FONT_OLD_10_WHITE.TGA", 7);
+	_ = PrintScreen("And the oaks ignore their please", -1, 25, "FONT_OLD_10_WHITE.TGA", 8);
 
 	//	Y-CENTERED
-	PrintScreen("10%", 10, -1, "FONT_OLD_10_WHITE.TGA", 5);
-	PrintScreen("20%", 20, -1, "FONT_OLD_10_WHITE.TGA", 6);
-	PrintScreen("30%", 30, -1, "FONT_OLD_10_WHITE.TGA", 7);
-	PrintScreen("40%", 40, -1, "FONT_OLD_10_WHITE.TGA", 8);
-	PrintScreen("50%", 50, -1, "FONT_OLD_10_WHITE.TGA", 9);
-	PrintScreen("60%", 60, -1, "FONT_OLD_10_WHITE.TGA", 8);
-	PrintScreen("70%", 70, -1, "FONT_OLD_10_WHITE.TGA", 7);
-	PrintScreen("80%", 80, -1, "FONT_OLD_10_WHITE.TGA", 6);
-	PrintScreen("90%", 90, -1, "FONT_OLD_10_WHITE.TGA", 5);
+	_ = PrintScreen("10%", 10, -1, "FONT_OLD_10_WHITE.TGA", 5);
+	_ = PrintScreen("20%", 20, -1, "FONT_OLD_10_WHITE.TGA", 6);
+	_ = PrintScreen("30%", 30, -1, "FONT_OLD_10_WHITE.TGA", 7);
+	_ = PrintScreen("40%", 40, -1, "FONT_OLD_10_WHITE.TGA", 8);
+	_ = PrintScreen("50%", 50, -1, "FONT_OLD_10_WHITE.TGA", 9);
+	_ = PrintScreen("60%", 60, -1, "FONT_OLD_10_WHITE.TGA", 8);
+	_ = PrintScreen("70%", 70, -1, "FONT_OLD_10_WHITE.TGA", 7);
+	_ = PrintScreen("80%", 80, -1, "FONT_OLD_10_WHITE.TGA", 6);
+	_ = PrintScreen("90%", 90, -1, "FONT_OLD_10_WHITE.TGA", 5);
 
 	//	X/Y-CENTERED
-	PrintScreen("THE   TREES", -1, -1, "FONT_OLD_20_WHITE.TGA", 10);
+	_ = PrintScreen("THE   TREES", -1, -1, "FONT_OLD_20_WHITE.TGA", 10);
 
 	//
 	//	KOTZ-SCENE
@@ -1383,7 +1383,7 @@ func void MoveItem(var int nAmount, var int nSlot)
 		//	EIGENTLICHER TRANSFER
 		//
 		nItem = Hlp_GetInstanceID(item);
-		Npc_RemoveInvItems(self, nItem, nAmount);
+		_ = Npc_RemoveInvItems(self, nItem, nAmount);
 		// CreateInvItems( other, nItem, nAmount );
 	};
 };
@@ -2042,10 +2042,10 @@ func int Trade_Test_Check()
 	strRequestedItem = "Requested item : ";
 	strRequestedItem = ConcatStrings(strRequestedItem, IntToString(Trade_Test.requested_item));
 
-	PrintScreen(strTradeAmount, 10, 20, "FONT_OLD_20_WHITE.TGA", 3);
-	PrintScreen(strTradeItem, 10, 30, "FONT_OLD_20_WHITE.TGA", 3);
-	PrintScreen(strRequestedAmount, 10, 40, "FONT_OLD_20_WHITE.TGA", 3);
-	PrintScreen(strRequestedItem, 10, 50, "FONT_OLD_20_WHITE.TGA", 3);
+	_ = PrintScreen(strTradeAmount, 10, 20, "FONT_OLD_20_WHITE.TGA", 3);
+	_ = PrintScreen(strTradeItem, 10, 30, "FONT_OLD_20_WHITE.TGA", 3);
+	_ = PrintScreen(strRequestedAmount, 10, 40, "FONT_OLD_20_WHITE.TGA", 3);
+	_ = PrintScreen(strRequestedItem, 10, 50, "FONT_OLD_20_WHITE.TGA", 3);
 
 	if (Trade_Test.requested_amount == 2) { return 1; };
 	return 0;
@@ -2073,7 +2073,7 @@ func int Info_Test_Trade_Success()
 
 func void Info_Test_Trade_Procedure()
 {
-	PrintScreen("Info_Test_Trade_Procedure()", -1, 50, "FONT_OLD_20_WHITE.TGA", 10);
+	_ = PrintScreen("Info_Test_Trade_Procedure()", -1, 50, "FONT_OLD_20_WHITE.TGA", 10);
 };
 
 // ########################################################################
@@ -2099,7 +2099,7 @@ func int Info_Test_Trade_Permanent_Success()
 
 func void Info_Test_Trade_Permanent_Procedure()
 {
-	PrintScreen("Info_Test_Trade_Permanent_Procedure()", -1, 50, "FONT_OLD_20_WHITE.TGA", 10);
+	_ = PrintScreen("Info_Test_Trade_Permanent_Procedure()", -1, 50, "FONT_OLD_20_WHITE.TGA", 10);
 };
 
 // ########################################################################
@@ -2124,7 +2124,7 @@ func int Info_Test_Permanent_Success()
 
 func void Info_Test_Permanent_Procedure()
 {
-	PrintScreen("Info_Test_Permanent_Procedure()", -1, 50, "FONT_OLD_20_WHITE.TGA", 10);
+	_ = PrintScreen("Info_Test_Permanent_Procedure()", -1, 50, "FONT_OLD_20_WHITE.TGA", 10);
 };
 
 // ########################################################################
@@ -2149,7 +2149,7 @@ func int Info_Test_Important_Success()
 
 func void Info_Test_Important_Procedure()
 {
-	PrintScreen("Info_Test_Important_Procedure()", -1, 50, "FONT_OLD_20_WHITE.TGA", 10);
+	_ = PrintScreen("Info_Test_Important_Procedure()", -1, 50, "FONT_OLD_20_WHITE.TGA", 10);
 };
 
 // ########################################################################
@@ -2175,7 +2175,7 @@ func int Info_Test_Important_Permanent_Success()
 
 func void Info_Test_Important_Permanent_Procedure()
 {
-	PrintScreen("Info_Test_Important_Permanent_Procedure()", -1, 50, "FONT_OLD_20_WHITE.TGA", 10);
+	_ = PrintScreen("Info_Test_Important_Permanent_Procedure()", -1, 50, "FONT_OLD_20_WHITE.TGA", 10);
 };
 
 // ########################################################################
@@ -2199,7 +2199,7 @@ func int Info_Test_Success_Normal()
 
 func void Info_Test_Procedure_Normal()
 {
-	PrintScreen("Info_Test_Procedure_Normal()", -1, 50, "FONT_OLD_20_WHITE.TGA", 10);
+	_ = PrintScreen("Info_Test_Procedure_Normal()", -1, 50, "FONT_OLD_20_WHITE.TGA", 10);
 };
 
 // ########################################################################
@@ -2223,7 +2223,7 @@ func int Info_Test_Success_Choice()
 
 func void Info_Test_Procedure_Choice()
 {
-	PrintScreen("Info_Test_Procedure_Choice()", -1, 50, "FONT_OLD_20_WHITE.TGA", 10);
+	_ = PrintScreen("Info_Test_Procedure_Choice()", -1, 50, "FONT_OLD_20_WHITE.TGA", 10);
 
 	Info_ClearChoices(Info_Test_Choice);
 	Info_AddChoice(Info_Test_Choice, "Yes", Info_Test_Procedure_Choice_Yes);
@@ -2277,7 +2277,7 @@ func int Info_Test_Success_Permanent_Choice()
 
 func void Info_Test_Procedure_Permanent_Choice()
 {
-	PrintScreen("Info_Test_Procedure_Permanent_Choice()", -1, 50, "FONT_OLD_20_WHITE.TGA", 10);
+	_ = PrintScreen("Info_Test_Procedure_Permanent_Choice()", -1, 50, "FONT_OLD_20_WHITE.TGA", 10);
 
 	Info_ClearChoices(Info_Test_Permanent_Choice);
 	Info_AddChoice(Info_Test_Permanent_Choice, "Ok", Info_Test_Procedure_Permanent_Choice_Yes);
@@ -2329,7 +2329,7 @@ func int Info_Test_Success_Permanent_Important_Choice()
 
 func void Info_Test_Procedure_Permanent_Important_Choice()
 {
-	PrintScreen("Info_Test_Procedure_Permanent_Important_Choice()", -1, 50, "FONT_OLD_20_WHITE.TGA", 10);
+	_ = PrintScreen("Info_Test_Procedure_Permanent_Important_Choice()", -1, 50, "FONT_OLD_20_WHITE.TGA", 10);
 
 	Info_ClearChoices(Info_Test_Permanent_Important_Choice);
 	Info_AddChoice(Info_Test_Permanent_Important_Choice, "Yes", Info_Test_Procedure_Permanent_Important_Choice_Yes);

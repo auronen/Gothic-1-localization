@@ -11,7 +11,7 @@ func int Spell_Logic_Trf_Scavenger(var int manaInvested)
 
 	if (manaInvested >= SPL_SENDCAST_TRF_SCAVENGER)
 	{
-		Npc_SetActiveSpellInfo(self, Scavenger);
+		_ = Npc_SetActiveSpellInfo(self, Scavenger);
 		return SPL_SENDCAST;
 	};
 

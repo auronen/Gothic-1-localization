@@ -22,13 +22,13 @@ func int ZS_Berzerk_Loop()
 		return LOOP_END;
 	};
 
-	Npc_GetTarget(self);
+	_ = Npc_GetTarget(self);
 	if (Hlp_IsValidNpc(other) // Ziel technisch gültig?
 	&& !C_NpcIsDown(other) // Ziel am Leben?
 	&& !Npc_IsPlayer(other)) // Ziel ein NSC (beim ersten Durchlaufen könnte es der Spieler sein!)
 	{
 		// -------- Ziel angreifen ! --------
-		Npc_GetTarget(self); // ...other initialisieren!
+		_ = Npc_GetTarget(self); // ...other initialisieren!
 		AI_Attack(self); // ...FAI anwerfen!
 		AI_Wait(self, 0.1);
 

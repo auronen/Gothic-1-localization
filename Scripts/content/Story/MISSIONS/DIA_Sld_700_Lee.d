@@ -203,7 +203,7 @@ func void Sld_700_Lee_BECOMESLDNOW_NOOTHER()
 	CreateInvItem(self, SLD_ARMOR_L);
 	B_GiveInvItems(self, hero, SLD_ARMOR_L, 1);
 	AI_EquipBestArmor(hero);
-	Npc_SetTrueGuild(hero, GIL_SLD);
+	_ = Npc_SetTrueGuild(hero, GIL_SLD);
 	hero.guild = GIL_SLD;
 	AI_StopProcessInfos(self);
 };
@@ -215,7 +215,7 @@ func void Sld_700_Lee_BECOMESLDNOW_FREEDOM()
 	CreateInvItem(self, SLD_ARMOR_L);
 	B_GiveInvItems(self, hero, SLD_ARMOR_L, 1);
 	AI_EquipBestArmor(hero);
-	Npc_SetTrueGuild(hero, GIL_SLD);
+	_ = Npc_SetTrueGuild(hero, GIL_SLD);
 	hero.guild = GIL_SLD;
 	AI_StopProcessInfos(self);
 };
@@ -227,7 +227,7 @@ func void Sld_700_Lee_BECOMESLDNOW_JUSTBECAUSE()
 	CreateInvItem(self, SLD_ARMOR_L);
 	B_GiveInvItems(self, hero, SLD_ARMOR_L, 1);
 	AI_EquipBestArmor(hero);
-	Npc_SetTrueGuild(hero, GIL_SLD);
+	_ = Npc_SetTrueGuild(hero, GIL_SLD);
 	hero.guild = GIL_SLD;
 	AI_StopProcessInfos(self);
 };
@@ -359,13 +359,13 @@ func void Sld_700_Lee_CHANGESIDE_Info()
 
 	CreateInvItem(self, SLD_ARMOR_M);
 	B_GiveInvItems(self, hero, SLD_ARMOR_M, 1);
-	Npc_GetInvItemBySlot(hero, INV_ARMOR, 2);
+	_ = Npc_GetInvItemBySlot(hero, INV_ARMOR, 2);
 	if (Hlp_GetInstanceID(item) == SLD_ARMOR_M)
 	{
 		AI_EquipArmor(hero, item);
 	};
 
-	Npc_SetTrueGuild(hero, GIL_SLD);
+	_ = Npc_SetTrueGuild(hero, GIL_SLD);
 	hero.guild = GIL_SLD;
 
 	B_LogEntry(CH4_BannedFromOC, CH4_BannedFromOC_13);
@@ -430,7 +430,7 @@ func void Sld_700_Lee_ARMOR_M()
 
 		CreateInvItem(self, ItAmArrow);
 		B_GiveInvItems(self, hero, ItAmArrow, 1);
-		Npc_RemoveInvItem(hero, ItAmArrow);
+		_ = Npc_RemoveInvItem(hero, ItAmArrow);
 	};
 };
 
@@ -455,7 +455,7 @@ func void Sld_700_Lee_ARMOR_H()
 		// nur wegen Bildschirmausgabe "1 Gegenstand erhalten"
 		CreateInvItem(self, ItAmArrow);
 		B_GiveInvItems(self, hero, ItAmArrow, 1);
-		Npc_RemoveInvItem(hero, ItAmArrow);
+		_ = Npc_RemoveInvItem(hero, ItAmArrow);
 	};
 };
 

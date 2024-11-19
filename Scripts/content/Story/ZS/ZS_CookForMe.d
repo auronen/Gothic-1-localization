@@ -16,7 +16,7 @@ func void ZS_CookForMe()
 			AI_GotoWP(self, self.wp);
 		};
 
-		AI_UseMob(self, "PAN", 1); // Benutze den Mob einmal bis zum angegebenen State
+		_ = AI_UseMob(self, "PAN", 1); // Benutze den Mob einmal bis zum angegebenen State
 	};
 };
 
@@ -38,6 +38,6 @@ func void ZS_CookForMe_End()
 {
 	PrintDebugNpc(PD_TA_FRAME, "ZS_CookForMe_End");
 
-	AI_UseMob(self, "PAN", -1); // Stell die Pfanne weg
+	_ = AI_UseMob(self, "PAN", -1); // Stell die Pfanne weg
 	AI_UseItem(self, ItFoMutton);
 };

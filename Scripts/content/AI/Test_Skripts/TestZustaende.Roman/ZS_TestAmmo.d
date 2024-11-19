@@ -1,7 +1,7 @@
 func void ZS_TestAmmo()
 {
 	Print("Arming");
-	AI_EquipBestRangedWeapon(self);
+	_ = AI_EquipBestRangedWeapon(self);
 	AI_ReadyRangedWeapon(self);
 };
 

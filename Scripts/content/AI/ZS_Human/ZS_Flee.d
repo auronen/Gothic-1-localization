@@ -71,7 +71,7 @@ func int ZS_Flee_Loop()
 		PrintDebugNpc(PD_ZS_CHECK, "...Gegner noch zu nah dran!");
 		Npc_SetTarget(self, other);
 
-		Npc_GetTarget(self);
+		_ = Npc_GetTarget(self);
 		AI_Flee(self); // ...also weiter fliehen!
 		AI_Wait(self, 1);
 		return LOOP_CONTINUE;

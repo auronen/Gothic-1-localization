@@ -338,12 +338,12 @@ func void DIA_Horatio_HelpSTR_LEARN_NOW()
 	if (other.attribute[ATR_STRENGTH] <= (100 - 5))
 	{
 		other.attribute[ATR_STRENGTH] = other.attribute[ATR_STRENGTH] + 5;
-		PrintScreen(PRINT_HORATIO_STRENGTH_5, -1, -1, "FONT_OLD_20_WHITE.TGA", 2);
+		_ = PrintScreen(PRINT_HORATIO_STRENGTH_5, -1, -1, "FONT_OLD_20_WHITE.TGA", 2);
 	}
 	else
 	{
 		other.attribute[ATR_STRENGTH] = 100;
-		PrintScreen(PRINT_HORATIO_STRENGTH_100, -1, -1, "FONT_OLD_20_WHITE.TGA", 2);
+		_ = PrintScreen(PRINT_HORATIO_STRENGTH_100, -1, -1, "FONT_OLD_20_WHITE.TGA", 2);
 	};
 
 	AI_Output(self, other, "DIA_Horatio_HelpSTR_LEARN_NOW_09_00"); //Wenn du stark zuschlagen willst, kommt es auf die richtige Technik an. Das ist das Erste, was du beim Schmieden lernst.

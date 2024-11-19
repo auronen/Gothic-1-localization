@@ -351,7 +351,7 @@ func int ZS_OrcGuard_ObserveIntruder_Loop()
 	{
 		PrintDebugNpc(PD_ORC_FRAME, "ZS_OrcGuard_ObserveIntruder_Loop: Ork-Waechter zieht Waffe");
 		AI_TurnToNpc(self, other);
-		AI_EquipBestMeleeWeapon(self);
+		_ = AI_EquipBestMeleeWeapon(self);
 		AI_DrawWeapon(self);
 	};
 
@@ -430,7 +430,7 @@ func int ZS_OrcGuard_ObserveIntruder_Loop()
 			PrintDebugNpc(PD_ORC_FRAME, "ZS_OrcGuard_ObserveIntruder: NEUTRAL: Waffe ziehen");
 			if (!Npc_HasReadiedWeapon(self))
 			{
-				AI_EquipBestMeleeWeapon(self);
+				_ = AI_EquipBestMeleeWeapon(self);
 				AI_DrawWeapon(self);
 			};
 
@@ -543,7 +543,7 @@ func int ZS_OrcWarrior_ObserveIntruder_Loop()
 			PrintDebugNpc(PD_ORC_FRAME, "ZS_OrcWarrior_ObserveIntruder: ANGRY: Waffe ziehen");
 			if (!Npc_HasReadiedWeapon(self))
 			{
-				AI_EquipBestMeleeWeapon(self);
+				_ = AI_EquipBestMeleeWeapon(self);
 				AI_DrawWeapon(self);
 			};
 
@@ -589,7 +589,7 @@ func int ZS_OrcWarrior_ObserveIntruder_Loop()
 			PrintDebugNpc(PD_ORC_FRAME, "ZS_OrcWarrior_ObserveIntruder: NEUTRAL: Waffe ziehen");
 			if (!Npc_HasReadiedWeapon(self))
 			{
-				AI_EquipBestMeleeWeapon(self);
+				_ = AI_EquipBestMeleeWeapon(self);
 				AI_DrawWeapon(self);
 			};
 
@@ -702,7 +702,7 @@ func int ZS_OrcScout_ObserveIntruder_Loop()
 			PrintDebugNpc(PD_ORC_FRAME, "ZS_OrcScout_ObserveIntruder: ANGRY: Waffe ziehen");
 			if (!Npc_HasReadiedWeapon(self))
 			{
-				AI_EquipBestMeleeWeapon(self);
+				_ = AI_EquipBestMeleeWeapon(self);
 				AI_DrawWeapon(self);
 			};
 
@@ -857,7 +857,7 @@ func int ZS_OrcShaman_ObserveIntruder_Loop()
 // funzt das mit magiern
 			if (!Npc_HasReadiedWeapon(self))
 			{
-				AI_EquipBestMeleeWeapon(self);
+				_ = AI_EquipBestMeleeWeapon(self);
 				AI_DrawWeapon(self);
 			};
 
@@ -900,7 +900,7 @@ func int ZS_OrcShaman_ObserveIntruder_Loop()
 // magier klappt das?
 			if (!Npc_HasReadiedWeapon(self))
 			{
-				AI_EquipBestMeleeWeapon(self);
+				_ = AI_EquipBestMeleeWeapon(self);
 				AI_DrawWeapon(self);
 			};
 

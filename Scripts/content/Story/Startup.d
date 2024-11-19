@@ -2237,7 +2237,7 @@ func void STARTUP_WORLD()
 
 	//die folgende Zeile gilt nur, bis die INIT_...-Funktionen von Ulf unterstützt werden.
 	INIT_WORLD					();
-	PlayVideo ("INTRO.BIK");
+	_ = PlayVideo ("INTRO.BIK");
 };
 
 /********************************************************

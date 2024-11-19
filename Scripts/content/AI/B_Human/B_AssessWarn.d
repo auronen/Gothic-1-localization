@@ -17,7 +17,7 @@ func void B_AssessWarn()
 		AI_StandUp(self); // eventuelle Item-Interacts abbrechen
 		Npc_SetTarget(self, other);
 
-		Npc_GetTarget(self);
+		_ = Npc_GetTarget(self);
 		AI_StartState(self, ZS_AssessMonster, 0, "");
 	}
 
@@ -27,7 +27,7 @@ func void B_AssessWarn()
 		AI_StandUp(self); // eventuelle Item-Interacts abbrechen
 		Npc_SetTarget(self, victim);
 
-		Npc_GetTarget(self);
+		_ = Npc_GetTarget(self);
 		AI_StartState(self, ZS_AssessMonster, 0, "");
 	}
 	else

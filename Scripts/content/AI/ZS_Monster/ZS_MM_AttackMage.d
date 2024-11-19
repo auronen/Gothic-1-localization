@@ -4,14 +4,14 @@ func void ZS_MM_AttackMage()
 	Npc_PercEnable(self, PERC_ASSESSDAMAGE, B_MMM_CombatReactToDamage);
 	Npc_PercEnable(self, PERC_ASSESSMAGIC, B_AssessMagic);
 
-	Npc_GetTarget(self);
+	_ = Npc_GetTarget(self);
 	B_SelectWeapon(self, other);
 };
 
 func int ZS_MM_AttackMage_Loop()
 {
 	PrintDebugNpc(PD_ZS_LOOP, "ZS_MM_AttackMage_Loop");
-	Npc_GetTarget(self);
+	_ = Npc_GetTarget(self);
 
 	/* -------- Wenn Gegner Bewußtlos oder Tod... -------- */
 	if (Npc_IsInState(other, ZS_Unconscious) || Npc_IsDead(other) || Npc_IsInState(other, ZS_Dead)) // WORKAROUND: es kann vorkommen, daß der SC in Zustand ZS_Dead landet, aber noch bewußtlos ist!!!
@@ -20,7 +20,7 @@ func int ZS_MM_AttackMage_Loop()
 
 		if (Npc_IsNextTargetAvailable(self))
 		{
-			Npc_GetNextTarget(self);
+			_ = Npc_GetNextTarget(self);
 			PrintDebugString(PD_ZS_CHECK, "...neues Ziel gefunden: ", other.name);
 		}
 		else

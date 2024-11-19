@@ -16,8 +16,8 @@ func void ZS_GuardWheelClosed()
 	if (Wld_GetMobState(self, "VWHEEL") == 0) // Tor offen?
 	{
 		PrintDebugNpc(PD_TA_CHECK, "...Tor offen!");
-		AI_UseMob(self, "VWHEEL", 1); // ...dann wieder zumachen!
-		AI_UseMob(self, "VWHEEL", -1); // und vom Mobsi abmelden
+		_ = AI_UseMob(self, "VWHEEL", 1); // ...dann wieder zumachen!
+		_ = AI_UseMob(self, "VWHEEL", -1); // und vom Mobsi abmelden
 		AI_AlignToWP(self);
 	};
 };

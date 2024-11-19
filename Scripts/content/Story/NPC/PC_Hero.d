@@ -453,5 +453,5 @@ func void Use_XP_Map()
 	CreateInvItems(self, ItMiNugget, 1000);
 	hero.lp = hero.lp + 20;
 
-	PrintScreen(PRINT_XP_MAP, -1, 40, "font_10_book.tga", 10);
+	_ = PrintScreen(PRINT_XP_MAP, -1, 40, "font_10_book.tga", 10);
 };

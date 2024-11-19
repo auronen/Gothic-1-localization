@@ -1,7 +1,7 @@
 func void DIA_EXTRO_AVI()
 {
-	PlayVideo("Extro.bik");
-	PlayVideo("PlayerOut.bik");
-	PlayVideo("Credits.bik");
+	_ = PlayVideo("Extro.bik");
+	_ = PlayVideo("PlayerOut.bik");
+	_ = PlayVideo("Credits.bik");
 	ExitGame(); // Beendet Spiel
 };

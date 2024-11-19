@@ -42,7 +42,7 @@ func void ZS_ReadBook_Xardas()
 	if (!C_BodyStateContains(self, BS_MOBINTERACT))
 	{
 		AI_GotoWP(self, self.wp);
-		AI_UseMob(self, "BOOK", 1); // Benutze den Mob einmal bis zum angegebenen State
+		_ = AI_UseMob(self, "BOOK", 1); // Benutze den Mob einmal bis zum angegebenen State
 	};
 };
 
@@ -64,5 +64,5 @@ func void ZS_ReadBook_Xardas_End()
 {
 	PrintDebugNpc(PD_TA_FRAME, "ZS_ReadBook_End");
 
-	AI_UseMob(self, "BOOK", -1); // Nimm den Verlassen State ein
+	_ = AI_UseMob(self, "BOOK", -1); // Nimm den Verlassen State ein
 };

@@ -1522,7 +1522,7 @@ func void Info_Milten_LSDONE_Info()
 	AI_Output(self, hero, "Info_Milten_LSDONE_02_01"); //Es ist vollbracht!
 	AI_Output(hero, self, "Info_Milten_LSDONE_15_02"); //Unglaublich! Der unscheinbare graue Edelstein schimmert nun bläulich!
 
-	AI_EquipBestMeleeWeapon(hero);
+	_ = AI_EquipBestMeleeWeapon(hero);
 	AI_ReadyMeleeWeapon(hero);
 	AI_PlayAni(hero, "T_1HSINSPECT");
 	AI_RemoveWeapon(hero);

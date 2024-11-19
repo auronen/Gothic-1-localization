@@ -11,7 +11,7 @@ func int Spell_Logic_Trf_Orcdog(var int manaInvested)
 
 	if (manaInvested >= SPL_SENDCAST_TRF_ORCDOG)
 	{
-		Npc_SetActiveSpellInfo(self, Orcdog);
+		_ = Npc_SetActiveSpellInfo(self, Orcdog);
 		return SPL_SENDCAST;
 	};
 

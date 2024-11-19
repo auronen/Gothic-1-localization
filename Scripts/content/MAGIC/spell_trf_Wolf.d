@@ -11,7 +11,7 @@ func int Spell_Logic_Trf_Wolf(var int manaInvested)
 
 	if (manaInvested >= SPL_SENDCAST_TRF_WOLF)
 	{
-		Npc_SetActiveSpellInfo(self, Wolf);
+		_ = Npc_SetActiveSpellInfo(self, Wolf);
 		return SPL_SENDCAST;
 	};
 

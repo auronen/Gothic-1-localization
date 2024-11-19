@@ -102,7 +102,7 @@ func void DIA_GRD_203_Bullit_Wait4SC_Info()
 	AI_StopProcessInfos(self);
 
 	self.guild = GIL_GRD;
-	Npc_SetTrueGuild(self, GIL_GRD);
+	_ = Npc_SetTrueGuild(self, GIL_GRD);
 
 	Npc_SetAttitude(self, ATT_HOSTILE);
 	Npc_SetTempAttitude(self, ATT_HOSTILE);

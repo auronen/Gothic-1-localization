@@ -21,7 +21,7 @@ func void ZS_Unconscious()
 		};
 	};
 
-	C_StopLookAt(self);
+	_ = C_StopLookAt(self);
 	AI_StopPointAt(self);
 
 	if (C_BodyStateContains(self, BS_SWIM))

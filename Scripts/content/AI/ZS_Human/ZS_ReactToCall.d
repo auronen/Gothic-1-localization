@@ -21,11 +21,11 @@ func void ZS_ReactToCall()
 	Npc_PercEnable(self, PERC_ASSESSTALK, B_AssessTalk);
 
 	AI_TurnToNpc(self, other);
-	C_LookAtNpc(self, other);
+	_ = C_LookAtNpc(self, other);
 	if (Npc_GetTempAttitude(self, other) == ATT_HOSTILE)
 	{
 		PrintDebugNpc(PD_ZS_CHECK, "...feindlich!");
-		C_StopLookAt(self);
+		_ = C_StopLookAt(self);
 		B_AssessEnemy();
 		return;
 	}
@@ -71,5 +71,5 @@ func int ZS_ReactToCall_Wait_Loop()
 func int ZS_ReactToCall_Wait_End()
 {
 	PrintDebugNpc(PD_ZS_FRAME, "ZS_ReactToCall_Wait_End");
-	C_StopLookAt(self);
+	_ = C_StopLookAt(self);
 };

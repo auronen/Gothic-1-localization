@@ -105,16 +105,16 @@ func void ZS_FriendlyAttack()
 	Npc_PercEnable(self, PERC_ASSESSMAGIC, B_AssessMagic);
 	Npc_PercEnable(self, PERC_ASSESSREMOVEWEAPON, B_FriendlyAttackRemoveWeapon);
 
-	Npc_GetTarget(self);
+	_ = Npc_GetTarget(self);
 	B_DrawWeapon(self, other);
-	C_LookAtNpc(self, other);
+	_ = C_LookAtNpc(self, other);
 };
 
 func int ZS_FriendlyAttack_Loop()
 {
 	PrintDebugNpc(PD_ZS_LOOP, "ZS_FriendlyAttack_Loop");
 
-	Npc_GetTarget(self);
+	_ = Npc_GetTarget(self);
 
 	// -------- Ist SC bereits bewußtlos ? --------
 	if (Npc_IsInState(other, ZS_Unconscious))
@@ -126,13 +126,13 @@ func int ZS_FriendlyAttack_Loop()
 
 	// -------- Anschmeißen der FAI für diesen Frame --------
 	// PrintGlobals (PD_ZS_CHECK);
-	Npc_GetNextTarget(self);
+	_ = Npc_GetNextTarget(self);
 	// PrintDebugNpc (PD_ZS_CHECK, "...Npc_GetNextTarget() done!");
 	// PrintGlobals (PD_ZS_CHECK);
 	AI_Attack(self);
 	// PrintDebugNpc (PD_ZS_CHECK, "...AI_Attack() done!");
 	// PrintGlobals (PD_ZS_CHECK);
-	Npc_GetTarget(self);
+	_ = Npc_GetTarget(self);
 	// PrintDebugNpc (PD_ZS_CHECK, "...Npc_GetTarget() done!");
 	// PrintGlobals (PD_ZS_CHECK);
 
@@ -175,7 +175,7 @@ func int ZS_FriendlyAttack_Loop()
 func void ZS_FriendlyAttack_End()
 {
 	PrintDebugNpc(PD_ZS_FRAME, "ZS_FriendlyAttack_End");
-	C_StopLookAt(self);
+	_ = C_StopLookAt(self);
 	AI_RemoveWeapon(self);
 };
 

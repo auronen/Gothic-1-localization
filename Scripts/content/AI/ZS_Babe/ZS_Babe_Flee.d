@@ -15,7 +15,7 @@ func void ZS_Babe_Flee()
 		PrintDebugNpc(PD_ZS_CHECK, "Ich hau lieber ab.");
 		Npc_SetTarget(self, other);
 
-		Npc_GetTarget(self);
+		_ = Npc_GetTarget(self);
 		AI_Flee(self);
 	};
 };

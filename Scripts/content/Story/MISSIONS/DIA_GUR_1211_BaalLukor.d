@@ -406,8 +406,8 @@ func void Info_BaalLukor_RUNES_Info()
 	AI_Output(self, other, "Info_BaalLukor_RUNES_13_06"); //Das ist es! Es handelt sich um einen Teleportzauber. Er scheint aber nur an einem gewissen Ort seine Kraft entfalten zu können.
 	AI_Output(self, other, "Info_BaalLukor_RUNES_13_07"); //Seltsam!
 
-	Npc_RemoveInvItems(self, OrkParchmentOne, 1); // Pergament 1 entfernen
-	Npc_RemoveInvItems(self, OrkParchmentTwo, 1); // Pergament 2 entfernen
+	_ = Npc_RemoveInvItems(self, OrkParchmentOne, 1); // Pergament 1 entfernen
+	_ = Npc_RemoveInvItems(self, OrkParchmentTwo, 1); // Pergament 2 entfernen
 	// Hier Teleport-Übergabe entfernt --> erst wenn vor wand!
 
 	B_LogEntry(CH3_OrcGraveyard, CH3_OrcGraveyard_8);

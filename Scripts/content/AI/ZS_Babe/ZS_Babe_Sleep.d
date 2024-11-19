@@ -21,7 +21,7 @@ func void ZS_Babe_Sleep()
 			AI_GotoWP(self, self.wp);
 		};
 
-		AI_UseMob(self, "BABEBED", 1);
+		_ = AI_UseMob(self, "BABEBED", 1);
 	};
 };
 
@@ -34,5 +34,5 @@ func void ZS_Babe_Sleep_Loop()
 func void ZS_Babe_Sleep_End()
 {
 	PrintDebugNpc(PD_TA_FRAME, "ZS_BabeSleep_End");
-	AI_UseMob(self, "BABEBED", -1);
+	_ = AI_UseMob(self, "BABEBED", -1);
 };

@@ -10,7 +10,7 @@ func void ZS_MoveNpcWait()
 	Npc_PercEnable(self, PERC_ASSESSTHREAT, B_AssessFighter);
 	Npc_PercEnable(self, PERC_ASSESSENTERROOM, B_AssessEnterRoom);
 
-	C_LookAtNpc(self, other);
+	_ = C_LookAtNpc(self, other);
 };
 
 func void ZS_MoveNpcWait_Loop()
@@ -74,7 +74,7 @@ func void ZS_MoveNpcWait1_Loop()
 		}
 		else
 		{
-			C_StopLookAt(self); // da in ZS_MoveNpc() der Blockierer nach dem Waffenziehen angeguckt wird!
+			_ = C_StopLookAt(self); // da in ZS_MoveNpc() der Blockierer nach dem Waffenziehen angeguckt wird!
 			AI_ContinueRoutine(self);
 			return;
 		};
@@ -101,7 +101,7 @@ func void ZS_MoveNpcFriendlyWait()
 	Npc_PercEnable(self, PERC_ASSESSTHREAT, B_AssessFighter);
 	Npc_PercEnable(self, PERC_ASSESSENTERROOM, B_AssessEnterRoom);
 
-	C_LookAtNpc(self, other);
+	_ = C_LookAtNpc(self, other);
 };
 
 func void ZS_MoveNpcFriendlyWait_Loop()
@@ -121,5 +121,5 @@ func void ZS_MoveNpcFriendlyWait_Loop()
 func void ZS_MoveNpcFriendlyWait_End()
 {
 	PrintDebugNpc(PD_ZS_FRAME, "ZS_MoveNpcFriendlyWait_End");
-	C_StopLookAt(self); // da in ZS_MoveNpc() der Blockierer nach dem Waffenziehen angeguckt wird!
+	_ = C_StopLookAt(self); // da in ZS_MoveNpc() der Blockierer nach dem Waffenziehen angeguckt wird!
 };

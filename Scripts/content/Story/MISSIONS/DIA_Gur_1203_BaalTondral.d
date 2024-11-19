@@ -238,7 +238,7 @@ func void DIA_BaalTondral_DustySuccess_Info()
 	dusty.aivar[AIV_PARTYMEMBER] = FALSE;
 	dusty.flags = 0; // Immortal löschen
 	dusty.guild = GIL_NOV;
-	Npc_SetTrueGuild(dusty, GIL_NOV);
+	_ = Npc_SetTrueGuild(dusty, GIL_NOV);
 	B_ExchangeRoutine(Vlk_524_Dusty, "PREPARERITUAL");
 
 	BaalTondral_GetNewGuy = LOG_SUCCESS;

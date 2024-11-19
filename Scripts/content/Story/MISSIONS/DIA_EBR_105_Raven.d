@@ -212,7 +212,7 @@ func void DIA_Raven_BinDabei_Info()
 
 	CreateInvItem(self, ItAmArrow);
 	B_GiveInvItems(self, hero, ItAmArrow, 1);
-	Npc_RemoveInvItem(hero, ItAmArrow);
+	_ = Npc_RemoveInvItem(hero, ItAmArrow);
 
 	AI_Output(other, self, "DIA_Raven_BinDabei_15_00"); //Gomez sagt, ich bin dabei.
 	AI_Output(self, other, "DIA_Raven_BinDabei_10_01"); //Gut! Du kannst dich gleich bei deinem ersten Auftrag bewähren.

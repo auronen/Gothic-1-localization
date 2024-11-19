@@ -96,7 +96,7 @@ func void DIA_GorNaDrak_TeachMandibles_Info()
 	AI_Output(other, self, "DIA_GorNaDrak_TeachMandibles_15_00"); //Kannst du mir sagen, wie ich an das Sekret eines Minecrawlers herankomme?
 	AI_Output(self, other, "DIA_GorNaDrak_TeachMandibles_09_01"); //Klar, nachdem du das Vieh getötet hast, packst du es an den Beißzangen und reißt sie gerade heraus. Dann kommt die Sekretdrüse mit raus, ohne zu zerreißen.
 
-	PrintScreen(PRINT_LEARN_CrawlerMandibles1, -1, -1, "FONT_OLD_20_WHITE.TGA", 3);
+	_ = PrintScreen(PRINT_LEARN_CrawlerMandibles1, -1, -1, "FONT_OLD_20_WHITE.TGA", 3);
 	Knows_GetMCMandibles = TRUE;
 	Log_CreateTopic(GE_AnimalTrophies, LOG_NOTE);
 	B_LogEntry(GE_AnimalTrophies, GE_AnimalTrophies_CrawlerMandibles);

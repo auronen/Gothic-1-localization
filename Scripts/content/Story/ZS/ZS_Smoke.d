@@ -13,7 +13,7 @@ func void ZS_Smoke()
 
 	if (Wld_IsMobAvailable(self, "SMOKE"))
 	{
-		AI_UseMob(self, "SMOKE", 1); // Benutze den Mob einmal bis zum angegebenen State
+		_ = AI_UseMob(self, "SMOKE", 1); // Benutze den Mob einmal bis zum angegebenen State
 	}
 	else if (Wld_IsFPAvailable(self, "STAND"))
 	{
@@ -38,6 +38,6 @@ func void ZS_Smoke_End()
 	}
 	else
 	{
-		AI_UseMob(self, "SMOKE", -1); // Lösen vom Mobsi bei verlassen des Zustandes, wegen Zeit oder Reaktion
+		_ = AI_UseMob(self, "SMOKE", -1); // Lösen vom Mobsi bei verlassen des Zustandes, wegen Zeit oder Reaktion
 	};
 };

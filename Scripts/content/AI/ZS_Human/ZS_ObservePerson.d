@@ -20,7 +20,7 @@ func void ZS_ObservePerson()
 	Npc_PercEnable(self, PERC_ASSESSTALK, B_AssessTalk);
 	Npc_PercEnable(self, PERC_ASSESSCALL, ZS_ReactToCall);
 
-	C_LookAtNpc(self, other);
+	_ = C_LookAtNpc(self, other);
 };
 
 func int ZS_ObservePerson_Loop()
@@ -35,5 +35,5 @@ func int ZS_ObservePerson_Loop()
 func void ZS_ObservePerson_End()
 {
 	PrintDebugNpc(PD_ZS_LOOP, "ZS_ObservePerson_End");
-	C_StopLookAt(self);
+	_ = C_StopLookAt(self);
 };

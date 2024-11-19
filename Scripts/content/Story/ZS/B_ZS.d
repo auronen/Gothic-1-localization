@@ -518,7 +518,7 @@ func void B_StartUseMob(var C_Npc slf, var string mobname)
 			AI_GotoWP(slf, slf.wp);
 		};
 
-		AI_UseMob(slf, mobname, 1);
+		_ = AI_UseMob(slf, mobname, 1);
 	};
 };
 
@@ -526,5 +526,5 @@ func void B_StopUseMob(var C_Npc slf, var string mobname)
 {
 	PrintDebugNpc(PD_TA_DETAIL, "B_StopUseMob");
 
-	AI_UseMob(slf, mobname, -1);
+	_ = AI_UseMob(slf, mobname, -1);
 };

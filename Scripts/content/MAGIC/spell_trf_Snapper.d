@@ -11,7 +11,7 @@ func int Spell_Logic_Trf_Snapper(var int manaInvested)
 
 	if (manaInvested >= SPL_SENDCAST_TRF_SNAPPER)
 	{
-		Npc_SetActiveSpellInfo(self, Snapper);
+		_ = Npc_SetActiveSpellInfo(self, Snapper);
 		return SPL_SENDCAST;
 	};
 

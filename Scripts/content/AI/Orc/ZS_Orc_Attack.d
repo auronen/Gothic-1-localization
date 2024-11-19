@@ -13,7 +13,7 @@ func void ZS_Orc_Attack()
 
 	if (!Npc_HasReadiedWeapon(self))
 	{
-		AI_EquipBestMeleeWeapon(self);
+		_ = AI_EquipBestMeleeWeapon(self);
 		AI_DrawWeapon(self);
 	};
 };
@@ -69,7 +69,7 @@ func int ZS_Orc_Attack_Loop()
 			}
 			else
 			{
-				Npc_GetNextTarget(self); // target und other werden initialisiert
+				_ = Npc_GetNextTarget(self); // target und other werden initialisiert
 			};
 		};
 	};

@@ -11,7 +11,7 @@ func void B_Story_BringFoci()
 	// -------- Ausrüstung für Spieler --------
 	CreateInvItems(self, ItWrFocimap, 2); // 2, damit die Bildschirmausgabe stimmt!
 	B_GiveInvItems(self, hero, ItWrFocimap, 2);
-	Npc_RemoveInvItem(hero, ItWrFocimap);
+	_ = Npc_RemoveInvItem(hero, ItWrFocimap);
 
 	CreateInvItem(hero, ItArScrollTeleport2);
 

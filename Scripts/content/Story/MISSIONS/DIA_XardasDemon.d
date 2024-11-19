@@ -215,7 +215,7 @@ func void Info_XardasDemon_STONEHEART_Info()
 	AI_Output(hero, self, "Info_XardasDemon_STONEHEART_15_01"); //Ich habe hier das Herz eines Steingolems!
 
 	B_GiveInvItems(hero, self, ItAt_StoneGolem_01, 1);
-	Npc_RemoveInvItem(self, ItAt_StoneGolem_01);
+	_ = Npc_RemoveInvItem(self, ItAt_StoneGolem_01);
 
 	B_XardasDemon_GiveHeart();
 };

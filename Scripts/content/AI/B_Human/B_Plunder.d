@@ -109,12 +109,12 @@ func int B_Plunder()
 	// Zurückgenommene Waffen werden nicht mitangegeben bei amountPlundered, da sich die SVMs dabei nur auf Erz beziehen.
 	// Z.Zt. ist INV_MAX_WEAPONS noch auf 6
 
-	B_CheckItem(INV_WEAPON, 1);
-	B_CheckItem(INV_WEAPON, 2);
-	B_CheckItem(INV_WEAPON, 3);
-	B_CheckItem(INV_WEAPON, 4);
-	B_CheckItem(INV_WEAPON, 5);
-	B_CheckItem(INV_WEAPON, 6);
+	_ = B_CheckItem(INV_WEAPON, 1);
+	_ = B_CheckItem(INV_WEAPON, 2);
+	_ = B_CheckItem(INV_WEAPON, 3);
+	_ = B_CheckItem(INV_WEAPON, 4);
+	_ = B_CheckItem(INV_WEAPON, 5);
+	_ = B_CheckItem(INV_WEAPON, 6);
 
 	// -------- Durchsuchen von MISC ---------
 	if (B_CheckItem(INV_MISC, 1)) { amountPlundered = amountPlundered + 1; };

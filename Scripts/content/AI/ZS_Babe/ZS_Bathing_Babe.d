@@ -16,7 +16,7 @@ func void ZS_Bathing_Babe()
 		// Lege die Rüstung an, funzt nur wenn dies die beste Rüstung ist !!!! ACHTUNG !!!
 		AI_EquipBestArmor(self);
 		// wenn vorhanden dann reinsteigen
-		AI_UseMob(self, "BATHTUB", 1);
+		_ = AI_UseMob(self, "BATHTUB", 1);
 
 		// Spiele div. random-Anis dazu ab
 		Mdl_ApplyRandomAni(self, "S_BATHTUB_S1", "T_BATHTUB_RANDOM1");
@@ -40,11 +40,11 @@ func void ZS_Bathing_Babe_End()
 {
 	PrintDebug("Enter ZS_Bathing_Babe_End() ");
 	// Aus der Wanne steigen
-	AI_UseMob(self, "BATHTUB", -1);
+	_ = AI_UseMob(self, "BATHTUB", -1);
 	// Ziehe Nackrüstung aus
 	AI_UnequipArmor(self);
 	// Nackig-Rüstung wieder aus dem Inv entfernen
-	Npc_RemoveInvItem(self, BAB_ARMOR_NUDE);
+	_ = Npc_RemoveInvItem(self, BAB_ARMOR_NUDE);
 };
 
 /*
@@ -77,7 +77,7 @@ func void ZS_Bathing_Babe()
 			PrintDebug("Wanne gefunden! Gehe baden");
 
 			// wenn vorhanden dann reinsteigen
-			AI_UseMob(self, "BATHTUB", 1);
+			_ = AI_UseMob(self, "BATHTUB", 1);
 
 			// Spiele div. random-Anis dazu ab
 			Mdl_ApplyRandomAni(self, "S_BATHTUB_S1", "T_BATHTUB_RANDOM1");
@@ -113,7 +113,7 @@ func void ZS_Bathing_Babe_End()
 		PrintDebug("FP_UNDRESS found. Dressing !");
 
 		// Aus der Wanne steigen
-		AI_UseMob(self, "BATHTUB", -1);
+		_ = AI_UseMob(self, "BATHTUB", -1);
 
 		// gehe zum Umkleide-FP
 		AI_GotoFP(self, "FP_UNDRESS_");
@@ -128,7 +128,7 @@ func void ZS_Bathing_Babe_End()
 	};
 
 	// Nackig-Rüstung wieder aus dem Inv entfernen
-	Npc_RemoveInvItem(self, BAB_ARMOR_NUDE);
+	_ = Npc_RemoveInvItem(self, BAB_ARMOR_NUDE);
 };
 
 */

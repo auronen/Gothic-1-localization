@@ -264,9 +264,9 @@ func void DIA_BaalIsidro_ThinkAgain_Info()
 		// Itemübergabe
 		CreateInvItems(self, itmijoint_1, 40);
 		B_GiveInvItems(self, other, itmijoint_1, 50); // Notwendig zur Textausgabe "50 Items übergeben", wird sofort ausgeglichen
-		Npc_RemoveInvItems(self, itmijoint_2, 20);
-		Npc_RemoveInvItems(self, itmijoint_3, 20);
-		Npc_RemoveInvItems(other, itmijoint_1, 40);
+		_ = Npc_RemoveInvItems(self, itmijoint_2, 20);
+		_ = Npc_RemoveInvItems(self, itmijoint_3, 20);
+		_ = Npc_RemoveInvItems(other, itmijoint_1, 40);
 		CreateInvItems(other, itmijoint_2, 20);
 		CreateInvItems(other, itmijoint_3, 20);
 

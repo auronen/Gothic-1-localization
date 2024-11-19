@@ -106,7 +106,7 @@ func void DIA_Torrez_Belohnung_Scrolls()
 	AI_Output(self, other, "DIA_Torrez_Belohnung_Scrolls_04_01"); //Nutze sie mit Bedacht. Du kannst jede von ihnen nur einmal verwenden!
 	CreateInvItems(self, ItArScrollFireball, 3);
 	B_GiveInvItems(self, hero, ItArScrollFireball, 3); // Wegen Bildschirmausgabe, wird direkt angepasst
-	Npc_RemoveInvItems(other, ItArScrollFireball, 2);
+	_ = Npc_RemoveInvItems(other, ItArScrollFireball, 2);
 	CreateInvItem(other, ItArScrollTrfScavenger);
 	CreateInvItem(other, ItArScrollChainLightning);
 	Info_ClearChoices(DIA_Torrez_Belohnung);
@@ -154,7 +154,7 @@ func void DIA_Torrez_BriefTausch_Info()
 		AI_Output(self, other, "DIA_Torrez_BriefTausch_04_05"); //Deine Belohnung ist ein Ring der Stärke. Es ist ein seltenes Artefakt und wird dir sicherlich sehr nützlich sein.
 		AI_Output(self, other, "DIA_Torrez_BriefTausch_04_06"); //Und nun geh!
 		B_GiveInvItems(other, self, ItWr_Fire_Letter_01, 1);
-		Npc_RemoveInvItems(self, ItWr_Fire_Letter_01, 1);
+		_ = Npc_RemoveInvItems(self, ItWr_Fire_Letter_01, 1);
 		CreateInvItems(self, Staerkering, 1);
 		B_GiveInvItems(self, other, Staerkering, 1);
 		B_GiveXP(XP_XardasLetter);
@@ -165,7 +165,7 @@ func void DIA_Torrez_BriefTausch_Info()
 		AI_Output(other, self, "DIA_Torrez_BriefTausch_15_08"); //Unfälle passieren eben.
 		AI_Output(self, other, "DIA_Torrez_BriefTausch_04_09"); //Deine Belohnung ist ein Trank der Heilung. Sei zufrieden damit. Einem Boten, der einen Brief ohne Siegel übergibt, steht normalerweise gar nichts zu!
 		B_GiveInvItems(other, self, ItWr_Fire_Letter_02, 1);
-		Npc_RemoveInvItems(self, ItWr_Fire_Letter_02, 1);
+		_ = Npc_RemoveInvItems(self, ItWr_Fire_Letter_02, 1);
 		CreateInvItems(self, ItFo_Potion_Health_03, 1);
 		B_GiveInvItems(self, other, ItFo_Potion_Health_03, 1);
 		B_GiveXP(XP_XardasLetterOPEN);

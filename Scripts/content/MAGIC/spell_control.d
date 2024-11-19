@@ -30,7 +30,7 @@ func int Spell_Logic_Control(var int manaInvested)
 				PrintDebugNpc(PD_MAGIC, "controlled success, starting states");
 
 				AI_StartState(self, ZS_PC_CONTROLLING, 0, "");
-				Npc_SetActiveSpellInfo(self, 1); // übernommen
+				_ = Npc_SetActiveSpellInfo(self, 1); // übernommen
 
 				return SPL_SENDCAST;
 			};

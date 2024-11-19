@@ -15,7 +15,7 @@ func void ZS_Pray()
 			AI_GotoWP(self, self.wp);
 		};
 
-		AI_UseMob(self, "IDOL", 1); // Benutze den Mob einmal bis zum angegebenen State
+		_ = AI_UseMob(self, "IDOL", 1); // Benutze den Mob einmal bis zum angegebenen State
 	};
 };
 
@@ -28,7 +28,7 @@ func void ZS_Pray_Loop()
 
 func void ZS_Pray_End()
 {
-	AI_UseMob(self, "IDOL", -1); // Nimm den Verlassen State ein
+	_ = AI_UseMob(self, "IDOL", -1); // Nimm den Verlassen State ein
 
 	PrintDebugNpc(PD_TA_FRAME, "ZS_Pray_End");
 };

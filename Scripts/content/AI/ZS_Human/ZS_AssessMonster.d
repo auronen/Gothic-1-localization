@@ -68,7 +68,7 @@ func void ZS_AssessMonster()
 			Npc_SetTarget(self, other);
 			B_SayOverlay(self, NULL, "$ShitWhatAMonster");
 
-			Npc_GetTarget(self);
+			_ = Npc_GetTarget(self);
 			AI_StartState(self, ZS_Flee, 0, "");
 		};
 	};

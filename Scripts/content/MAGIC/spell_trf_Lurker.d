@@ -11,7 +11,7 @@ func int Spell_Logic_Trf_Lurker(var int manaInvested)
 
 	if (manaInvested >= SPL_SENDCAST_TRF_LURKER)
 	{
-		Npc_SetActiveSpellInfo(self, Lurker);
+		_ = Npc_SetActiveSpellInfo(self, Lurker);
 		return SPL_SENDCAST;
 	};
 

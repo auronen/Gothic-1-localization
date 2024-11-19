@@ -6,32 +6,32 @@ func int B_FetchWeapon()
 	if (Wld_DetectItem(self, ITEM_KAT_FF))
 	{
 		PrintDebugNpc(PD_ZS_CHECK, "...Fernkampfwaffe gefunden!");
-		if (Npc_GetDistToNpc(self, item) < PERC_DIST_INTERMEDIAT)
+		if (Npc_GetDistToItem(self, item) < PERC_DIST_INTERMEDIAT)
 		{
-			C_StopLookAt(self);
+			_ = C_StopLookAt(self);
 			AI_SetWalkMode(self, NPC_RUN);
 			AI_TakeItem(self, item);
-			AI_EquipBestRangedWeapon(self);
+			_ = AI_EquipBestRangedWeapon(self);
 			AI_ReadyRangedWeapon(self);
 		};
 
-		C_LookAtNpc(self, other);
+		_ = C_LookAtNpc(self, other);
 		return 1;
 	};
 
 	if (Wld_DetectItem(self, ITEM_KAT_NF))
 	{
 		PrintDebugNpc(PD_ZS_CHECK, "...Nahkampfwaffe gefunden!");
-		if (Npc_GetDistToNpc(self, item) < PERC_DIST_INTERMEDIAT)
+		if (Npc_GetDistToItem(self, item) < PERC_DIST_INTERMEDIAT)
 		{
-			C_StopLookAt(self);
+			_ = C_StopLookAt(self);
 			AI_SetWalkMode(self, NPC_RUN);
 			AI_TakeItem(self, item);
-			AI_EquipBestMeleeWeapon(self);
+			_ = AI_EquipBestMeleeWeapon(self);
 			AI_ReadyMeleeWeapon(self);
 		};
 
-		C_LookAtNpc(self, other);
+		_ = C_LookAtNpc(self, other);
 		return 1;
 	};
 

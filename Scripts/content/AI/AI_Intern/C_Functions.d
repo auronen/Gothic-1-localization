@@ -660,7 +660,7 @@ func int C_NpcHasWeapon(var C_Npc slf, var int category)
 
 	// -------- die 6 Waffenslots durchsuchen --------
 	// Slot 1
-	Npc_GetInvItemBySlot(slf, INV_WEAPON, 1);
+	_ = Npc_GetInvItemBySlot(slf, INV_WEAPON, 1);
 	if (Hlp_IsValidItem(item) && (item.mainflag == category))
 	{
 		PrintDebugNpc(PD_ZS_CHECK, "...Waffe in Slot 1 !!!");
@@ -680,7 +680,7 @@ func int C_NpcHasWeapon(var C_Npc slf, var int category)
 	};
 
 	// Slot 2
-	Npc_GetInvItemBySlot(slf, INV_WEAPON, 2);
+	_ = Npc_GetInvItemBySlot(slf, INV_WEAPON, 2);
 	if (Hlp_IsValidItem(item) && (item.mainflag == category))
 	{
 		PrintDebugNpc(PD_ZS_CHECK, "...Waffe in Slot 2 !!!");
@@ -700,7 +700,7 @@ func int C_NpcHasWeapon(var C_Npc slf, var int category)
 	};
 
 	// Slot 3
-	Npc_GetInvItemBySlot(slf, INV_WEAPON, 3);
+	_ = Npc_GetInvItemBySlot(slf, INV_WEAPON, 3);
 	if (Hlp_IsValidItem(item) && (item.mainflag == category))
 	{
 		PrintDebugNpc(PD_ZS_CHECK, "...Waffe in Slot 3 !!!");
@@ -720,7 +720,7 @@ func int C_NpcHasWeapon(var C_Npc slf, var int category)
 	};
 
 	// Slot 4
-	Npc_GetInvItemBySlot(slf, INV_WEAPON, 4);
+	_ = Npc_GetInvItemBySlot(slf, INV_WEAPON, 4);
 	if (Hlp_IsValidItem(item) && (item.mainflag == category))
 	{
 		PrintDebugNpc(PD_ZS_CHECK, "...Waffe in Slot 4 !!!");
@@ -740,7 +740,7 @@ func int C_NpcHasWeapon(var C_Npc slf, var int category)
 	};
 
 	// Slot 5
-	Npc_GetInvItemBySlot(slf, INV_WEAPON, 5);
+	_ = Npc_GetInvItemBySlot(slf, INV_WEAPON, 5);
 	if (Hlp_IsValidItem(item) && (item.mainflag == category))
 	{
 		PrintDebugNpc(PD_ZS_CHECK, "...Waffe in Slot 5 !!!");
@@ -760,7 +760,7 @@ func int C_NpcHasWeapon(var C_Npc slf, var int category)
 	};
 
 	// Slot 6
-	Npc_GetInvItemBySlot(slf, INV_WEAPON, 6);
+	_ = Npc_GetInvItemBySlot(slf, INV_WEAPON, 6);
 	if (Hlp_IsValidItem(item) && (item.mainflag == category))
 	{
 		PrintDebugNpc(PD_ZS_CHECK, "...Waffe in Slot 6 !!!");

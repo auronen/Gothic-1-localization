@@ -28,6 +28,6 @@ func void B_AssessItem()
 	};
 
 	// JP: StopLookAt hier, weil er sonst nicht abgebrochen wurde, wenn das Item zu weit weg war
-	C_StopLookAt(self);
+	_ = C_StopLookAt(self);
 	self.aivar[AIV_WANTEDITEM] = 0;
 };

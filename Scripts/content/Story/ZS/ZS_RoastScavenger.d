@@ -32,5 +32,5 @@ func void ZS_RoastScavenger_Loop()
 func void ZS_RoastScavenger_End()
 {
 	PrintDebugNpc(PD_TA_FRAME, "ZS_RoastScavenger_End");
-	AI_UseMob(self, "BARBQ", -1); // Verlassen sie bitte ihr Mobsi
+	_ = AI_UseMob(self, "BARBQ", -1); // Verlassen sie bitte ihr Mobsi
 };

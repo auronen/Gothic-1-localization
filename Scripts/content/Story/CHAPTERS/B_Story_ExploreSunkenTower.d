@@ -47,11 +47,11 @@ func void B_Story_ExploreSunkenTower()
 	Npc_ExchangeRoutine(Grd_245, "OT");
 
 	// Gilden Änderung, damit SC nicht angegriffen wird
-	Stone.guild = GIL_NONE; Npc_SetTrueGuild(Stone, GIL_NONE);
-	Skip.guild = GIL_NONE; Npc_SetTrueGuild(Skip, GIL_NONE);
-	Bullit.guild = GIL_NONE; Npc_SetTrueGuild(Bullit, GIL_NONE);
-	Bartholo.guild = GIL_NONE; Npc_SetTrueGuild(Bartholo, GIL_NONE);
-	Gomez.guild = GIL_NONE; Npc_SetTrueGuild(Gomez, GIL_NONE);
+	Stone.guild = GIL_NONE; _ = Npc_SetTrueGuild(Stone, GIL_NONE);
+	Skip.guild = GIL_NONE; _ = Npc_SetTrueGuild(Skip, GIL_NONE);
+	Bullit.guild = GIL_NONE; _ = Npc_SetTrueGuild(Bullit, GIL_NONE);
+	Bartholo.guild = GIL_NONE; _ = Npc_SetTrueGuild(Bartholo, GIL_NONE);
+	Gomez.guild = GIL_NONE; _ = Npc_SetTrueGuild(Gomez, GIL_NONE);
 
 	// Attitüde Änderung
 	Npc_SetPermAttitude(Stone, ATT_NEUTRAL); Npc_SetTempAttitude(Stone, ATT_NEUTRAL);

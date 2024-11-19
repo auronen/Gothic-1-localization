@@ -29,7 +29,7 @@ func void B_CheckStolenEquipment()
 		{
 			PrintDebugNpc(PD_ZS_CHECK, "...NSC ist nicht vom SC besiegt worden & hat noch nicht danach gefragt!");
 			Npc_ClearAIQueue(self);
-			C_LookAtNpc(self, other);
+			_ = C_LookAtNpc(self, other);
 			AI_TurnToNpc(self, other);
 			AI_PointAtNpc(self, other);
 			B_Say(self, other, "$THATSMYWEAPON");
@@ -44,7 +44,7 @@ func void B_CheckStolenEquipment()
 		if (!Npc_HasNews(self, NEWS_DEFEAT, other, self) && self.aivar [AIV_PCISSTRONGER] == 0)
 		{
 			Npc_ClearAIQueue(self);
-			C_LookAtNpc(self, other);
+			_ = C_LookAtNpc(self, other);
 			AI_TurnToNpc(self, other);
 			AI_PointAtNpc(self, other);
 			B_Say(self, other, "$THATSMYWEAPON");
@@ -96,7 +96,7 @@ func void B_AssessSc()
 		};
 
 		// -------- Auf Vergabe von Infos & Missionen checken --------
-		B_CheckForImportantInfo(self, other);
+		_ = B_CheckForImportantInfo(self, other);
 
 		// -------- SC im Kampfmodus ? --------
 		if (C_NpcIsInFightMode(other))

@@ -310,7 +310,7 @@ func int STT_301_IAN_GEAR_SUC_Condition()
 func void STT_301_IAN_GEAR_SUC_Info()
 {
 	B_GiveInvItems(hero, self, ItMi_Stuff_Gearwheel_01, 1);
-	Npc_RemoveInvItem(self, ItMi_Stuff_Gearwheel_01);
+	_ = Npc_RemoveInvItem(self, ItMi_Stuff_Gearwheel_01);
 
 	Ian_gearwheel = LOG_SUCCESS;
 	B_GiveXP(XP_BringGearWheel);

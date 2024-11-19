@@ -61,7 +61,7 @@ func void Info_Riordian_NEWS_Info()
 
 	CreateInvItems(self, ItFo_Potion_Health_01, 20);
 	B_GiveInvItems(self, hero, ItFo_Potion_Health_01, 20); // Notwendig für die Ausschrift "20 Items übergeben", wird sofort ausgeglichen
-	Npc_RemoveInvItems(hero, ItFo_Potion_Health_01, 15);
+	_ = Npc_RemoveInvItems(hero, ItFo_Potion_Health_01, 15);
 
 	CreateInvItems(hero, ItFo_Potion_Mana_01, 5);
 	CreateInvItems(hero, ItFo_Potion_Health_02, 2);
@@ -103,7 +103,7 @@ func void Info_Riordian_REWARD_Info()
 
 	CreateInvItems(self, ItFo_Potion_Health_02, 20);
 	B_GiveInvItems(self, hero, ItFo_Potion_Health_02, 20); // Notwenidg für Ausschrift "20 Items übergeben", wird sofort ausgeglichen
-	Npc_RemoveInvItems(hero, ItFo_Potion_Health_02, 15);
+	_ = Npc_RemoveInvItems(hero, ItFo_Potion_Health_02, 15);
 
 	CreateInvItems(hero, ItFo_Potion_Mana_02, 5);
 	CreateInvItems(hero, ItFo_Potion_Health_03, 2);

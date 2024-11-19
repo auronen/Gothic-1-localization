@@ -15,7 +15,7 @@ func void ZS_Hunt_Loop()
 	{
 		Npc_SetTarget(self, other);
 
-		Npc_GetTarget(self);
+		_ = Npc_GetTarget(self);
 		AI_StartState(self, ZS_AssessMonster, 0, ""); // SN: der korrekte Zustand, um Monster zu erkennen ist 'ZS_AssessMonster' -> ich habe das korrigiert! (wenn gelesen, dann Kommentar löschen)
 	};
 

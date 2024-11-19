@@ -13,5 +13,5 @@ func void ZS_TestKill_End()
 
 func void KillItem()
 {
-	Wld_RemoveItem(item);
+	_ = Wld_RemoveItem(item);
 };

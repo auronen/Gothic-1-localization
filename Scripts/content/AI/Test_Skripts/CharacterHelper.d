@@ -69,7 +69,7 @@ func void B_SetHeroExp()
 	Attributes = ConcatStrings(Attributes, _PRINT_HP);
 	Attributes = ConcatStrings(Attributes, IntToString(hero.attribute[ATR_HITPOINTS_MAX]));
 
-	PrintScreen(Attributes, -1, -1, "font_old_20_white.tga", 3);
+	_ = PrintScreen(Attributes, -1, -1, "font_old_20_white.tga", 3);
 	Snd_Play("LEVELUP");
 };
 
@@ -110,11 +110,11 @@ func void B_SetHeroAttributes(var int selection, var int increase, var int LP_co
 		Attributes = ConcatStrings(Attributes, _PRINT_Mana);
 		Attributes = ConcatStrings(Attributes, IntToString(hero.attribute[ATR_MANA_MAX]));
 
-		PrintScreen(Attributes, -1, -1, "font_old_20_white.tga", 3);
+		_ = PrintScreen(Attributes, -1, -1, "font_old_20_white.tga", 3);
 	}
 	else
 	{
-		PrintScreen(PRINT_NotEnoughSkillPoints, -1, -1, "FONT_OLD_20_WHITE.TGA", 2);
+		_ = PrintScreen(PRINT_NotEnoughSkillPoints, -1, -1, "FONT_OLD_20_WHITE.TGA", 2);
 		B_Say(self, other, "$NOLEARNNOPOINTS");
 	};
 };
@@ -127,7 +127,7 @@ func void B_SetHeroWeapon()
 		CreateInvItem(hero, ItRw_Bow_Small_04);
 
 		const string _PRINT_SetGeroWeapon_1 = "nötig STR 11  DEX 16";
-		PrintScreen(_PRINT_SetGeroWeapon_1, -1, -1, "font_old_20_white.tga", 10);
+		_ = PrintScreen(_PRINT_SetGeroWeapon_1, -1, -1, "font_old_20_white.tga", 10);
 	}
 	else if (hero.level <= 10)
 	{
@@ -135,7 +135,7 @@ func void B_SetHeroWeapon()
 		CreateInvItem(hero, ItRw_Bow_Long_02);
 
 		const string _PRINT_SetGeroWeapon_2 = "nötig STR 17  DEX 22";
-		PrintScreen(_PRINT_SetGeroWeapon_2, -1, -1, "font_old_20_white.tga", 10);
+		_ = PrintScreen(_PRINT_SetGeroWeapon_2, -1, -1, "font_old_20_white.tga", 10);
 	}
 	else if (hero.level <= 15)
 	{
@@ -143,7 +143,7 @@ func void B_SetHeroWeapon()
 		CreateInvItem(hero, ItRw_Bow_Long_05);
 
 		const string _PRINT_SetGeroWeapon_3 = "nötig: STR 26  DEX 28";
-		PrintScreen(_PRINT_SetGeroWeapon_3, -1, -1, "font_old_20_white.tga", 10);
+		_ = PrintScreen(_PRINT_SetGeroWeapon_3, -1, -1, "font_old_20_white.tga", 10);
 	}
 	else if (hero.level <= 20)
 	{
@@ -152,7 +152,7 @@ func void B_SetHeroWeapon()
 		CreateInvItem(hero, ItRw_Bow_Long_08);
 
 		const string _PRINT_SetGeroWeapon_4 = "nötig STR 52  DEX 34";
-		PrintScreen(_PRINT_SetGeroWeapon_4, -1, -1, "font_old_20_white.tga", 10);
+		_ = PrintScreen(_PRINT_SetGeroWeapon_4, -1, -1, "font_old_20_white.tga", 10);
 	}
 	else if (hero.level <= 25)
 	{
@@ -161,7 +161,7 @@ func void B_SetHeroWeapon()
 		CreateInvItem(hero, ItRw_Bow_War_02);
 
 		const string _PRINT_SetGeroWeapon_5 = "nötig STR 62  DEX 40";
-		PrintScreen(_PRINT_SetGeroWeapon_5, -1, -1, "font_old_20_white.tga", 10);
+		_ = PrintScreen(_PRINT_SetGeroWeapon_5, -1, -1, "font_old_20_white.tga", 10);
 	}
 	else if (hero.level <= 30)
 	{
@@ -170,11 +170,11 @@ func void B_SetHeroWeapon()
 		CreateInvItem(hero, ItRw_Bow_War_05);
 
 		const string _PRINT_SetGeroWeapon_6 = "nötig STR 78  DEX 50";
-		PrintScreen(_PRINT_SetGeroWeapon_6, -1, -1, "font_old_20_white.tga", 10);
+		_ = PrintScreen(_PRINT_SetGeroWeapon_6, -1, -1, "font_old_20_white.tga", 10);
 	};
 
-	AI_EquipBestMeleeWeapon(hero);
-	AI_EquipBestRangedWeapon(hero);
+	_ = AI_EquipBestMeleeWeapon(hero);
+	_ = AI_EquipBestRangedWeapon(hero);
 
 	B_SetHeroEquipment();
 };
@@ -751,7 +751,7 @@ func void CH_Templar()
 	Info_ClearChoices(CH_Guild);
 
 	hero.guild = GIL_TPL;
-	Npc_SetTrueGuild(hero, GIL_TPL);
+	_ = Npc_SetTrueGuild(hero, GIL_TPL);
 
 	if (hero.level <= 15)
 	{
@@ -770,7 +770,7 @@ func void CH_Novice()
 	Info_ClearChoices(CH_Guild);
 
 	hero.guild = GIL_NOV;
-	Npc_SetTrueGuild(hero, GIL_NOV);
+	_ = Npc_SetTrueGuild(hero, GIL_NOV);
 
 	if (hero.level <= 5)
 	{
@@ -789,7 +789,7 @@ func void CH_Watermage()
 	Info_ClearChoices(CH_Guild);
 
 	hero.guild = GIL_KDW;
-	Npc_SetTrueGuild(hero, GIL_KDW);
+	_ = Npc_SetTrueGuild(hero, GIL_KDW);
 
 	if (hero.level <= 20)
 	{
@@ -808,7 +808,7 @@ func void CH_Mercenary()
 	Info_ClearChoices(CH_Guild);
 
 	hero.guild = GIL_SLD;
-	Npc_SetTrueGuild(hero, GIL_SLD);
+	_ = Npc_SetTrueGuild(hero, GIL_SLD);
 
 	if (hero.level <= 15)
 	{
@@ -827,7 +827,7 @@ func void CH_Bandit()
 	Info_ClearChoices(CH_Guild);
 
 	hero.guild = GIL_ORG;
-	Npc_SetTrueGuild(hero, GIL_ORG);
+	_ = Npc_SetTrueGuild(hero, GIL_ORG);
 
 	CreateInvItem(hero, ORG_ARMOR_H);
 	AI_EquipArmor(hero, ORG_ARMOR_H);
@@ -838,7 +838,7 @@ func void CH_Firemage()
 	Info_ClearChoices(CH_Guild);
 
 	hero.guild = GIL_KDF;
-	Npc_SetTrueGuild(hero, GIL_KDF);
+	_ = Npc_SetTrueGuild(hero, GIL_KDF);
 
 	CreateInvItem(hero, KDF_ARMOR_H);
 	AI_EquipArmor(hero, KDF_ARMOR_H);
@@ -849,7 +849,7 @@ func void CH_Guard()
 	Info_ClearChoices(CH_Guild);
 
 	hero.guild = GIL_GRD;
-	Npc_SetTrueGuild(hero, GIL_GRD);
+	_ = Npc_SetTrueGuild(hero, GIL_GRD);
 
 	if (hero.level <= 15)
 	{
@@ -868,7 +868,7 @@ func void CH_Shadow()
 	Info_ClearChoices(CH_Guild);
 
 	hero.guild = GIL_STT;
-	Npc_SetTrueGuild(hero, GIL_STT);
+	_ = Npc_SetTrueGuild(hero, GIL_STT);
 
 	CreateInvItem(hero, STT_ARMOR_H);
 	AI_EquipArmor(hero, STT_ARMOR_H);
@@ -974,12 +974,12 @@ func void CH_Strength_Weapon()
 		increase = value - hero.attribute[ATR_STRENGTH];
 		B_SetHeroAttributes(ATR_STRENGTH, increase, increase * LPCOST_ATTRIBUTE_STRENGTH);
 
-		AI_EquipBestMeleeWeapon(hero);
+		_ = AI_EquipBestMeleeWeapon(hero);
 	}
 	else
 	{
 		const string _PRINT_CH_STR = "nötige STR bereits vorhanden";
-		PrintScreen(_PRINT_CH_STR, -1, -1, "font_old_20_white.tga", 10);
+		_ = PrintScreen(_PRINT_CH_STR, -1, -1, "font_old_20_white.tga", 10);
 	};
 };
 
@@ -1094,12 +1094,12 @@ func void CH_Dexterity_Weapon()
 		increase = value - hero.attribute[ATR_DEXTERITY];
 		B_SetHeroAttributes(ATR_DEXTERITY, increase, increase * LPCOST_ATTRIBUTE_DEXTERITY);
 
-		AI_EquipBestRangedWeapon(hero);
+		_ = AI_EquipBestRangedWeapon(hero);
 	}
 	else
 	{
 		const string _PRINT_CH_DEX = "nötige DEX bereits vorhanden";
-		PrintScreen(_PRINT_CH_DEX, -1, -1, "font_old_20_white.tga", 10);
+		_ = PrintScreen(_PRINT_CH_DEX, -1, -1, "font_old_20_white.tga", 10);
 	};
 };
 
@@ -1299,52 +1299,52 @@ func void CH_1hL1()
 {
 	Info_ClearChoices(CH_Training_Combat);
 
-	B_GiveSkill(hero, NPC_TALENT_1H, 1, LPCOST_TALENT_1H_1);
+	_ = B_GiveSkill(hero, NPC_TALENT_1H, 1, LPCOST_TALENT_1H_1);
 };
 
 func void CH_1hL2()
 {
 	Info_ClearChoices(CH_Training_Combat);
 
-	B_GiveSkill(hero, NPC_TALENT_1H, 2, LPCOST_TALENT_1H_2);
+	_ = B_GiveSkill(hero, NPC_TALENT_1H, 2, LPCOST_TALENT_1H_2);
 };
 
 func void CH_2hL1()
 {
 	Info_ClearChoices(CH_Training_Combat);
 
-	B_GiveSkill(hero, NPC_TALENT_2H, 1, LPCOST_TALENT_2H_1);
+	_ = B_GiveSkill(hero, NPC_TALENT_2H, 1, LPCOST_TALENT_2H_1);
 };
 
 func void CH_2hL2()
 {
 	Info_ClearChoices(CH_Training_Combat);
 
-	B_GiveSkill(hero, NPC_TALENT_2H, 2, LPCOST_TALENT_2H_2);
+	_ = B_GiveSkill(hero, NPC_TALENT_2H, 2, LPCOST_TALENT_2H_2);
 };
 
 func void CH_BowL1()
 {
 	Info_ClearChoices(CH_Training_Combat);
-	B_GiveSkill(hero, NPC_TALENT_BOW, 1, LPCOST_TALENT_BOW_1);
+	_ = B_GiveSkill(hero, NPC_TALENT_BOW, 1, LPCOST_TALENT_BOW_1);
 };
 
 func void CH_BowL2()
 {
 	Info_ClearChoices(CH_Training_Combat);
-	B_GiveSkill(hero, NPC_TALENT_BOW, 2, LPCOST_TALENT_BOW_2);
+	_ = B_GiveSkill(hero, NPC_TALENT_BOW, 2, LPCOST_TALENT_BOW_2);
 };
 
 func void CH_CrossbowL1()
 {
 	Info_ClearChoices(CH_Training_Combat);
-	B_GiveSkill(hero, NPC_TALENT_CROSSBOW, 1, LPCOST_TALENT_CROSSBOW_1);
+	_ = B_GiveSkill(hero, NPC_TALENT_CROSSBOW, 1, LPCOST_TALENT_CROSSBOW_1);
 };
 
 func void CH_CrossbowL2()
 {
 	Info_ClearChoices(CH_Training_Combat);
-	B_GiveSkill(hero, NPC_TALENT_CROSSBOW, 2, LPCOST_TALENT_CROSSBOW_2);
+	_ = B_GiveSkill(hero, NPC_TALENT_CROSSBOW, 2, LPCOST_TALENT_CROSSBOW_2);
 };
 
 func void CH_Training_Combat_BACK()
@@ -1423,7 +1423,7 @@ func void CH_Training_Magic_Info()
 func void CH_Magic1()
 {
 	Info_ClearChoices(CH_Training_Magic);
-	B_GiveSkill(hero, NPC_TALENT_MAGE, 1, LPCOST_TALENT_MAGE_1);
+	_ = B_GiveSkill(hero, NPC_TALENT_MAGE, 1, LPCOST_TALENT_MAGE_1);
 
 	CreateInvItem(hero, ItArRuneLight);
 	CreateInvItem(hero, ItArRuneFirebolt);
@@ -1438,7 +1438,7 @@ func void CH_Magic2()
 {
 	Info_ClearChoices(CH_Training_Magic);
 
-	B_GiveSkill(hero, NPC_TALENT_MAGE, 2, LPCOST_TALENT_MAGE_2);
+	_ = B_GiveSkill(hero, NPC_TALENT_MAGE, 2, LPCOST_TALENT_MAGE_2);
 
 	CreateInvItem(hero, ItArRuneHeal);
 	CreateInvItem(hero, ItArRuneSleep);
@@ -1453,7 +1453,7 @@ func void CH_Magic3()
 {
 	Info_ClearChoices(CH_Training_Magic);
 
-	B_GiveSkill(hero, NPC_TALENT_MAGE, 3, LPCOST_TALENT_MAGE_3);
+	_ = B_GiveSkill(hero, NPC_TALENT_MAGE, 3, LPCOST_TALENT_MAGE_3);
 
 	CreateInvItem(hero, ItArRuneTelekinesis);
 	CreateInvItem(hero, ItArRunePyrokinesis);
@@ -1472,7 +1472,7 @@ func void CH_Magic4()
 {
 	Info_ClearChoices(CH_Training_Magic);
 
-	B_GiveSkill(hero, NPC_TALENT_MAGE, 4, LPCOST_TALENT_MAGE_4);
+	_ = B_GiveSkill(hero, NPC_TALENT_MAGE, 4, LPCOST_TALENT_MAGE_4);
 
 	CreateInvItem(hero, ItArRuneControl);
 	CreateInvItem(hero, ItArRuneChainLightning);
@@ -1492,7 +1492,7 @@ func void CH_Magic5()
 {
 	Info_ClearChoices(CH_Training_Magic);
 
-	B_GiveSkill(hero, NPC_TALENT_MAGE, 5, LPCOST_TALENT_MAGE_5);
+	_ = B_GiveSkill(hero, NPC_TALENT_MAGE, 5, LPCOST_TALENT_MAGE_5);
 
 	CreateInvItem(hero, ItArRuneIcewave);
 	CreateInvItem(hero, ItArRuneFireRain);
@@ -1504,7 +1504,7 @@ func void CH_Magic6()
 {
 	Info_ClearChoices(CH_Training_Magic);
 
-	B_GiveSkill(hero, NPC_TALENT_MAGE, 6, LPCOST_TALENT_MAGE_6);
+	_ = B_GiveSkill(hero, NPC_TALENT_MAGE, 6, LPCOST_TALENT_MAGE_6);
 
 	CreateInvItem(hero, ItArRuneBreathOfDeath);
 
@@ -1587,37 +1587,37 @@ func void CH_Training_Thievery_Info()
 func void CH_Picklock1()
 {
 	Info_ClearChoices(CH_Training_Thievery);
-	B_GiveSkill(hero, NPC_TALENT_PICKLOCK, 1, LPCOST_TALENT_PICKLOCK_1);
+	_ = B_GiveSkill(hero, NPC_TALENT_PICKLOCK, 1, LPCOST_TALENT_PICKLOCK_1);
 };
 
 func void CH_Picklock2()
 {
 	Info_ClearChoices(CH_Training_Thievery);
-	B_GiveSkill(hero, NPC_TALENT_PICKLOCK, 2, LPCOST_TALENT_PICKLOCK_2);
+	_ = B_GiveSkill(hero, NPC_TALENT_PICKLOCK, 2, LPCOST_TALENT_PICKLOCK_2);
 };
 
 func void CH_Pickpocket1()
 {
 	Info_ClearChoices(CH_Training_Thievery);
-	B_GiveSkill(hero, NPC_TALENT_PICKPOCKET, 1, LPCOST_TALENT_PICKPOCKET_1);
+	_ = B_GiveSkill(hero, NPC_TALENT_PICKPOCKET, 1, LPCOST_TALENT_PICKPOCKET_1);
 };
 
 func void CH_Pickpocket2()
 {
 	Info_ClearChoices(CH_Training_Thievery);
-	B_GiveSkill(hero, NPC_TALENT_PICKPOCKET, 2, LPCOST_TALENT_PICKPOCKET_2);
+	_ = B_GiveSkill(hero, NPC_TALENT_PICKPOCKET, 2, LPCOST_TALENT_PICKPOCKET_2);
 };
 
 func void CH_Sneak()
 {
 	Info_ClearChoices(CH_Training_Thievery);
-	B_GiveSkill(hero, NPC_TALENT_SNEAK, 1, LPCOST_TALENT_SNEAK);
+	_ = B_GiveSkill(hero, NPC_TALENT_SNEAK, 1, LPCOST_TALENT_SNEAK);
 };
 
 func void CH_Acrobat()
 {
 	Info_ClearChoices(CH_Training_Thievery);
-	B_GiveSkill(hero, NPC_TALENT_ACROBAT, 1, LPCOST_TALENT_ACROBAT);
+	_ = B_GiveSkill(hero, NPC_TALENT_ACROBAT, 1, LPCOST_TALENT_ACROBAT);
 };
 
 func void CH_Training_Thievery_BACK()

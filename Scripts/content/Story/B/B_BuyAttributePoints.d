@@ -20,30 +20,30 @@ func void B_BuyAttributePoints(var C_Npc typ, var int ATR, var int AtrPlus)
 			{
 				typ.attribute[ATR_STRENGTH] = typ.attribute[ATR_STRENGTH] + AtrPlus;
 				PrintString = ConcatStrings(NAME_BuyAttributeSTR, AtrPlusSTRING);
-				PrintScreen(PrintSTRING, -1, -1, "FONT_OLD_20_WHITE.TGA", 1);
+				_ = PrintScreen(PrintSTRING, -1, -1, "FONT_OLD_20_WHITE.TGA", 1);
 			}
 			else if (ATR == ATR_DEXTERITY)
 			{
 				typ.attribute[ATR_DEXTERITY] = typ.attribute[ATR_DEXTERITY] + AtrPlus;
 				PrintString = ConcatStrings(NAME_BuyAttributeDEX, AtrPlusSTRING);
-				PrintScreen(PrintSTRING, -1, -1, "FONT_OLD_20_WHITE.TGA", 1);
+				_ = PrintScreen(PrintSTRING, -1, -1, "FONT_OLD_20_WHITE.TGA", 1);
 			}
 			else if (ATR == ATR_MANA_MAX)
 			{
 				typ.attribute[ATR_MANA_MAX] = typ.attribute[ATR_MANA_MAX] + AtrPlus;
 				PrintString = ConcatStrings(NAME_BuyAttributeMAN, AtrPlusSTRING);
-				PrintScreen(PrintString, -1, -1, "FONT_OLD_20_WHITE.TGA", 1);
+				_ = PrintScreen(PrintString, -1, -1, "FONT_OLD_20_WHITE.TGA", 1);
 			};
 		}
 		else
 		{
-			PrintScreen(PRINT_MAX_100, -1, -1, "FONT_OLD_20_WHITE.TGA", 1);
+			_ = PrintScreen(PRINT_MAX_100, -1, -1, "FONT_OLD_20_WHITE.TGA", 1);
 			B_Say(self, other, "$NOLEARNOVERMAX");
 		};
 	}
 	else
 	{
-		PrintScreen(PRINT_NotEnoughSkillPoints, -1, -1, "FONT_OLD_20_WHITE.TGA", 1);
+		_ = PrintScreen(PRINT_NotEnoughSkillPoints, -1, -1, "FONT_OLD_20_WHITE.TGA", 1);
 		B_Say(self, other, "$NOLEARNNOPOINTS");
 	};
 };

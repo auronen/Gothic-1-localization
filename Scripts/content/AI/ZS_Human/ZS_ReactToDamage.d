@@ -59,7 +59,7 @@ func void ZS_ReactToDamage()
 			if ((Npc_GetTempAttitude(self, other) == ATT_FRIENDLY) || (self.npctype == NpcType_Friend))
 			{
 				PrintDebugNpc(PD_ZS_CHECK, "...NSC FRIENDLY zum Angreifer");
-				C_LookAtNpc(self, other);
+				_ = C_LookAtNpc(self, other);
 				B_Say(self, other, "$WHATAREYOUDOING");
 				Npc_SetTempAttitude(self, ATT_ANGRY);
 				AI_ContinueRoutine(self);

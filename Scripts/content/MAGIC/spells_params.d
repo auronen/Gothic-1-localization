@@ -246,7 +246,7 @@ const string spellFXAniLetters[MAX_SPELL] =
 
 instance Spell_Light(C_Spell_Proto)
 {
-	time_per_mana = 500;
+	time_per_mana = 500.0;
 	spelltype = SPELL_NEUTRAL;
 	targetCollectAlgo = TARGET_COLLECT_NONE;
 	targetCollectRange = 0;
@@ -256,7 +256,7 @@ instance Spell_Light(C_Spell_Proto)
 
 instance Spell_Firebolt(C_Spell_Proto) // heißt jetzt "Magic Missile"
 {
-	time_per_mana = 500;
+	time_per_mana = 500.0;
 	damage_per_level = SPL_DAMAGE_FIREBOLT;
 	spelltype = SPELL_BAD;
 	damageType = DAM_FIRE;
@@ -266,7 +266,7 @@ instance Spell_Firebolt(C_Spell_Proto) // heißt jetzt "Magic Missile"
 
 instance Spell_Fireball(C_Spell_Proto)
 {
-	time_per_mana = 750;
+	time_per_mana = 750.0;
 	damage_per_level = SPL_DAMAGE_FIREBALL;
 	spelltype = SPELL_BAD;
 	damageType = DAM_FIRE;
@@ -277,7 +277,7 @@ instance Spell_Fireball(C_Spell_Proto)
 
 instance Spell_Firestorm(C_Spell_Proto)
 {
-	time_per_mana = 250;
+	time_per_mana = 250.0;
 	damage_per_level = SPL_DAMAGE_FIRESTORM;
 	spelltype = SPELL_BAD;
 	damageType = DAM_FIRE;
@@ -287,7 +287,7 @@ instance Spell_Firestorm(C_Spell_Proto)
 
 instance Spell_FireRain(C_Spell_Proto)
 {
-	time_per_mana = 250;
+	time_per_mana = 250.0;
 	damage_per_level = SPL_DAMAGE_FIRERAIN; // 2 Level nötig für PFX = 200 Feuerschaden!
 	spelltype = SPELL_BAD;
 	damageType = DAM_FIRE;
@@ -299,7 +299,7 @@ instance Spell_FireRain(C_Spell_Proto)
 
 instance Spell_Teleport(C_Spell_Proto)
 {
-	time_per_mana = 750;
+	time_per_mana = 750.0;
 	spelltype = SPELL_NEUTRAL;
 	targetCollectAlgo = TARGET_COLLECT_CASTER;
 	canTurnDuringInvest = 0;
@@ -314,7 +314,7 @@ instance Spell_Teleport(C_Spell_Proto)
 
 instance Spell_Heal(C_Spell_Proto)
 {
-	time_per_mana = 250;
+	time_per_mana = 250.0;
 	spelltype = SPELL_NEUTRAL;
 	targetCollectAlgo = TARGET_COLLECT_CASTER;
 	canTurnDuringInvest = 0;
@@ -325,7 +325,7 @@ instance Spell_Heal(C_Spell_Proto)
 
 instance Spell_Transform(C_Spell_Proto)
 {
-	time_per_mana = 250;
+	time_per_mana = 250.0;
 	spelltype = SPELL_BAD;
 	targetCollectAlgo = TARGET_COLLECT_NONE;
 	canTurnDuringInvest = 0;
@@ -336,7 +336,7 @@ instance Spell_Transform(C_Spell_Proto)
 
 instance Spell_ChainLightning(C_Spell_Proto)
 {
-	time_per_mana = 750;
+	time_per_mana = 750.0;
 	spelltype = SPELL_BAD;
 	damage_per_level = 0; // Wird nicht benutzt, da Aufrechterhaltungs-Spruch! Damage in zs_Zapped
 	damageType = DAM_MAGIC;
@@ -350,7 +350,7 @@ instance Spell_ChainLightning(C_Spell_Proto)
 
 instance Spell_Thunderbolt(C_Spell_Proto)
 {
-	time_per_mana = 100;
+	time_per_mana = 100.0;
 	spelltype = SPELL_BAD;
 	damage_per_level = SPL_DAMAGE_THUNDERBOLT;
 	damageType = DAM_MAGIC;
@@ -360,7 +360,7 @@ instance Spell_Thunderbolt(C_Spell_Proto)
 
 instance Spell_Thunderball(C_Spell_Proto)
 {
-	time_per_mana = 250;
+	time_per_mana = 250.0;
 	spelltype = SPELL_BAD;
 	damage_per_level = SPL_DAMAGE_THUNDERBALL;
 	damageType = DAM_MAGIC;
@@ -370,7 +370,7 @@ instance Spell_Thunderball(C_Spell_Proto)
 
 instance Spell_IceCube(C_Spell_Proto)
 {
-	time_per_mana = 250;
+	time_per_mana = 250.0;
 	spelltype = SPELL_BAD;
 	damage_per_level = 0; // Schaden wird im zs_MagicFreeze angegeben!
 	damageType = DAM_MAGIC;
@@ -381,7 +381,7 @@ instance Spell_IceCube(C_Spell_Proto)
 
 instance Spell_IceWave(C_Spell_Proto)
 {
-	time_per_mana = 125;
+	time_per_mana = 125.0;
 	spelltype = SPELL_BAD;
 	damage_per_level = 0; // Relativer Schaden je nach Opfer wird im zs_MagicFreeze angegeben!
 	damageType = DAM_MAGIC;
@@ -397,7 +397,7 @@ instance Spell_IceWave(C_Spell_Proto)
 
 instance Spell_Demon(C_Spell_Proto)
 {
-	time_per_mana = 500;
+	time_per_mana = 500.0;
 	spelltype = SPELL_BAD;
 	targetCollectAlgo = TARGET_COLLECT_NONE;
 	targetCollectRange = 0;
@@ -407,7 +407,7 @@ instance Spell_Demon(C_Spell_Proto)
 
 instance Spell_Skeleton(C_Spell_Proto)
 {
-	time_per_mana = 500;
+	time_per_mana = 500.0;
 	spelltype = SPELL_BAD;
 	targetCollectAlgo = TARGET_COLLECT_NONE;
 	targetCollectRange = 0;
@@ -417,7 +417,7 @@ instance Spell_Skeleton(C_Spell_Proto)
 
 instance Spell_Golem(C_Spell_Proto)
 {
-	time_per_mana = 500;
+	time_per_mana = 500.0;
 	spelltype = SPELL_BAD;
 	targetCollectAlgo = TARGET_COLLECT_NONE;
 	targetCollectRange = 0;
@@ -427,7 +427,7 @@ instance Spell_Golem(C_Spell_Proto)
 
 instance Spell_ArmyOfDarkness(C_Spell_Proto)
 {
-	time_per_mana = 500;
+	time_per_mana = 500.0;
 	spelltype = SPELL_BAD;
 	targetCollectAlgo = TARGET_COLLECT_NONE;
 	targetCollectRange = 0;
@@ -437,7 +437,7 @@ instance Spell_ArmyOfDarkness(C_Spell_Proto)
 
 instance Spell_MassDeath(C_Spell_Proto)
 {
-	time_per_mana = 250;
+	time_per_mana = 250.0;
 	damage_per_level = SPL_DAMAGE_MASSDEATH;
 	spelltype = SPELL_BAD;
 	damageType = DAM_MAGIC;
@@ -449,7 +449,7 @@ instance Spell_MassDeath(C_Spell_Proto)
 
 instance Spell_DestroyUndead(C_Spell_Proto)
 {
-	time_per_mana = 250;
+	time_per_mana = 250.0;
 	damage_per_level = SPL_DAMAGE_DESTROYUNDEAD;
 	spelltype = SPELL_NEUTRAL;
 	damageType = DAM_MAGIC;
@@ -464,7 +464,7 @@ instance Spell_DestroyUndead(C_Spell_Proto)
 
 instance Spell_WindFist(C_Spell_Proto)
 {
-	time_per_mana = 250;
+	time_per_mana = 250.0;
 	damage_per_level = SPL_DAMAGE_WINDFIST;
 	spelltype = SPELL_BAD;
 	damageType = DAM_FLY;
@@ -475,7 +475,7 @@ instance Spell_WindFist(C_Spell_Proto)
 
 instance Spell_StormFist(C_Spell_Proto)
 {
-	time_per_mana = 125;
+	time_per_mana = 125.0;
 	damage_per_level = SPL_DAMAGE_STORMFIST;
 	spelltype = SPELL_BAD;
 	damageType = DAM_FLY;
@@ -489,7 +489,7 @@ instance Spell_StormFist(C_Spell_Proto)
 
 instance Spell_Telekinesis(C_Spell_Proto)
 {
-	time_per_mana = 5000;
+	time_per_mana = 5000.0;
 	spelltype = SPELL_NEUTRAL;
 	targetCollectAlgo = TARGET_COLLECT_FOCUS;
 	canTurnDuringInvest = FALSE;
@@ -498,7 +498,7 @@ instance Spell_Telekinesis(C_Spell_Proto)
 
 instance Spell_Charm(C_Spell_Proto)
 {
-	time_per_mana = 250;
+	time_per_mana = 250.0;
 	spelltype = SPELL_BAD;
 	targetCollectAlgo = TARGET_COLLECT_FOCUS;
 	targetCollectRange = 1000; // 10m
@@ -507,7 +507,7 @@ instance Spell_Charm(C_Spell_Proto)
 
 instance Spell_Sleep(C_Spell_Proto)
 {
-	time_per_mana = 250;
+	time_per_mana = 250.0;
 	spelltype = SPELL_NEUTRAL;
 	targetCollectAlgo = TARGET_COLLECT_FOCUS;
 	targetCollectRange = 1000; // 10m
@@ -516,7 +516,7 @@ instance Spell_Sleep(C_Spell_Proto)
 
 instance Spell_Pyrokinesis(C_Spell_Proto)
 {
-	time_per_mana = 250;
+	time_per_mana = 250.0;
 	damage_per_level = 0; // Wird nicht benutzt, da Aufrechterhaltungs-Spruch! Damage-Angabe in zs_Pyro
 	spelltype = SPELL_BAD;
 	damageType = DAM_MAGIC;
@@ -527,7 +527,7 @@ instance Spell_Pyrokinesis(C_Spell_Proto)
 
 instance Spell_Control(C_Spell_Proto)
 {
-	time_per_mana = 500;
+	time_per_mana = 500.0;
 	spelltype = SPELL_BAD;
 	targetCollectAlgo = TARGET_COLLECT_FOCUS;
 	targetCollectRange = 1000; // 10m
@@ -536,7 +536,7 @@ instance Spell_Control(C_Spell_Proto)
 
 instance Spell_Fear(C_Spell_Proto)
 {
-	time_per_mana = 250;
+	time_per_mana = 250.0;
 	damage_per_level = 0;
 	spelltype = SPELL_BAD;
 	targetCollectAlgo = TARGET_COLLECT_NONE; // Opfer werden in der "spell_fear.d" per "AI_SetNpcsToState(self,ZS_Flee, 1000);" bestimmt
@@ -547,7 +547,7 @@ instance Spell_Fear(C_Spell_Proto)
 
 instance Spell_Berzerk(C_Spell_Proto)
 {
-	time_per_mana = 125;
+	time_per_mana = 125.0;
 	spelltype = SPELL_BAD;
 	targetCollectAlgo = TARGET_COLLECT_FOCUS;
 	targetCollectRange = 1000; // 10m
@@ -556,7 +556,7 @@ instance Spell_Berzerk(C_Spell_Proto)
 
 instance Spell_BreathOfDeath(C_Spell_Proto)
 {
-	time_per_mana = 100;
+	time_per_mana = 100.0;
 	damage_per_level = SPL_DAMAGE_BREATHOFDEATH;
 	spelltype = SPELL_BAD;
 	damageType = DAM_MAGIC;
@@ -566,7 +566,7 @@ instance Spell_BreathOfDeath(C_Spell_Proto)
 
 instance Spell_New1(C_Spell_Proto) // Spell SPL_NEW1 (URIZIEL-Rune mit speziellen Spieler-BreathOfDeath)
 {
-	time_per_mana = 100;
+	time_per_mana = 100.0;
 	damage_per_level = 150;
 	spelltype = SPELL_BAD;
 	damageType = DAM_MAGIC;
@@ -576,7 +576,7 @@ instance Spell_New1(C_Spell_Proto) // Spell SPL_NEW1 (URIZIEL-Rune mit spezielle
 
 instance Spell_Shrink(C_Spell_Proto)
 {
-	time_per_mana = 1000;
+	time_per_mana = 1000.0;
 	spelltype = SPELL_NEUTRAL;
 	targetCollectAlgo = TARGET_COLLECT_FOCUS;
 	targetCollectRange = 800; // 8m

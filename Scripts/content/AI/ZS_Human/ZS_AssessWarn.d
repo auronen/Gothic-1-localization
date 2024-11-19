@@ -100,7 +100,7 @@ func void ZS_AssessWarn()
 		B_SetAttackReason(self, AIV_AR_INTRUDER);
 		Npc_SetTarget(self, hero);
 
-		Npc_GetTarget(self);
+		_ = Npc_GetTarget(self);
 		AI_StartState(self, ZS_ProclaimAndPunish, 0, "");
 	}
 
@@ -122,7 +122,7 @@ func void ZS_AssessWarn()
 		PrintDebugNpc(PD_ZS_CHECK, "...Spieler schleicht rum und ich bin gewarnt worden");
 		Npc_SetTarget(self, other);
 
-		Npc_GetTarget(self);
+		_ = Npc_GetTarget(self);
 		AI_StartState(self, ZS_ObserveSuspect, 0, "");
 	}
 
@@ -153,7 +153,7 @@ func void ZS_AssessWarn_End()
 			PrintDebugNpc(PD_ZS_CHECK, "ZS_AssessWarn End // Free Los // HOSTILE");
 			Npc_SetTarget(self, other);
 
-			Npc_GetTarget(self);
+			_ = Npc_GetTarget(self);
 			AI_StartState(self, ZS_AssessEnemy, 0, "");
 			return;
 		}
@@ -161,7 +161,7 @@ func void ZS_AssessWarn_End()
 		{
 			PrintDebugNpc(PD_ZS_CHECK, "ZS_AssessWarn End // Free Los // Not HOSTILE Kumpel getötet");
 			// JP: Hier gab es kein Svm, ich habe da mal noch eins eingefügt, damit wenigstens klar ist, da wird der Sc angegriffen
-			Npc_GetTarget(self);
+			_ = Npc_GetTarget(self);
 			AI_StartState(self, ZS_AssessEnemy, 0, "");
 		}
 		else

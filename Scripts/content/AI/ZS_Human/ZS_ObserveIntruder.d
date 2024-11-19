@@ -125,7 +125,7 @@ func int ZS_ObserveIntruderWaitNeutral_Loop()
 func void ZS_ObserveIntruderWaitNeutral_End()
 {
 	PrintDebugNpc(PD_ZS_FRAME, "ZS_ObserveIntruderWaitNeutral_End");
-	C_StopLookAt(self);
+	_ = C_StopLookAt(self);
 	AI_TurnToNpc(self, other);
 };
 
@@ -184,6 +184,6 @@ func int ZS_ObserveIntruderWaitNeutral2_Loop()
 func void ZS_ObserveIntruderWaitNeutral2_End()
 {
 	PrintDebugNpc(PD_ZS_FRAME, "ZS_ObserveIntruderIntruderWaitNeutral2_End");
-	C_StopLookAt(self);
+	_ = C_StopLookAt(self);
 	AI_TurnToNpc(self, other);
 };

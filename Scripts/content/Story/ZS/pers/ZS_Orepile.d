@@ -36,7 +36,7 @@ func void ZS_Orepile_Loop()
 	AI_AlignToWP(self);
 
 	AI_LookAt(self, "FP_OREPILE_CENTER");
-	C_StopLookAt(self);
+	_ = C_StopLookAt(self);
 	// AI_PlayAni(self,"R_SCRATCHHEAD");
 
 	AI_Wait(self, 3);

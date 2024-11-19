@@ -322,14 +322,14 @@ func void KDF_402_Corristo_ROBE_Info()
 
 	CreateInvItem(self, ItAmArrow);
 	B_GiveInvItems(self, hero, ItAmArrow, 1);
-	Npc_RemoveInvItem(hero, ItAmArrow);
+	_ = Npc_RemoveInvItem(hero, ItAmArrow);
 
 	AI_Output(self, other, "KDF_402_Corristo_ROBE_Info_14_01"); //Mit den Worten des Schwurs, bist du den Bund mit dem Feuer eingegangen.
 	AI_Output(self, other, "KDF_402_Corristo_ROBE_Info_14_02"); //Trage diese Robe als Zeichen des ewigen Bundes.
 	AI_StopProcessInfos(self);
 	AI_EquipBestArmor(hero);
 	AI_UnequipWeapons(hero);
-	Npc_SetTrueGuild(hero, GIL_KDF);
+	_ = Npc_SetTrueGuild(hero, GIL_KDF);
 	hero.guild = GIL_KDF;
 
 	hero.attribute [ATR_HITPOINTS] = hero.attribute [ATR_HITPOINTS_MAX];
@@ -623,7 +623,7 @@ func void KDF_402_Corristo_HEAVYARMOR_Info()
 
 		CreateInvItem(self, ItAmArrow);
 		B_GiveInvItems(self, hero, ItAmArrow, 1);
-		Npc_RemoveInvItem(hero, ItAmArrow);
+		_ = Npc_RemoveInvItem(hero, ItAmArrow);
 
 		B_GiveInvItems(hero, self, ItMinugget, VALUE_KDF_ARMOR_H);
 		AI_EquipBestArmor(hero);

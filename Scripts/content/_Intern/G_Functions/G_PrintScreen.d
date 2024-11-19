@@ -8,7 +8,7 @@ func void G_PrintScreen(var string strMessage)
 	//
 	//	PRINT TO SCREEN
 	//
-	PrintScreen(strMessage, -1, 10, _STR_FONT_ONSCREEN, 3);
+	_ = PrintScreen(strMessage, -1, 10, _STR_FONT_ONSCREEN, 3);
 //	PrintDialog(strMessage, -1, 10, _STR_FONT_ONSCREEN, 3 );
 
 	//

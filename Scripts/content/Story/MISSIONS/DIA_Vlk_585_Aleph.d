@@ -228,9 +228,9 @@ func void VLK_585_Aleph_SCHUPPEN_50()
 
 		CreateInvItems(self, ItKe_OM_03, 1); // nur für die korrekte Textausgaben!!!
 		B_GiveInvItems(self, hero, ItKe_OM_03, 2);
-		Npc_RemoveInvItem(hero, ItKe_OM_03);
+		_ = Npc_RemoveInvItem(hero, ItKe_OM_03);
 
-		Npc_RemoveInvItem(self, Staerkering);
+		_ = Npc_RemoveInvItem(self, Staerkering);
 		CreateInvItem(hero, Staerkering);
 
 		B_GiveInvItems(hero, self, ItMinugget, 50);

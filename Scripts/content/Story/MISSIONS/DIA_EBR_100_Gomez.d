@@ -229,7 +229,7 @@ func void DIA_Gomez_Dabei_Info()
 	AI_Output(self, other, "DIA_Gomez_Dabei_11_01"); //Genau das heißt es. Du bist jetzt einer von uns, Kleiner.
 	AI_Output(self, other, "DIA_Gomez_Dabei_11_02"); //Alles Weitere wird dir Raven erzählen.
 
-	Npc_SetTrueGuild(hero, GIL_STT);
+	_ = Npc_SetTrueGuild(hero, GIL_STT);
 	hero.guild = GIL_STT;
 	B_GiveXP(XP_BecomeShadow);
 	B_LogEntry(CH1_JoinOC, CH1_JoinOC_1);
@@ -310,5 +310,5 @@ func void DIA_EBR_100_Gomez_Wait4SC_Info()
 	AI_StopProcessInfos(self);
 
 	self.guild = GIL_EBR;
-	Npc_SetTrueGuild(self, GIL_EBR);
+	_ = Npc_SetTrueGuild(self, GIL_EBR);
 };

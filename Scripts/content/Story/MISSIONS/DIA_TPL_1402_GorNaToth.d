@@ -141,7 +141,7 @@ func void TPL_1402_GorNaToth_GETSTUFF_Info()
 
 	CreateInvItem(self, ItAmArrow);
 	B_GiveInvItems(self, hero, ItAmArrow, 1);
-	Npc_RemoveInvItem(hero, ItAmArrow);
+	_ = Npc_RemoveInvItem(hero, ItAmArrow);
 
 	AI_EquipBestArmor(hero);
 };
@@ -199,7 +199,7 @@ func void TPL_1402_GorNaToth_ARMOR_M()
 
 		CreateInvItem(self, ItAmArrow);
 		B_GiveInvItems(self, hero, ItAmArrow, 1);
-		Npc_RemoveInvItem(hero, ItAmArrow);
+		_ = Npc_RemoveInvItem(hero, ItAmArrow);
 
 		AI_EquipBestArmor(hero);
 	};
@@ -227,7 +227,7 @@ func void TPL_1402_GorNaToth_ARMOR_H()
 
 		CreateInvItem(self, ItAmArrow); // SN: Kronkelgegenstand, damit die Bildschrimausgabe "1 Gegenstand erhalten" stimmt (Rüstung geht nicht, da dann immer Gor Na Toth seine eigene erst auszieht, und eine Sekunde nackt dasteht)
 		B_GiveInvItems(self, hero, ItAmArrow, 1);
-		Npc_RemoveInvItem(hero, ItAmArrow);
+		_ = Npc_RemoveInvItem(hero, ItAmArrow);
 
 		CreateInvItem(hero, TPL_ARMOR_H);
 		AI_EquipBestArmor(hero);

@@ -52,7 +52,7 @@ func void B_AssessFightSound()
 			if (Npc_CanSeeNpcFreeLOS(self, other))
 			{
 				Npc_SetTarget(self, victim);
-				Npc_GetTarget(self);
+				_ = Npc_GetTarget(self);
 				AI_StartState(self, ZS_AssessMonster, 0, "");
 				return;
 			};

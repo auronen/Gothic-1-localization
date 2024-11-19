@@ -1071,7 +1071,7 @@ func void PC_Thief_ARMOR_Info()
 		// hier nur ein Text für die Bildschirmausgabe
 		CreateInvItem(self, ItAmArrow);
 		B_GiveInvItems(self, hero, ItAmArrow, 1);
-		Npc_RemoveInvItem(hero, ItAmArrow);
+		_ = Npc_RemoveInvItem(hero, ItAmArrow);
 	}
 	else
 	{
@@ -1662,7 +1662,7 @@ func void Info_Diego_Gamestart_Choice_Dex()
 {
 	AI_Output(hero, self, "Info_Diego_Gamestart_Choice_Dex_15_00"); //Ich habe ne Ladung Erz verschwinden lassen.
 	AI_Output(hero, self, "Info_Diego_Gamestart_Choice_Dex_15_01"); //Dummerweise hat der Typ bei dem ich sie versteckt habe, lieber die Belohnung für mich kassiert, anstatt mit mir das Erz zu teilen.
-	PrintScreen("Geschicklichkeit +3", -1, -1, "FONT_OLD_20_WHITE.TGA", 3);
+	_ = PrintScreen("Geschicklichkeit +3", -1, -1, "FONT_OLD_20_WHITE.TGA", 3);
 	hero.attribute[ATR_DEXTERITY] = hero.attribute[ATR_DEXTERITY] + 3;
 	Info_ClearChoices(Info_Diego_Gamestart);
 };
@@ -1671,7 +1671,7 @@ func void Info_Diego_Gamestart_Choice_Str()
 {
 	AI_Output(hero, self, "Info_Diego_Gamestart_Choice_Str_15_00"); //Eine Herausforderung konnte ich noch nie abschlagen. Auch nicht von des Königs Gardisten. dummerweise hat der König viele Gardisten.
 	AI_Output(hero, self, "Info_Diego_Gamestart_Choice_Str_15_01"); //Zu viele.
-	PrintScreen("Stärke +3", -1, -1, "FONT_OLD_20_WHITE.TGA", 3);
+	_ = PrintScreen("Stärke +3", -1, -1, "FONT_OLD_20_WHITE.TGA", 3);
 	hero.attribute[ATR_STRENGTH] = hero.attribute[ATR_STRENGTH] + 3;
 	Info_ClearChoices(Info_Diego_Gamestart);
 };
@@ -1680,7 +1680,7 @@ func void Info_Diego_Gamestart_Choice_Man()
 {
 	AI_Output(hero, self, "Info_Diego_Gamestart_Choice_Man_15_00"); //Ich saß in der Kneipe und habe meine Meinung über König, Krieg und Steuern gesagt.
 	AI_Output(hero, self, "Info_Diego_Gamestart_Choice_Man_15_01"); //Ich hab' mich nur zu spät daran erinnert, dass der, der die Wahrheit spricht, ein schnelles Pferd braucht.
-	PrintScreen("Mana +3", -1, -1, "FONT_OLD_20_WHITE.TGA", 3);
+	_ = PrintScreen("Mana +3", -1, -1, "FONT_OLD_20_WHITE.TGA", 3);
 	hero.attribute[ATR_MANA] = hero.attribute[ATR_MANA] + 3;
 	hero.attribute[ATR_MANA_MAX] = hero.attribute[ATR_MANA_MAX] + 3;
 	Info_ClearChoices(Info_Diego_Gamestart);
@@ -1693,7 +1693,7 @@ func void Info_Diego_Gamestart_Choice_All()
 	AI_Output(self, hero, "Info_Diego_Gamestart_Choice_All_11_02"); //Hier findest du Männer die so ziemlich jedes mögliche Verbrechen begangen haben. Und einen unschuldigen nehmen die nur zu gerne auseinander.
 	AI_Output(self, hero, "Info_Diego_Gamestart_Choice_All_11_03"); //Ich gebe dir nen Tipp, und der ist ganz umsonst.
 	AI_Output(self, hero, "Info_Diego_Gamestart_Choice_All_11_04"); //Wenn dich jemand fragt, warum du hier bist, sag ihm, du hast einen Typen gekillt, der dich gefragt hat, warum du hier bist.
-	PrintScreen("Stärke, Geschick und Mana +1", -1, -1, "FONT_OLD_20_WHITE.TGA", 3);
+	_ = PrintScreen("Stärke, Geschick und Mana +1", -1, -1, "FONT_OLD_20_WHITE.TGA", 3);
 	hero.attribute[ATR_DEXTERITY] = hero.attribute[ATR_DEXTERITY] + 1;
 	hero.attribute[ATR_STRENGTH] = hero.attribute[ATR_STRENGTH] + 1;
 	hero.attribute[ATR_MANA] = hero.attribute[ATR_MANA] + 1;

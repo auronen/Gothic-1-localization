@@ -51,8 +51,8 @@ func int MC_MONASTERYRUIN_GATE()
 	if (MonasteryRuin_GateOpen == FALSE)
 	{
 		PrintDebugNpc(PD_ITEM_MOBSI, "...noch nie geöffnet");
-		AI_UseMob(hero, "VWHEEL", 1);
-		AI_UseMob(hero, "VWHEEL", -1);
+		_ = AI_UseMob(hero, "VWHEEL", 1);
+		_ = AI_UseMob(hero, "VWHEEL", -1);
 
 		MonasteryRuin_GateOpen = TRUE;
 
@@ -99,8 +99,8 @@ func int MC_FM_GATE()
 	if ((Kapitel == 4) && (FM_GateOpen == FALSE))
 	{
 		PrintDebugNpc(PD_ITEM_MOBSI, "...closed");
-		AI_UseMob(hero, "VWHEEL", 1);
-		AI_UseMob(hero, "VWHEEL", -1);
+		_ = AI_UseMob(hero, "VWHEEL", 1);
+		_ = AI_UseMob(hero, "VWHEEL", -1);
 
 		FM_GateOpen = TRUE;
 
@@ -144,8 +144,8 @@ func int EVT_TROLLSCHLUCHT_GATE_TRIGGER()
 		}
 		else if (Troll_Wheel == 2)
 		{
-			AI_UseMob(hero, "VWHEEL", 1);
-			AI_UseMob(hero, "VWHEEL", -1);
+			_ = AI_UseMob(hero, "VWHEEL", 1);
+			_ = AI_UseMob(hero, "VWHEEL", -1);
 
 			Troll_Wheel = 3;
 
@@ -183,8 +183,8 @@ func int MC_OrcCity_Gate()
 	if ((Kapitel >= 5) && (OrcCity_GateOpen == FALSE))
 	{
 		PrintDebugNpc(PD_ITEM_MOBSI, "...closed");
-		AI_UseMob(hero, "VWHEEL", 1);
-		AI_UseMob(hero, "VWHEEL", -1);
+		_ = AI_UseMob(hero, "VWHEEL", 1);
+		_ = AI_UseMob(hero, "VWHEEL", -1);
 
 		OrcCity_GateOpen = TRUE;
 
@@ -220,8 +220,8 @@ func int MC_OrcCity_Sunctum_OuterGate() // heißt absichtlich "Sunctum"
 
 		G_PrintScreen(_STR_MESSAGE_OCLEVER_MOVES);
 
-		AI_UseMob(hero, "LEVER", 1);
-		AI_UseMob(hero, "LEVER", -1);
+		_ = AI_UseMob(hero, "LEVER", 1);
+		_ = AI_UseMob(hero, "LEVER", -1);
 
 		OrcCity_Sanctum_OuterGateOpen = TRUE;
 

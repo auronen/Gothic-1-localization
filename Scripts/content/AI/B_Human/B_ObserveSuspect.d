@@ -16,7 +16,7 @@ func void B_ObserveSuspect()
 		Npc_PercDisable(self, PERC_ASSESSWARN);
 		Npc_SetTarget(self, other);
 
-		Npc_GetTarget(self);
+		_ = Npc_GetTarget(self);
 		AI_StartState(self, ZS_ObserveSuspect, 0, "");
 	};
 };

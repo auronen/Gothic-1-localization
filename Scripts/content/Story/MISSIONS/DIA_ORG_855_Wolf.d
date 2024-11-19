@@ -185,7 +185,7 @@ func void DIA_Wolf_SellArmor_M()
 
 		CreateInvItem(self, ItAmArrow);
 		B_GiveInvItems(self, hero, ItAmArrow, 1);
-		Npc_RemoveInvItem(hero, ItAmArrow);
+		_ = Npc_RemoveInvItem(hero, ItAmArrow);
 	};
 };
 
@@ -207,7 +207,7 @@ func void DIA_Wolf_SellArmor_H()
 
 		CreateInvItem(self, ItAmArrow);
 		B_GiveInvItems(self, hero, ItAmArrow, 1);
-		Npc_RemoveInvItem(hero, ItAmArrow);
+		_ = Npc_RemoveInvItem(hero, ItAmArrow);
 	};
 };
 
@@ -476,7 +476,7 @@ func void Info_Wolf_SKIN_Info()
 	AI_Output(hero, self, "Info_Wolf_SKIN_15_04"); //Okay, kapiert! Mal sehen, ob ich solche Panzerplatten finden kann.
 
 	Knows_GetMCPlates = TRUE;
-	PrintScreen(PRINT_LEARN_CrawlerPlates, -1, -1, "FONT_OLD_20_WHITE.TGA", 3);
+	_ = PrintScreen(PRINT_LEARN_CrawlerPlates, -1, -1, "FONT_OLD_20_WHITE.TGA", 3);
 
 	Log_CreateTopic(CH4_MCPlateArmor, LOG_MISSION);
 	Log_SetTopicStatus(CH4_MCPlateArmor, LOG_RUNNING);

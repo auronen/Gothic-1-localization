@@ -141,8 +141,8 @@ func void DIA_Snaf_ZutatenSuccess_Info()
 	CreateInvItems(other, ItFo_Plants_Mushroom_01, 3);
 	B_GiveInvItems(other, self, ItFo_Plants_Mushroom_01, 8); // Notwendig zur Anzeige 8 Items übergeben, wird sofort angepasst
 
-	Npc_RemoveInvItems(self, ItFo_Plants_Mushroom_01, 8); // Alle Zutaten weg
-	Npc_RemoveInvItems(other, ItAt_MeatBug_01, 3);
+	_ = Npc_RemoveInvItems(self, ItFo_Plants_Mushroom_01, 8); // Alle Zutaten weg
+	_ = Npc_RemoveInvItems(other, ItAt_MeatBug_01, 3);
 
 	CreateInvItems(self, ItFoMeatbugragout, 3);
 	B_GiveInvItems(self, other, ItFoMeatbugragout, 3);

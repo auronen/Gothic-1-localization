@@ -562,7 +562,7 @@ func void UseItMiJoint_3()
 	&& Npc_IsPlayer(self))
 	{
 		Npc_ChangeAttribute(self, ATR_MANA_MAX, 2);
-		PrintScreen(PRINT_ItMiJoint_3_Bonus, -1, -1, "FONT_OLD_20_WHITE.TGA", 3);
+		_ = PrintScreen(PRINT_ItMiJoint_3_Bonus, -1, -1, "FONT_OLD_20_WHITE.TGA", 3);
 		Thirdjoint = TRUE;
 	};
 };

@@ -13,7 +13,7 @@ func void ZS_Attack()
 	Npc_PercEnable(self, PERC_ASSESSENTERROOM, B_CombatAssessEnterRoom);
 	Npc_PercEnable(self, PERC_CATCHTHIEF, B_CombatCatchThief);
 
-	Npc_GetTarget(self);
+	_ = Npc_GetTarget(self);
 	B_WhirlAround(self, other);
 	B_SelectWeapon(self, other);
 	AI_SetWalkMode(self, NPC_RUN); // Walkmode für den Zustand
@@ -23,7 +23,7 @@ func int ZS_Attack_Loop()
 {
 	PrintDebugNpc(PD_ZS_LOOP, "ZS_Attack_Loop");
 
-	Npc_GetTarget(self);
+	_ = Npc_GetTarget(self);
 	PrintGlobals(PD_ZS_DETAIL);
 
 	// -------- Wenn Gegner Bewußtlos oder Tod... --------
@@ -202,7 +202,7 @@ func void ZS_Attack_End()
 		{
 			B_RemoveWeapon(self);
 			B_Say(self, other, "$LETSFORGETOURLITTLEFIGHT");
-			C_StopLookAt(self);
+			_ = C_StopLookAt(self);
 			AI_StartState(self, ZS_HealSelf, 1, "");
 		};
 
@@ -226,7 +226,7 @@ func void ZS_Attack_End()
 
 	// -------- Nachbereitungen --------
 	B_RemoveWeapon(self);
-	C_StopLookAt(self);
+	_ = C_StopLookAt(self);
 	B_ResetTempAttitude(self);
 	B_SetAttackReason(self, AIV_AR_NONE);
 	if (other.aivar[AIV_GUARDPASSAGE_STATUS] == AIV_GPS_PUNISH)

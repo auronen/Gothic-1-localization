@@ -281,7 +281,7 @@ func void B_MM_ReactToOthersDamage()
 {
 	PrintDebugNpc(PD_MST_FRAME, "B_MM_ReactToOthersDamage");
 
-	B_MM_DeSynchronize();
+	_ = B_MM_DeSynchronize();
 
 	if (C_PreyToPredator(self, other))
 	{
@@ -360,7 +360,7 @@ func void ZS_MM_Attack()
 	AI_StandUp(self);
 	AI_SetWalkMode(self, NPC_RUN);
 
-	Npc_GetTarget(self);
+	_ = Npc_GetTarget(self);
 
 	Npc_SendPassivePerc(self, PERC_ASSESSWARN, other, self); // Opfer,Täter
 };
@@ -375,7 +375,7 @@ func int ZS_MM_Attack_Loop()
 		return 1; // oder beendet Loop
 	};
 
-	Npc_GetTarget(self); // other = target
+	_ = Npc_GetTarget(self); // other = target
 	if (Hlp_IsValidNpc(other) && !C_NpcIsDown(other))
 	{
 		PrintDebugNpc(PD_MST_LOOP, "...Ziel vorhanden!");
@@ -418,7 +418,7 @@ func int ZS_MM_Attack_Loop()
 		else // Monster NICHT auf der Jagd - weitere Feinde Attacken
 		{
 			Npc_PerceiveAll(self); // nötig, da Npc_GetNextTarget() auf der Liste der zuletzt Wahrgenommenen VOBs beruht
-			Npc_GetNextTarget(self);
+			_ = Npc_GetNextTarget(self);
 			PrintGlobals(PD_ZS_DETAIL);
 			if (Hlp_IsValidNpc(other) && !C_NpcIsDown(other))
 			{
@@ -509,7 +509,7 @@ func void B_MM_AssessWarn()
 		{
 			AI_SetWalkMode(self, NPC_RUN);
 			AI_GotoNpc(self, other); // Gehe zu Jäger-Freund
-			if (Wld_DetectNpc(self, victim, NOFUNC, -1)) // victim --> other
+			if (Wld_DetectNpc(self, Hlp_GetInstanceID(victim), NOFUNC, -1)) // victim --> other
 			{
 				AI_StartState(self, ZS_MM_AssessEnemy, 0, "");
 			};
@@ -638,7 +638,7 @@ func void ZS_MM_Rtn_Sleep()
 	// self.aivar[AIV_MM_SchonmalGeglotzt] = FALSE;
 	AI_SetWalkMode(self, NPC_WALK);
 
-	B_MM_DeSynchronize();
+	_ = B_MM_DeSynchronize();
 
 	if (Hlp_StrCmp(Npc_GetNearestWP(self), self.wp) == FALSE) // damit die Monster beim Inserten nicht immer erst zum WP rennen, sondern nur, wenn sie der Heimat zu fern sind
 	{
@@ -685,7 +685,7 @@ func void ZS_MM_Rtn_Roam()
 	Npc_PercEnable(self, PERC_ASSESSBODY, B_MM_AssessBody);
 
 	AI_SetWalkMode(self, NPC_WALK);
-	B_MM_DeSynchronize();
+	_ = B_MM_DeSynchronize();
 	if (Hlp_StrCmp(Npc_GetNearestWP(self), self.wp) == FALSE) // damit die Monster beim Inserten nicht immer erst zum WP rennen, sondern nur, wenn sie der Heimat zu fern sind
 	{
 		AI_GotoWP(self, self.WP);
@@ -745,7 +745,7 @@ func void ZS_MM_Rtn_Rest()
 	Npc_PercEnable(self, PERC_ASSESSBODY, B_MM_AssessBody);
 
 	AI_SetWalkMode(self, NPC_WALK);
-	B_MM_DeSynchronize();
+	_ = B_MM_DeSynchronize();
 	if (Hlp_StrCmp(Npc_GetNearestWP(self), self.wp) == FALSE) // damit die Monster beim Inserten nicht immer erst zum WP rennen, sondern nur, wenn sie der Heimat zu fern sind
 	{
 		AI_GotoWP(self, self.WP);
@@ -801,7 +801,7 @@ func void ZS_MM_Rtn_EatGround()
 	Npc_PercEnable(self, PERC_ASSESSBODY, B_MM_AssessBody);
 
 	AI_SetWalkMode(self, NPC_WALK);
-	B_MM_DeSynchronize();
+	_ = B_MM_DeSynchronize();
 	if (Hlp_StrCmp(Npc_GetNearestWP(self), self.wp) == FALSE) // damit die Monster beim Inserten nicht immer erst zum WP rennen, sondern nur, wenn sie der Heimat zu fern sind
 	{
 		AI_GotoWP(self, self.WP);
@@ -991,7 +991,7 @@ func void ZS_MONSTER_EatItem_end()
 {
 	if (Hlp_IsValidItem(item))
 	{
-		Wld_RemoveItem(item);
+		_ = Wld_RemoveItem(item);
 	};
 
 	AI_PlayAni(self, "T_EAT_2_STAND");

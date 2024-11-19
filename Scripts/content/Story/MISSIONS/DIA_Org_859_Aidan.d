@@ -125,7 +125,7 @@ func void Org_859_Aidan_Creatures_Zahn()
 
 			B_GiveInvItems(other, self, itminugget, 50);
 
-			PrintScreen(PRINT_LEARN_Teeth, -1, -1, "FONT_OLD_20_WHITE.TGA", 2);
+			_ = PrintScreen(PRINT_LEARN_Teeth, -1, -1, "FONT_OLD_20_WHITE.TGA", 2);
 
 			AI_Output(self, other, "Org_859_Aidan_Creatures_Zahn_13_01"); //Du musst vor allem darauf achten, dass die Zähne nicht splittern. Um das zu verhindern, musst du dein Messer in der Mitte des Zahns ansetzen und vorsichtig hebeln.
 			AI_Output(self, other, "Org_859_Aidan_Creatures_Zahn_13_02"); //Zähne kannst du von Wölfen, Schattenläufern oder Snappern nehmen.
@@ -137,7 +137,7 @@ func void Org_859_Aidan_Creatures_Zahn()
 		else
 		{
 			AI_Output(self, other, "Org_859_Aidan_Creatures_KEINE_LP_13_00"); //Du musst mehr Erfahrung sammeln, vorher wird dich mein Wissen nicht weiterbringen.
-			PrintScreen(PRINT_NotEnoughSkillPoints, -1, -1, "FONT_OLD_20_WHITE.TGA", 2);
+			_ = PrintScreen(PRINT_NotEnoughSkillPoints, -1, -1, "FONT_OLD_20_WHITE.TGA", 2);
 		};
 	}
 	else
@@ -158,7 +158,7 @@ func void Org_859_Aidan_Creatures_Fell()
 
 			B_GiveInvItems(other, self, itminugget, 100);
 
-			PrintScreen(PRINT_LEARN_Fur, -1, -1, "FONT_OLD_20_WHITE.TGA", 2);
+			_ = PrintScreen(PRINT_LEARN_Fur, -1, -1, "FONT_OLD_20_WHITE.TGA", 2);
 
 			AI_Output(self, other, "Org_859_Aidan_Creatures_Fell_13_01"); //Wichtig ist vor allem: Immer von vorne nach hinten. Wenn du den Bogen einmal raushast, ist es kein Problem. Felle sind sehr wertvoll!
 			AI_Output(self, other, "Org_859_Aidan_Creatures_Fell_13_02"); //Das Fell von Wölfen oder Schattenläufern eignet sich zum Herstellen von Kleidung. Du wirst merken, ob ein erlegtes Tier ein brauchbares Fell hat, wenn du es untersuchst.
@@ -170,7 +170,7 @@ func void Org_859_Aidan_Creatures_Fell()
 		else
 		{
 			AI_Output(self, other, "Org_859_Aidan_Creatures_KEINE_LP_13_00"); //Du musst mehr Erfahrung sammeln, vorher wird dich mein Wissen nicht weiterbringen.
-			PrintScreen(PRINT_NotEnoughSkillPoints, -1, -1, "FONT_OLD_20_WHITE.TGA", 2);
+			_ = PrintScreen(PRINT_NotEnoughSkillPoints, -1, -1, "FONT_OLD_20_WHITE.TGA", 2);
 		};
 	}
 	else
@@ -189,7 +189,7 @@ func void Org_859_Aidan_Creatures_Kralle()
 
 			B_GiveInvItems(other, self, itminugget, 50);
 
-			PrintScreen(PRINT_LEARN_Claws, -1, -1, "FONT_OLD_20_WHITE.TGA", 2);
+			_ = PrintScreen(PRINT_LEARN_Claws, -1, -1, "FONT_OLD_20_WHITE.TGA", 2);
 
 			AI_Output(other, self, "Org_859_Aidan_Creatures_Kralle_15_00"); //Bring mir bei, Krallen abzuziehen!
 			AI_Output(self, other, "Org_859_Aidan_Creatures_Kralle_13_01"); //Ist im Grunde ganz einfach, wenn du weißt, wie's geht. Du musst die Krallen nach vorne wegknicken, auf keinen Fall nach hinten und NICHT ziehen!
@@ -202,7 +202,7 @@ func void Org_859_Aidan_Creatures_Kralle()
 		else
 		{
 			AI_Output(self, other, "Org_859_Aidan_Creatures_KEINE_LP_13_00"); //Du musst mehr Erfahrung sammeln, vorher wird dich mein Wissen nicht weiterbringen.
-			PrintScreen(PRINT_NotEnoughSkillPoints, -1, -1, "FONT_OLD_20_WHITE.TGA", 2);
+			_ = PrintScreen(PRINT_NotEnoughSkillPoints, -1, -1, "FONT_OLD_20_WHITE.TGA", 2);
 		};
 	}
 	else
@@ -221,7 +221,7 @@ func void Org_859_Aidan_Creatures_Haut()
 
 			B_GiveInvItems(other, self, itminugget, 100);
 
-			PrintScreen(PRINT_LEARN_Skin, -1, -1, "FONT_OLD_20_WHITE.TGA", 2);
+			_ = PrintScreen(PRINT_LEARN_Skin, -1, -1, "FONT_OLD_20_WHITE.TGA", 2);
 
 			AI_Output(other, self, "Org_859_Aidan_Creatures_Haut_15_00"); //Worauf muss ich beim Häuten von Reptilien achten?
 			AI_Output(self, other, "Org_859_Aidan_Creatures_Haut_13_01"); //Die einzigen Reptilien, die dafür geeignet sind, sind der Lurker und der Sumpfhai.
@@ -234,7 +234,7 @@ func void Org_859_Aidan_Creatures_Haut()
 		else
 		{
 			AI_Output(self, other, "Org_859_Aidan_Creatures_KEINE_LP_13_00"); //Du musst mehr Erfahrung sammeln, vorher wird dich mein Wissen nicht weiterbringen.
-			PrintScreen(PRINT_NotEnoughSkillPoints, -1, -1, "FONT_OLD_20_WHITE.TGA", 2);
+			_ = PrintScreen(PRINT_NotEnoughSkillPoints, -1, -1, "FONT_OLD_20_WHITE.TGA", 2);
 		};
 	}
 	else

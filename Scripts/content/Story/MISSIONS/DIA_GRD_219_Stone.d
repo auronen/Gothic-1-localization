@@ -88,10 +88,10 @@ func void GRD_219_Stone_GETSTUFF_Info()
 
 	CreateInvItems(self, ItMw_1H_Sword_03, 2);
 	B_GiveInvItems(self, other, ItMw_1H_Sword_03, 2);
-	Npc_RemoveInvItem(other, ItMw_1H_Sword_03);
+	_ = Npc_RemoveInvItem(other, ItMw_1H_Sword_03);
 	CreateInvItem(other, GRD_ARMOR_L);
 	AI_EquipBestArmor(hero);
-	AI_EquipBestMeleeWeapon(hero);
+	_ = AI_EquipBestMeleeWeapon(hero);
 
 	B_LogEntry(GE_BecomeGuard, GE_BecomeGuard_2);
 
@@ -362,7 +362,7 @@ func void DIA_GRD_219_Stone4_Info()
 
 	AI_UnequipArmor(hero);
 	B_GiveInvItems(hero, self, ORE_ARMOR_M, 1);
-	Npc_RemoveInvItem(self, ORE_ARMOR_M);
+	_ = Npc_RemoveInvItem(self, ORE_ARMOR_M);
 
 	B_StartUseMob(self, "BSFIRE");
 	AI_Wait(self, 1);

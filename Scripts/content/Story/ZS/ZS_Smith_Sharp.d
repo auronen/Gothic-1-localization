@@ -34,6 +34,6 @@ func void ZS_Smith_Sharp_End()
 	amount = Npc_HasItems(self, ItMw_1H_Sword_01);
 	if (amount > 1)
 	{
-		Npc_RemoveInvItems(self, ItMw_1H_Sword_01, amount - 1);
+		_ = Npc_RemoveInvItems(self, ItMw_1H_Sword_01, amount - 1);
 	};
 };

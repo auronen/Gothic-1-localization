@@ -17,7 +17,7 @@ func void B_Orc_AssessWarn()
 		AI_SetWalkMode(self, NPC_RUN);
 		if (!Npc_HasReadiedWeapon(self)) // waffe ziehen!!!
 		{
-			AI_EquipBestMeleeWeapon(self);
+			_ = AI_EquipBestMeleeWeapon(self);
 			AI_DrawWeapon(self);
 		};
 

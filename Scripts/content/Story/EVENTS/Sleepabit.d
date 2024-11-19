@@ -16,7 +16,7 @@ func void PC_Sleep(var int t)
 		Wld_SetTime(t, 00);
 	};
 
-	PrintScreen(PRINT_MES_SLEEP, -1, -1, "font_old_20_white.tga", 3);
+	_ = PrintScreen(PRINT_MES_SLEEP, -1, -1, "font_old_20_white.tga", 3);
 	hero.attribute[ATR_HITPOINTS] = hero.attribute[ATR_HITPOINTS_MAX];
 	hero.attribute[ATR_MANA] = hero.attribute[ATR_MANA_MAX];
 

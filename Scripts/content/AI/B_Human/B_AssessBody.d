@@ -121,8 +121,8 @@ func void ZS_AssessBody_RecoverWeapon()
 		PrintDebugNpc(PD_ZS_CHECK, "...Nah- oder Fernkampfwaffe gefunden!");
 		B_SayOverlay(self, NULL, "$ITakeYourWeapon");
 		AI_TakeItem(self, item);
-		AI_EquipBestMeleeWeapon(self);
-		AI_EquipBestRangedWeapon(self);
+		_ = AI_EquipBestMeleeWeapon(self);
+		_ = AI_EquipBestRangedWeapon(self);
 	};
 
 	// -------- Heilen ! --------

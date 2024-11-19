@@ -11,7 +11,7 @@ func int Spell_Logic_Trf_Waran(var int manaInvested)
 
 	if (manaInvested >= SPL_SENDCAST_TRF_WARAN)
 	{
-		Npc_SetActiveSpellInfo(self, Waran);
+		_ = Npc_SetActiveSpellInfo(self, Waran);
 		return SPL_SENDCAST;
 	};
 

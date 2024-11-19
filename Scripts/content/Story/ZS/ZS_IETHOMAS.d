@@ -19,99 +19,99 @@ func int ZS_IETHOMAS_Loop()
 	{
 		// AI_PlayAni(self, "T_STAND_2_IECELLO");
 
-		AI_UseMob(self, "MCELLO", 1);
+		_ = AI_UseMob(self, "MCELLO", 1);
 
 		// Intro
-		AI_UseMob(self, "MCELLO", 2); // 1
+		_ = AI_UseMob(self, "MCELLO", 2); // 1
 		// 2
-		AI_UseMob(self, "MCELLO", 1); // 3
+		_ = AI_UseMob(self, "MCELLO", 1); // 3
 		// 4
-		AI_UseMob(self, "MCELLO", 2); // 5
+		_ = AI_UseMob(self, "MCELLO", 2); // 5
 		// 6
-		AI_UseMob(self, "MCELLO", 1); // 7
+		_ = AI_UseMob(self, "MCELLO", 1); // 7
 		// 8
 		// Verse 1
-		AI_UseMob(self, "MCELLO", 2); // 1
+		_ = AI_UseMob(self, "MCELLO", 2); // 1
 		// 2
-		AI_UseMob(self, "MCELLO", 1); // 3
+		_ = AI_UseMob(self, "MCELLO", 1); // 3
 		// 4
-		AI_UseMob(self, "MCELLO", 2); // 5
+		_ = AI_UseMob(self, "MCELLO", 2); // 5
 		// 6
-		AI_UseMob(self, "MCELLO", 1); // 7
+		_ = AI_UseMob(self, "MCELLO", 1); // 7
 		// 8
 		// Refrain
-		AI_UseMob(self, "MCELLO", 2); // 1
-		AI_UseMob(self, "MCELLO", 3); // 2
-		AI_UseMob(self, "MCELLO", 2); // 3
-		AI_UseMob(self, "MCELLO", 3); // 4
-		AI_UseMob(self, "MCELLO", 2); // 5
-		AI_UseMob(self, "MCELLO", 3); // 6
-		AI_UseMob(self, "MCELLO", 2); // 7
-		AI_UseMob(self, "MCELLO", 3); // 8
+		_ = AI_UseMob(self, "MCELLO", 2); // 1
+		_ = AI_UseMob(self, "MCELLO", 3); // 2
+		_ = AI_UseMob(self, "MCELLO", 2); // 3
+		_ = AI_UseMob(self, "MCELLO", 3); // 4
+		_ = AI_UseMob(self, "MCELLO", 2); // 5
+		_ = AI_UseMob(self, "MCELLO", 3); // 6
+		_ = AI_UseMob(self, "MCELLO", 2); // 7
+		_ = AI_UseMob(self, "MCELLO", 3); // 8
 		// Bridge
-		AI_UseMob(self, "MCELLO", 2); // 1
-		AI_UseMob(self, "MCELLO", 3); // 2
+		_ = AI_UseMob(self, "MCELLO", 2); // 1
+		_ = AI_UseMob(self, "MCELLO", 3); // 2
 		// Verse 2
-		AI_UseMob(self, "MCELLO", 2); // 1
+		_ = AI_UseMob(self, "MCELLO", 2); // 1
 		// 2
-		AI_UseMob(self, "MCELLO", 1); // 3
+		_ = AI_UseMob(self, "MCELLO", 1); // 3
 		// 4
-		AI_UseMob(self, "MCELLO", 2); // 5
+		_ = AI_UseMob(self, "MCELLO", 2); // 5
 		// 6
-		AI_UseMob(self, "MCELLO", 1); // 7
+		_ = AI_UseMob(self, "MCELLO", 1); // 7
 		// 8
 		// Refrain
-		AI_UseMob(self, "MCELLO", 2); // 1
-		AI_UseMob(self, "MCELLO", 3); // 2
-		AI_UseMob(self, "MCELLO", 2); // 3
-		AI_UseMob(self, "MCELLO", 3); // 4
-		AI_UseMob(self, "MCELLO", 2); // 5
-		AI_UseMob(self, "MCELLO", 3); // 6
-		AI_UseMob(self, "MCELLO", 2); // 7
-		AI_UseMob(self, "MCELLO", 3); // 8
+		_ = AI_UseMob(self, "MCELLO", 2); // 1
+		_ = AI_UseMob(self, "MCELLO", 3); // 2
+		_ = AI_UseMob(self, "MCELLO", 2); // 3
+		_ = AI_UseMob(self, "MCELLO", 3); // 4
+		_ = AI_UseMob(self, "MCELLO", 2); // 5
+		_ = AI_UseMob(self, "MCELLO", 3); // 6
+		_ = AI_UseMob(self, "MCELLO", 2); // 7
+		_ = AI_UseMob(self, "MCELLO", 3); // 8
 		// Bridge2
-		AI_UseMob(self, "MCELLO", 2); // 1
-		AI_UseMob(self, "MCELLO", 3); // 2
-		AI_UseMob(self, "MCELLO", 2); // 3
+		_ = AI_UseMob(self, "MCELLO", 2); // 1
+		_ = AI_UseMob(self, "MCELLO", 3); // 2
+		_ = AI_UseMob(self, "MCELLO", 2); // 3
 		// 4
 		// Verse 3
-		AI_UseMob(self, "MCELLO", 1); // 1
+		_ = AI_UseMob(self, "MCELLO", 1); // 1
 		// 2
-		AI_UseMob(self, "MCELLO", 2); // 3
+		_ = AI_UseMob(self, "MCELLO", 2); // 3
 		// 4
-		AI_UseMob(self, "MCELLO", 1); // 5
+		_ = AI_UseMob(self, "MCELLO", 1); // 5
 		// 6
-		AI_UseMob(self, "MCELLO", 2); // 7
+		_ = AI_UseMob(self, "MCELLO", 2); // 7
 		// 8
 		// Refrain
-		AI_UseMob(self, "MCELLO", 1); // 1
+		_ = AI_UseMob(self, "MCELLO", 1); // 1
 		// 2
-		AI_UseMob(self, "MCELLO", 2); // 3
+		_ = AI_UseMob(self, "MCELLO", 2); // 3
 		// 4
-		AI_UseMob(self, "MCELLO", 1); // 5
+		_ = AI_UseMob(self, "MCELLO", 1); // 5
 		// 6
-		AI_UseMob(self, "MCELLO", 2); // 7
+		_ = AI_UseMob(self, "MCELLO", 2); // 7
 		// 8
 		// Refrain
-		AI_UseMob(self, "MCELLO", 3); // 1
-		AI_UseMob(self, "MCELLO", 2); // 2
-		AI_UseMob(self, "MCELLO", 3); // 3
-		AI_UseMob(self, "MCELLO", 2); // 4
-		AI_UseMob(self, "MCELLO", 3); // 5
-		AI_UseMob(self, "MCELLO", 2); // 6
-		AI_UseMob(self, "MCELLO", 3); // 7
-		AI_UseMob(self, "MCELLO", 2); // 8
+		_ = AI_UseMob(self, "MCELLO", 3); // 1
+		_ = AI_UseMob(self, "MCELLO", 2); // 2
+		_ = AI_UseMob(self, "MCELLO", 3); // 3
+		_ = AI_UseMob(self, "MCELLO", 2); // 4
+		_ = AI_UseMob(self, "MCELLO", 3); // 5
+		_ = AI_UseMob(self, "MCELLO", 2); // 6
+		_ = AI_UseMob(self, "MCELLO", 3); // 7
+		_ = AI_UseMob(self, "MCELLO", 2); // 8
 		// Refrain
-		AI_UseMob(self, "MCELLO", 1); // 1
+		_ = AI_UseMob(self, "MCELLO", 1); // 1
 		// 2
-		AI_UseMob(self, "MCELLO", 2); // 3
+		_ = AI_UseMob(self, "MCELLO", 2); // 3
 		// 4
-		AI_UseMob(self, "MCELLO", 3); // 5
-		AI_UseMob(self, "MCELLO", 2); // 6
-		AI_UseMob(self, "MCELLO", 3); // 7
-		AI_UseMob(self, "MCELLO", 2); // 8
+		_ = AI_UseMob(self, "MCELLO", 3); // 5
+		_ = AI_UseMob(self, "MCELLO", 2); // 6
+		_ = AI_UseMob(self, "MCELLO", 3); // 7
+		_ = AI_UseMob(self, "MCELLO", 2); // 8
 
-		AI_UseMob(self, "MCELLO", -1);
+		_ = AI_UseMob(self, "MCELLO", -1);
 	};
 
 	return LOOP_CONTINUE;
@@ -119,7 +119,7 @@ func int ZS_IETHOMAS_Loop()
 
 func void ZS_IETHOMAS_End()
 {
-	AI_UseMob(self, "MCELLO", -1);
+	_ = AI_UseMob(self, "MCELLO", -1);
 
 	PrintDebugNpc(PD_TA_FRAME, "ZS_IETHOMAS_End");
 };

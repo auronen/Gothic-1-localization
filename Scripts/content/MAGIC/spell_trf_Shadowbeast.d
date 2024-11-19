@@ -11,7 +11,7 @@ func int Spell_Logic_Trf_Shadowbeast(var int manaInvested)
 
 	if (manaInvested >= SPL_SENDCAST_TRF_SHADOWBEAST)
 	{
-		Npc_SetActiveSpellInfo(self, Shadowbeast);
+		_ = Npc_SetActiveSpellInfo(self, Shadowbeast);
 		return SPL_SENDCAST;
 	};
 

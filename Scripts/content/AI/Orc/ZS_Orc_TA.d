@@ -94,18 +94,18 @@ func void ZS_Orc_Stonemill_Loop()
 {
 	PrintDebugNpc(PD_ZS_FRAME, "ZS_Orc_Stonemill_Loop");
 
-	AI_UseMob(self, "STONEMILL", 1);
-	AI_UseMob(self, "STONEMILL", 0);
+	_ = AI_UseMob(self, "STONEMILL", 1);
+	_ = AI_UseMob(self, "STONEMILL", 0);
 
 	// CS: Orc muss sich jede Runde einmal ab- und wieder anmelden, damit er mit dem Mobsi synchronisiert bleibt
-	AI_UseMob(self, "STONEMILL", -1);
+	_ = AI_UseMob(self, "STONEMILL", -1);
 };
 
 func void ZS_Orc_Stonemill_End()
 {
 	PrintDebugNpc(PD_ZS_FRAME, "ZS_Orc_Stonemill_End");
 	Npc_ClearAIQueue(self);
-	AI_UseMob(self, "STONEMILL", -1);
+	_ = AI_UseMob(self, "STONEMILL", -1);
 };
 
 // #####################################################
@@ -130,18 +130,18 @@ func void ZS_Orc_Stomper()
 func void ZS_Orc_Stomper_Loop()
 {
 	PrintDebugNpc(PD_TA_FRAME, "ZS_Orc_Stomper_Loop");
-	AI_UseMob(self, "STOMPER", 1); // Ani anwerfen
-	AI_UseMob(self, "STOMPER", 0); // Ani anwerfen
+	_ = AI_UseMob(self, "STOMPER", 1); // Ani anwerfen
+	_ = AI_UseMob(self, "STOMPER", 0); // Ani anwerfen
 
 	// CS: Orc muss sich jede Runde einmal ab- und wieder anmelden, damit er mit dem Mobsi synchronisiert bleibt
-	AI_UseMob(self, "STOMPER", -1);
+	_ = AI_UseMob(self, "STOMPER", -1);
 };
 
 func void ZS_Orc_Stomper_End()
 {
 	PrintDebugNpc(PD_TA_FRAME, "ZS_Orc_Stomper_End");
 	Npc_ClearAIQueue(self);
-	AI_UseMob(self, "STOMPER", -1); // Schluss jetzt mit dem Quatsch
+	_ = AI_UseMob(self, "STOMPER", -1); // Schluss jetzt mit dem Quatsch
 };
 
 // #######################################################
@@ -196,7 +196,7 @@ func void ZS_Orc_Sleep()
 		};
 
 		AI_UnequipWeapons(self);
-		AI_UseMob(self, "BEDLOW", 1);
+		_ = AI_UseMob(self, "BEDLOW", 1);
 	};
 
 	OrcLightSleepPerc();
@@ -222,14 +222,14 @@ func void ZS_Orc_Sleep_End()
 	Npc_ClearAIQueue(self);
 
 	//	Mobbenutzung beenden
-	AI_UseMob(self, "BEDLOW", -1);
+	_ = AI_UseMob(self, "BEDLOW", -1);
 
 	//	Aufwachgeräusche von sich geben
 	B_Say(self, NULL, "$AWAKE");
 
 	//	Waffen anlegen
-	AI_EquipBestMeleeWeapon(self);
-	AI_EquipBestRangedWeapon(self);
+	_ = AI_EquipBestMeleeWeapon(self);
+	_ = AI_EquipBestRangedWeapon(self);
 };
 
 // #######################################################
@@ -289,7 +289,7 @@ func void ZS_Orc_Drum()
 			AI_GotoWP(self, self.wp);
 		};
 
-		AI_UseMob(self, "DRUM", 1); // Ani anwerfen
+		_ = AI_UseMob(self, "DRUM", 1); // Ani anwerfen
 	};
 
 	OrcDefaultPercDoing();
@@ -326,7 +326,7 @@ func int ZS_Orc_Drum_End()
 	Npc_ClearAIQueue(self);
 
 	// nicht mehr Trommeln
-	AI_UseMob(self, "DRUM", -1);
+	_ = AI_UseMob(self, "DRUM", -1);
 };
 
 // #######################################################

@@ -16,7 +16,7 @@ func void ZS_PotionAlchemy()
 			AI_GotoWP(self, self.wp);
 		};
 
-		AI_UseMob(self, "LAB", 1); // Benutze den Mob einmal bis zum angegebenen State
+		_ = AI_UseMob(self, "LAB", 1); // Benutze den Mob einmal bis zum angegebenen State
 	};
 };
 
@@ -36,7 +36,7 @@ func void ZS_PotionAlchemy_Loop()
 
 func void ZS_PotionAlchemy_End()
 {
-	AI_UseMob(self, "LAB", -1); // Nimm den Verlassen State ein
+	_ = AI_UseMob(self, "LAB", -1); // Nimm den Verlassen State ein
 
 	PrintDebugNpc(PD_TA_FRAME, "ZS_PotionAlchemy_End");
 };

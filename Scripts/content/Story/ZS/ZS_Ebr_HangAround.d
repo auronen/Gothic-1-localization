@@ -15,7 +15,7 @@ func void ZS_Ebr_HangAround()
 			AI_GotoWP(self, self.wp);
 		};
 
-		AI_UseMob(self, "THRONE", 1); // Benutze den Mob einmal bis zum angegebenen State
+		_ = AI_UseMob(self, "THRONE", 1); // Benutze den Mob einmal bis zum angegebenen State
 	};
 };
 
@@ -30,5 +30,5 @@ func void ZS_Ebr_HangAround_End()
 {
 	PrintDebugNpc(PD_TA_FRAME, "ZS_Ebr_HangAround_End");
 
-	AI_UseMob(self, "THRONE", -1);
+	_ = AI_UseMob(self, "THRONE", -1);
 };

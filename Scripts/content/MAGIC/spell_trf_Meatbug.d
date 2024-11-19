@@ -11,7 +11,7 @@ func int Spell_Logic_Trf_Meatbug(var int manaInvested)
 
 	if (manaInvested >= SPL_SENDCAST_TRF_MEATBUG)
 	{
-		Npc_SetActiveSpellInfo(self, Meatbug);
+		_ = Npc_SetActiveSpellInfo(self, Meatbug);
 		return SPL_SENDCAST;
 	};
 

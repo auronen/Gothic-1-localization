@@ -3,7 +3,7 @@ func void B_RefuseTalk()
 	PrintDebugNpc(PD_ZS_FRAME, "B_RefuseTalk");
 	B_SmartTurnToNpc(self, other);
 	B_Say(self, other, "$NOTNOW");
-	C_StopLookAt(self);
+	_ = C_StopLookAt(self);
 };
 
 // **********************************************************

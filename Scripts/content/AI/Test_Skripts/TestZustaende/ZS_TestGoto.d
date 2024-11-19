@@ -15,7 +15,7 @@ func void ZS_TestGotoWP_Loop()
 	Npc_SetTarget(self, hero);
 	PrintGlobals(PD_ZS_FRAME);
 
-	Npc_GetTarget(self);
+	_ = Npc_GetTarget(self);
 	AI_GotoNpc(self, other /*player*/ );
 
 	AI_Wait(self, 3);

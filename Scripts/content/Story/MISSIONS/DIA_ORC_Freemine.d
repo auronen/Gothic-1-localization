@@ -638,11 +638,11 @@ func void Info_FreemineOrc_EVERYULUMULU_Info()
 
 	CreateInvItems(hero, ItAt_Waran_01, 3);
 	B_GiveInvItems(hero, self, ItAt_Waran_01, 4); // Notwendig für Ausschrift "4 Gegenstände übergegen", wird sofort ausgeglichen
-	Npc_RemoveInvItem(hero, ItAt_Shadow_02);
-	Npc_RemoveInvItem(hero, ItAt_Swampshark_02);
-	Npc_RemoveInvItem(hero, ItAt_Troll_02);
+	_ = Npc_RemoveInvItem(hero, ItAt_Shadow_02);
+	_ = Npc_RemoveInvItem(hero, ItAt_Swampshark_02);
+	_ = Npc_RemoveInvItem(hero, ItAt_Troll_02);
 
-	Npc_RemoveInvItems(self, ItAt_Waran_01, 4);
+	_ = Npc_RemoveInvItems(self, ItAt_Waran_01, 4);
 
 	B_Story_GotUluMulu();
 

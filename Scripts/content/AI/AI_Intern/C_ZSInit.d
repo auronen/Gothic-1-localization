@@ -4,7 +4,7 @@ func void C_ZSInit()
 {
 	self.aivar[AIV_FIGHTSPEACHFLAG] = 0;
 
-	C_StopLookAt(self);
+	_ = C_StopLookAt(self);
 
 	// CS: WorkAround, bis Bug #3023 gefixt ist
 	if (self.aivar[AIV_INVINCIBLE] == TRUE)

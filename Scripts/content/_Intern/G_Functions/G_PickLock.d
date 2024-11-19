@@ -51,5 +51,5 @@ func void G_PickLock(var int bSuccess, var int bBrokenOpen)
 	//
 	//	PRINT THE MESSAGE
 	//
-	PrintScreen(strMessage, -1, strYPos, _STR_FONT_ONSCREEN, _TIME_MESSAGE_PICKLOCK);
+	_ = PrintScreen(strMessage, -1, strYPos, _STR_FONT_ONSCREEN, _TIME_MESSAGE_PICKLOCK);
 };

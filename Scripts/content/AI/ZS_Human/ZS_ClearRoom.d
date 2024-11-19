@@ -22,7 +22,7 @@ func int ZS_ClearRoom_Loop()
 {
 	PrintDebugNpc(PD_ZS_LOOP, "ZS_ClearRoom_Loop");
 
-	Npc_GetTarget(self);
+	_ = Npc_GetTarget(self);
 
 	// -------- SC hat mittlerweile den Raum verlassen --------
 	var int portalguild;

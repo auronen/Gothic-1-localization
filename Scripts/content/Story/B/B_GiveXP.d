@@ -19,7 +19,7 @@ func void B_GiveXP(var int add_xp)
 	var string msg;
 	msg = NAME_XPGained;
 	msg = ConcatStrings(msg, IntToString(add_xp));
-	PrintScreen(msg, -1, _YPOS_MESSAGE_XPGAINED, "font_old_10_white.tga", _TIME_MESSAGE_XPGAINED);
+	_ = PrintScreen(msg, -1, _YPOS_MESSAGE_XPGAINED, "font_old_10_white.tga", _TIME_MESSAGE_XPGAINED);
 
 	// ----------------------------------------------------------------------------
 	if (hero.exp >= hero.exp_next) // ( XP > (500*((hero.level+2)/2)*(hero.level+1)) )
@@ -29,7 +29,7 @@ func void B_GiveXP(var int add_xp)
 		hero.attribute[ATR_HITPOINTS_MAX] = hero.attribute[ATR_HITPOINTS_MAX] + HP_PER_LEVEL;
 		hero.attribute[ATR_HITPOINTS] = hero.attribute[ATR_HITPOINTS] + HP_PER_LEVEL;
 		hero.LP = hero.LP + LP_PER_LEVEL; // + hero.level;
-		PrintScreen(NAME_LevelUp, -1, _YPOS_MESSAGE_LEVELUP, "font_old_20_white.tga", _TIME_MESSAGE_LEVELUP);
+		_ = PrintScreen(NAME_LevelUp, -1, _YPOS_MESSAGE_LEVELUP, "font_old_20_white.tga", _TIME_MESSAGE_LEVELUP);
 		Snd_Play("LevelUp");
 	};
 };

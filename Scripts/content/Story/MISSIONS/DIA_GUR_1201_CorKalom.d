@@ -148,7 +148,7 @@ func void GUR_1201_CorKalom_BRINGWEED_Info()
 		AI_Output(self, other, "GUR_1201_CorKalom_BRINGWEED_10_02"); //Ah, gib her. Und verzieh dich wieder!
 
 		B_GiveInvItems(hero, self, ItMi_Plants_Swampherb_01, 100);
-		Npc_RemoveInvItems(self, ItMi_Plants_Swampherb_01, 100);
+		_ = Npc_RemoveInvItems(self, ItMi_Plants_Swampherb_01, 100);
 		BaalOrun_FetchWeed = LOG_SUCCESS;
 		B_LogEntry(CH1_DeliverWeed, CH1_DeliverWeed_2);
 		Log_SetTopicStatus(CH1_DeliverWeed, LOG_SUCCESS);
@@ -280,7 +280,7 @@ func void GUR_1201_CorKalom_JoinPSI_Info()
 			CreateInvItem(self, NOV_ARMOR_M);
 			B_GiveInvItems(self, hero, NOV_ARMOR_M, 1);
 			AI_EquipBestArmor(other);
-			Npc_SetTrueGuild(hero, GIL_NOV);
+			_ = Npc_SetTrueGuild(hero, GIL_NOV);
 			hero.guild = GIL_NOV;
 			B_LogEntry(CH1_JoinPsi, CH1_JoinPsi_8);
 			B_LogEntry(GE_TraderPSI, GE_TraderPSI_2);
@@ -525,7 +525,7 @@ func void Info_CorKalom_BringFocus_Info()
 	Log_SetTopicStatus(CH2_Focus, LOG_SUCCESS);
 
 	B_GiveInvItems(hero, self, Focus_1, 1);
-	Npc_RemoveInvItem(self, Focus_1);
+	_ = Npc_RemoveInvItem(self, Focus_1);
 	B_GiveXP(XP_BringFocusToCorKalom);
 };
 
@@ -848,7 +848,7 @@ func void Info_CorKalom_BringMCQBalls_Success_Info()
 	AI_Output(self, other, "Mis_2_PSI_Kalom_BringMCQEggs_Success_10_07"); //Na gut, na gut. Was willst du?
 	CorKalom_BringMCQBalls = LOG_SUCCESS;
 	B_GiveInvItems(hero, self, ItAt_Crawlerqueen, 3);
-	Npc_RemoveInvItems(self, ItAt_Crawlerqueen, 3);
+	_ = Npc_RemoveInvItems(self, ItAt_Crawlerqueen, 3);
 	B_GiveXP(XP_BringMCEggs);
 	B_LogEntry(CH2_MCEggs, CH2_MCEggs_5);
 	Log_SetTopicStatus(CH2_MCEggs, LOG_SUCCESS);
@@ -1006,7 +1006,7 @@ func void Info_CorKalom_BringBook_Success_Info()
 	AI_Output(self, other, "Info_CorKalom_BringBook_Success_10_05"); //Komme bei Nacht zum Tempelvorplatz. Dort werden wir uns versammeln, um den allmächtigen Schläfer zu rufen.
 
 	B_GiveInvItems(hero, self, ItWrFokusbuch, 1);
-	Npc_RemoveInvItem(self, ItWrFokusbuch);
+	_ = Npc_RemoveInvItem(self, ItWrFokusbuch);
 	B_GiveXP(XP_BringBook);
 	CorKalom_BringBook = LOG_SUCCESS;
 

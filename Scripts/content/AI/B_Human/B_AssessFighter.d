@@ -69,7 +69,7 @@ func void B_AssessFighter()
 		else if (Npc_IsInState(self, ZS_GuardPassage))
 		{
 			// -------- Auf Vergabe von Infos & Missionen checken --------
-			B_CheckForImportantInfo(self, other);
+			_ = B_CheckForImportantInfo(self, other);
 		};
 
 		// -------- Check auf Fäuste! --------
@@ -106,7 +106,7 @@ func void B_AssessFighter()
 				// Npc_SendPassivePerc(self, PERC_ASSESSWARN, self, other);
 				Npc_SetTarget(self, other);
 
-				Npc_GetTarget(self);
+				_ = Npc_GetTarget(self);
 				AI_StartState(self, ZS_AssessFighter, 0, "");
 				return;
 			};

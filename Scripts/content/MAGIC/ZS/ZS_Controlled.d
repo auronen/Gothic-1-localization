@@ -28,6 +28,6 @@ func void ZS_Controlled_End()
 
 	// -------- Gegner behandeln ! --------
 	Npc_SetTarget(self, hero);
-	Npc_GetTarget(self);
+	_ = Npc_GetTarget(self);
 	AI_StartState(self, ZS_AssessEnemy, 1, "");
 };

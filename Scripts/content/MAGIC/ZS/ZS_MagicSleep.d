@@ -71,7 +71,7 @@ func void ZS_MagicSleep_Loop()
 
 	if (time > SPL_TIME_SLEEP) // nach 30 sekunden wird der zustand beendet.
 	{
-		B_StopMagicSleep();
+		_ = B_StopMagicSleep();
 	};
 
 	AI_Wait(self, 1);

@@ -80,7 +80,7 @@ func void B_Kapitelwechsel(var int neues_Kapitel)
 		B_Give_WolfChapter3Weapons();
 		B_Give_SkipChapter3Weapons();
 		// -------- Video abspielen --------
-		PlayVideo("GREATPRAYER.BIK");
+		_ = PlayVideo("GREATPRAYER.BIK");
 
 		// -------- Y'Berion ins Koma fallen lassen --------
 		var C_Npc YBerion;
@@ -150,7 +150,7 @@ func void B_Kapitelwechsel(var int neues_Kapitel)
 		oldHeroGuild = Npc_GetTrueGuild(hero);
 		if (C_NpcBelongsToOldCamp(hero))
 		{
-			Npc_SetTrueGuild(hero, GIL_NONE); // "Ausgestoßener" aus dem Alten Lager
+			_ = Npc_SetTrueGuild(hero, GIL_NONE); // "Ausgestoßener" aus dem Alten Lager
 			hero.guild = GIL_NONE;
 		};
 
@@ -258,7 +258,7 @@ func void B_Kapitelwechsel(var int neues_Kapitel)
 		B_Give_XardasChapter6Runes();
 
 		// -------- URIZIEL aufladen --------
-		PlayVideo("OREHEAP.BIK"); // Schwert aufladen
+		_ = PlayVideo("OREHEAP.BIK"); // Schwert aufladen
 		CreateInvItem(hero, Mythrilklinge02);
 
 		IntroduceChapter(KAPWECHSEL_6, KAPWECHSEL_6_TEXT, "chapter6.tga", "levelup.wav", 6000);

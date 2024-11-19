@@ -10,9 +10,9 @@ func void ZS_WakeUp()
 	Npc_PercEnable(self, PERC_ASSESSUSEMOB, B_ClearRoomUseMob);
 
 	// ######## WORKAROUND: da ZS_Sleep_End nicht angesprungen wird ########
-	AI_UseMob(self, "BEDHIGH", -1);
-	AI_UseMob(self, "BEDLOW", -1);
-	AI_UseMob(self, "BED", -1);
+	_ = AI_UseMob(self, "BEDHIGH", -1);
+	_ = AI_UseMob(self, "BEDLOW", -1);
+	_ = AI_UseMob(self, "BED", -1);
 	// ######## WORKAROUND: Ende ########
 
 	// -------- SC im unerlaubten Raum? --------

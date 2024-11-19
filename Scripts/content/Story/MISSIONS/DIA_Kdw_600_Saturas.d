@@ -145,7 +145,7 @@ func void Info_Saturas_BOOK_Info()
 	AI_Output(self, other, "Info_Saturas_BOOK_14_04"); //Ich werde den Almanach an mich nehmen!
 
 	B_GiveInvItems(hero, self, ItWrFokusbuch, 1);
-	Npc_RemoveInvItem(self, ItWrFokusbuch);
+	_ = Npc_RemoveInvItem(self, ItWrFokusbuch);
 	B_GiveXP(XP_DeliverBookToSaturas);
 };
 
@@ -183,7 +183,7 @@ func void Info_Saturas_FOCUS_Info()
 	AI_Output(other, self, "Info_Saturas_FOCUS_15_10"); //Hier, nimm den Fokus. Hoffentlich hilft er dem Plan mit dem Erzhaufen auch wirklich!
 
 	B_GiveInvItems(hero, self, Focus_1, 1);
-	Npc_RemoveInvItem(self, Focus_1);
+	_ = Npc_RemoveInvItem(self, Focus_1);
 	B_GiveXP(XP_DeliverFocusToSaturas);
 };
 
@@ -346,7 +346,7 @@ func void Info_Saturas_BRINGFOCUS2_Info()
 
 	// -------- Fokus abliefern ! --------
 	B_GiveInvItems(hero, self, focus_2, 1);
-	Npc_RemoveInvItem(self, focus_2);
+	_ = Npc_RemoveInvItem(self, focus_2);
 	B_DeliverFocus();
 };
 
@@ -379,7 +379,7 @@ func void Info_Saturas_BRINGFOCUS3_Info()
 
 	// -------- Fokus abliefern ! --------
 	B_GiveInvItems(hero, self, focus_3, 1);
-	Npc_RemoveInvItem(hero, focus_3);
+	_ = Npc_RemoveInvItem(hero, focus_3);
 	B_DeliverFocus();
 };
 
@@ -413,7 +413,7 @@ func void Info_Saturas_BRINGFOCUS4_Info()
 
 	// -------- Fokus abliefern ! --------
 	B_GiveInvItems(hero, self, focus_4, 1);
-	Npc_RemoveInvItem(hero, focus_4);
+	_ = Npc_RemoveInvItem(hero, focus_4);
 	B_DeliverFocus();
 };
 
@@ -446,7 +446,7 @@ func void Info_Saturas_BRINGFOCUS5_Info()
 
 	// -------- Fokus abliefern ! --------
 	B_GiveInvItems(hero, self, focus_5, 1);
-	Npc_RemoveInvItem(hero, focus_5);
+	_ = Npc_RemoveInvItem(hero, focus_5);
 	B_DeliverFocus();
 };
 
@@ -789,7 +789,7 @@ func void KDW_600_Saturas_KDWAUFNAHME_Info()
 	B_GiveInvItems(self, other, KDW_ARMOR_L, 1);
 	AI_EquipBestArmor(hero);
 	Snd_Play("MFX_Heal_Cast");
-	Npc_SetTrueGuild(hero, GIL_KDW);
+	_ = Npc_SetTrueGuild(hero, GIL_KDW);
 	hero.guild = GIL_KDW;
 
 	B_LogEntry(CH4_BannedFromOC, CH4_BannedFromOC_10);
@@ -1079,7 +1079,7 @@ func void KDW_600_Saturas_HEAVYARMOR_Info()
 
 		CreateInvItem(self, ItAmArrow);
 		B_GiveInvItems(self, hero, ItAmArrow, 1);
-		Npc_RemoveInvItem(hero, ItAmArrow);
+		_ = Npc_RemoveInvItem(hero, ItAmArrow);
 
 		AI_EquipBestArmor(hero);
 	};
@@ -1493,7 +1493,7 @@ func void KDW_600_Saturas_HogeAUFNAHMETeil2_Info()
 	B_GiveInvItems(self, other, KDW_ARMOR_L, 1);
 	AI_EquipBestArmor(hero);
 	Snd_Play("MFX_Heal_Cast");
-	Npc_SetTrueGuild(hero, GIL_KDW);
+	_ = Npc_SetTrueGuild(hero, GIL_KDW);
 	hero.guild = GIL_KDW;
 
 	Log_CreateTopic(CH4_SldToKdW, LOG_NOTE);

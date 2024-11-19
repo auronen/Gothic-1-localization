@@ -548,7 +548,7 @@ func void Info_Xardas_LOADSWORD_Info()
 	AI_Output(self, other, "Info_Xardas_LOADSWORD_14_02"); //Zeig mal her.
 
 	CreateInvItem(self, Mythrilklinge01);
-	AI_EquipBestMeleeWeapon(self);
+	_ = AI_EquipBestMeleeWeapon(self);
 	AI_ReadyMeleeWeapon(self);
 	AI_PlayAni(self, "T_1HSINSPECT");
 	AI_RemoveWeapon(self);
@@ -559,7 +559,7 @@ func void Info_Xardas_LOADSWORD_Info()
 	AI_Output(self, other, "Info_Xardas_LOADSWORD_14_05"); //Die Waffe ist aus einem völlig unbekannten Material geschmiedet. Auch über den Erschaffer steht nichts geschrieben!
 	AI_Output(self, other, "Info_Xardas_LOADSWORD_14_06"); //Angeblich soll diese Klinge unglaubliche Kräfte besessen haben, aber ich kann keinerlei magische Aura feststellen!
 
-	Npc_RemoveInvItem(hero, Mythrilklinge);
+	_ = Npc_RemoveInvItem(hero, Mythrilklinge);
 	CreateInvItem(hero, Mythrilklinge01);
 };
 
@@ -585,7 +585,7 @@ func int Info_Xardas_LOADSWORD01_Condition()
 
 func void Info_Xardas_LOADSWORD01_Info()
 {
-	Npc_RemoveInvItem(self, Mythrilklinge01);
+	_ = Npc_RemoveInvItem(self, Mythrilklinge01);
 
 	AI_Output(other, self, "Info_Xardas_LOADSWORD01_15_01"); //URIZIEL besaß unglaubliche Kräfte?
 	AI_Output(self, other, "Info_Xardas_LOADSWORD01_14_02"); //Es steht geschrieben, dass der Träger dieser Waffe die stärksten Panzerungen durchbohren und die mächtigsten Schutzzauber überwinden kann.
@@ -880,10 +880,10 @@ func void Info_Xardas_MAKERUNE_YES()
 	AI_Output(other, self, "Info_Xardas_MAKERUNEDOIT_15_04"); //JA, tu es!
 	AI_Output(self, other, "Info_Xardas_MAKERUNEDOIT_14_05"); //Du hast es so gewollt. Hier, nimm das leere Schwert und die Rune!
 
-	Npc_RemoveInvItem(hero, Mythrilklinge02);
+	_ = Npc_RemoveInvItem(hero, Mythrilklinge02);
 	CreateInvItems(self, UrizielRune, 2);
 	B_GiveInvItems(self, hero, UrizielRune, 2); // Wegen Ausgabe "2 Items übergeben", wird direkt angeglichen
-	Npc_RemoveInvItem(hero, UrizielRune);
+	_ = Npc_RemoveInvItem(hero, UrizielRune);
 	CreateInvItem(hero, Mythrilklinge03);
 	B_LogEntry(CH5_Uriziel, CH5_Uriziel_6);
 	Log_SetTopicStatus(CH5_Uriziel, LOG_SUCCESS);
@@ -938,10 +938,10 @@ func void Info_Xardas_LOADSWORD09_Info()
 			// Fakeitem für Bildschirmausgabe
 			CreateInvItem(self, ItAmArrow);
 			B_GiveInvItems(self, hero, ItAmArrow, 1);
-			Npc_RemoveInvItem(hero, ItAmArrow);
+			_ = Npc_RemoveInvItem(hero, ItAmArrow);
 
 			hero.guild = GIL_DMB;
-			Npc_SetTrueGuild(hero, GIL_DMB);
+			_ = Npc_SetTrueGuild(hero, GIL_DMB);
 			Info_Xardas_LOADSWORD09.permanent = 0;
 			AI_StopProcessInfos(self);
 		};

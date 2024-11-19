@@ -271,7 +271,7 @@ func void DIA_Gorn_DuHehler_Info()
 
 	CreateInvItems(self, ItFoApple, 21);
 	B_GiveInvItems(self, other, ItFoApple, 21); // Notwendig für Screenausgabe
-	Npc_RemoveInvItems(other, ItFoApple, 21);
+	_ = Npc_RemoveInvItems(other, ItFoApple, 21);
 
 	CreateInvItems(other, ItMw_1H_LightGuardsSword_03, 1);
 	CreateInvItems(other, ItFoApple, 5);

@@ -6,7 +6,7 @@ func void ZS_Babe_AssessPlayer()
 	AI_UnequipArmor(self);
 
 	B_SetBabeDefaultPerceptions();
-	C_LookAtNpc(self, other);
+	_ = C_LookAtNpc(self, other);
 };
 
 func int ZS_Babe_AssessPlayer_Loop()
@@ -19,7 +19,7 @@ func int ZS_Babe_AssessPlayer_Loop()
 
 	if (Npc_GetDistToNpc(self, other) > PERC_DIST_DIALOG)
 	{
-		C_StopLookAt(self);
+		_ = C_StopLookAt(self);
 		AI_ContinueRoutine(self);
 	};
 

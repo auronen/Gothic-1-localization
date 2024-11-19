@@ -210,7 +210,7 @@ func void GUR_1202_CorAngar_WANNABETPL_Info()
 		AI_Output(self, other, "GUR_1202_CorAngar_WANNABETPL_Info_08_07"); //Und vergiss nicht: ein konzentrierter Geist in einem gestählten Körper widersteht jeder Bedrohung.
 		AI_Output(self, other, "GUR_1202_CorAngar_WANNABETPL_Info_08_08"); //Gehe nun zu Gor Na Toth am Übungsplatz. Er wird dir deine neue Rüstung geben.
 		GUR_1202_CorAngar_WANNABETPL.permanent = 0;
-		Npc_SetTrueGuild(hero, GIL_TPL);
+		_ = Npc_SetTrueGuild(hero, GIL_TPL);
 		hero.guild = GIL_TPL;
 
 		Log_CreateTopic(GE_BecomeTemplar, LOG_NOTE);
@@ -594,7 +594,7 @@ func void Info_CorAngar_FindHerb_Success_Info()
 	Yberion_dead = LOG_RUNNING;
 
 	B_GiveInvItems(other, self, ItFo_Plants_Herb_03, 5);
-	Npc_RemoveInvItems(self, ItFo_Plants_Herb_03, 5);
+	_ = Npc_RemoveInvItems(self, ItFo_Plants_Herb_03, 5);
 	B_GiveXP(XP_FindHerbs);
 
 	CorAngar_FindHerb = LOG_SUCCESS;

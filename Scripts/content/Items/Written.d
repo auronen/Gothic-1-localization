@@ -1727,6 +1727,6 @@ func void UseItWr_Bloodfly_01()
 		Knows_GetBFSting = TRUE;
 		Log_CreateTopic(GE_AnimalTrophies, LOG_NOTE);
 		B_LogEntry(GE_AnimalTrophies, GE_AnimalTrophies_Stinger);
-		PrintScreen(PRINT_LEARN_Stinger, -1, -1, "FONT_OLD_20_WHITE.TGA", 2);
+		_ = PrintScreen(PRINT_LEARN_Stinger, -1, -1, "FONT_OLD_20_WHITE.TGA", 2);
 	};
 };

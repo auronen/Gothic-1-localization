@@ -341,7 +341,7 @@ func void Info_OrcShaman_MAP_Info()
 	AI_Output(hero, self, "Info_OrcShaman_MAP_15_05"); //Erstaunlich, du bist ein guter Kartenzeichner. Danke!
 
 	B_GiveInvItems(hero, self, ItWrWorldmap, 1);
-	Npc_RemoveInvItem(self, ItWrWorldmap);
+	_ = Npc_RemoveInvItem(self, ItWrWorldmap);
 	CreateInvItem(self, ItWrWorldmap_Orc);
 	B_GiveInvItems(self, hero, ItWrWorldmap_Orc, 1);
 };

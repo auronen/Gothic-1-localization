@@ -39,19 +39,19 @@ func int ZS_SitAround_Loop()
 		if (Wld_IsMobAvailable(self, "BENCH"))
 		{
 			PrintDebugNpc(PD_TA_CHECK, "...Bank gefunden!");
-			AI_UseMob(self, "BENCH", 1); // Benutze den Mob einmal bis zum angegebenen State
+			_ = AI_UseMob(self, "BENCH", 1); // Benutze den Mob einmal bis zum angegebenen State
 			self.aivar [AIV_HangAroundStatus] = 2;
 		}
 		else if (Wld_IsMobAvailable(self, "CHAIR"))
 		{
 			PrintDebugNpc(PD_TA_CHECK, "...Stuhl gefunden!");
-			AI_UseMob(self, "CHAIR", 1); // Benutze den Mob einmal bis zum angegebenen State
+			_ = AI_UseMob(self, "CHAIR", 1); // Benutze den Mob einmal bis zum angegebenen State
 			self.aivar [AIV_HangAroundStatus] = 3;
 		}
 		else if (Wld_IsMobAvailable(self, "SMALL THRONE"))
 		{
 			PrintDebugNpc(PD_TA_CHECK, "...kl. Thron gefunden!");
-			AI_UseMob(self, "SMALL THRONE", 1); // Benutze den Mob einmal bis zum angegebenen State
+			_ = AI_UseMob(self, "SMALL THRONE", 1); // Benutze den Mob einmal bis zum angegebenen State
 			self.aivar [AIV_HangAroundStatus] = 4;
 		}
 		else if (Wld_IsFPAvailable(self, "SIT"))
@@ -141,17 +141,17 @@ func void ZS_SitAround_End()
 	}
 	else if (self.aivar[AIV_HangAroundStatus] == 4)
 	{
-		AI_UseMob(self, "SMALL THRONE", -1);
+		_ = AI_UseMob(self, "SMALL THRONE", -1);
 		self.aivar[AIV_HangAroundStatus] = 0;
 	}
 	else if (self.aivar[AIV_HangAroundStatus] == 2)
 	{
-		AI_UseMob(self, "BENCH", -1);
+		_ = AI_UseMob(self, "BENCH", -1);
 		self.aivar[AIV_HangAroundStatus] = 0;
 	}
 	else if (self.aivar[AIV_HangAroundStatus] == 3)
 	{
-		AI_UseMob(self, "CHAIR", -1);
+		_ = AI_UseMob(self, "CHAIR", -1);
 		self.aivar[AIV_HangAroundStatus] = 0;
 	};
 };

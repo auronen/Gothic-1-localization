@@ -156,5 +156,5 @@ func void DIA_EBR_106_Bartholo_Wait4SC_Info()
 	AI_StopProcessInfos(self);
 
 	self.guild = GIL_EBR;
-	Npc_SetTrueGuild(self, GIL_EBR);
+	_ = Npc_SetTrueGuild(self, GIL_EBR);
 };

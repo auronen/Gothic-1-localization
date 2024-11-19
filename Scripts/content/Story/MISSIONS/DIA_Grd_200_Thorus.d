@@ -752,7 +752,7 @@ func void GRD_200_Thorus_AUFNAHME_Info()
 	KDFWache = Hlp_GetNpc(GRD_245_GARDIST);
 	KDFWache.aivar[AIV_PASSGATE] = FALSE;
 
-	Npc_SetTrueGuild(hero, GIL_GRD);
+	_ = Npc_SetTrueGuild(hero, GIL_GRD);
 	hero.guild = GIL_GRD;
 };
 

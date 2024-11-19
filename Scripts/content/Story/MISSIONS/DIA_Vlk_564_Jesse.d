@@ -125,7 +125,7 @@ func void DIA_Jesse_Mission_What()
 	AI_Output(other, self, "DIA_Jesse_Mission_What_15_00"); //An was hattest du denn da gedacht?
 	AI_Output(self, other, "DIA_Jesse_Mission_What_03_01"); //Ich hab' kein Erz mehr, und Bloodwyn hat schon versucht, das letzte Bröckchen aus mir rauszupressen.
 	AI_Output(self, other, "DIA_Jesse_Mission_What_03_02"); //Jetzt, wo ich dir geholfen habe, könntest du ihm doch meine 10 Erz geben, oder? Sag ihm, sie kommen von mir.
-	Npc_SetTrueGuild(self, GIL_NONE); // KEIN Schutzgeld
+	_ = Npc_SetTrueGuild(self, GIL_NONE); // KEIN Schutzgeld
 
 	Info_AddChoice(DIA_Jesse_Mission, "Ich für dich zahlen? Vergiß es!", DIA_Jesse_Mission_NO);
 	Info_AddChoice(DIA_Jesse_Mission, "Ich werd sehen, was ich machen kann...", DIA_Jesse_Mission_YES);
@@ -174,7 +174,7 @@ func void DIA_Jesse_MisSuccess_Info()
 {
 	AI_Output(other, self, "DIA_Jesse_MisSuccess_15_00"); //Ich habe Bloodwyn bezahlt!
 	AI_Output(self, other, "DIA_Jesse_MisSuccess_03_01"); //Ja? Gut! Dann sind wir ja jetzt quitt.
-	Npc_SetTrueGuild(self, GIL_VLK); // Schutzgeld GEZAHLT
+	_ = Npc_SetTrueGuild(self, GIL_VLK); // Schutzgeld GEZAHLT
 
 	Info_ClearChoices(DIA_Jesse_MisSuccess);
 	Info_AddChoice(DIA_Jesse_MisSuccess, "WAAAS?! Ich hab' 10 Erz ausgegeben für einen Tip, den ich sowieso schon kannte!?", DIA_Jesse_MisSuccess_Waaas);

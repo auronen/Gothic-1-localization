@@ -38,5 +38,5 @@ func void ZS_Stay_End()
 	PrintDebugNpc(PD_TA_FRAME, "ZS_Stay_End");
 	self.senses = hero.senses;
 
-	C_StopLookAt(self);
+	_ = C_StopLookAt(self);
 };

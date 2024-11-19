@@ -63,7 +63,7 @@ func void ZS_ObserveSuspect_End()
 {
 	PrintDebugNpc(PD_ZS_FRAME, "ZS_ObserveSuspect_End");
 	AI_StopPointAt(self);
-	C_StopLookAt(self);
+	_ = C_StopLookAt(self);
 	AI_TurnToNpc(self, other);
 	AI_ContinueRoutine(self);
 };
