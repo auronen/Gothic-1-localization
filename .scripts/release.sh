@@ -19,6 +19,8 @@ get_encoding() {
         "es") echo "cp1252" ;;
         "fr") echo "cp1252" ;;
         "it") echo "cp1252" ;;
+        "la") echo "cp1252" ;;
+        "pt_br") echo "cp1252" ;;
 
         # cp1254
         "tr") echo "cp1254" ;;
