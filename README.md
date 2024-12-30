@@ -91,5 +91,11 @@ Original [release post](https://forum.worldofplayers.de/forum/threads/1489670-%E
 Translation authors:  
   - Wollnir
 
-## :wales: Cymraeg (Welsh) 
+## :wales: Cymraeg (Welsh)  
 [![Translation progress](http://weblate.cokoliv.eu/widgets/gothic-1/cy/svg-badge.svg)](http://weblate.cokoliv.eu/engage/gothic-1/cy/)  
+
+## :brazil: Portuguese - Brazil  
+[![Translation progress](http://weblate.cokoliv.eu/widgets/gothic-1/pt_BR/svg-badge.svg)](http://weblate.cokoliv.eu/engage/gothic-1/pt_BR/)  
+
+## Latin  
+[![Translation progress](http://weblate.cokoliv.eu/widgets/gothic-1/la/svg-badge.svg)](http://weblate.cokoliv.eu/engage/gothic-1/la/)  
