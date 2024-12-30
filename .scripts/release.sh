@@ -21,7 +21,8 @@ get_encoding() {
         "fr") echo "cp1252" ;;
         "it") echo "cp1252" ;;
         "la") echo "cp1252" ;;
-        "pt_br" | "pt_BR") echo "cp1252" ;;
+        # "pt_br" | "pt_BR") echo "cp1252" ;;
+        "pt_br" | "pt_BR") echo "utf8" ;;
 
         # cp1254
         "tr") echo "cp1254" ;;
