@@ -2,6 +2,7 @@
 
 # function for correct encodings
 get_encoding() {
+    shopt -s nocasematch
     case "$1" in
         # cp1250
         "cs") echo "cp1250" ;;
@@ -20,7 +21,7 @@ get_encoding() {
         "fr") echo "cp1252" ;;
         "it") echo "cp1252" ;;
         "la") echo "cp1252" ;;
-        "pt_br") echo "cp1252" ;;
+        "pt_br" | "pt_BR") echo "cp1252" ;;
 
         # cp1254
         "tr") echo "cp1254" ;;
@@ -31,8 +32,9 @@ get_encoding() {
         "cy") echo "utf8" ;;
 
         # Default case if no match is found
-        *) echo "Unknown encoding" ;;
+        *) echo "utf8" ;;
     esac
+    shopt -u nocasematch
 }
 
 echo "Substituting Gothic 1 Localizations..."
@@ -50,6 +52,7 @@ for dir in release/langs/*; do
     if [ -d "$dir" ]; then
         LANG=$(basename "$dir")
         ENC=$(get_encoding "$LANG")
+        ./.scripts/gen_ini.sh $LANG $ENC
         echo "Compiling Gothic 1: Language $LANG with $ENC"
 
         .scripts/dacode compile -c "$dir" -i $ENC -g g1 -p gothic,menu
@@ -75,3 +78,7 @@ done
 cd release/release
 
 zip -r "Gothic_1_Localized.zip" Data System
+
+cd ..
+
+zip -r "Gothic_1_Localized_code.zip" langs
