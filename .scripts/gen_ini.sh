@@ -14,6 +14,12 @@ replacement_E="$2"  # Second input parameter
 # Create the new file name
 new_file_name="${new_file_base}_${replacement_L}.ini"
 
+if [ "$replacement_E" == "utf8" ]; then
+    O="[OVERRIDES_SP]\nFONT.StaticEncoding = 65001"
+else
+    O=""
+fi
+
 # Create the new file with the template text, replacing placeholders
 cat <<EOF | sed "s/\$L/${replacement_L}/g; s/\$E/${replacement_E}/g" > release/release/System/"$new_file_name"
 [INFO]
@@ -48,6 +54,7 @@ force_parameters=
 [OVERRIDES]
 INTERNAL.extendedMenu=1
 
+\$O
 
 [ZPARSE_EXTENDER]
 LoadScript = 
