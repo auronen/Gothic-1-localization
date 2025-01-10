@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/content/Items/Amulette.d:16","Zeichen der Bruderschaft","Arwydd y Brawdoliaeth","","False","ItMi_Amulet_Psi_01.description","",""
+"Scripts/content/Items/Amulette.d:16","Zeichen der Bruderschaft","Arwydd y Sect","","False","ItMi_Amulet_Psi_01.description","",""
 "Scripts/content/Items/Amulette.d:17","","","","","ItMi_Amulet_Psi_01.text[0]","",""
 "Scripts/content/Items/Amulette.d:18","","","","","ItMi_Amulet_Psi_01.text[1]","",""
 "Scripts/content/Items/Amulette.d:19","","","","","ItMi_Amulet_Psi_01.text[2]","",""
