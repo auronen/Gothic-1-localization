@@ -121,7 +121,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:812","Wie steht's mit meinem Ansehen im Lager?","我在营地内的尊敬呢？","","","Info_Diego_JoinAnalyze.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:827","Wie steht's mit meinem Ansehen im Lager?","我在营地内的尊敬呢？","","","Info_Diego_JoinAnalyze_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:828","Ich hab' mal mit ein paar Leuten geredet...","我已经和几个人交谈了...","","","Info_Diego_JoinAnalyze_11_01","",""
-"Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:829","Und?","和？","","","Info_Diego_JoinAnalyze_15_02","",""
+"Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:829","Und?","还有呢？","","False","Info_Diego_JoinAnalyze_15_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:835","Scatty hat mir gesagt, du hast Kirgo besiegt.","斯卡蒂告诉我你击败了基尔戈。","","","Info_Diego_JoinAnalyze_Scatty_11_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:840","Scatty hat mir gesagt, du hast gegen Kirgo verloren. Er hat sich nicht seher begeistert angehört.","斯卡蒂告诉我，你让柯戈击败你。 他似乎不是很热情。","","","Info_Diego_JoinAnalyze_Scatty_11_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:845","Scatty hat mir gesagt, er wäre gespannt, wie du gegen Kirgo abschneidest.","斯卡蒂（Scatty）告诉我，他急于看到您如何对抗Kirgo。","","","Info_Diego_JoinAnalyze_Scatty_11_03","",""
