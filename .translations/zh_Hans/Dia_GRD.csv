@@ -485,7 +485,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Grd_200_Thorus.d:541","Zeig her!","给我看看！","","","Info_Thorus_Krautbote_09_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_200_Thorus.d:545","Hmmmmmmm ...","嗯...","","","Info_Thorus_Krautbote_09_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_200_Thorus.d:546","Gut! Du kannst durch. Geh direkt zum Haus der Erzbarone. Bartholo wird dich empfangen.","好吧！ 你可以通过。 直接去矿石男爵的房子。 巴索洛会在那里见到你。","","","Info_Thorus_Krautbote_09_03","",""
-"Scripts/content/Story/MISSIONS/DIA_Grd_200_Thorus.d:557","Du hast zu wenig Kraut für einen Boten! Ich will für dich nicht hoffen, dass du das Zeug verscherbelt hast! Komm wieder, wenn du die richtige Menge dabei hast!","您没有足够的杂草来成为gofer！ 我希望您的缘故您还没有在其他地方卖东西！ 当您有合适的金额时回来！","","","Info_Thorus_Krautbote_09_04","",""
+"Scripts/content/Story/MISSIONS/DIA_Grd_200_Thorus.d:557","Du hast zu wenig Kraut für einen Boten! Ich will für dich nicht hoffen, dass du das Zeug verscherbelt hast! Komm wieder, wenn du die richtige Menge dabei hast!","你连做个跑腿的都不够格！我衷心希望你没有把货物卖到别的地方去！等你凑够了数量再回来！","","False","Info_Thorus_Krautbote_09_04","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_200_Thorus.d:573","Ich bin Bote der Wassermagier. Ich muss in die Burg!","我正在为水法师差事。 我需要进入城堡！","","","Info_Thorus_KdWSiegel.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_200_Thorus.d:588","Ich bin Bote der Wassermagier. Ich muss in die Burg!","我正在为水法师差事。 我需要进入城堡！","","","Info_Thorus_KdWSiegel_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_200_Thorus.d:591","Du hast das Amulett eines Boten bei dir. Damit kommst du an den Wachen vorbei.","您随身携带了Messenger的护身符。 那会让你超越警卫。","","","Info_Thorus_KdWSiegel_09_01","",""
