@@ -179,7 +179,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Stt_309_Whistler.d:117","Vergiss nicht: Die Kolonie ist klein! Wenn du mit dem Erz durchbrennst, finde ich dich!","别忘了：殖民地很小！ 如果您和我的矿石一起跑去，我会找到你！","","","DIA_Whistler_Favour_OreAway_11_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_309_Whistler.d:122","Warum will er dir die Waffe nicht mehr verkaufen?","他为什么不再向您出售武器？","","","DIA_Whistler_Favour_WhyNotSell_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_309_Whistler.d:123","Wir hatten eine kleine Meinungsverschiedenheit.","我们有一点争论。","","","DIA_Whistler_Favour_WhyNotSell_11_01","",""
-"Scripts/content/Story/MISSIONS/DIA_Stt_309_Whistler.d:124","Und?","和？","","","DIA_Whistler_Favour_WhyNotSell_15_02","",""
+"Scripts/content/Story/MISSIONS/DIA_Stt_309_Whistler.d:124","Und?","还有呢？","","False","DIA_Whistler_Favour_WhyNotSell_15_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_309_Whistler.d:125","Und das ist alles, was du wissen musst!","这就是您需要知道的一切！","","","DIA_Whistler_Favour_WhyNotSell_11_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_309_Whistler.d:137","Fisk will jetzt 110 Erz für dein Schwert","Fisk现在想要110台矿石。","","False","DIA_Whistler_Running110.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_309_Whistler.d:150","Fisk will jetzt 110 Erz für dein Schwert.","Fisk现在想要110台矿石。","","","DIA_Whistler_Running110_15_00","",""
