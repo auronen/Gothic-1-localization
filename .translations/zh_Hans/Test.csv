@@ -77,7 +77,7 @@
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:710","Schatten","影子","","","CH_Guild.CH_Shadow","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:715","Gardist","警卫","","","CH_Guild.CH_Guard","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:720","Feuermagier","火法师","","","CH_Guild.CH_Firemage","Info_AddChoice",""
-"Scripts/content/AI/Test_Skripts/CharacterHelper.d:725","Bandit","土匪","","","CH_Guild.CH_Bandit","Info_AddChoice",""
+"Scripts/content/AI/Test_Skripts/CharacterHelper.d:725","Bandit","强盗","","False","CH_Guild.CH_Bandit","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:730","Söldner","雇佣兵","","","CH_Guild.CH_Mercenary","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:735","Wassermagier","水法师","","","CH_Guild.CH_Watermage","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/CharacterHelper.d:740","Novize","新手","","","CH_Guild.CH_Novice","Info_AddChoice",""
