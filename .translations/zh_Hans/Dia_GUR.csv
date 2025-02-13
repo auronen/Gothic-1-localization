@@ -218,7 +218,7 @@
 "Scripts/content/Story/MISSIONS/DIA_GUR_1201_CorKalom.d:1063","Dies soll deine Gier nach Erz zufrieden stellen!","这应该满足您对矿石的贪婪!","","","Info_CorKalom_Belohnung_ORE_10_01","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1201_CorKalom.d:1071","Manatränke.","法力药水。","","","Info_CorKalom_Belohnung_MANA_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1201_CorKalom.d:1072","Mögen diese Tränke dir Kraft schenken!","愿这些药水给你力量！","","","Info_CorKalom_Belohnung_MANA_10_01","",""
-"Scripts/content/Story/MISSIONS/DIA_GUR_1201_CorKalom.d:1096","Wir sehen uns.","我会见你的。","","","GUR_1201_CorKalom_Exit_15_01","",""
+"Scripts/content/Story/MISSIONS/DIA_GUR_1201_CorKalom.d:1096","Wir sehen uns.","待会儿见。","","False","GUR_1201_CorKalom_Exit_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1201_CorKalom.d:1097","Möge der Schläfer dich erleuchten.","愿沉睡者启发你。","","False","GUR_1201_CorKalom_Exit_10_02","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1202_CorAngar.d:39","Kannst du mich trainieren?","你会训练我吗？","","","DIA_CorAngar_LaterTrainer.description","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1202_CorAngar.d:49","Kannst du mich trainieren?","你会训练我吗？","","","GUR_1202_CorAngar_LaterTrainer_15_00","",""
