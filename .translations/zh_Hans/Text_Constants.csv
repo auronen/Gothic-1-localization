@@ -158,7 +158,7 @@
 "Scripts/content/Story/Text.d:349","Bessessener Novize","痴迷于新手","","","NAME_MadNovice","",""
 "Scripts/content/Story/Text.d:350","Fanatischer Templer","狂热的圣殿骑士","","","NAME_MadTemplar","",""
 "Scripts/content/Story/Text.d:351","Apokalyptischer Templer","世界末日圣殿骑士","","","NAME_MadTemplar2","",""
-"Scripts/content/Story/Text.d:353","Ur-Shak","灯","","","NAME_OrcShaman","",""
+"Scripts/content/Story/Text.d:353","Ur-Shak","乌尔·沙克","","False","NAME_OrcShaman","",""
 "Scripts/content/Story/Text.d:354","Tarrok","塔罗","","","NAME_CuredOrc","",""
 "Scripts/content/Story/Text.d:361","ENDE","结束","","False","DIALOG_ENDE","",""
 "Scripts/content/Story/Text.d:362","ZURÜCK","背部","","","DIALOG_BACK","",""
