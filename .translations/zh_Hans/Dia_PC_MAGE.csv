@@ -1,6 +1,6 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:23","Weiter geht's.","我们去。","","","DIA_Milten_EXIT_02_00","",""
-"Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:27","Wir sehen uns.","回头见。","","","DIA_Milten_EXIT_02_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:27","Wir sehen uns.","待会儿见。","","False","DIA_Milten_EXIT_02_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:56","Du darfst keinen Fuß über diese Schwelle setzen, es sei denn Meister Corristo gestattet es.","除非主人 科里斯托允许，否则您不得越过此门口。","","False","DIA_Milten_First_02_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:68","Ich suche den obersten Magier des Feuers.","我正在寻找火圈的高魔术师。","","","DIA_Milten_Hello.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:81","Ich suche den obersten Magier des Feuers.","我正在寻找火圈的高魔术师。","","","DIA_Milten_Hello_15_00","",""
