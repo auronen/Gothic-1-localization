@@ -1,6 +1,6 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:23","Weiter geht's.","Vamos em frente.","","False","DIA_Milten_EXIT_02_00","",""
-"Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:27","Wir sehen uns.","Até mais.","","False","DIA_Milten_EXIT_02_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:27","Wir sehen uns.","","","False","DIA_Milten_EXIT_02_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:56","Du darfst keinen Fuß über diese Schwelle setzen, es sei denn Meister Corristo gestattet es.","","","False","DIA_Milten_First_02_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:68","Ich suche den obersten Magier des Feuers.","","","False","DIA_Milten_Hello.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:81","Ich suche den obersten Magier des Feuers.","","","False","DIA_Milten_Hello_15_00","",""
