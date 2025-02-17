@@ -205,7 +205,7 @@
 "Scripts/content/Story/Text.d:427","Mana + ","哪里 + ","","","NAME_BuyAttributeMAN","",""
 "Scripts/content/Story/Text.d:432","Erfahrung + ","经验 + ","","","NAME_XPGained","",""
 "Scripts/content/Story/Text.d:433","Stufe gestiegen!","升级！","","","NAME_LevelUp","",""
-"Scripts/content/Story/Text.d:435","neuer Tagebucheintrag","事件记录","","True","NAME_NewLogEntry","",""
+"Scripts/content/Story/Text.d:435","neuer Tagebucheintrag","新建日记条目","","False","NAME_NewLogEntry","",""
 "Scripts/content/Story/Text.d:437","Lerne: Kampf mit Einhandwaffen","学习：用单手武器战斗","","","PRINT_LEARN_Onehanded","",""
 "Scripts/content/Story/Text.d:438","Lerne: Kampf mit Zweihandwaffen","学习：用双方武器战斗","","","PRINT_LEARN_Twohanded","",""
 "Scripts/content/Story/Text.d:439","Lerne: Bogenschießen","学习：弓箭射击","","","PRINT_LEARN_Bow","",""
