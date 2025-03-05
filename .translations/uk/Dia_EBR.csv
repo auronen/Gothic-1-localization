@@ -54,7 +54,7 @@
 "Scripts/content/Story/MISSIONS/DIA_EBR_100_Gomez.d:308","Ich werde persönlich sicherstellen, dass du mir nie wieder in die Suppe spucken wirst.","Я особисто подбаю про те, щоб ти більше ніколи не став мені на шляху.","","","DIA_EBR_100_Gomez_Wait4SC_11_05","",""
 "Scripts/content/Story/MISSIONS/DIA_EBR_101_Scar.d:33","Wer bist du?","Хто ти?","","","DIA_SCAR_Hello.description","",""
 "Scripts/content/Story/MISSIONS/DIA_EBR_101_Scar.d:43","Wer bist du?","Хто ти?","","","DIA_SCAR_Hello_15_00","",""
-"Scripts/content/Story/MISSIONS/DIA_EBR_101_Scar.d:44","Sie nennen mich Scar.","Мене звати Близна.","","","DIA_SCAR_Hello_08_01","",""
+"Scripts/content/Story/MISSIONS/DIA_EBR_101_Scar.d:44","Sie nennen mich Scar.","Мене звати Шрам.","","False","DIA_SCAR_Hello_08_01","",""
 "Scripts/content/Story/MISSIONS/DIA_EBR_101_Scar.d:56","Was ist deine Aufgabe hier?","Чим ти займаєшся?","","False","DIA_SCAR_What.description","",""
 "Scripts/content/Story/MISSIONS/DIA_EBR_101_Scar.d:69","Was ist deine Aufgabe hier?","Чим ти займаєшся?","","False","DIA_SCAR_What_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_EBR_101_Scar.d:70","Ich und Arto passen auf, dass Gomez niemand zu nahe kommt, der hier nicht eingeladen wurde,","Я та Арто зберігаємо спокій Ґомезу від непроханих гостей.","","False","DIA_SCAR_What_08_01","",""
