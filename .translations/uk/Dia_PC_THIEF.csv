@@ -177,7 +177,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:1235","Lass mich mal, vielleicht kann ich da was machen!","Зачекай, можливо, я зможу полагодити!","","","PC_Thief_WHEEL_Info_11_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:1264","So, jetzt sollte es eigentlich wieder gehen.","Ну, тепер повинно працювати.","","False","PC_Thief_FIXWHEEL_Info_11_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:1298","Hol dir den Fokus, ich warte hier!","Тепер, забери камінь. Я чекатиму тебе тут!","","","PC_Thief_WAITATFOCUS_Info_11_01","",""
-"Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:1327","Hey, du hast den Fokus also gefunden. Sehr gut.","Я бачу, ти знайшов камінь! чудово.","","","PC_Thief_GOTIT_Info_11_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:1327","Hey, du hast den Fokus also gefunden. Sehr gut.","Я бачу, ти знайшов камінь! Чудово.","","False","PC_Thief_GOTIT_Info_11_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:1328","Ich werde mal wieder die Lage im Alten Lager prüfen. Viel Glück noch.","Гадаю, мені варто ще раз відвідати старий табір. Удачі.","","False","PC_Thief_GOTIT_Info_11_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:1329","Sieh zu, das du am Leben bleibst.","Не помри.","","False","PC_Thief_GOTIT_Info_15_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:1330","Wir werden uns wieder sehen.","Ще побачимось.","","","PC_Thief_GOTIT_Info_11_04","",""
