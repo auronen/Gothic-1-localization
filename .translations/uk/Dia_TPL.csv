@@ -181,7 +181,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1433_GorNaVid.d:19","Der Schläfer erwache.","Нехай пробудиться Сплячий.","","","Tpl_1433_GorNaVid_Exit_Info_13_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1433_GorNaVid.d:30","Ich brauche deine Hilfe","Мені потрібна твоя допомога.","","","Tpl_1433_GorNaVid_HEALTH.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1433_GorNaVid.d:44","Ich brauche deine Hilfe","Мені потрібна твоя допомога.","","","Tpl_1433_GorNaVid_HEALTH_Info_15_01","",""
-"Scripts/content/Story/MISSIONS/DIA_Tpl_1433_GorNaVid.d:45","Ich bin auf der Suche nach Sekret für Kalom und weiß, wo sich das Nest der Crawler befindet.","Я шукав виділення Повзунів для Калома і, здається, вже знаю, де знаходиться гніздо цих істот.","","","Tpl_1433_GorNaVid_HEALTH_Info_15_02","",""
+"Scripts/content/Story/MISSIONS/DIA_Tpl_1433_GorNaVid.d:45","Ich bin auf der Suche nach Sekret für Kalom und weiß, wo sich das Nest der Crawler befindet.","Я шукав виділення Повзунів для Калома, і, здається, вже знаю, де знаходиться гніздо цих істот.","","False","Tpl_1433_GorNaVid_HEALTH_Info_15_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1433_GorNaVid.d:46","Wenn der Durchgang geöffnet wird, bist du dabei?","Ти допоможеш мені у битві з повзунами?","","","Tpl_1433_GorNaVid_HEALTH_Info_15_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1433_GorNaVid.d:47","Der Kampf gegen Crawler kostet Blut. Wenn du mir einen Heiltrank bringst, bin ich dabei.","Бій з повзунами — небезпечна справа. Принеси мені цілющого напою, тоді я допоможу тобі.","","False","Tpl_1433_GorNaVid_HEALTH_Info_13_04","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1433_GorNaVid.d:57","Ich suche das Nest der Minecrawler","Шукаю лігво повзунів.","","","Tpl_1433_GorNaVid_IAN.description","",""
