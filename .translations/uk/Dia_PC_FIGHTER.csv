@@ -76,7 +76,7 @@
 "Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:573","Du scheinst doch nicht mehr an der Klosterruine interessiert zu sein.","Я бачу, що цей старий кляштор тебе не так вже й цікавить.","","","Info_Gorn_RUINLEAVE_09_01","",""
 "Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:574","Ich werde alleine weitergehen.","Тож я піду далі сам.","","","Info_Gorn_RUINLEAVE_09_02","",""
 "Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:575","Komm einfach nach, wenn du es dir anders überlegst.","Якщо ти передумаєш, можеш наздогнати мене.","","","Info_Gorn_RUINLEAVE_09_03","",""
-"Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:606","Dieses verfluchte Tor. Man erzählt sich, dass bisher kein Mensch in der Kolonie es öffnen konnte.","Холерна брама. Відкрити його, мабуть, ще нікому не вдалося.","","","Info_Gorn_RUINWALL_09_01","",""
+"Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:606","Dieses verfluchte Tor. Man erzählt sich, dass bisher kein Mensch in der Kolonie es öffnen konnte.","Холерна брама. Відкрити її, мабуть, ще нікому не вдалося.","","False","Info_Gorn_RUINWALL_09_01","",""
 "Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:607","Die kleinen Biester da drüben scheinen die Einzigen zu sein, die es geschafft haben, in den Innenhof zu gelangen.","Ці маленькі бестії на тому боці, мабуть, єдині істоти, які можуть потрапити всередину.","","","Info_Gorn_RUINWALL_09_02","",""
 "Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:625","Wie geht es nun weiter?","І що тепер?","","","Info_Gorn_RUINWALLWHAT.description","",""
 "Scripts/content/Story/MISSIONS/DIA_PC_Fighter.d:639","Wie geht es nun weiter?","Що тепер?","","","Info_Gorn_RUINWALLWHAT_15_01","",""
