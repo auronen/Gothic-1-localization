@@ -336,3 +336,4 @@
 "Scripts/content/Story/Text.d:655","Die Hallen des Schläfers","Uyuyan Tapınağı","","","KapWechsel_6_Text","",""
 "","Ich möchte eine bessere Rüstung haben.","Daha iyi bir zırh istiyorum.","","False","NAME_BaalNamibHeavyNov","",""
 "","Ende","Son","","False","_STR_MESSAGE_GAMEOVER","",""
+"","wird gerade benutzt!","","","False","_STR_MESSAGE_MOBSI_ANOTHER_IS_USING","",""
