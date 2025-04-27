@@ -1722,7 +1722,7 @@
 "Scripts/content/Items/Potions.d:198","","","","","ItFo_Potion_Health_01.text[2]","",""
 "Scripts/content/Items/Potions.d:199","","","","","ItFo_Potion_Health_01.text[3]","",""
 "Scripts/content/Items/Potions.d:200","","","","","ItFo_Potion_Health_01.text[4]","",""
-"Scripts/content/Items/Potions.d:226","Extrakt heilender Kraft ","Extract de Vindecare","","","ItFo_Potion_Health_02.description","",""
+"Scripts/content/Items/Potions.d:226","Extrakt heilender Kraft ","Extract vindecător","","False","ItFo_Potion_Health_02.description","",""
 "Scripts/content/Items/Potions.d:227","","","","","ItFo_Potion_Health_02.text[0]","",""
 "Scripts/content/Items/Potions.d:229","","","","","ItFo_Potion_Health_02.text[2]","",""
 "Scripts/content/Items/Potions.d:230","","","","","ItFo_Potion_Health_02.text[3]","",""
