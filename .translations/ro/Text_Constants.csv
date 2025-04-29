@@ -13,7 +13,7 @@
 "Scripts/content/Story/Text.d:28","Wasserpfeife","Pipa","","","MOBNAME_WATERPIPE","",""
 "Scripts/content/Story/Text.d:29","Leiter","Scara","","","MOBNAME_LADDER","",""
 "Scripts/content/Story/Text.d:30","Schalter","Levier","","","MOBNAME_SWITCH","",""
-"Scripts/content/Story/Text.d:32","Erzklumpen","Cristal","","","MOBNAME_ORE","",""
+"Scripts/content/Story/Text.d:32","Erzklumpen","Pepite","","False","MOBNAME_ORE","",""
 "Scripts/content/Story/Text.d:35","Blasebalg","Bellows","","","MOBNAME_BELLOW","",""
 "Scripts/content/Story/Text.d:37","Mumie","Mumie","","","MOBNAME_ORC_MUMMY","",""
 "Scripts/content/Story/Text.d:38","Säule","Columna","","","MOBNAME_PILLAR","",""
