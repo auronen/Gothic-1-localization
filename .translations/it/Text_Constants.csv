@@ -359,5 +359,5 @@
 "","Alte Mine","Vecchia Miniera","","False","LEVELNAME_OLDMINE","",""
 "","Ork-Friedhof","Cimitero degli Orchi","","False","LEVELNAME_ORCGRAVEYARD","",""
 "","Freie Mine","Miniera Libera","","False","LEVELNAME_FREEMINE","",""
-"","Die Orkstadt","Città degli Orchi","","False","LEVELNAME_ORCCITY","",""
+"","Die Orkstadt","Città degli Orchi","","True","LEVELNAME_ORCCITY","",""
 "","Tempel des Schläfers","Tempio del Dormiente","","False","LEVELNAME_ORCTEMPEL","",""
