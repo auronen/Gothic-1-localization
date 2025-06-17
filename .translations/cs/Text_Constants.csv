@@ -362,3 +362,7 @@
 "","Die Orkstadt","Skřetí město","","False","LEVELNAME_ORCCITY","",""
 "","Tempel des Schläfers","Spáčův chrám","","False","LEVELNAME_ORCTEMPEL","",""
 "","Verlassene Mine","Opuštěný důl","","False","LEVELNAME_ABANDONEDMINE","",""
+""," hat "," vzal ","","False","_STR_MESSAGE_PLUNDERED_MIDFIX","",""
+""," Gegenstand genommen"," položku!","","False","_STR_MESSAGE_ITEM_PLUNDERED","",""
+""," Gegenstände genommen"," položek!","","False","_STR_MESSAGE_ITEMS_PLUNDERED","",""
+""," Erz genommen"," rudy","","False","_STR_MESSAGE_ORE_PLUNDERED","",""
