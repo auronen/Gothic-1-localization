@@ -358,6 +358,6 @@
 "","Alte Mine","Mina Vieja","","False","LEVELNAME_OLDMINE","",""
 "","Ork-Friedhof","Cementerio orco","","False","LEVELNAME_ORCGRAVEYARD","",""
 "","Freie Mine","Mina Libre","","False","LEVELNAME_FREEMINE","",""
-"","Die Orkstadt","Pueblo Orco","","False","LEVELNAME_ORCCITY","",""
+"","Die Orkstadt","Pueblo Orco","","True","LEVELNAME_ORCCITY","",""
 "","Tempel des Schläfers","Templo del Durmiente","","False","LEVELNAME_ORCTEMPEL","",""
 ""," hat "," tomó ","","False","_STR_MESSAGE_PLUNDERED_MIDFIX","",""
