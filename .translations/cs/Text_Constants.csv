@@ -359,7 +359,7 @@
 "","Alte Mine","Starý důl","","False","LEVELNAME_OLDMINE","",""
 "","Ork-Friedhof","Skřetí hřbitov","","False","LEVELNAME_ORCGRAVEYARD","",""
 "","Freie Mine","Svobodný důl","","False","LEVELNAME_FREEMINE","",""
-"","Die Orkstadt","Skřetí město","","False","LEVELNAME_ORCCITY","",""
+"","Die Orkstadt","Skřetí město","","True","LEVELNAME_ORCCITY","",""
 "","Tempel des Schläfers","Spáčův chrám","","False","LEVELNAME_ORCTEMPEL","",""
 "","Verlassene Mine","Opuštěný důl","","False","LEVELNAME_ABANDONEDMINE","",""
 ""," hat "," vzal ","","False","_STR_MESSAGE_PLUNDERED_MIDFIX","",""
