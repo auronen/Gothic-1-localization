@@ -358,6 +358,6 @@
 "","Verlassene Mine","Заброшенная шахта","","False","LEVELNAME_ABANDONEDMINE","",""
 "","Alte Mine","Старая Шахта","","False","LEVELNAME_OLDMINE","",""
 "","Freie Mine","Свободная Шахта","","False","LEVELNAME_FREEMINE","",""
-"","Die Orkstadt","Город орков","","False","LEVELNAME_ORCCITY","",""
+"","Die Orkstadt","Город орков","","True","LEVELNAME_ORCCITY","",""
 "","Ork-Friedhof","Кладбище орков","","False","LEVELNAME_ORCGRAVEYARD","",""
 "","Tempel des Schläfers","Храм Спящего","","False","LEVELNAME_ORCTEMPEL","",""
