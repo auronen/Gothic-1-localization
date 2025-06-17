@@ -358,6 +358,6 @@
 "","Verlassene Mine","Mine Abandonnée","","False","LEVELNAME_ABANDONEDMINE","",""
 "","Alte Mine","Vieille Mine","","False","LEVELNAME_OLDMINE","",""
 "","Ork-Friedhof","Cimetière Orc","","False","LEVELNAME_ORCGRAVEYARD","",""
-"","Die Orkstadt","Ville des Orcs","","False","LEVELNAME_ORCCITY","",""
+"","Die Orkstadt","Ville des Orcs","","True","LEVELNAME_ORCCITY","",""
 "","Tempel des Schläfers","Temple du Dormeur","","False","LEVELNAME_ORCTEMPEL","",""
 ""," Erz genommen"," minerai","","False","_STR_MESSAGE_ORE_PLUNDERED","",""
