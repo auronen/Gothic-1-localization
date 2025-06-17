@@ -359,5 +359,5 @@
 "","Verlassene Mine","Opuszczona Kopalnia","","False","LEVELNAME_ABANDONEDMINE","",""
 "","Alte Mine","Stara Kopalnia","","False","LEVELNAME_OLDMINE","",""
 "","Freie Mine","Wolna Kopalnia","","False","LEVELNAME_FREEMINE","",""
-"","Die Orkstadt","Miasto orków","","False","LEVELNAME_ORCCITY","",""
+"","Die Orkstadt","Miasto orków","","True","LEVELNAME_ORCCITY","",""
 ""," hat "," zabrał ","","False","_STR_MESSAGE_PLUNDERED_MIDFIX","",""
