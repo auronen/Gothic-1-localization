@@ -357,3 +357,7 @@
 "","Freie Mine","Free Mine","","False","LEVELNAME_FREEMINE","",""
 "","Die Orkstadt","Orc Town","","False","LEVELNAME_ORCCITY","",""
 "","Tempel des Schläfers","Sleeper's Temple","","False","LEVELNAME_ORCTEMPEL","",""
+""," hat "," took ","","False","_STR_MESSAGE_PLUNDERED_MIDFIX","",""
+""," Gegenstand genommen"," item","","False","_STR_MESSAGE_ITEM_PLUNDERED","",""
+""," Erz genommen"," ore","","False","_STR_MESSAGE_ORE_PLUNDERED","",""
+""," Gegenstände genommen"," items","","False","_STR_MESSAGE_ITEMS_PLUNDERED","",""
