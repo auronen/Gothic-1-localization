@@ -355,7 +355,7 @@
 "","Alte Mine","Old Mine","","False","LEVELNAME_OLDMINE","",""
 "","Ork-Friedhof","Orc Cemetery","","False","LEVELNAME_ORCGRAVEYARD","",""
 "","Freie Mine","Free Mine","","False","LEVELNAME_FREEMINE","",""
-"","Die Orkstadt","Orc Town","","False","LEVELNAME_ORCCITY","",""
+"","Die Orkstadt","Orc Town","","True","LEVELNAME_ORCCITY","",""
 "","Tempel des Schläfers","Sleeper's Temple","","False","LEVELNAME_ORCTEMPEL","",""
 ""," hat "," took ","","False","_STR_MESSAGE_PLUNDERED_MIDFIX","",""
 ""," Gegenstand genommen"," item","","False","_STR_MESSAGE_ITEM_PLUNDERED","",""
