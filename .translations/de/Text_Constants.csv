@@ -364,5 +364,5 @@
 "","Alte Mine","Alte Mine","","","LEVELNAME_OLDMINE","",""
 "","Ork-Friedhof","Ork-Friedhof","","","LEVELNAME_ORCGRAVEYARD","",""
 "","Freie Mine","Freie Mine","","","LEVELNAME_FREEMINE","",""
-"","Die Orkstadt","Die Orkstadt","","","LEVELNAME_ORCCITY","",""
+"","Die Orkstadt","Orkstadt","","False","LEVELNAME_ORCCITY","",""
 "","Tempel des Schläfers","Tempel des Schläfers","","","LEVELNAME_ORCTEMPEL","",""
