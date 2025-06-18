@@ -89,7 +89,7 @@
 "Scripts/content/Story/svm.d:331","Du hast einen Kumpel von mir umgehauen ...","Odrovnal jsi mého kamaráda...","","","SVM_1_YouDefeatedMyComrade","",""
 "Scripts/content/Story/svm.d:332","Das läuft nicht, dass du hier Unruhe stiftest!","Nebudeš tu dělat problémy!","","","SVM_1_YouDefeatedNOV_Guard","",""
 "Scripts/content/Story/svm.d:333","Wenn du jemanden verprügelst, der unter meinem Schutz steht, hat das Konsequenzen!","Jestli vztáhneš ruku na někoho, kdo je pod mojí ochranou, tak si to schytáš!","","","SVM_1_YouDefeatedVLK_Guard","",""
-"Scripts/content/Story/svm.d:334","Du Arsch hast mich beklaut! Versuch das nicht noch mal!","Seš mi ukradenej, ty zmetku! Už to znovu nezkoušej!","","","SVM_1_YouStoleFromMe","",""
+"Scripts/content/Story/svm.d:334","Du Arsch hast mich beklaut! Versuch das nicht noch mal!","Tys mě okradl, ty zmetku! Už to znovu nezkoušej!","","False","SVM_1_YouStoleFromMe","",""
 "Scripts/content/Story/svm.d:335","Wir wollen unsere Sachen wiederhaben! Lass sehen!","Chceme naše věci zpátky! Vrať nám je!","","","SVM_1_YouStoleFromUs","",""
 "Scripts/content/Story/svm.d:336","Du hast die Erzbarone beklaut! Was soll der Scheiß?","Kradl jsi u Rudobaronů? Probůh, proč?","","","SVM_1_YouStoleFromEBr","",""
 "Scripts/content/Story/svm.d:337","Du hast die Gurus beklaut? Dumm nur, dass es rausgekommen ist!","Okradl jsi Guru? Jaká škoda, že tě nachytali!","","","SVM_1_YouStoleFromGur","",""
