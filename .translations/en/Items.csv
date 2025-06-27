@@ -1525,7 +1525,7 @@
 "Scripts/content/Items/MissionItems_3.d:210","Truhenschlüssel","Key to a Chest","","","ItKe_BERG_01.name","",""
 "Scripts/content/Items/MissionItems_3.d:221","Alte Bergfestung","Old mountain fort.","","","ItKe_BERG_01.text[0]","",""
 "Scripts/content/Items/MissionItems_3.d:222","Ein rostiger alter Schlüssel","An old rusty key to a chest.","","","ItKe_BERG_01.text[1]","",""
-"Scripts/content/Items/MissionItems_3.d:223","der zu einer Truhe gehört","to a chest.","","False","ItKe_BERG_01.text[2]","",""
+"Scripts/content/Items/MissionItems_3.d:223","der zu einer Truhe gehört","","","False","ItKe_BERG_01.text[2]","",""
 "Scripts/content/Items/MissionItems_3.d:224","","","","","ItKe_BERG_01.text[3]","",""
 "Scripts/content/Items/MissionItems_3.d:225","","","","","ItKe_BERG_01.text[4]","",""
 "Scripts/content/Items/MissionItems_3.d:234","Urkunde","Certificate","","","ItWr_Urkunde_01.name","",""
