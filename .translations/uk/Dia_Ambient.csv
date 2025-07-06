@@ -675,7 +675,7 @@
 "Scripts/content/Story/B/B_AssignFindNpc_OC.d:146","Er steht für gewöhnlich am Eingang zur Burg.","Мабуть, він вештається десь біля входу в замок.","","False","Info_FindNPC_OC_Thorus_06_01","",""
 "Scripts/content/Story/B/B_AssignFindNpc_OC.d:150","Er steht für gewöhnlich am Eingang zur Burg.","Шукай біля брами замку. Він завжди стоїть десь там.","","False","Info_FindNPC_OC_Thorus_07_01","",""
 "Scripts/content/Story/B/B_AssignFindNpc_OC.d:154","Er steht für gewöhnlich am Eingang zur Burg.","Зазвичай він вештається біля входу в замок.","","","Info_FindNPC_OC_Thorus_13_01","",""
-"Scripts/content/Story/B/B_AssignFindNpc_OC.d:161","Er steht für gewöhnlich am Eingang zur Burg.","Йди до головних воріт замку. Впевнений він там.","","False","Info_FindNPC_OC_Thorus_10_01","",""
+"Scripts/content/Story/B/B_AssignFindNpc_OC.d:161","Er steht für gewöhnlich am Eingang zur Burg.","Йди до головної брами замку. Впевнений він там.","","False","Info_FindNPC_OC_Thorus_10_01","",""
 "Scripts/content/Story/B/B_AssignFindNpc_OC.d:165","Er steht für gewöhnlich am Eingang zur Burg.","Зазвичай він вештається біля входу в замок.","","","Info_FindNPC_OC_Thorus_12_01","",""
 "Scripts/content/Story/B/B_AssignFindNpc_ST.d:10","Wo finde ich...","Де я можу знайти...","","","Info_FindNPC_ST.description","",""
 "Scripts/content/Story/B/B_AssignFindNpc_ST.d:26","...Cor Angar?","...Кор Анґара?","","","Info_FindNPC_ST.Info_FindNPC_ST_CorAngar","Info_AddChoice",""
