@@ -94,7 +94,7 @@
 "Scripts/system/MENU/menu_opt_audio.d:209","Lautsprecher","Динаміки","","False","MENUITEM_AUDIO_SPEEKER.text[0]","",""
 "Scripts/system/MENU/menu_opt_audio.d:225","2 Lautsprecher|Kopfhörer|Surround|4 Lautsprecher","2 динаміки|навушники|об'ємне звучання|4 динаміки","","False","MENUITEM_AUDIO_SPEEKER_CHOICE.text[0]","",""
 "Scripts/system/MENU/menu_opt_audio.d:241","Hall-Effekt","Реверберація","","False","MENUITEM_AUDIO_REVERB.text[0]","",""
-"Scripts/system/MENU/menu_opt_audio.d:242","Sollen Halleffekte in Höhlen aktiviert werden (Neustart erforderlich) ?","Вмикає реверберацію в печерах (потрібне перезавантаження).","","False","MENUITEM_AUDIO_REVERB.text[1]","",""
+"Scripts/system/MENU/menu_opt_audio.d:242","Sollen Halleffekte in Höhlen aktiviert werden (Neustart erforderlich) ?","Увімкнути реверберацію в печерах (потрібен перезапуск)?","","False","MENUITEM_AUDIO_REVERB.text[1]","",""
 "Scripts/system/MENU/menu_opt_audio.d:273","Sample-Rate","Дискретизація","","False","MENUITEM_AUDIO_SAMPLERATE.text[0]","",""
 "Scripts/system/MENU/menu_opt_audio.d:274","Eine Änderung wirkt sich erst beim Neustart aus!","Зміна вступає в силу лише після перезавантаження!","","False","MENUITEM_AUDIO_SAMPLERATE.text[1]","",""
 "Scripts/system/MENU/menu_opt_audio.d:289","22 khz|44 khz","22 кГц|44 кГц","","False","MENUITEM_AUDIO_SAMPLERATE_CHOICE.text[0]","",""
