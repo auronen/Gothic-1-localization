@@ -1321,7 +1321,7 @@
 "Scripts/content/Story/svm.d:1609","Versuch das nicht noch einmal!","Ніколи не пробуй це знову!","","False","SVM_11_NeverTryThatAgain","",""
 "Scripts/content/Story/svm.d:1610","Deine Waffe ist bei mir besser aufgehoben!","Я подбаю про твою зброю краще, ніж ти!","","False","SVM_11_ITakeYourWeapon","",""
 "Scripts/content/Story/svm.d:1611","Nett, dass du mir etwas von deinem Erz überlässt!","Дуже мило, що ти залишив мені трохи своєї руди!","","False","SVM_11_ITookYourOre","",""
-"Scripts/content/Story/svm.d:1612","Fehlanzeige, kein Erz!","Ніц! Ані крихти руди!","","False","SVM_11_ShitNoOre","",""
+"Scripts/content/Story/svm.d:1612","Fehlanzeige, kein Erz!","Нічого! Ані крихти руди!","","False","SVM_11_ShitNoOre","",""
 "Scripts/content/Story/svm.d:1613","Nimm deine Griffel weg!","Забери свої брудні руки!","","False","SVM_11_HandsOff","",""
 "Scripts/content/Story/svm.d:1614","Raus hier, sonst mach' ich dir Beine!","Забирайся звідси, або я тобі допоможу!","","False","SVM_11_GetOutOfHere","",""
 "Scripts/content/Story/svm.d:1615","Hey, wie kommst DU hier rein?","Гей! Як ти сюди потрапив?","","False","SVM_11_YouViolatedForbiddenTerritory","",""
