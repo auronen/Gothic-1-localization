@@ -80,7 +80,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:407","Nutze dein Wissen für die gerechte Sache! Und NUR DAFÜR.","Використовуй ці знання тільки для благої справи.","","False","DIA_Horatio_Thanks_09_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:37","Lefty schickt mich. Ich hab' Wasser für dich.","Мене прислав Лефті. У мене є для тебе вода.","","False","Info_Pock_Wasser.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:51","Lefty schickt mich. Ich hab' Wasser für dich.","Мене прислав Лефті. У мене є для тебе вода.","","False","Info_Pock_Wasser_15_00","",""
-"Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:62","Danke, Junge! Das hab' ich gebraucht!","Гей, хлопче! Вельми дякую!","","False","Info_Pock_Wasser_04_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:62","Danke, Junge! Das hab' ich gebraucht!","Дякую, хлопче! Мені це було потрібно!","","False","Info_Pock_Wasser_04_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:73","Aber du hast nichts mehr. Ist schon gut, Junge. Ich werd mich an die andern halten.","Але у тебе нічого не залишилося! Нехай, в інших візьму.","","False","Info_Pock_Wasser_NOWATER_04_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:86","Hi! Ich bin neu hier.","Вітання! Я новачок тут.","","","DIA_Pock_Hello.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_902_Pock.d:99","Hi! Ich bin neu hier.","Вітання! Я новачок тут.","","","DIA_Pock_Hello_15_00","",""
