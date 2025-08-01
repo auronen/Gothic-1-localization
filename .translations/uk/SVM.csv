@@ -352,7 +352,7 @@
 "Scripts/content/Story/svm.d:604","Mann! Du hast die Erzbarone beklaut! Die werden toben!","Чоловіче! Ти пограбував баронів! У тебе мізки поплавило!","","False","SVM_3_YouStoleFromEBr","",""
 "Scripts/content/Story/svm.d:605","Du hast die Gurus beklaut! Dumm nur, dass sie es schon wissen.","Крадеш у гуру? Ти точно не товаришуєш із головою.","","False","SVM_3_YouStoleFromGur","",""
 "Scripts/content/Story/svm.d:606","Wenn du die Magier beklaust, dann solltest du geschickter sein!","Якщо маги узнають, що ти крадій, вони тебе на шматки поділять!","","False","SVM_3_StoleFromMage","",""
-"Scripts/content/Story/svm.d:607","Du hast einen von unseren Jungs auf dem Gewissen. Noch ein klitzekleiner Fehler und du bist dran!","Схоже ти вбив одного з наших! Ще раз таке викинеш, і зустрінешся з творцем!","","False","SVM_3_YouKilledMyFriend","",""
+"Scripts/content/Story/svm.d:607","Du hast einen von unseren Jungs auf dem Gewissen. Noch ein klitzekleiner Fehler und du bist dran!","Через тебе загинув один із наших. Ще хоч найменша помилка — і тобі кінець!","","False","SVM_3_YouKilledMyFriend","",""
 "Scripts/content/Story/svm.d:608","Du hast einen Erzbaron umgelegt! Mann, du bist wohl komplett durchgedreht!?","Ти вбив барона! Ти що, зовсім з глузду з'їхав?","","False","SVM_3_YouKilledEBr","",""
 "Scripts/content/Story/svm.d:609","Du hast einen Guru getötet! Junge, das kann doch nicht wahr sein!","Ти вбив гуру! Це просто безумство!","","False","SVM_3_YouKilledGur","",""
 "Scripts/content/Story/svm.d:610","Du hast einen Magier umgebracht! Wie sollen wir das denn erklären?","Ти вбив мага! Тобі схоже жити набридло?","","False","SVM_3_YouKilledMage","",""
