@@ -64,7 +64,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Nov_1300_Talas.d:155","Du kommst nicht mit?","Ти не підеш зі мною?","","","Nov_1300_Talas_BRIDGE_Info_15_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1300_Talas.d:156","Ich werde hier auf dich warten und... ähem... unseren Rückzug decken","Я залишуся тут і буду... прикривати тил.","","","Nov_1300_Talas_BRIDGE_Info_02_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1300_Talas.d:181","Du hast den Almanach! Gut gemacht. Gehen wir wieder zurück ins Lager.","Ти повернув альманах! Хороша робота! Повернімося до табору якомога швидше.","","False","Nov_1300_Talas_BACK_Info_02_01","",""
-"Scripts/content/Story/MISSIONS/DIA_Nov_1300_Talas.d:211","Hier sind wir wieder. Am besten du bringst den Almanach gleich zu Cor Kalom.","Ну ось ми й прийшли. Краще відразу віднести цей альманах до Кор Калому.","","False","Info_Talas_RETURNED_02_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Nov_1300_Talas.d:211","Hier sind wir wieder. Am besten du bringst den Almanach gleich zu Cor Kalom.","Ну ось ми й прийшли. Краще відразу віднести цей альманах Кор Калому.","","False","Info_Talas_RETURNED_02_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1300_Talas.d:212","Pass nur auf, dass du dich nicht überarbeitest.","Тільки будь обережним, щоб не померти від перевтоми.","","","Info_Talas_RETURNED_15_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1300_Talas.d:213","Keine Angst, darauf achte ich sogar sehr! Mach dir um mich keine Sorgen.","Спокійно. Зі мною все буде добре. Тобі не потрібно турбуватися про мене.","","","Info_Talas_RETURNED_02_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Nov_1300_Talas.d:229","Cor Angar schickt mich.","Мене прислав Кор Анґар.","","","Nov_1300_Talas_OGY.description","",""
