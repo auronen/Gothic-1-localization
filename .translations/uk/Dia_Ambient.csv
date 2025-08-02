@@ -441,7 +441,7 @@
 "Scripts/content/Story/B/B_AssignAmbientInfos_Sfb_5.d:135","Wie ist das Leben hier?","Як настрій?","","","Info_SFB_5_DieLage.description","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Sfb_5.d:145","Wie ist das Leben hier?","Як настрій?","","","Info_SFB_5_DieLage_15_00","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Sfb_5.d:146","Toll!","Просто чудово!","","False","Info_SFB_5_DieLage_02_01","",""
-"Scripts/content/Story/B/B_AssignAmbientInfos_Sfb_5.d:147","Und weil es uns so gut geht, versuchen wir möglichst schnell von hier abzuhauen.","Настільки чудово, що нас уже нудить від щастя, і ми просто хочемо звалити звідси.","","False","Info_SFB_5_DieLage_02_02","",""
+"Scripts/content/Story/B/B_AssignAmbientInfos_Sfb_5.d:147","Und weil es uns so gut geht, versuchen wir möglichst schnell von hier abzuhauen.","Настільки чудово, що нас вже нудить від щастя, і ми просто хочемо звалити звідси.","","False","Info_SFB_5_DieLage_02_02","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Sfb_5.d:148","Was glaubst du wo wir sind? Wir sind im Knast und niemand ist gerne im Knast.","Друже, схаменись! Це в'язниця! Нікому не подобається бути у в'язниці.","","False","Info_SFB_5_DieLage_02_03","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Sld_11.d:37","Ich will ein Söldner der Magier werden.","Я хотів би стати найманцем і працювати на магів.","","False","Info_Sld_11_EinerVonEuchWerden.description","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Sld_11.d:53","Ich will ein Söldner der Magier werden.","Я хотів би стати найманцем і працювати на магів.","","False","Info_Sld_11_EinerVonEuchWerden_15_00","",""
