@@ -1525,7 +1525,7 @@
 "Scripts/content/Items/MissionItems_3.d:202","der magischen Barriere benutzt wurden.","для створення бар'єру.","","False","Focus_2.text[2]","",""
 "Scripts/content/Items/MissionItems_3.d:210","Truhenschlüssel","Ключ від скрині","","False","ItKe_BERG_01.name","",""
 "Scripts/content/Items/MissionItems_3.d:221","Alte Bergfestung","Іржавий ключ від скриньки,","","False","ItKe_BERG_01.text[0]","",""
-"Scripts/content/Items/MissionItems_3.d:222","Ein rostiger alter Schlüssel","що у покинутої гірській фортеці","","False","ItKe_BERG_01.text[1]","",""
+"Scripts/content/Items/MissionItems_3.d:222","Ein rostiger alter Schlüssel","що у покинутій гірській фортеці","","False","ItKe_BERG_01.text[1]","",""
 "Scripts/content/Items/MissionItems_3.d:223","der zu einer Truhe gehört"," ","","False","ItKe_BERG_01.text[2]","",""
 "Scripts/content/Items/MissionItems_3.d:224","","","","","ItKe_BERG_01.text[3]","",""
 "Scripts/content/Items/MissionItems_3.d:225","","","","","ItKe_BERG_01.text[4]","",""
