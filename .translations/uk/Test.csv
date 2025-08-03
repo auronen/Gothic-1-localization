@@ -117,7 +117,7 @@
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:347","IV:  Xardas  - Finde Ork Schamanen","IV:  Ксардас — Пошук шамана орків","","False","StoryHelper_INFO4.StoryHelper_XardasFindOrcShaman","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:348","IV:  Xardas  - Erste Begegnung","IV:  Ксардас — перша зустріч","","False","StoryHelper_INFO4.StoryHelper_XardasIntro","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:349","IV:  Saturas - Finde Xardas","IV:  Сатурас — Пошук Ксардаса","","False","StoryHelper_INFO4.StoryHelper_SaturasFindXardas","Info_AddChoice",""
-"Scripts/content/AI/Test_Skripts/StoryHelper.d:350","IV:  Diego   - Freie Mine wurde überfallen","IV:  Дієґо   — Вільна копальня атакована","","False","StoryHelper_INFO4.StoryHelper_FreeMineAmbush","Info_AddChoice",""
+"Scripts/content/AI/Test_Skripts/StoryHelper.d:350","IV:  Diego   - Freie Mine wurde überfallen","IV:  Дієґо   — вільна копальня атакована","","False","StoryHelper_INFO4.StoryHelper_FreeMineAmbush","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:351","IV:  Saturas - Feuermagier holen","IV:  Сатурас — Привести магів вогню","","False","StoryHelper_INFO4.StoryHelper_SaturasBringFoci_SUCCESS","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:571","Kapitel 5","Розділ 5","","False","StoryHelper_INFO5.description","",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:584","V:  URIZIEL ist aufgeladen","V:  УРІЗІЕЛЬ заряджений","","False","StoryHelper_INFO5.StoryHelper_UrizielLoaded","Info_AddChoice",""
