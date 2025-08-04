@@ -301,7 +301,7 @@
 "Scripts/content/Story/Text.d:597","Stärke +","Сила +","","False","NAME_RaiseStrength","",""
 "Scripts/content/Story/Text.d:598","Geschick +","Спритність +","","False","NAME_RaiseDexterity","",""
 "Scripts/content/Story/Text.d:599","Stärke und Geschick +","Сила та Спритність +","","False","NAME_RaiseStrDex","",""
-"Scripts/content/Story/Text.d:600","maximale Mana +","Максимальная мана +","","False","NAME_RaiseManaMax","",""
+"Scripts/content/Story/Text.d:600","maximale Mana +","Максимальної мани +","","False","NAME_RaiseManaMax","",""
 "Scripts/content/Story/Text.d:601","maximale Lebensenergie +","Максимальне здоров'я +","","False","NAME_RaiseHealthMax","",""
 "Scripts/content/Story/Text.d:605","Meister, ich möchte die hohe Robe des Feuers tragen.","Майстер, я хотів би одягти рясу архімага вогню.","","False","NAME_CorristoHighRobe","",""
 "Scripts/content/Story/Text.d:606","Hohe Robe","Я хотів би одягнути рясу архімага води.","","False","NAME_SaturasHighRobe","",""
