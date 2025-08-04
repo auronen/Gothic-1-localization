@@ -116,7 +116,7 @@
 "Scripts/content/Story/Text.d:268","Bogen","Arc","","","TXT_TALENTS[3]","",""
 "Scripts/content/Story/Text.d:269","Armbrust","Arbalète","","","TXT_TALENTS[4]","",""
 "Scripts/content/Story/Text.d:270","Schlösser öffnen","Forcer Serrure","","","TXT_TALENTS[5]","",""
-"Scripts/content/Story/Text.d:271","Taschendiebstahl","Pickpocket","","","TXT_TALENTS[6]","",""
+"Scripts/content/Story/Text.d:271","Taschendiebstahl","Vol à la tire","","False","TXT_TALENTS[6]","",""
 "Scripts/content/Story/Text.d:272","Magie","Magie","","","TXT_TALENTS[7]","",""
 "Scripts/content/Story/Text.d:273","Schleichen","Discrétion","","","TXT_TALENTS[8]","",""
 "Scripts/content/Story/Text.d:274","Regeneration","Régénération","","","TXT_TALENTS[9]","",""
