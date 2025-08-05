@@ -157,6 +157,6 @@
 "Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:166","Ich hab' das Biest erledigt!","Я вбив звіра!","","","DIA_Homer_Success_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:167","Gut! Ich habe schon zusammen mit einigen von Reislords Leuten die Schäden behoben, die es bisher angerichtet hat.","Чудово! Я вже покликав сюди кількох людей Лорда, які допоможуть відновити пошкодження.","","False","DIA_Homer_Success_02_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:168","Jetzt kann ich mich endlich mal wieder in Ruhe schlafen legen.","Нарешті я зможу нормально спати.","","","DIA_Homer_Success_02_02","",""
-"Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:189","Alles klar beim Damm?","З тамою все нормально?","","","DIA_Homer_PERM.description","",""
-"Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:202","Alles klar beim Damm?","З тамою все нормально?","","","DIA_Homer_PERM_15_00","",""
+"Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:189","Alles klar beim Damm?","З греблею все добре?","","False","DIA_Homer_PERM.description","",""
+"Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:202","Alles klar beim Damm?","З греблею все добре?","","False","DIA_Homer_PERM_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:203","Steht wie 'ne Festung, den kriegt so schnell nichts klein.","Міцна як скеля. Тепер ніщо не зможе її зруйнувати.","","False","DIA_Homer_PERM_02_01","",""
