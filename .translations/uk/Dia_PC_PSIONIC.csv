@@ -120,7 +120,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:841","Wir könnten die Festung gemeinsam erkunden!","Ми могли б разом оглянути фортецю!","","","PC_Psionic_COMEWITHME.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:855","Wir könnten die Festung gemeinsam erkunden!","Ми могли б разом оглянути фортецю!","","","PC_Psionic_COMEWITHME_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:856","Ein guter Vorschlag. Geh du voraus, ich bleibe in deiner Nähe.","Це хороша ідея. Ти йдеш перший, я буду за тобою.","","","PC_Psionic_COMEWITHME_Info_05_02","",""
-"Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:888","Sieh mal, dort oben scheint der Fokus zu sein, den du suchst.","Подивись, схоже, фокус, який ти шукаєш, знаходиться там, зверху.","","","PC_Psionic_FOKUSPLACE_Info_05_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:888","Sieh mal, dort oben scheint der Fokus zu sein, den du suchst.","Поглянь, здається, там угорі той камінь фокусування, який ти шукаєш.","","False","PC_Psionic_FOKUSPLACE_Info_05_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:889","Ja, sieht aus wie ein Fokusplatz, hm ... so einfach komme ich da nicht dran ...","Так, схоже на платформу де має бути фокус, хм... дістатися до нього буде не так просто...","","False","PC_Psionic_FOKUSPLACE_Info_15_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:921","Wo willst du hin? Wir sind hier noch nicht fertig!","Куди ти йдеш? Ми ще не закінчили!","","","PC_Psionic_COMEBACK_Info_05_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:935","Ich bin verletzt, kannst du mir helfen?","Я поранений. Можеш допомогти мені?","","","PC_Psionic_IAMHURT.description","",""
