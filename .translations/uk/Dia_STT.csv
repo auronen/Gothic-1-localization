@@ -251,7 +251,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Stt_329_Dexter.d:46","Hey, du! Ich handele mit Sumpfkraut und Tränken aus dem Sektenlager. Willst du was?","Гей, ти! Продаю болотянку та різні відвари з табору на болоті. Може тобі щось знадобиться?","","False","DIA_Dexter_IAmNew_10_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_329_Dexter.d:58","Was ist Sumpfkraut?","Що таке «болотянка»?","","False","DIA_Dexter_Kraut.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_329_Dexter.d:68","Was ist Sumpfkraut?","Що таке «болотянка»?","","False","DIA_Dexter_Kraut_15_00","",""
-"Scripts/content/Story/MISSIONS/DIA_Stt_329_Dexter.d:69","Neu hier, was? Man kann es rauchen. Wirkt auf die meisten sehr entspannend.","Ти тут новачок, га? Це болотяна трава, яку можна курити. Це дуже розслабляє.","","False","DIA_Dexter_Kraut_10_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Stt_329_Dexter.d:69","Neu hier, was? Man kann es rauchen. Wirkt auf die meisten sehr entspannend.","Новенький, еге ж? Можеш затягнутись. Більшість людей вважають, що це дуже розслабляє.","","False","DIA_Dexter_Kraut_10_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_329_Dexter.d:85","Zeig mir deine Ware.","Покажи мені свій товар.","","","DIA_Dexter_Trade.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_329_Dexter.d:95","Zeig mir deine Ware.","Покажи мені свій товар.","","","DIA_Dexter_Trade_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_329_Dexter.d:96","Ich habe hier nur den besten Stoff ...","У мене тут тільки найякісніші товари...","","","DIA_Dexter_Trade_10_01","",""
