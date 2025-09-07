@@ -33,7 +33,7 @@
 "Scripts/content/Story/MISSIONS/DIA_ORG_840_Roscoe.d:217","Du hörst wohl schlecht.","У тебе, мабуть, погано зі слухом.","","False","Info_Roscoe_LastWarn_10_00","",""
 "Scripts/content/Story/MISSIONS/DIA_ORG_855_Wolf.d:33","Wer bist du?","Хто ти?","","False","DIA_Wolf_Hello.description","",""
 "Scripts/content/Story/MISSIONS/DIA_ORG_855_Wolf.d:43","Wer bist du?","Хто ти?","","False","DIA_Wolf_Hello_15_00","",""
-"Scripts/content/Story/MISSIONS/DIA_ORG_855_Wolf.d:44","Ich bin Wolf, der Rüstungsbauer.","Я зброяр. Звуть мене Вовк.","","","DIA_Wolf_Hello_09_01","",""
+"Scripts/content/Story/MISSIONS/DIA_ORG_855_Wolf.d:44","Ich bin Wolf, der Rüstungsbauer.","Я зброяр. Звуть мене Вольф.","","False","DIA_Wolf_Hello_09_01","",""
 "Scripts/content/Story/MISSIONS/DIA_ORG_855_Wolf.d:71","Hey! Du bist jetzt einer von uns, Kleiner.","Гей! Тепер ти один із нас.","","False","DIA_Wolf_GreetORG_09_00","",""
 "Scripts/content/Story/MISSIONS/DIA_ORG_855_Wolf.d:95","Handelst du noch mit was anderem?","Ти займаєшся ще чимось?","","","Org_855_Wolf_TRADE_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_ORG_855_Wolf.d:96","Ich kaufe Felle und Häute von den Jägern. Wenn du an so was rankommst, kauf' ich dir die Sachen ab.","Шкіру та хутра купую у мисливців. Якщо у тебе раптом буде такий товар для продажу — зв'яжись зі мною.","","False","Org_855_Wolf_TRADE_09_01","",""
