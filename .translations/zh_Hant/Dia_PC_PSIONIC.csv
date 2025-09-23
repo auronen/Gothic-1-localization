@@ -53,7 +53,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:311","AH! GUT, DICH WIEDER ZU TREFFEN. WIE IST ES DIR ERGANGEN?","哈！很高興又見到你。你一直在忙什麼？","","","DIA_Lester_ShowHallo_05_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:323","Ich habe den alten Göttern abgeschworen.","我已與先前信奉的神斷了關係。","","","DIA_Lester_Show.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:337","ICH HABE DEN ALTEN GÖTTERN ABGESCHWOREN.","我與以前信奉的神靈斷絕關係了。","","","DIA_Lester_Show_15_00","",""
-"Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:338","EHRLICH? WIE KOMMST DU ZU DIESR ENTSCHEIDUNG?","真的嗎？你怎麼那樣做了？","","","DIA_Lester_Show_05_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:338","EHRLICH? WIE KOMMST DU ZU DIESR ENTSCHEIDUNG?","真的嗎？你怎麼那樣做了？","","True","DIA_Lester_Show_05_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:339","ICH HATTE EINE VISION. DER SCHLÄFER HAT ZU MIR GESPROCHEN.","我有了一個預言：沈睡者和我說話。","","","DIA_Lester_Show_15_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:340","WAS HAT ER GESAGT?","他說什麼了？","","","DIA_Lester_Show_05_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:341","ER SAGTE, GEH IN DAS LAGER IM SUMPF UND SCHLIESS DICH DER BRUDERSCHAFT AN.","他說：去沼澤地裏的營地，加入兄弟會吧。","","","DIA_Lester_Show_15_04","",""
