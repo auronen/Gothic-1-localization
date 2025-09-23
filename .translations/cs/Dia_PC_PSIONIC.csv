@@ -53,7 +53,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:311","AH! GUT, DICH WIEDER ZU TREFFEN. WIE IST ES DIR ERGANGEN?","AAH! RÁD TĚ ZASE VIDÍM. JAK SE TI VEDE?","","","DIA_Lester_ShowHallo_05_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:323","Ich habe den alten Göttern abgeschworen.","Zřekl jsem se starých bohů.","","","DIA_Lester_Show.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:337","ICH HABE DEN ALTEN GÖTTERN ABGESCHWOREN.","ZŘEKL JSEM SE STARÝCH BOHŮ.","","","DIA_Lester_Show_15_00","",""
-"Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:338","EHRLICH? WIE KOMMST DU ZU DIESR ENTSCHEIDUNG?","OPRAVDU? CO TĚ K TOMU PŘIMĚLO?","","","DIA_Lester_Show_05_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:338","EHRLICH? WIE KOMMST DU ZU DIESR ENTSCHEIDUNG?","OPRAVDU? CO TĚ K TOMU PŘIMĚLO?","","True","DIA_Lester_Show_05_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:339","ICH HATTE EINE VISION. DER SCHLÄFER HAT ZU MIR GESPROCHEN.","MĚL JSEM VIZI: PROMLUVIL KE MNĚ SPÁČ.","","","DIA_Lester_Show_15_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:340","WAS HAT ER GESAGT?","CO TI ŘÍKAL?","","","DIA_Lester_Show_05_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:341","ER SAGTE, GEH IN DAS LAGER IM SUMPF UND SCHLIESS DICH DER BRUDERSCHAFT AN.","ŘEKL: JDI DO TÁBORA V BAŽINÁCH A PŘIDEJ SE K BRATRSTVU.","","","DIA_Lester_Show_15_04","",""
