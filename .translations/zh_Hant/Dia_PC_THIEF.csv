@@ -123,7 +123,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:828","Ich hab' mal mit ein paar Leuten geredet...","我已經和一些人談過．．．","","","Info_Diego_JoinAnalyze_11_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:829","Und?","什麼？","","","Info_Diego_JoinAnalyze_15_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:835","Scatty hat mir gesagt, du hast Kirgo besiegt.","史卡帝告訴我你擊敗了科爾?。","","","Info_Diego_JoinAnalyze_Scatty_11_01","",""
-"Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:840","Scatty hat mir gesagt, du hast gegen Kirgo verloren. Er hat sich nicht seher begeistert angehört.","史卡帝告訴我，你讓科爾?打你，但是他似乎沒有興趣。","","","Info_Diego_JoinAnalyze_Scatty_11_02","",""
+"Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:840","Scatty hat mir gesagt, du hast gegen Kirgo verloren. Er hat sich nicht seher begeistert angehört.","史卡帝告訴我，你讓科爾?打你，但是他似乎沒有興趣。","","True","Info_Diego_JoinAnalyze_Scatty_11_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:845","Scatty hat mir gesagt, er wäre gespannt, wie du gegen Kirgo abschneidest.","史卡帝告訴我，他很想看看你是怎樣擊敗科爾?的。","","","Info_Diego_JoinAnalyze_Scatty_11_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:850","Aber dass du den Mumm gehabt hast, gegen Kharim anzutreten hat ihm imponiert, obwohl du verloren hast.","但是，他對你還有印像，說你即使被凱林擊敗了，但是你的勇氣是可佳的。","","","Info_Diego_JoinAnalyze_Scatty_11_04","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:855","Aber dass du gegen Kharim gewonnen hast, hat ihn total von den Socken gehauen - er hat gar nicht mehr aufgehört, von dir zu reden.","但是他對你擊敗凱林的事更有印像－－他談了很多你的事。","","","Info_Diego_JoinAnalyze_Scatty_11_05","",""
