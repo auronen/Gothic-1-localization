@@ -141,7 +141,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:33","Hältst du nach irgendwas Ausschau?","Cerchi qualcosa?","","","DIA_Homer_Hello.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:43","Hältst du nach irgendwas Ausschau?","Cerchi qualcosa?","","","DIA_Homer_Hello_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:44","Ich suche undichte Stellen im Damm. Ich habe den Verdacht, dass ein Lurker am Fundament des Damms nagt.","Crepe nella diga. Un imboscatore sta rodendo le fondamenta.","","","DIA_Homer_Hello_02_01","",""
-"Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:45","Das Vieh wetzt seine Zähne und Krallen an den Steinen und Holzbalken unter Wasser.","Quella dannata bestia affila denti e unghie contro le pietre e le travi di legno sottacqua.","","","DIA_Homer_Hello_02_02","",""
+"Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:45","Das Vieh wetzt seine Zähne und Krallen an den Steinen und Holzbalken unter Wasser.","Quella dannata bestia affila denti e unghie contro le pietre e le travi di legno sott'acqua.","","False","DIA_Homer_Hello_02_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:46","Auf diese Weise ist bald der gesamte Damm untergraben.","Se continua, l'intera diga diverrà pericolante.","","","DIA_Homer_Hello_02_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:58","Hast DU den Damm gebaut?","TU hai costruito la diga?","","","DIA_Homer_BuiltDam.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_935_Homer.d:71","Hast DU den Damm gebaut?","TU hai costruito la diga?","","","DIA_Homer_BuiltDam_15_00","",""
