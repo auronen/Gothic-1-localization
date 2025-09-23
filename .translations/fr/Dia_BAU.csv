@@ -74,7 +74,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:361","Ich WERDE den Reislord fertig machen - wenn du mir dabei hilfst!","Je BATTRAI le Seigneur du Riz et ses voyous - si tu m'aides !","","","DIA_Horatio_HelpSTR.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:374","Ich WERDE den Reislord und seine Schläger fertig machen - wenn du mir dabei hilfst!","Je BATTRAI le Seigneur du Riz et ses voyous - si tu m'aides !","","","DIA_Horatio_HelpSTR_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:375","Gut! Ich habe geschworen, nie wieder jemanden anzugreifen, aber NICHT, es niemandem beizubringen.","Bon ! J'ai juré je ne me battrais plus, mais je n'ai jamais dit que je n'enseignerais pas quelqu'un d'autre à le faire.","","","DIA_Horatio_HelpSTR_09_01","",""
-"Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:376","Ich bin ganz Ohr!","Je suis toutes ouies","","","DIA_Horatio_HelpSTR_15_02","",""
+"Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:376","Ich bin ganz Ohr!","Je suis toutes ouïes","","False","DIA_Horatio_HelpSTR_15_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:393","Danke für deine Hilfe!","Merci pour ton aide !","","","DIA_Horatio_Thanks.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:406","Danke für deine Hilfe!","Merci pour ton aide !","","","DIA_Horatio_Thanks_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_901_Horatio.d:407","Nutze dein Wissen für die gerechte Sache! Und NUR DAFÜR.","Utilise ton savoir pour une cause juste, et rien d'autre.","","","DIA_Horatio_Thanks_09_01","",""
