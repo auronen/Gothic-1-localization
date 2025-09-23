@@ -53,7 +53,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:311","AH! GUT, DICH WIEDER ZU TREFFEN. WIE IST ES DIR ERGANGEN?","А-А! РАД ВИДЕТЬ ТЕБЯ СНОВА. КАК ТВОИ ДЕЛА?","","","DIA_Lester_ShowHallo_05_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:323","Ich habe den alten Göttern abgeschworen.","Я ОТРЕКСЯ ОТ СТАРЫХ БОГОВ.","","","DIA_Lester_Show.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:337","ICH HABE DEN ALTEN GÖTTERN ABGESCHWOREN.","Я ОТРЕКСЯ ОТ СТАРЫХ БОГОВ.","","","DIA_Lester_Show_15_00","",""
-"Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:338","EHRLICH? WIE KOMMST DU ZU DIESR ENTSCHEIDUNG?","В САМОМ ДЕЛЕ? ПОЧЕМУ ТЫ РЕШИЛ ТАК ПОСТУПИТЬ?","","","DIA_Lester_Show_05_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:338","EHRLICH? WIE KOMMST DU ZU DIESR ENTSCHEIDUNG?","В САМОМ ДЕЛЕ? ПОЧЕМУ ТЫ РЕШИЛ ТАК ПОСТУПИТЬ?","","True","DIA_Lester_Show_05_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:339","ICH HATTE EINE VISION. DER SCHLÄFER HAT ZU MIR GESPROCHEN.","МНЕ БЫЛО ВИДЕНИЕ: СПЯЩИЙ ГОВОРИЛ СО МНОЙ.","","","DIA_Lester_Show_15_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:340","WAS HAT ER GESAGT?","ЧТО ОН СКАЗАЛ?","","","DIA_Lester_Show_05_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:341","ER SAGTE, GEH IN DAS LAGER IM SUMPF UND SCHLIESS DICH DER BRUDERSCHAFT AN.","ОН СКАЗАЛ: ИДИ В ЛАГЕРЬ НА БОЛОТАХ И СТАНЬ ЧЛЕНОМ БРАТСТВА.","","","DIA_Lester_Show_15_04","",""
