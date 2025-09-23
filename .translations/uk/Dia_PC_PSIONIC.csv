@@ -53,7 +53,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:311","AH! GUT, DICH WIEDER ZU TREFFEN. WIE IST ES DIR ERGANGEN?","АХ! РАДИЙ ЗНОВУ ТЕБЕ БАЧИТИ. ЯК ПОЖИВАЄШ?","","False","DIA_Lester_ShowHallo_05_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:323","Ich habe den alten Göttern abgeschworen.","Я зрікся старих богів.","","","DIA_Lester_Show.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:337","ICH HABE DEN ALTEN GÖTTERN ABGESCHWOREN.","Я ЗРІКСЯ СТАРИХ БОГІВ.","","","DIA_Lester_Show_15_00","",""
-"Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:338","EHRLICH? WIE KOMMST DU ZU DIESR ENTSCHEIDUNG?","ДІЙСНО? ЩО ЗМУСИЛО ТЕБЕ ЦЕ ЗРОБИТИ?","","","DIA_Lester_Show_05_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:338","EHRLICH? WIE KOMMST DU ZU DIESR ENTSCHEIDUNG?","ДІЙСНО? ЩО ЗМУСИЛО ТЕБЕ ЦЕ ЗРОБИТИ?","","True","DIA_Lester_Show_05_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:339","ICH HATTE EINE VISION. DER SCHLÄFER HAT ZU MIR GESPROCHEN.","У МЕНЕ БУЛО БАЧЕННЯ: СПЛЯЧИЙ ГОВОРИВ ЗІ МНОЮ.","","","DIA_Lester_Show_15_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:340","WAS HAT ER GESAGT?","ЩО ВІН СКАЗАВ?","","","DIA_Lester_Show_05_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:341","ER SAGTE, GEH IN DAS LAGER IM SUMPF UND SCHLIESS DICH DER BRUDERSCHAFT AN.","ВІН СКАЗАВ: ІДИ ДО ТАБОРУ НА БАГНІ І ПРИЄДНУЙСЯ ДО БРАТСТВА.","","","DIA_Lester_Show_15_04","",""
