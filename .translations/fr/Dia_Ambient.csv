@@ -427,7 +427,7 @@
 "Scripts/content/Story/B/B_AssignAmbientInfos_Sfb_5.d:70","Was ist, wenn ich hier mitmachen will?","Est-ce que je peux me joindre à vous?","","","Info_SFB_5_EinerVonEuchWerden_15_00","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Sfb_5.d:71","Hier mitmachen? Als was, Wasserträger?","Nous rejoindre? comme quoi, un porteur d'eau?","","","Info_SFB_5_EinerVonEuchWerden_02_01","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Sfb_5.d:72","Nein, als Schürfer?","Non, comme gratteur.","","","Info_SFB_5_EinerVonEuchWerden_15_02","",""
-"Scripts/content/Story/B/B_AssignAmbientInfos_Sfb_5.d:73","Pass mal auf, lass dir eins gesagt sein: Niemand wird FREIWILLIG Schürfer.","Ecoute, je vais te dire quelque chose: personne ne veut devenir un gratteur.","","","Info_SFB_5_EinerVonEuchWerden_02_03","",""
+"Scripts/content/Story/B/B_AssignAmbientInfos_Sfb_5.d:73","Pass mal auf, lass dir eins gesagt sein: Niemand wird FREIWILLIG Schürfer.","Écoute, je vais te dire quelque chose: personne ne veut devenir un gratteur.","","False","Info_SFB_5_EinerVonEuchWerden_02_03","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Sfb_5.d:74","Aber bitte, wenn du unbedingt willst. Geh mal zu Swiney, der hat bestimmt 'ne Spitzhacke übrig, die er dir gerne zur Verfügung stellt.","Bien sûr, si tu insiste... Va parler à Swiney, je suis sur qu'il aura une pioche à partager.","","","Info_SFB_5_EinerVonEuchWerden_02_04","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Sfb_5.d:86","Wer ist hier wichtig?","Qui est important ici ?","","","Info_SFB_5_WichtigePersonen.description","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Sfb_5.d:96","Wer ist hier wichtig?","Qui est important ici ?","","","Info_SFB_5_WichtigePersonen_15_00","",""
