@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/system/MENU/menu_defines.d:62","Taste ENTF zum Löschen und RETURN zum definieren","Нажмите DEL, чтобы удалить или ENTER, чтобы настроить.","","","CTRL_KEYDEF","",""
+"Scripts/system/MENU/menu_defines.d:62","Taste ENTF zum Löschen und RETURN zum definieren","Нажмите DEL, чтобы удалить, или нажмите ENTER, чтобы настроить","","False","CTRL_KEYDEF","",""
 "Scripts/system/MENU/menu_defines.d:63","Gewünschte Taste betätigen.","Нажмите клавишу.","","","CTRL_KEYDEF_INFO","",""
 "Scripts/system/MENU/menu_defines.d:64","nein|ja","нет|да","","","MENU_NO_YES","",""
 "Scripts/system/MENU/menu_defines.d:65","aus|an","выкл|вкл","","","MENU_OFF_ON","",""
