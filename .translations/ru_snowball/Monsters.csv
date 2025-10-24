@@ -58,7 +58,7 @@
 "Scripts/content/AI/Monster/Mst_Troll.d:8","Troll","Тролль","","","Mst_Default_Troll.name","",""
 "Scripts/content/AI/Monster/Mst_Troll.d:104","junger Troll","Молодой тролль","","","YoungTroll.name","",""
 "Scripts/content/AI/Monster/Mst_UndeadOrcShaman.d:8","Hohepriester","Высший священник","","","Mst_Default_UndeadOrcShaman.name","",""
-"Scripts/content/AI/Monster/Mst_UndeadOrcWarrior.d:8","Tempelwächter","Храмовый страж","","","Mst_Default_UndeadOrcWarrior.name","",""
+"Scripts/content/AI/Monster/Mst_UndeadOrcWarrior.d:8","Tempelwächter","Храмовый cтраж","","False","Mst_Default_UndeadOrcWarrior.name","",""
 "Scripts/content/AI/Monster/Mst_UndeadOrcWarrior.d:103","Hoher Tempelwächter","Высший храмовый страж","","","UndeadOWH.name","",""
 "Scripts/content/AI/Monster/Mst_Waran.d:8","Waran","Ящерица","","","Mst_Default_Waran.name","",""
 "Scripts/content/AI/Monster/Mst_Wolf.d:8","Wolf","Волк","","","Mst_Default_Wolf.name","",""
