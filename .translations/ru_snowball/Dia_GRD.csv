@@ -187,7 +187,7 @@
 "Scripts/content/Story/MISSIONS/DIA_GRD_219_Stone.d:84","Ich brauche eine Rüstung.","Мне нужны доспехи.","","","GRD_219_Stone_GETSTUFF_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_GRD_219_Stone.d:85","Thorus hat dich in die Truppe aufgenommen? Glückwunsch!","Значит, Торус принял тебя на службу, а? Поздравляю!","","","GRD_219_Stone_GETSTUFF_Info_06_02","",""
 "Scripts/content/Story/MISSIONS/DIA_GRD_219_Stone.d:86","Wieder einer mehr, der seinen Hals für Gomez in die Schlinge legt. Na, mir soll's recht sein.","Еще одному не терпится свернуть себе шею ради Гомеза. Впрочем, чего я-то волнуюсь?","","","GRD_219_Stone_GETSTUFF_Info_06_03","",""
-"Scripts/content/Story/MISSIONS/DIA_GRD_219_Stone.d:87","Hier, nimm die Rüstung und dieses Schwert. Willkommen bei der Garde.","Вот, возьми доспехи и меч. Добро пожаловать в Стражу!","","","GRD_219_Stone_GETSTUFF_Info_06_04","",""
+"Scripts/content/Story/MISSIONS/DIA_GRD_219_Stone.d:87","Hier, nimm die Rüstung und dieses Schwert. Willkommen bei der Garde.","Вот, возьми доспехи и меч. Добро пожаловать в стражу!","","False","GRD_219_Stone_GETSTUFF_Info_06_04","",""
 "Scripts/content/Story/MISSIONS/DIA_GRD_219_Stone.d:111","Ich brauche eine bessere Rüstung.","Мне нужны доспехи получше.","","False","GRD_219_Stone_BETTERARMOR.description","",""
 "Scripts/content/Story/MISSIONS/DIA_GRD_219_Stone.d:125","Ich brauche eine bessere Rüstung.","Мне нужны доспехи получше.","","","GRD_219_Stone_BETTERARMOR_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_GRD_219_Stone.d:126","Wenn die Zeit gekommen ist und du genug Erz hast ...","В свое время он у тебя обязательно будет... Только не забудь подкопить достаточно руды.","","","GRD_219_Stone_BETTERARMOR_Info_06_02","",""
