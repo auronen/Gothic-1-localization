@@ -1212,7 +1212,7 @@
 "Scripts/content/Items/MissionItems_1.d:165","Altes Schwert","Старый меч","","","AltesSchwert.name","",""
 "Scripts/content/Items/MissionItems_1.d:182","","","","","AltesSchwert.text[0]","",""
 "Scripts/content/Items/MissionItems_1.d:183","","","","","AltesSchwert.text[1]","",""
-"Scripts/content/Items/MissionItems_1.d:196","Jackals Schwert","Меч шакала","","","JackalsSword.name","",""
+"Scripts/content/Items/MissionItems_1.d:196","Jackals Schwert","Меч Шакала","","False","JackalsSword.name","",""
 "Scripts/content/Items/MissionItems_1.d:214","","","","","JackalsSword.text[0]","",""
 "Scripts/content/Items/MissionItems_1.d:215","","","","","JackalsSword.text[1]","",""
 "Scripts/content/Items/MissionItems_1.d:242","Botenamulett der Wassermagier","Амулет посланника магов воды","","","KdW_Amulett.description","",""
