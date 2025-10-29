@@ -242,7 +242,7 @@
 "Scripts/content/Story/Text.d:478","magische Zauber-","магічне коло","","False","_STR_ATTRIBUTE_MAGIC_CIRCLE","",""
 "Scripts/content/Story/Text.d:481","es fehlen ","Бракує ","","False","_STR_CANNOTUSE_PRE_PLAYER","",""
 "Scripts/content/Story/Text.d:482","Punkte","пунктів ","","False","_STR_CANNOTUSE_POINTS","",""
-"Scripts/content/Story/Text.d:483","Stufen","магії","","False","_STR_CANNOTUSE_LEVELS","",""
+"Scripts/content/Story/Text.d:483","Stufen"," магії","","False","_STR_CANNOTUSE_LEVELS","",""
 "Scripts/content/Story/Text.d:484",", um diesen Gegenstand anzulegen"," для використання.","","False","_STR_CANNOTUSE_POST","",""
 "Scripts/content/Story/Text.d:488",") fehlen ",") Бракує ","","False","_STR_CANNOTUSE_POST_NPC","",""
 "Scripts/content/Story/Text.d:491","kein Dietrich oder passender Schlüssel","Нема ключа або відмички.","","False","_STR_MESSAGE_INTERACT_NO_KEY","",""
