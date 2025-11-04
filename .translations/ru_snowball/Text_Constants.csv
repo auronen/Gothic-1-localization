@@ -83,7 +83,7 @@
 "Scripts/content/Story/Text.d:156","Teleport Wassermagier","Портал к Магам Воды","","","TXT_SPELLS[22]","",""
 "Scripts/content/Story/Text.d:157","Teleport Dämonenbeschwörer","Портал к Некроманту","","","TXT_SPELLS[23]","",""
 "Scripts/content/Story/Text.d:158","orkischer Teleport","Портал к оркам","","","TXT_SPELLS[24]","",""
-"Scripts/content/Story/Text.d:159","Teleport Sumpflager","Портал в Болотный Лагерь","","","TXT_SPELLS[25]","",""
+"Scripts/content/Story/Text.d:159","Teleport Sumpflager","Портал в Болотный лагерь","","False","TXT_SPELLS[25]","",""
 "Scripts/content/Story/Text.d:160","Verwandlung Blutfliege","Трансформация в шершня","","","TXT_SPELLS[26]","",""
 "Scripts/content/Story/Text.d:162","Verwandlung Minecrawler","Трансформация в ползуна","","","TXT_SPELLS[28]","",""
 "Scripts/content/Story/Text.d:163","Verwandlung Lurker","Трансформация в шныгу","","","TXT_SPELLS[29]","",""
