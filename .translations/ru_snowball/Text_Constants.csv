@@ -323,7 +323,7 @@
 "Scripts/content/Story/Text.d:636","Zurück","Назад","","","STR_INFO_TRADE_EXIT","",""
 "Scripts/content/Story/Text.d:638","Badenixe","Badenixe","","","STR_BADENIXE","",""
 "Scripts/content/Story/Text.d:644","Kapitel 1","Глава 1","","","KapWechsel_1","",""
-"Scripts/content/Story/Text.d:645","Die Welt der Verurteilten","Мир осужденных","","False","KapWechsel_1_Text","",""
+"Scripts/content/Story/Text.d:645","Die Welt der Verurteilten","Мир заключенных","","False","KapWechsel_1_Text","",""
 "Scripts/content/Story/Text.d:646","Kapitel 2","Глава 2","","","KapWechsel_2","",""
 "Scripts/content/Story/Text.d:647","Das Nest der Minecrawler","Логово ползунов","","False","KapWechsel_2_Text","",""
 "Scripts/content/Story/Text.d:648","Kapitel 3","Глава 3","","","KapWechsel_3","",""
