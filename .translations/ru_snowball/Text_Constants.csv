@@ -53,7 +53,7 @@
 "Scripts/content/Story/Text.d:86","Sumpfhai","Болотожор","","","TXT_GUILDS[29]","",""
 "Scripts/content/Story/Text.d:87","Zombie","Зомби","","","TXT_GUILDS[30]","",""
 "Scripts/content/Story/Text.d:88","Zombie	Orc","Орк-зомби","","False","TXT_GUILDS[31]","",""
-"Scripts/content/Story/Text.d:89","Skelett","Скелетон","","","TXT_GUILDS[32]","",""
+"Scripts/content/Story/Text.d:89","Skelett","Скелет","","False","TXT_GUILDS[32]","",""
 "Scripts/content/Story/Text.d:90","Ork-Hund","Орочья гончая","","","TXT_GUILDS[33]","",""
 "Scripts/content/Story/Text.d:91","Molerat","Кротокрыс","","","TXT_GUILDS[34]","",""
 "Scripts/content/Story/Text.d:92","Golem","Голем","","","TXT_GUILDS[35]","",""
