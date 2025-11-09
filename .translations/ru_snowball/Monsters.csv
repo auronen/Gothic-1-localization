@@ -54,7 +54,7 @@
 "Scripts/content/AI/Monster/Mst_Sleeper.d:8","Der Schläfer","Спящий","","","Mst_Default_Sleeper.name","",""
 "Scripts/content/AI/Monster/Mst_Snapper.d:8","Snapper","Глорх","","","Mst_Default_Snapper.name","",""
 "Scripts/content/AI/Monster/Mst_Swampshark.d:8","Sumpfhai","Болотожор","","","Mst_Default_Swampshark.name","",""
-"Scripts/content/AI/Monster/Mst_Swampshark.d:104","verletzter Sumpfhai","Раненный болотожор","","","HurtSwampshark.name","",""
+"Scripts/content/AI/Monster/Mst_Swampshark.d:104","verletzter Sumpfhai","Раненый болотожор","","False","HurtSwampshark.name","",""
 "Scripts/content/AI/Monster/Mst_Troll.d:8","Troll","Тролль","","","Mst_Default_Troll.name","",""
 "Scripts/content/AI/Monster/Mst_Troll.d:104","junger Troll","Молодой тролль","","","YoungTroll.name","",""
 "Scripts/content/AI/Monster/Mst_UndeadOrcShaman.d:8","Hohepriester","Высший священник","","","Mst_Default_UndeadOrcShaman.name","",""
