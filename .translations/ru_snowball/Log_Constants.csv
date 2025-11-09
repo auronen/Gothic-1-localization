@@ -93,7 +93,7 @@
 "Scripts/content/Story/Log_Constants.d:135","Wissen über Fell abziehen - Wolf, Orkhund, Schattenläufer, Troll","Знание о том, как снять шкуру с волка, орочей гончей, мракориса, тролля.","","","GE_AnimalTrophies_Fur","",""
 "Scripts/content/Story/Log_Constants.d:136","Wissen über Krallen abziehen - Warane, Snapper, Lurker, Beisser, Razor","Знание о том, как вырезать когти у варанов, глорхов, шныгов, кусачей и бритвозубов.","","False","GE_AnimalTrophies_Claws","",""
 "Scripts/content/Story/Log_Constants.d:137","Wissen über Häuten - Lurker, Sumpfhai","Знание о снятии кожи с болотожоров, шныгов.","","False","GE_AnimalTrophies_Skin","",""
-"Scripts/content/Story/Log_Constants.d:138","Wissen über Platten entfernen - Minecrawler - Krieger","Знание того, как вырезать пластины из панциря воинов ползунов.","","False","GE_AnimalTrophies_CrawlerPlates","",""
+"Scripts/content/Story/Log_Constants.d:138","Wissen über Platten entfernen - Minecrawler - Krieger","Знание того, как вырезать пластины из панциря ползуна-воина","","False","GE_AnimalTrophies_CrawlerPlates","",""
 "Scripts/content/Story/Log_Constants.d:139","Wissen über Zangen rausschneiden - Minecrawler","Как удалять челюсти ползунов","","","GE_AnimalTrophies_CrawlerMandibles","",""
 "Scripts/content/Story/Log_Constants.d:146","Auftrag von Thorus","Задание Торуса","","","CH1_MordragKO","",""
 "Scripts/content/Story/Log_Constants.d:147","Thorus hat mich damit beauftragt, einen Banditen namens Mordrag aus dem Lager zu vertreiben. Wie ich das anstelle hat er mir überlassen. Außerdem darf niemand erfahren, dass Thorus dahintersteckt.","Торус поручил мне избавиться от Мордрага, вора из лагеря. Способ я должен выбрать сам. Но никто не должен знать, что Торус замешан в этом.","","False","CH1_MordragKO_1","",""
