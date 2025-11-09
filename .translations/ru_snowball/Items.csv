@@ -99,7 +99,7 @@
 "Scripts/content/Items/Animaltrophy.d:192","","","","","ItAt_Claws_01.text[2]","",""
 "Scripts/content/Items/Animaltrophy.d:193","","","","","ItAt_Claws_01.text[3]","",""
 "Scripts/content/Items/Animaltrophy.d:200","Panzerplatte","Пластина панциря","","","ItAt_Crawler_02.name","",""
-"Scripts/content/Items/Animaltrophy.d:210","Die Panzerplatte eines Minecrawler Kriegers","Панцирная пластина воина ползунов","","False","ItAt_Crawler_02.description","",""
+"Scripts/content/Items/Animaltrophy.d:210","Die Panzerplatte eines Minecrawler Kriegers","Панцирная пластина ползуна-воина","","False","ItAt_Crawler_02.description","",""
 "Scripts/content/Items/Animaltrophy.d:211","","","","","ItAt_Crawler_02.text[0]","",""
 "Scripts/content/Items/Animaltrophy.d:212","","","","","ItAt_Crawler_02.text[1]","",""
 "Scripts/content/Items/Animaltrophy.d:213","","","","","ItAt_Crawler_02.text[2]","",""
