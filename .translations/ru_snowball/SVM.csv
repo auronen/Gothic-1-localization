@@ -297,7 +297,7 @@
 "Scripts/content/Story/svm.d:549","Hör auf, hier herumzuschleichen!","Перестань здесь шляться!","","","SVM_3_WhatsThisSupposedToBe","",""
 "Scripts/content/Story/svm.d:550","Verschwinde aus meiner Hütte oder ich rufe die Wachen!","Исчезни из моего дома, или я позову стражу!","","","SVM_3_WhyYouAreInHere","",""
 "Scripts/content/Story/svm.d:551","Was machst du da? Wenn ich dich erwische, bist du dran!","Что ты делаешь? Если я поймаю тебя, тебе конец!","","","SVM_3_WhatDidYouInThere","",""
-"Scripts/content/Story/svm.d:552","Du weißt ja doch, was gut für dich ist!","Ты сам напросился!","","","SVM_3_WiseMove","",""
+"Scripts/content/Story/svm.d:552","Du weißt ja doch, was gut für dich ist!","Больше так не делай.","","False","SVM_3_WiseMove","",""
 "Scripts/content/Story/svm.d:553","Wachen, hierher!","Стража! Сюда!","","","SVM_3_Alarm","",""
 "Scripts/content/Story/svm.d:554","ALARM!!!","ТРЕВОГА!!!","","","SVM_3_IntruderAlert","",""
 "Scripts/content/Story/svm.d:555","Pass auf!","Берегись!","","","SVM_3_BehindYou","",""
