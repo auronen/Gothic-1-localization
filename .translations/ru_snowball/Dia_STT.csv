@@ -289,7 +289,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Stt_329_Dexter.d:199","Gut, gut, 50 Erzbrocken kann ich gerade noch entbehren. Enttäusch mich nicht, Kleiner!","Ладно, ладно, у меня как раз есть 50 лишних кусков. Не подведи меня, малыш!","","False","DIA_Dexter_JoinOC_ForgetIt_10_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_329_Dexter.d:226","Wo ist das Sektenlager?","Где находится лагерь сектантов?","","False","DIA_Dexter_WhereST.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_329_Dexter.d:239","Wo ist das Sektenlager?","Где находится лагерь сектантов?","","False","DIA_Dexter_WhereST_15_00","",""
-"Scripts/content/Story/MISSIONS/DIA_Stt_329_Dexter.d:240","Durch den Südausgang aus dem Lager raus, dann immer östlich halten. Am besten besorgst du dir eine Karte -","Выходишь из Лагеря через южные ворота и идешь на восток. Тебе понадобится карта.","","False","DIA_Dexter_WhereST_10_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Stt_329_Dexter.d:240","Durch den Südausgang aus dem Lager raus, dann immer östlich halten. Am besten besorgst du dir eine Karte -","Выходишь из лагеря через южные ворота и идешь на восток. Тебе понадобится карта.","","False","DIA_Dexter_WhereST_10_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_329_Dexter.d:245","Ich hab' eine da für 50 Erz ...","У меня как раз есть одна, за 50 кусков...","","False","DIA_Dexter_WhereST_10_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_329_Dexter.d:248","Der Südausgang ist der umgestürzte Turm, richtig?","Южные ворота - это обрушившаяся башня, верно?","","","DIA_Dexter_WhereST_15_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_329_Dexter.d:249","Stimmt genau.","Верно.","","","DIA_Dexter_WhereST_10_03","",""
