@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/content/Story/Text.d:6","Kiste","Ларь","","False","MOBNAME_CRATE","",""
+"Scripts/content/Story/Text.d:6","Kiste","Сундук","","False","MOBNAME_CRATE","",""
 "Scripts/content/Story/Text.d:7","Truhe","Сундук","","","MOBNAME_CHEST","",""
 "Scripts/content/Story/Text.d:8","Bett","Кровать","","","MOBNAME_BED","",""
 "Scripts/content/Story/Text.d:9","Tür","Дверь","","","MOBNAME_DOOR","",""
