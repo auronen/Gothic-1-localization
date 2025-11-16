@@ -126,7 +126,7 @@
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:587","V:  Uriziel gefunden","V:  Нахождение УРИЗЕЛЯ","","False","StoryHelper_INFO5.StoryHelper_FoundUriziel","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:588","V:  Bereit für die Ork-Stadt","V:  Подготовка к походу в город орков","","False","StoryHelper_INFO5.StoryHelper_ReadyForOrcCity","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/TestModelle.d:761","Hey Frischling.","Эй, новичок.","","False","Global_001_07_00","",""
-"Scripts/content/AI/Test_Skripts/TestModelle.d:762","Falls Du es noch nicht kapiert hast:","Если ты ещё не понял:","","False","Global_001_07_01","",""
+"Scripts/content/AI/Test_Skripts/TestModelle.d:762","Falls Du es noch nicht kapiert hast:","Если ты еще не понял:","","False","Global_001_07_01","",""
 "Scripts/content/AI/Test_Skripts/TestModelle.d:763","Es gibt hier im Knast drei große Lager.","Здесь, в колонии, есть три больших лагеря.","","False","Global_001_07_02","",""
 "Scripts/content/AI/Test_Skripts/TestModelle.d:764","Das Alte Lager, das Neue Lager und den Sektentempel.","Старый лагерь, Новый лагерь и Болотный лагерь.","","False","Global_001_07_03","",""
 "Scripts/content/AI/Test_Skripts/TestModelle.d:765","Wenn Du nicht den Erzbaronen im Alten Lager den Arsch abwischen willst, kommst Du zu uns.","Если ты не хочешь вытирать задницу рудным баронам в Старом лагере, присоединяйся к нам.","","False","Global_001_07_05","",""
