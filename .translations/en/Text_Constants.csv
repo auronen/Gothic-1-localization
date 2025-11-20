@@ -205,7 +205,7 @@
 "Scripts/content/Story/Text.d:427","Mana + ","Mana +","","","NAME_BuyAttributeMAN","",""
 "Scripts/content/Story/Text.d:432","Erfahrung + ","Experience +","","","NAME_XPGained","",""
 "Scripts/content/Story/Text.d:433","Stufe gestiegen!","Level Up!","","","NAME_LevelUp","",""
-"Scripts/content/Story/Text.d:435","neuer Tagebucheintrag","New Journal Entry","","True","NAME_NewLogEntry","",""
+"Scripts/content/Story/Text.d:435","neuer Tagebucheintrag","New Journal Entry","","False","NAME_NewLogEntry","",""
 "Scripts/content/Story/Text.d:437","Lerne: Kampf mit Einhandwaffen","Learn: Fight with one-handed weapons","","","PRINT_LEARN_Onehanded","",""
 "Scripts/content/Story/Text.d:438","Lerne: Kampf mit Zweihandwaffen","Learn: Fight with two-handed weapons","","","PRINT_LEARN_Twohanded","",""
 "Scripts/content/Story/Text.d:439","Lerne: Bogenschießen","Learn: Shooting with a bow","","","PRINT_LEARN_Bow","",""
