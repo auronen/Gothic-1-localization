@@ -100,7 +100,7 @@
 "Scripts/content/AI/Test_Skripts/Orc_Rockefeller.d:250","Undead Shaman Rockefeller","Undead Shaman Rockefeller","","","UdShaman_Rockefeller.name","",""
 "Scripts/content/AI/Test_Skripts/PerceptionTestmodell.d:9","Perception_Testmodell","Perception_Testmodell","","","Perception_Testmodell.name","",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:5","StoryHelper","StoryHelper","","","SH.name","",""
-"Scripts/content/AI/Test_Skripts/StoryHelper.d:86","Kapitel 2","Kapitel 2","","","StoryHelper_INFO2.description","",""
+"Scripts/content/AI/Test_Skripts/StoryHelper.d:86","Kapitel 2","Chapter 2","","False","StoryHelper_INFO2.description","",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:99","II:  Vorbereitung für die Beschwörung","II:  Vorbereitung für die Beschwörung","","","StoryHelper_INFO2.StoryHelper_PrepareRitual","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:100","II:  Hole den Almanach","II:  Hole den Almanach","","","StoryHelper_INFO2.StoryHelper_CorKalom_BringBook_RUNNING","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:101","II:  Hole die MCQ-Eier","II:  Hole die MCQ-Eier","","","StoryHelper_INFO2.StoryHelper_CorKalom_BringMCQBalls_RUNNING","Info_AddChoice",""
