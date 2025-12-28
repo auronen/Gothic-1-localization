@@ -434,7 +434,7 @@ instance DungeonKey(C_Item)
 
 	description					= name;
 	text[0]						= "Öffnet den Kerker";							count[0] = 0;
-	text[1]						= "des Alten Lagers.";							count[0] = 0;
+	text[1]						= "des Alten Lagers.";							count[1] = 0;
 };
 
 // ---------------------------------------------------------------------
