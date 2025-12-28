@@ -95,7 +95,7 @@ func void StoryHelper_INFO2_Info()
 {
 	Info_ClearChoices(StoryHelper_INFO2);
 
-	Info_AddChoice(StoryHelper_INFO2, DIALOG_ENDE, StoryHelper_BACK2);
+	Info_AddChoice(StoryHelper_INFO2, DIALOG_BACK, StoryHelper_BACK2);
 	Info_AddChoice(StoryHelper_INFO2, "II:  Vorbereitung für die Beschwörung", StoryHelper_PrepareRitual);
 	Info_AddChoice(StoryHelper_INFO2, "II:  Hole den Almanach", StoryHelper_CorKalom_BringBook_RUNNING);
 	Info_AddChoice(StoryHelper_INFO2, "II:  Hole die MCQ-Eier", StoryHelper_CorKalom_BringMCQBalls_RUNNING);
@@ -341,7 +341,7 @@ func void StoryHelper_INFO4_Info()
 {
 	Info_ClearChoices(StoryHelper_INFO4);
 
-	Info_AddChoice(StoryHelper_INFO4, DIALOG_ENDE, StoryHelper_BACK4);
+	Info_AddChoice(StoryHelper_INFO4, DIALOG_BACK, StoryHelper_BACK4);
 	Info_AddChoice(StoryHelper_INFO4, "IV:  Suche Teile für Ulu-Mulu", StoryHelper_SearchForUluMulu);
 	Info_AddChoice(StoryHelper_INFO4, "IV:  Bereit für Angriff auf die Freie Mine", StoryHelper_AttackFreeMine);
 	Info_AddChoice(StoryHelper_INFO4, "IV:  Xardas  - Finde Ork Schamanen", StoryHelper_XardasFindOrcShaman);
@@ -580,7 +580,7 @@ func void StoryHelper_INFO5_Info()
 {
 	Info_ClearChoices(StoryHelper_INFO5);
 
-	Info_AddChoice(StoryHelper_INFO5, DIALOG_ENDE, StoryHelper_BACK5);
+	Info_AddChoice(StoryHelper_INFO5, DIALOG_BACK, StoryHelper_BACK5);
 	Info_AddChoice(StoryHelper_INFO5, "V:  URIZIEL ist aufgeladen", StoryHelper_UrizielLoaded);
 	Info_AddChoice(StoryHelper_INFO5, "V:  Bereit für das Laden von URIZIEL", StoryHelper_LoadUriziel);
 	Info_AddChoice(StoryHelper_INFO5, "V:  Erforsche den versunkenen Turm", StoryHelper_ExploreSunkenTower);

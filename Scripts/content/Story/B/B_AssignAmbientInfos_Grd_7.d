@@ -113,7 +113,7 @@ func void Info_grd_7_DasLager_Info()
 	AI_Output(self, other, "Info_grd_7_DasLager_07_01"); //Nein. Die meisten hier sind einfache Buddler.
 	AI_Output(self, other, "Info_grd_7_DasLager_07_02"); //Nur wir Gardisten und die Schatten sind Gomez' Leute.
 	Info_ClearChoices(Info_grd_7_DasLager);
-	Info_AddChoice(Info_grd_7_DasLager, DIALOG_ENDE, Info_grd_7_DasLager_Zurueck);
+	Info_AddChoice(Info_grd_7_DasLager, DIALOG_BACK, Info_grd_7_DasLager_Zurueck);
 	Info_AddChoice(Info_grd_7_DasLager, "Was tun die Gardisten?", Info_grd_7_DasLager_Gardisten);
 	Info_AddChoice(Info_grd_7_DasLager, "Was ist die Aufgabe der Schatten?", Info_grd_7_DasLager_Schatten);
 	Info_AddChoice(Info_grd_7_DasLager, "Wofür sind die Buddler da?", Info_grd_7_DasLager_Buddler);
