@@ -24,7 +24,7 @@ instance TPL_1401_GorNaKosh(Npc_Default)
 	Mdl_SetVisual(self, "HUMANS.MDS");
 	Mdl_ApplyOverlayMDS(self, "Humans_Mage.mds");
 	//						body mesh,				bdytex,	skin,		head mesh,			headtex,	teethtex,	armor
-	Mdl_SetVisualBody(self,	"hum_body_Naked0",		0,		0,			"Hum_Head_FatBald",	15,			2,			TPL_ARMOR_L);
+	Mdl_SetVisualBody(self,	"hum_body_Naked0",		0,		0,			"Hum_Head_FatBald",	15,			2,			TPL_ARMOR_M);
 
 	B_Scale(self);
 	Mdl_SetModelFatness(self, 0);
