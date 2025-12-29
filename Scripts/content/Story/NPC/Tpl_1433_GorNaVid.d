@@ -24,7 +24,7 @@ instance TPL_1433_GorNaVid(Npc_Default)
 	Mdl_SetVisual(self, "HUMANS.MDS");
 	Mdl_ApplyOverlayMDS(self, "Humans_Mage.mds");
 	//						body mesh,				bdytex,	skin,		head mesh,			headtex,	teethtex,	armor
-	Mdl_SetVisualBody(self,	"hum_body_Naked0",		1,		1,			"Hum_Head_Psionic",	20,			1,			TPL_ARMOR_L);
+	Mdl_SetVisualBody(self,	"hum_body_Naked0",		1,		1,			"Hum_Head_Psionic",	20,			1,			TPL_ARMOR_M);
 
 	B_Scale(self);
 	Mdl_SetModelFatness(self, -1);
