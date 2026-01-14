@@ -147,5 +147,5 @@
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:1158","Lass uns zusammen die Festung erkunden.","Давай осмотрим форт вместе.","","","PC_Psionic_COMEAGAIN_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:1159","In Ordnung, du gehst vor!","Хорошо, иди первым.","","","PC_Psionic_COMEAGAIN_Info_05_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:1176","Ich habe Diego und Milten vor dem Alten Lager getroffen!","Возле Старого лагеря я встретил Диего и Мильтена!","","False","Info_Lester_DIEGOMILTEN.description","",""
-"Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:1197","Sie wollen sich mit dir treffen. An eurem üblichen Treffpunkt.","Они хотят встретиться с тобой и с Лестером. Там же, где и всегда.","","","Info_lester_DIEGOMILTEN_15_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:1197","Sie wollen sich mit dir treffen. An eurem üblichen Treffpunkt.","Они хотят встретиться с тобой там же, где и всегда.","","False","Info_lester_DIEGOMILTEN_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:1200","Ich werde noch etwas bleiben, um die alten Bücher zu studieren.","Я останусь здесь и буду изучать старые книги.","","","Info_lester_DIEGOMILTEN_05_02","",""
