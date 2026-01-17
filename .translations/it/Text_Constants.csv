@@ -67,7 +67,7 @@
 "Scripts/content/Story/Text.d:137","Angst","Paura","","","TXT_SPELLS[3]","",""
 "Scripts/content/Story/Text.d:138","Heilung","Guarigione","","","TXT_SPELLS[4]","",""
 "Scripts/content/Story/Text.d:140","Dämon beschwören","Evoca un demone","","","TXT_SPELLS[6]","",""
-"Scripts/content/Story/Text.d:141","Skelette beschwören","Evoca uno scheletro","","","TXT_SPELLS[7]","",""
+"Scripts/content/Story/Text.d:141","Skelette beschwören","Evoca gli scheletri","","False","TXT_SPELLS[7]","",""
 "Scripts/content/Story/Text.d:143","Windfaust","Colpo di vento","","","TXT_SPELLS[9]","",""
 "Scripts/content/Story/Text.d:144","Telekinese","Telecinesi","","","TXT_SPELLS[10]","",""
 "Scripts/content/Story/Text.d:145","Charme","Carisma","","","TXT_SPELLS[11]","",""
