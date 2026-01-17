@@ -414,7 +414,7 @@
 "Scripts/content/Items/Artifacts.d:1120","","","","","ItArScrollSummonDemon.text[2]","",""
 "Scripts/content/Items/Artifacts.d:1121","","","","","ItArScrollSummonDemon.text[3]","",""
 "Scripts/content/Items/Artifacts.d:1122","","","","","ItArScrollSummonDemon.text[4]","",""
-"Scripts/content/Items/Artifacts.d:1145","Skelette beschwören","Vyvolání kostlivce","","","ItArScrollSummonSkeletons.description","",""
+"Scripts/content/Items/Artifacts.d:1145","Skelette beschwören","Vyvolání kostlivců","","False","ItArScrollSummonSkeletons.description","",""
 "Scripts/content/Items/Artifacts.d:1148","","","","","ItArScrollSummonSkeletons.text[0]","",""
 "Scripts/content/Items/Artifacts.d:1150","","","","","ItArScrollSummonSkeletons.text[2]","",""
 "Scripts/content/Items/Artifacts.d:1151","","","","","ItArScrollSummonSkeletons.text[3]","",""
