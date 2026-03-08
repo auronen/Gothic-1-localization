@@ -365,7 +365,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Kdw_605_Riordian.d:153","Gut, dass du kommst! Ich habe schon auf dich gewartet!","Я радий, що ти тут. Я чекав на тебе!","","False","Info_Riordian_MESSAGE_14_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdw_605_Riordian.d:165","Du hast auf mich gewartet? Warum?","Чекав на мене? Для чого?","","False","Info_Riordian_MESSAGEWHY.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdw_605_Riordian.d:178","Du hast auf mich gewartet? Warum?","Чекав на мене? Для чого?","","False","Info_Riordian_MESSAGEWHY_15_01","",""
-"Scripts/content/Story/MISSIONS/DIA_Kdw_605_Riordian.d:179","Gorn bat mich, dich bei deinem Auftauchen hier sofort zu ihm zu schicken!","Ґорн попросив мене відправити тебе до нього, як тільки ти прибудеш!","","False","Info_Riordian_MESSAGEWHY_14_02","",""
+"Scripts/content/Story/MISSIONS/DIA_Kdw_605_Riordian.d:179","Gorn bat mich, dich bei deinem Auftauchen hier sofort zu ihm zu schicken!","Ґорн попросив мене відправити тебе до нього, тільки-но ти прибудеш!","","False","Info_Riordian_MESSAGEWHY_14_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdw_605_Riordian.d:180","Was ist los?","Про що йдеться?","","False","Info_Riordian_MESSAGEWHY_15_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdw_605_Riordian.d:181","Er hat einen Plan zur Befreiung der besetzten Mine.","У нього є план, як повернути копальню.","","False","Info_Riordian_MESSAGEWHY_14_04","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdw_605_Riordian.d:182","Bewacht er noch den Zugang zur Mine?","Він все ще пильнує біля проходу до копальні?","","False","Info_Riordian_MESSAGEWHY_15_05","",""
