@@ -375,7 +375,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Org_826_Mordrag.d:477","Hast du genauere Anweisungen?","У тебе немає для мене конкретних вказівок?","","","Org_826_Mordrag_GotoKalomNOW_Precise_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_826_Mordrag.d:478","Rede mit Lester. Ich war mal 'ne Zeit lang im Sektenlager. Er hat mir damals geholfen. Er ist einer von den Guten.","Поговори з Лестером. Одного разу я провів багато часу в Таборі Секти, і він мені допоміг. В нього з головою все гаразд.","","False","Org_826_Mordrag_GotoKalomNOW_Precise_11_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_826_Mordrag.d:484","Werd' sehen, was ich rausfinden kann.","Я подивлюся, що можна зробити.","","","Org_826_Mordrag_GotoKalomNOW_DoIt_15_00","",""
-"Scripts/content/Story/MISSIONS/DIA_Org_826_Mordrag.d:485","Sobald du genau weißt, was sie im Schilde führen, melde dich.","Як тільки ти почуєш щось про їхні наміри, будь ласка, повідом мене.","","","Org_826_Mordrag_GotoKalomNOW_DoIt_11_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Org_826_Mordrag.d:485","Sobald du genau weißt, was sie im Schilde führen, melde dich.","Тільки-но ти почуєш щось про їхні наміри, будь ласка, повідом мене.","","False","Org_826_Mordrag_GotoKalomNOW_DoIt_11_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_826_Mordrag.d:500","Wegen der Sektensache...","Щодо справи із сектою...","","","Org_826_Mordrag_RUNNING.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_826_Mordrag.d:513","Wegen der Sektensache ...","Щодо справи із сектою...","","","Org_826_Mordrag_RUNNING_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_826_Mordrag.d:514","Was gibt's?","Так?","","","Org_826_Mordrag_RUNNING_11_01","",""
