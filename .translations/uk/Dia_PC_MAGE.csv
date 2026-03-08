@@ -23,7 +23,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:181","Er sagte, er wolle auf seine Art herausfinden, was mit der Barriere nicht stimmt.","Ксардас намагається самостійно з’ясувати, що пішло не так зі створенням бар'єра.","","False","DIA_Milten_Letter_Give_02_07","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:183","Warte hier. Ich bin gleich wieder da.","Почекай мене тут. Я скоро повернуся.","","","DIA_Milten_Letter_Give_02_08","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:203","Erst will ich meine Belohnung.","Я хочу спочатку отримати винагороду.","","","DIA_Milten_Letter_NO_15_00","",""
-"Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:204","Corristo wird Torrez anweisen, sie dir zu geben, sobald er den Brief erhalten hat.","Коррісто скаже Торрезу дати тобі винагороду, як тільки він побачить цей лист.","","","DIA_Milten_Letter_NO_02_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:204","Corristo wird Torrez anweisen, sie dir zu geben, sobald er den Brief erhalten hat.","Коррісто скаже Торрезу дати тобі винагороду, тільки-но він побачить цей лист.","","False","DIA_Milten_Letter_NO_02_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:205","Ich bin ein Diener Innos - ich lüge niemals. Gib mir den Brief jetzt.","Я слуга Інноса — я ніколи не брешу. Тепер дай мені того листа.","","False","DIA_Milten_Letter_NO_02_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:207","Ich möchte den Brief lieber Torrez direkt geben.","Я краще віддам цього листа Торрезу.","","","DIA_Milten_Letter.DIA_Milten_Letter_NO_AGAIN","Info_AddChoice",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:213","Ich möchte den Brief lieber Torrez direkt geben.","Я краще віддам цього листа Торрезу.","","","DIA_Milten_Letter_NO_AGAIN_15_00","",""
