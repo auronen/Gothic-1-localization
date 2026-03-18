@@ -366,4 +366,4 @@
 "","Freie Mine","Свободная Шахта","","False","LEVELNAME_FREEMINE","",""
 "","Die Orkstadt","Город орков","","True","LEVELNAME_ORCCITY","",""
 "","Tempel des Schläfers","Храм Спящего","","False","LEVELNAME_ORCTEMPEL","",""
-"","Erz: ","","","","NAME_Currency","",""
+"","Erz: ","Руда: ","","False","NAME_Currency","",""
