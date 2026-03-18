@@ -366,4 +366,4 @@
 "","Freie Mine","Mina Libre","","False","LEVELNAME_FREEMINE","",""
 "","Die Orkstadt","Pueblo Orco","","True","LEVELNAME_ORCCITY","",""
 "","Tempel des Schläfers","Templo del Durmiente","","False","LEVELNAME_ORCTEMPEL","",""
-"","Erz: ","","","","NAME_Currency","",""
+"","Erz: ","Mineral: ","","False","NAME_Currency","",""
