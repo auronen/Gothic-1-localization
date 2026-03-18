@@ -366,4 +366,4 @@
 "","Freie Mine","Wolna Kopalnia","","False","LEVELNAME_FREEMINE","",""
 "","Die Orkstadt","Miasto orków","","True","LEVELNAME_ORCCITY","",""
 "","Tempel des Schläfers","Świątynia Śniącego","","False","LEVELNAME_ORCTEMPEL","",""
-"","Erz: ","","","","NAME_Currency","",""
+"","Erz: ","Ruda: ","","False","NAME_Currency","",""
