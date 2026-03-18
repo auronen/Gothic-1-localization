@@ -115,6 +115,7 @@
 "Scripts/content/Story/MISSIONS/DIA_TPL_1455_GorBoba.d:40","Versuche nicht, mich anzugreifen, der Hohepriester hat Meister Kalom und uns anderen einen Teil seiner Macht verliehen, wir sind nun unsterblich.","别想攻击我，大祭司已经把他的一部分力量转移给了寇尔卡隆大师和我们。现在我们是不朽的。","","False","Info_TPL_1455_GorBoba1_08_03","",""
 "Scripts/content/Story/MISSIONS/DIA_TPL_1455_GorBoba.d:41","Ich kann dir zeigen, wie unsterblich du bist!","我会让你知道你到底有多“不朽”！","","False","Info_TPL_1455_GorBoba1_15_04","",""
 "Scripts/content/Story/MISSIONS/DIA_TPL_1455_GorBoba.d:42","Mache dich bereit, deinem Schöpfer gegenüber zu treten.","准备见你的造物主吧。","","False","Info_TPL_1455_GorBoba1_08_05","",""
+"","Wie sieht's aus?","最近怎么样了？","","False","DIA_GorBobaOW_PERM.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1400_GorNaBar.d:19","Möge der Schläfer dich schützen!","愿沉睡者保护您！","","False","Tpl_1400_GorNaBar_Exit_Info_09_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1400_GorNaBar.d:30","Ich brauche deine Hilfe","我需要你的帮助。","","","Tpl_1400_GorNaBar_SUGGEST.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1400_GorNaBar.d:44","Ich brauche deine Hilfe","我需要你的帮助","","False","Tpl_1400_GorNaBar_SUGGEST_Info_15_01","",""
@@ -255,4 +256,3 @@
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1442_GuardPassage.d:69","Der Novize Lester schickt mich. Ich soll Y'Berion meine Dienste anbieten.","新手莱斯特派我来的。我将为伊贝里恩提供服务。","","False","Info_TPL_1442_FirstWarn_Condition_LESTER_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1442_GuardPassage.d:70","Lester ist vertrauenswürdig. Ich kenne ihn. Du kannst passieren.","莱斯特是可信的。我认识他。你可以通过。","","False","Info_TPL_1442_FirstWarn_Condition_LESTER_13_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1442_GuardPassage.d:105","Noch einen Schritt weiter und du trittst deinem Schöpfer gegenüber!","再往前走一步，你将不复存在！","","False","Info_TPL_1442_LastWarn_13_01","",""
-"","Wie sieht's aus?","最近怎么样了？","","False","DIA_GorBobaOW_PERM.description","",""

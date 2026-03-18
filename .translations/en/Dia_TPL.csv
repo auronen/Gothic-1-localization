@@ -115,6 +115,7 @@
 "Scripts/content/Story/MISSIONS/DIA_TPL_1455_GorBoba.d:40","Versuche nicht, mich anzugreifen, der Hohepriester hat Meister Kalom und uns anderen einen Teil seiner Macht verliehen, wir sind nun unsterblich.","Don't try to attack me, the high priest has transferred part of his powers to Master Kalom and us. Now we are immortal.","","","Info_TPL_1455_GorBoba1_08_03","",""
 "Scripts/content/Story/MISSIONS/DIA_TPL_1455_GorBoba.d:41","Ich kann dir zeigen, wie unsterblich du bist!","I'll show you how immortal you are!","","","Info_TPL_1455_GorBoba1_15_04","",""
 "Scripts/content/Story/MISSIONS/DIA_TPL_1455_GorBoba.d:42","Mache dich bereit, deinem Schöpfer gegenüber zu treten.","Prepare to meet your Creator!","","","Info_TPL_1455_GorBoba1_08_05","",""
+"","Wie sieht's aus?","How are things?","","False","DIA_GorBobaOW_PERM.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1400_GorNaBar.d:19","Möge der Schläfer dich schützen!","May the Sleeper protect you!","","","Tpl_1400_GorNaBar_Exit_Info_09_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1400_GorNaBar.d:30","Ich brauche deine Hilfe","I need your help.","","","Tpl_1400_GorNaBar_SUGGEST.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1400_GorNaBar.d:44","Ich brauche deine Hilfe","I need your help.","","","Tpl_1400_GorNaBar_SUGGEST_Info_15_01","",""
@@ -255,4 +256,3 @@
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1442_GuardPassage.d:69","Der Novize Lester schickt mich. Ich soll Y'Berion meine Dienste anbieten.","The novice Lester sent me. I shall offer my services to Y'Berion.","","","Info_TPL_1442_FirstWarn_Condition_LESTER_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1442_GuardPassage.d:70","Lester ist vertrauenswürdig. Ich kenne ihn. Du kannst passieren.","Lester is trustworthy. I know him. You may pass.","","","Info_TPL_1442_FirstWarn_Condition_LESTER_13_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1442_GuardPassage.d:105","Noch einen Schritt weiter und du trittst deinem Schöpfer gegenüber!","One step further and you'll cease to exist.","","","Info_TPL_1442_LastWarn_13_01","",""
-"","Wie sieht's aus?","How are things?","","False","DIA_GorBobaOW_PERM.description","",""
