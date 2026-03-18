@@ -366,4 +366,4 @@
 "","Freie Mine","Mine Libre","","False","LEVELNAME_FREEMINE","",""
 "","Die Orkstadt","Ville des Orcs","","True","LEVELNAME_ORCCITY","",""
 "","Tempel des Schläfers","Temple du Dormeur","","False","LEVELNAME_ORCTEMPEL","",""
-"","Erz: ","","","","NAME_Currency","",""
+"","Erz: ","Minerai : ","","False","NAME_Currency","",""
