@@ -103,7 +103,7 @@
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:86","Kapitel 2","Глава 2","","False","StoryHelper_INFO2.description","",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:99","II:  Vorbereitung für die Beschwörung","II:  Подготовка к вызову","","False","StoryHelper_INFO2.StoryHelper_PrepareRitual","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:100","II:  Hole den Almanach","II:  Альманах","","False","StoryHelper_INFO2.StoryHelper_CorKalom_BringBook_RUNNING","Info_AddChoice",""
-"Scripts/content/AI/Test_Skripts/StoryHelper.d:101","II:  Hole die MCQ-Eier","II:  Яйца Королевы ползунов","","False","StoryHelper_INFO2.StoryHelper_CorKalom_BringMCQBalls_RUNNING","Info_AddChoice",""
+"Scripts/content/AI/Test_Skripts/StoryHelper.d:101","II:  Hole die MCQ-Eier","II:  Яйца королевы ползунов","","False","StoryHelper_INFO2.StoryHelper_CorKalom_BringMCQBalls_RUNNING","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:102","II:  Bringe Fokus zu Cor Kalom","II:  Юнитор для Кор Галома","","False","StoryHelper_INFO2.StoryHelper_YBerion_BringFocus_SUCCESS","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:103","II:  Kapitelanfang","II:  Начало главы","","False","StoryHelper_INFO2.StoryHelper_Chapter2Start","Info_AddChoice",""
 "Scripts/content/AI/Test_Skripts/StoryHelper.d:213","Kapitel 3","Глава 3","","False","StoryHelper_INFO3.description","",""
