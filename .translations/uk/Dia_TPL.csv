@@ -116,7 +116,7 @@
 "Scripts/content/Story/MISSIONS/DIA_TPL_1455_GorBoba.d:41","Ich kann dir zeigen, wie unsterblich du bist!","Зараз ми це перевіримо!","","","Info_TPL_1455_GorBoba1_15_04","",""
 "Scripts/content/Story/MISSIONS/DIA_TPL_1455_GorBoba.d:42","Mache dich bereit, deinem Schöpfer gegenüber zu treten.","Приготуйся до зустрічі з творцем.","","False","Info_TPL_1455_GorBoba1_08_05","",""
 "","Wie sieht's aus?","Як справи?","","False","DIA_GorBobaOW_PERM.description","",""
-"Scripts/content/Story/MISSIONS/DIA_Tpl_1400_GorNaBar.d:19","Möge der Schläfer dich schützen!","Хай прибуде з тобою Сплячий!","","","Tpl_1400_GorNaBar_Exit_Info_09_02","",""
+"Scripts/content/Story/MISSIONS/DIA_Tpl_1400_GorNaBar.d:19","Möge der Schläfer dich schützen!","Хай буде з тобою Сплячий!","","False","Tpl_1400_GorNaBar_Exit_Info_09_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1400_GorNaBar.d:30","Ich brauche deine Hilfe","Мені потрібна твоя допомога.","","","Tpl_1400_GorNaBar_SUGGEST.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1400_GorNaBar.d:44","Ich brauche deine Hilfe","Мені потрібна твоя допомога.","","","Tpl_1400_GorNaBar_SUGGEST_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1400_GorNaBar.d:45","Ich bin auf der Suche nach Sekret für Kalom und glaube zu wissen, wo das Nest der Crawler ist.","Я шукаю виділення повзунів для Калома, і мені здається, що я знаю, де гніздо цих бестій.","","","Tpl_1400_GorNaBar_SUGGEST_Info_15_02","",""
