@@ -364,6 +364,6 @@
 "","Alte Mine","Starý důl","","False","LEVELNAME_OLDMINE","",""
 "","Ork-Friedhof","Skřetí hřbitov","","False","LEVELNAME_ORCGRAVEYARD","",""
 "","Freie Mine","Svobodný důl","","False","LEVELNAME_FREEMINE","",""
-"","Die Orkstadt","Skřetí město","","True","LEVELNAME_ORCCITY","",""
+"","Die Orkstadt","Skřetí město","","False","LEVELNAME_ORCCITY","",""
 "","Tempel des Schläfers","Spáčův chrám","","False","LEVELNAME_ORCTEMPEL","",""
 "","Erz: ","Ruda: ","","","NAME_Currency","",""
