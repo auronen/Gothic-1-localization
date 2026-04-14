@@ -154,7 +154,7 @@
 "Scripts/content/Story/MISSIONS/DIA_GRD_211_Skip.d:167","Ich könnte ein paar Sachen gebrauchen","Potřeboval bych pár věcí.","","","GRD_211_Skip_TRADE.description","",""
 "Scripts/content/Story/MISSIONS/DIA_GRD_211_Skip.d:181","Ich könnte ein paar Sachen gebrauchen.","Potřeboval bych pár věcí.","","","GRD_211_Skip_TRADE_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_GRD_211_Skip.d:182","Ich könnte dir ein paar Sachen verkaufen.","Mohl bych ti prodat pár věcí.","","","GRD_211_Skip_TRADE_Info_12_02","",""
-"Scripts/content/Story/MISSIONS/DIA_GRD_211_Skip.d:206","Hey, dafür dass du noch nicht so lange hier bist, hast du es ziemlich weit gebracht!","Poslyš, musel jsi být pěkně daleko, když ses tu tak dlouho neukázal!","","","GRD_211_Skip_WELCOME_Info_12_01","",""
+"Scripts/content/Story/MISSIONS/DIA_GRD_211_Skip.d:206","Hey, dafür dass du noch nicht so lange hier bist, hast du es ziemlich weit gebracht!","Hej, dotáhl jsi to docela daleko na to, že tu nejsi dlouho!","","False","GRD_211_Skip_WELCOME_Info_12_01","",""
 "Scripts/content/Story/MISSIONS/DIA_GRD_216_Torwache.d:56","Hey, du! Dich hab' ich hier noch nie gesehen!","Hej, ty! Nepamatuju si, že bysme se kdy viděli!","","","DIA_Grd_216_First_13_00","",""
 "Scripts/content/Story/MISSIONS/DIA_GRD_216_Torwache.d:57","Das ist kein Wunder. Ich bin auch erst seit kurzem da.","Není divu. Jsem tu jen krátce.","","","DIA_Grd_216_First_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_GRD_216_Torwache.d:58","Dann pass gut auf dich auf! Die Welt da draußen ist ziemlich gefährlich. Nur im Lager bist du sicher.","Tak to si dávej pozor! Svět tam venku je dost nebezpečný! Jedině v táboře budeš v bezpečí.","","","DIA_Grd_216_First_13_02","",""
