@@ -1,5 +1,5 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
-"Scripts/content/AI/Monster/Mst_BlackGobbo.d:8","schwarzer Goblin","Черный гоблин","","","Mst_Default_BlackGobbo.name","",""
+"Scripts/content/AI/Monster/Mst_BlackGobbo.d:8","schwarzer Goblin","Чёрный гоблин","","","Mst_Default_BlackGobbo.name","",""
 "Scripts/content/AI/Monster/Mst_BlackGobbo.d:105","Goblin Krieger","Гоблин-воин","","","BlackGobboWarrior.name","",""
 "Scripts/content/AI/Monster/Mst_Bloodfly.d:8","Blutfliege","Шершень","","","Mst_Default_Bloodfly.name","",""
 "Scripts/content/AI/Monster/Mst_Bloodfly.d:105","aggressive Blutfliege","Агрессивный шершень","","","HelpBrothers_Bloodfly.name","",""
