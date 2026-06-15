@@ -613,7 +613,7 @@
 "Scripts/content/Items/Food.d:688","","","","","ItFo_Plants_mountainmoos_01.text[2]","",""
 "Scripts/content/Items/Food.d:689","","","","","ItFo_Plants_mountainmoos_01.text[3]","",""
 "Scripts/content/Items/Food.d:690","","","","","ItFo_Plants_mountainmoos_01.text[4]","",""
-"Scripts/content/Items/Food.d:703","Grabmoos","Šedý mech","","","ItFo_Plants_mountainmoos_02.name","",""
+"Scripts/content/Items/Food.d:703","Grabmoos","Hrobní mech","","False","ItFo_Plants_mountainmoos_02.name","",""
 "Scripts/content/Items/Food.d:717","","","","","ItFo_Plants_mountainmoos_02.text[0]","",""
 "Scripts/content/Items/Food.d:719","","","","","ItFo_Plants_mountainmoos_02.text[2]","",""
 "Scripts/content/Items/Food.d:720","","","","","ItFo_Plants_mountainmoos_02.text[3]","",""
