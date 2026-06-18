@@ -1,7 +1,7 @@
 "location","source","target","id","fuzzy","context","translator_comments","developer_comments"
 "Scripts/content/Story/MISSIONS/DIA_KDF_400_Rodriguez.d:34","Ich suche den obersten Magier des Feuers!","Я шукаю архімага магів вогню!","","False","DIA_Rodriguez_Hello.description","",""
 "Scripts/content/Story/MISSIONS/DIA_KDF_400_Rodriguez.d:47","Ich suche den obersten Magier des Feuers!","Я шукаю архімага магів вогню!","","False","DIA_Rodriguez_Hello_15_00","",""
-"Scripts/content/Story/MISSIONS/DIA_KDF_400_Rodriguez.d:48","Geh zu Milten. Der gibt sich mit Laufburschen wie dir ab.","Іди до Мілтена. Він вовтузиться з хлопчаками на побігеньках, як ти.","","False","DIA_Rodriguez_Hello_12_01","",""
+"Scripts/content/Story/MISSIONS/DIA_KDF_400_Rodriguez.d:48","Geh zu Milten. Der gibt sich mit Laufburschen wie dir ab.","Іди до Мільтена. Він вовтузиться з хлопчаками на побігеньках, як ти.","","False","DIA_Rodriguez_Hello_12_01","",""
 "Scripts/content/Story/MISSIONS/DIA_KDF_401_Damarok.d:23","Möge das Feuer dich allzeit beschützen!","Хай полум’я завжди тебе оберігає!","","False","KDF_401_Damarok_WELCOME_Info_14_01","",""
 "Scripts/content/Story/MISSIONS/DIA_KDF_401_Damarok.d:71","Wenn du Schaden nehmen solltest, werde ich dich heilen.","Якщо ти зазнаєш ушкоджень, я зцілю тебе.","","False","KDF_401_Damarok_HEAL_Info_14_01","",""
 "Scripts/content/Story/MISSIONS/DIA_KDF_401_Damarok.d:83","Ich bin verletzt. Kannst du mich heilen?","Я поранений. Ти можеш мене зцілити?","","False","KDF_401_Damarok_HEALINFO.description","",""
