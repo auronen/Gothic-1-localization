@@ -182,7 +182,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Org_801_Lares.d:404","Das will ich meinen!","To bych řekl!","","","ORG_801_Lares_Reicht_AUFNAHME_11_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_801_Lares.d:405","Und ich habe sogar ein Geschenk für dich. Eine bessere Rüstung. Nicht viel, aber du hast sie dir verdient.","A mám pro tebe dárek. Lepší zbroj. Není to moc, ale vydělal sis na ni.","","","ORG_801_Lares_Reicht_AUFNAHME_11_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_801_Lares.d:440","Mordrag hat sich für dich eingesetzt.","Mordrag se za tebe přimluvil.","","","ORG_801_Lares_Reicht_11_02","",""
-"Scripts/content/Story/MISSIONS/DIA_Org_801_Lares.d:445","Die Liste hier hinzubringen, hat dir einiges Ansehen gebracht.","Stal jsi se oblíbeným od okamžiku, kdy jsi sem donesl ten seznam.","","","ORG_801_Lares_Reicht_11_03","",""
+"Scripts/content/Story/MISSIONS/DIA_Org_801_Lares.d:445","Die Liste hier hinzubringen, hat dir einiges Ansehen gebracht.","Stal ses oblíbeným od okamžiku, kdy jsi sem donesl ten seznam.","","False","ORG_801_Lares_Reicht_11_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_801_Lares.d:448","Aber du bist noch nicht bereit. Erledige deine Aufgaben.","Nejsi ale ještě připravený. Proveď své úkoly.","","","ORG_801_Lares_Reicht_11_04","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_801_Lares.d:463","Und was soll ich jetzt machen?","A co se očekává, že mám udělat?","","","ORG_801_Lares_GotoKalom.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_801_Lares.d:476","Und was soll ich jetzt machen?","A co se očekává, že mám udělat?","","","ORG_801_Lares_GotoKalom_15_00","",""
