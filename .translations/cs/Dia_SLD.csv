@@ -36,7 +36,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:172","Ich will Söldner werden","Chci se stát žoldákem.","","","Sld_700_Lee_BECOMESLDNOW.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:186","Ich will Söldner werden.","Chci se stát žoldákem.","","","Sld_700_Lee_BECOMESLDNOW_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:187","Eine gute Entscheidung. Du wirst sie nicht bereuen.","Dobré rozhodnutí. Nebudeš litovat.","","","Sld_700_Lee_BECOMESLDNOW_Info_08_02","",""
-"Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:188","Sag mir eins, warum? Warum hast du dich uns angeschlossen und nicht dem Alten Lager oder der Bruderschaft?","Řekni mi něco: Proč? Proč jsi se přidal k nám a ne ke Starému táboru nebo k Bratrstvu?","","","Sld_700_Lee_BECOMESLDNOW_Info_08_03","",""
+"Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:188","Sag mir eins, warum? Warum hast du dich uns angeschlossen und nicht dem Alten Lager oder der Bruderschaft?","Řekni mi něco: Proč? Proč ses přidal k nám a ne ke Starému táboru nebo k Bratrstvu?","","False","Sld_700_Lee_BECOMESLDNOW_Info_08_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:194","Die anderen Lager sind es nicht wert","Ostatní tábory nejsou tak dobré.","","","Sld_700_Lee_BECOMESLDNOW.Sld_700_Lee_BECOMESLDNOW_NOOTHER","Info_AddChoice",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:195","Ich wollte von Anfang an die Freiheit","Chtěl jsem svobodu od samého začátku.","","","Sld_700_Lee_BECOMESLDNOW.Sld_700_Lee_BECOMESLDNOW_FREEDOM","Info_AddChoice",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_700_Lee.d:196","Es hat sich einfach so ergeben","Něco mě k tomu táhlo.","","","Sld_700_Lee_BECOMESLDNOW.Sld_700_Lee_BECOMESLDNOW_JUSTBECAUSE","Info_AddChoice",""
