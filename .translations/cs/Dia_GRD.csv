@@ -570,7 +570,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Grd_201_Jackal.d:156","Na, wie sieht's aus?","Jak to jde?","","","Info_Jackal_PermPaid.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_201_Jackal.d:169","Na, wie sieht's aus?","Tak jak to jde?","","","Info_Jackal_PermPaid_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_201_Jackal.d:170","Du kannst nach wie vor auf mich zählen, Kleiner!","Se mnou můžeš kdykoliv počítat, mladej!","","","Info_Jackal_PermPaid_07_01","",""
-"Scripts/content/Story/MISSIONS/DIA_Grd_201_Jackal.d:194","Du hast dich ziemlich schnell nach oben gearbeitet! Gut gemacht, Mann!","Vypracoval jsi se velmi rychle! Dobrá práce, chlape!","","","GRD_201_Jackal_WELCOME_Info_07_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Grd_201_Jackal.d:194","Du hast dich ziemlich schnell nach oben gearbeitet! Gut gemacht, Mann!","Vypracoval ses velmi rychle! Dobrá práce, chlape!","","False","GRD_201_Jackal_WELCOME_Info_07_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_201_Jackal.d:232","Sieh mal einer an. Der Verräter, der das Lager gewechselt hat!","Hej, podívejte se na to! To je ten zrádce, který přešel z tábora do tábora!","","False","Info_Jackal_PAYDAY_07_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_201_Jackal.d:233","Du hättest dich nicht mit diesen Verlierern einlassen sollen, dann würdest du noch zu uns gehören!","Kdyby ses nestýkal s takovými ztroskotanci, byl bys pořád jedním z nás!","","False","Info_Jackal_PAYDAY_07_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_201_Jackal.d:237","Sieh mal einer an. Der Typ aus dem Neuen Lager, der uns schon so viel Ärger gemacht hat!","Hej, podívejte se na to! To je ten chlap z Nového tábora, ten, co nás dostal do potíží!","","False","Info_Jackal_PAYDAY_07_03","",""
