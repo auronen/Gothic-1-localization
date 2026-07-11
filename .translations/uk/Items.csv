@@ -1000,7 +1000,7 @@
 "Scripts/content/Items/Melee_weapons.d:709","Stahlzunge","Сталевий язик","","False","ItMw_1H_Mace_04.name","",""
 "Scripts/content/Items/Melee_weapons.d:727","","","","","ItMw_1H_Mace_04.text[0]","",""
 "Scripts/content/Items/Melee_weapons.d:728","","","","","ItMw_1H_Mace_04.text[1]","",""
-"Scripts/content/Items/Melee_weapons.d:741","grobes Schwert","Незаточений меч","","False","ItMw_1H_Sword_01.name","",""
+"Scripts/content/Items/Melee_weapons.d:741","grobes Schwert","Не викуваний меч","","False","ItMw_1H_Sword_01.name","",""
 "Scripts/content/Items/Melee_weapons.d:759","","","","","ItMw_1H_Sword_01.text[0]","",""
 "Scripts/content/Items/Melee_weapons.d:760","","","","","ItMw_1H_Sword_01.text[1]","",""
 "Scripts/content/Items/Melee_weapons.d:771","Richtschwert","Суддівський меч","","False","ItMw_1H_Sword_02.name","",""
