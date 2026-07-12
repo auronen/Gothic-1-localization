@@ -4,7 +4,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:44","Warum? Suchst du Arbeit?","Чому ти запитуєш? Шукаєш роботу?","","","DIA_Ricelord_Hello_12_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:56","Hast du Arbeit für mich?","А у тебе є робота для мене?","","","DIA_Ricelord_Arbeit.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:71","Hast du Arbeit für mich?","А у тебе є робота для мене?","","False","DIA_Ricelord_Arbeit_15_00","",""
-"Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:72","Geh zu Lefty. Er ist meistens hier vorne rechts neben der Scheune.","Поговори з Ліваком. Зазвичай він повертає праворуч від складу.","","False","DIA_Ricelord_Arbeit_12_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:72","Geh zu Lefty. Er ist meistens hier vorne rechts neben der Scheune.","Поговори з Ліваком. Зазвичай він праворуч біля складу.","","False","DIA_Ricelord_Arbeit_12_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:86","Wir könnten handeln...","Може займемося ділом...","","","DIA_Ricelord_TRADE.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:99","Wir könnten handeln ...","Може займемося ділом...","","","DIA_Ricelord_TRADE_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_900_Ricelord.d:100","Was hast du denn zu bieten?","Що ти можеш запропонувати?","","False","DIA_Ricelord_TRADE_12_01","",""
