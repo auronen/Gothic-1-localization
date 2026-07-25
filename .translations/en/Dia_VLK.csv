@@ -115,7 +115,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Vlk_538_Huno.d:76","Irgendwie hat der Typ ein Faible für Ornamente und so 'nen Weiberkram, und das hat natürlich seinen Preis.","The guy is into ornaments and girlie stuff like that, and of course that's not cheap.","","","DIA_Huno_HowLong_09_06","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_538_Huno.d:77","Hey, du bist ganz schön neugierig, Freundchen.","Hey, you ain't curious at all, are you, pal.","","","DIA_Huno_HowLong_09_07","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_538_Huno.d:90","Na, Schmied, wie läuft das Geschäft?","Well, smith, how's business?","","","DIA_Huno_HowsYourBusiness.description","",""
-"Scripts/content/Story/MISSIONS/DIA_Vlk_538_Huno.d:103","Na, Schmied, wie läuft das Geschäft?","Well, blacksmith, how's business?","","","DIA_Huno_HowsYourBusiness_15_00","",""
+"Scripts/content/Story/MISSIONS/DIA_Vlk_538_Huno.d:103","Na, Schmied, wie läuft das Geschäft?","Well, smith, how's business?","","False","DIA_Huno_HowsYourBusiness_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_538_Huno.d:104","Was geht dich das an?","Why would you want to know?","","","DIA_Huno_HowsYourBusiness_09_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_538_Huno.d:105","Vielleicht habe ich einen Auftrag für dich.","I may have an order for you.","","","DIA_Huno_HowsYourBusiness_15_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_538_Huno.d:106","Ach ja? Was denn?","Oh really? And what?","","","DIA_Huno_HowsYourBusiness_09_03","",""
