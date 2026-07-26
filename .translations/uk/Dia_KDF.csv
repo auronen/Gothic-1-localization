@@ -326,7 +326,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Kdf_404_Xardas.d:850","Entferne den Stein aus URIZIEL!","Я хочу, щоб ти прибрав коштовний камінь з УРІЗІЕЛЮ!","","False","Info_Xardas_MAKERUNEDOIT.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdf_404_Xardas.d:864","Entferne den Stein aus URIZIEL!","Я хочу, щоб ти прибрав коштовний камінь з УРІЗІЕЛЮ!","","False","Info_Xardas_MAKERUNEDOIT_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdf_404_Xardas.d:867","Du beherrscht noch nicht den sechsten Kreis der Magie!","Але ти ще не опанував магію шостого кола!","","False","Info_Xardas_MAKERUNEDOIT_14_02","",""
-"Scripts/content/Story/MISSIONS/DIA_Kdf_404_Xardas.d:870","Dieser Schritt ist endgültig. Soll ich den Stein wirklich aus der Klinge entfernen?","Від цього рішення немає шляху назад. Ти впевнений, що хочеш, щоб я прибрав коштовний камінь?","","","Info_Xardas_MAKERUNEDOIT_14_03","",""
+"Scripts/content/Story/MISSIONS/DIA_Kdf_404_Xardas.d:870","Dieser Schritt ist endgültig. Soll ich den Stein wirklich aus der Klinge entfernen?","Ця дія незворотна. Мені справді витягти камінь із клинка?","","False","Info_Xardas_MAKERUNEDOIT_14_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdf_404_Xardas.d:873","JA, tu es!","ТАК, зроби це!","","False","Info_Xardas_MAKERUNEDOIT.Info_Xardas_MAKERUNE_YES","Info_AddChoice",""
 "Scripts/content/Story/MISSIONS/DIA_Kdf_404_Xardas.d:874","NEIN, lieber doch nicht!","Ні, я не хочу!","","False","Info_Xardas_MAKERUNEDOIT.Info_Xardas_MAKERUNE_NO","Info_AddChoice",""
 "Scripts/content/Story/MISSIONS/DIA_Kdf_404_Xardas.d:880","JA, tu es!","ТАК, зроби це!","","False","Info_Xardas_MAKERUNEDOIT_15_04","",""
