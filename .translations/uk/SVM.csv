@@ -1815,7 +1815,7 @@
 "Scripts/content/Story/svm.d:2124","Aaarg","Ааарґ","","False","SVM_15_Dead","",""
 "Scripts/content/Story/svm.d:2125","","(позіхає)","","False","SVM_15_Awake","",""
 "Scripts/content/Story/svm.d:2126","Funktioniert nicht","Не працює.","","False","SVM_15_DoesntWork","",""
-"Scripts/content/Story/svm.d:2127","Hm, abgebrochen.","Хм, зламане.","","False","SVM_15_PickBroke","",""
+"Scripts/content/Story/svm.d:2127","Hm, abgebrochen.","Хм, зламалась.","","False","SVM_15_PickBroke","",""
 "Scripts/content/Story/svm.d:2128","Dafür brauch' ich den Schlüssel ...","Для цього мені потрібен ключ...","","False","SVM_15_NeedKey","",""
 "Scripts/content/Story/svm.d:2129","Keine Dietriche mehr ...","Немає відмички...","","False","SVM_15_NoMorePicks","",""
 "Scripts/content/Story/svm.d:2130","Mehr kann ich nicht tragen.","Я не можу нести ще більше.","","False","SVM_15_InvFull","",""
