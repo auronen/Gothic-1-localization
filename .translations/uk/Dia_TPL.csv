@@ -169,7 +169,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1415_Torwache.d:152","Ich brauche eine Rüstung","Мені потрібні якісь обладунки.","","False","Tpl_1415_Templer_ROCK.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1415_Torwache.d:165","Ich brauche eine Rüstung.","Мені потрібні якісь обладунки.","","False","Tpl_1415_Templer_ROCK_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1415_Torwache.d:166","So eine Templerrüstung, wie ich sie trage, musst du dir erst verdienen. Aber du kannst einen Novizenrock haben.","На обладунки храмовників ще треба заслужити. Але для початку можу запропонувати набедреник слимака.","","False","Tpl_1415_Templer_ROCK_Info_13_02","",""
-"Scripts/content/Story/MISSIONS/DIA_Tpl_1415_Torwache.d:167","Immerhin besser als Nichts ...","Ліпше ніж нічого...","","","Tpl_1415_Templer_ROCK_Info_15_03","",""
+"Scripts/content/Story/MISSIONS/DIA_Tpl_1415_Torwache.d:167","Immerhin besser als Nichts ...","Краще ніж нічого...","","False","Tpl_1415_Templer_ROCK_Info_15_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1415_Torwache.d:168","Umsonst gibt es den allerdings nicht!","Звісно, не задарма, щоб ти там не думав!","","","Tpl_1415_Templer_ROCK_Info_13_04","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1415_Torwache.d:182","Na schön, gib mir den Rock.","Нехай буде так, візьми цей набедреник.","","","Tpl_1415_Templer_ROCK_BUY_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Tpl_1415_Torwache.d:185","Komm wieder, wenn du genug Erz hast!","У тебе недостатньо руди!","","False","Tpl_1415_Templer_ROCK_BUY_13_02","",""
