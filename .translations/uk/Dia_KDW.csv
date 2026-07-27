@@ -244,7 +244,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Kdw_600_Saturas.d:1384","Nun...","Ну, розумієте...","","","KDW_600_Saturas_TIMESUP.KDW_600_Saturas_TIMESUP_JA1","Info_AddChoice",""
 "Scripts/content/Story/MISSIONS/DIA_Kdw_600_Saturas.d:1385","Nein...","Ні...","","","KDW_600_Saturas_TIMESUP.KDW_600_Saturas_TIMESUP_JA2","Info_AddChoice",""
 "Scripts/content/Story/MISSIONS/DIA_Kdw_600_Saturas.d:1386","Die ganze Sache ist anders, als du denkst...","Це не те, про що ви думаєте...","","","KDW_600_Saturas_TIMESUP.KDW_600_Saturas_TIMESUP_JA3","Info_AddChoice",""
-"Scripts/content/Story/MISSIONS/DIA_Kdw_600_Saturas.d:1391","Nun ...","Ну, розумієте...","","","KDW_600_Saturas_TIMESUP_Info_15_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Kdw_600_Saturas.d:1391","Nun ...","Ну...","","False","KDW_600_Saturas_TIMESUP_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdw_600_Saturas.d:1392","Nun ..? Nun was?","Дізнався? ЧОГО ТИ ДІЗНАВСЯ?","","","KDW_600_Saturas_TIMESUP_Info_14_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdw_600_Saturas.d:1401","Nein...","Ні...","","","KDW_600_Saturas_TIMESUP_Info_15_05","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdw_600_Saturas.d:1402","Warum nicht?","Але чому?","","","KDW_600_Saturas_TIMESUP_Info_14_06","",""
