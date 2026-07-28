@@ -456,7 +456,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Grd_200_Thorus.d:398","Würdest du mich für eine entsprechende Menge Erz in die Burg lassen?","Если бы я поделился с тобой своим запасом руды, ты бы позволил мне войти в замок?","","","Info_Thorus_BribeGuard_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_200_Thorus.d:399","Für eine entsprechende Menge ...","Своим запасом...","","","Info_Thorus_BribeGuard_09_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_200_Thorus.d:400","Wie viel?","Сколько?","","","Info_Thorus_BribeGuard_15_02","",""
-"Scripts/content/Story/MISSIONS/DIA_Grd_200_Thorus.d:401","Nun - es müsste 'ne Weile dauern, das Erz zu zählen. So lange würden die Jungs am Tor und ich dann wegsehen.","Ну... Пересчёт этой руды должен занять много времени. Мы с ребятами должны считать достаточно долго, чтобы ты успел проскочить незамеченным.","","","Info_Thorus_BribeGuard_09_02","",""
+"Scripts/content/Story/MISSIONS/DIA_Grd_200_Thorus.d:401","Nun - es müsste 'ne Weile dauern, das Erz zu zählen. So lange würden die Jungs am Tor und ich dann wegsehen.","Но... Пересчёт этой руды должен занять много времени. Мы с ребятами должны считать достаточно долго, чтобы ты успел проскочить незамеченным.","","False","Info_Thorus_BribeGuard_09_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_200_Thorus.d:402","Sag schon, wie viel?","А поконкретней?","","","Info_Thorus_BribeGuard_15_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_200_Thorus.d:403","1000 Brocken dürften genügen.","Тысячи кусков должно быть достаточно.","","","Info_Thorus_BribeGuard_09_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_200_Thorus.d:404","1000 Brocken?","Тысяча кусков?!","","","Info_Thorus_BribeGuard_15_04","",""
