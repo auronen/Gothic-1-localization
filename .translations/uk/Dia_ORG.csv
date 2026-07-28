@@ -591,7 +591,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Org_876_Tuersteher.d:170","Wie läuft das Schnapsgeschäft?","Як там продається рисовий шнапс?","","","DIA_Org_876_PERM_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_876_Tuersteher.d:171","Geh rein und frag Silas. WIR können uns nicht beklagen.","Поговори із Сайласом. МИ не скаржимося.","","False","DIA_Org_876_PERM_06_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_876_Tuersteher.d:196","Halt! Du kennst die Regeln. Nur Schürfer und Banditen!","СТІЙ! Ти знаєш правила — лише рудокопи та злодії!","","False","DIA_Org_876_ScSld_06_00","",""
-"Scripts/content/Story/MISSIONS/DIA_Org_876_Tuersteher.d:197","Willst du mich aufhalten?","І що, будеш намагаєшся мене зупинити?","","","DIA_Org_876_ScSld_15_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Org_876_Tuersteher.d:197","Willst du mich aufhalten?","Ти хочеш мене зупинити?","","False","DIA_Org_876_ScSld_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_876_Tuersteher.d:198","Nein ... Geh nur ...","Ні... заходь...","","False","DIA_Org_876_ScSld_06_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_876_Tuersteher.d:224","Eigentlich lassen wir ja nur unsere Jungs hier rein, aber gegen die Bruderschaft kann man wirklich nichts einwenden.","Зазвичай ми пускаємо сюди лише наших людей, але ми не проти членів братства.","","False","DIA_Org_876_ScSekte_06_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_876_Tuersteher.d:225","Vor allem nicht, wenn die Leute was zu rauchen dabei haben.","Особливо якщо вони мають з собою що покурити.","","","DIA_Org_876_ScSekte_06_01","",""
