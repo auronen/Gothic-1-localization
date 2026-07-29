@@ -123,7 +123,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:143","Wer ist der Reislord?","Ким є Рисовий Лорд?","","","DIA_Rufus_Ricelord.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:156","Wer ist der Reislord?","Ким є Рисовий Лорд?","","","DIA_Rufus_Ricelord_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:157","Er war einer der Ersten hier. Hat das Lager mit gegründet und die Reisfelder angelegt.","Він був одним із перших, хто прийшов сюди. Він допоміг створити табір і почав вирощувати рис.","","","DIA_Rufus_Ricelord_02_01","",""
-"Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:158","Heute steht er nur noch vor seinem Lagerhaus und streckt seine Wampe raus, der alte Fettsack!","Сьогодні він лише хизується своїм животом коло складу. Жирна свинота!","","","DIA_Rufus_Ricelord_02_02","",""
+"Scripts/content/Story/MISSIONS/DIA_Bau_903_Rufus.d:158","Heute steht er nur noch vor seinem Lagerhaus und streckt seine Wampe raus, der alte Fettsack!","Тепер він тільки й робить, що стовбичить біля свого складу та випирає пузом, старий жирдяй!","","False","DIA_Rufus_Ricelord_02_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_912_Jeremiah.d:33","Was machst du hier?","Що робиш?","","","DIA_Jeremiah_Hallo.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_912_Jeremiah.d:43","Was machst du hier?","Що робиш?","","","DIA_Jeremiah_Hallo_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Bau_912_Jeremiah.d:44","Ich brenne den Reisschnaps, Junge.","Я готую рисовий шнапс, хлопче.","","","DIA_Jeremiah_Hallo_04_01","",""
