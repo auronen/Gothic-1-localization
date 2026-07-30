@@ -298,7 +298,7 @@
 "Scripts/content/Story/svm.d:550","Verschwinde aus meiner Hütte oder ich rufe die Wachen!","Забирайся звідси, інакше я викличу варту!","","False","SVM_3_WhyYouAreInHere","",""
 "Scripts/content/Story/svm.d:551","Was machst du da? Wenn ich dich erwische, bist du dran!","Тримайся якомога далі звідси!","","False","SVM_3_WhatDidYouInThere","",""
 "Scripts/content/Story/svm.d:552","Du weißt ja doch, was gut für dich ist!","Добре рішення!","","False","SVM_3_WiseMove","",""
-"Scripts/content/Story/svm.d:553","Wachen, hierher!","Варта! Тут!","","False","SVM_3_Alarm","",""
+"Scripts/content/Story/svm.d:553","Wachen, hierher!","Варта! Сюди!","","False","SVM_3_Alarm","",""
 "Scripts/content/Story/svm.d:554","ALARM!!!","УВАГА!","","False","SVM_3_IntruderAlert","",""
 "Scripts/content/Story/svm.d:555","Pass auf!","Ззаду!","","False","SVM_3_BehindYou","",""
 "Scripts/content/Story/svm.d:556","Ein Kampf!","Бійка!","","False","SVM_3_TheresAFight","",""
