@@ -299,7 +299,7 @@
 "Scripts/content/Story/MISSIONS/DIA_GUR_1202_CorAngar.d:494","Und jetzt verliere nicht noch mehr Zeit. Geh!","І не гай ні хвилини. Вирушай!","","False","Info_CorAngar_FindHerb_WHERE_08_03","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1202_CorAngar.d:507","Wie kann ich diese Kräuter erkennen?","Як я впізнаю ці трави?","","","Info_CorAngar_FindHerb_LOOK.description","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1202_CorAngar.d:520","Wie kann ich diese Kräuter erkennen?","Як я впізнаю ці трави?","","","Info_CorAngar_FindHerb_LOOK_15_01","",""
-"Scripts/content/Story/MISSIONS/DIA_GUR_1202_CorAngar.d:521","Sie sehen aus wie ein Stern und tragen acht grüne und orangefarbene Blätter.","Вони нагадують зірку з вісьмома зелено-помаранчевими листочками.","","","Info_CorAngar_FindHerb_LOOK_08_02","",""
+"Scripts/content/Story/MISSIONS/DIA_GUR_1202_CorAngar.d:521","Sie sehen aus wie ein Stern und tragen acht grüne und orangefarbene Blätter.","Вони схожі на зірку, у якої вісім зелених і помаранчевих пелюсток.","","False","Info_CorAngar_FindHerb_LOOK_08_02","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1202_CorAngar.d:522","Nun geh aber los.","Вирушай в дорогу, будь ласка.","","False","Info_CorAngar_FindHerb_LOOK_08_03","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1202_CorAngar.d:536","Ich habe noch nicht genug Heilkräuter gefunden","Я ще не знайшов потрібної кількості трав.","","","Info_CorAngar_FindHerb_Running.description","",""
 "Scripts/content/Story/MISSIONS/DIA_GUR_1202_CorAngar.d:552","Ich habe noch nicht genug Heilkräuter gefunden","Я ще не знайшов потрібної кількості трав.","","","Info_CorAngar_FindHerb_Running_15_01","",""
