@@ -72,7 +72,7 @@
 "Scripts/content/Story/MISSIONS/DIA_STT_331_Fingers.d:178","Ich will ein Meister der Taschendiebe werden!","Я хотів би стати майстром кишенькових крадіжок!","","","DIA_Fingers_Lehrer_Pickpocket2_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_STT_331_Fingers.d:182","Ich denke, du bist gut genug, um in die letzten Geheimnisse eingeweiht zu werden.","Гадаю, ти справді знаєш достатньо, щоб освоїти щось більше складне.","","False","DIA_Fingers_Lehrer_Pickpocket2_05_01","",""
 "Scripts/content/Story/MISSIONS/DIA_STT_331_Fingers.d:183","Du solltest aber wissen, dass es selbst den Besten manchmal passiert, dass sie bemerkt werden.","Але ти повинен пам'ятати, що навіть майстерних злодіїв час від часу ловлять.","","","DIA_Fingers_Lehrer_Pickpocket2_05_02","",""
-"Scripts/content/Story/MISSIONS/DIA_STT_331_Fingers.d:184","Also pass auf dich auf.","Бувай здоров.","","","DIA_Fingers_Lehrer_Pickpocket2_05_03","",""
+"Scripts/content/Story/MISSIONS/DIA_STT_331_Fingers.d:184","Also pass auf dich auf.","Будь пильним.","","False","DIA_Fingers_Lehrer_Pickpocket2_05_03","",""
 "Scripts/content/Story/MISSIONS/DIA_STT_331_Fingers.d:203","Wo finde ich Cavalorn?","Де я можу знайти Кавалорна?","","","DIA_Fingers_WhereCavalorn.description","",""
 "Scripts/content/Story/MISSIONS/DIA_STT_331_Fingers.d:216","Wo finde ich Cavalorn?","Де я можу знайти Кавалорна?","","","DIA_Fingers_WhereCavalorn_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_STT_331_Fingers.d:217","Er jagt in der Wildnis. Du findest ihn auf dem Weg zum Neuen Lager. Westlich des Alten Lagers beginnt eine breite Schlucht.","Він полює десь за межами табору. Ймовірно, ти знайдеш його дорогою до Нового Табору. На захід звідси знаходиться одна ущелина...","","False","DIA_Fingers_WhereCavalorn_05_01","",""
