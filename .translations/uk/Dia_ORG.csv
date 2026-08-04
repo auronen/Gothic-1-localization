@@ -257,7 +257,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Org_819_Drax.d:44","Sieht so aus... was willst du?","Схоже на те… чого ти хочеш?","","False","Org_819_Drax_HuntHere_06_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_819_Drax.d:45","Hast du ein paar Tipps für die Jagd?","Ти міг би навчити мене полювати?","","","Org_819_Drax_HuntHere_15_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_819_Drax.d:46","Ich könnte dir schon was beibringen - aber alles hat seinen Preis.","Я міг би показати тобі деякі техніки, але це буде дещо коштувати.","","False","Org_819_Drax_HuntHere_06_03","",""
-"Scripts/content/Story/MISSIONS/DIA_Org_819_Drax.d:47","Und der wäre?","Саме скільки?","","","Org_819_Drax_HuntHere_15_04","",""
+"Scripts/content/Story/MISSIONS/DIA_Org_819_Drax.d:47","Und der wäre?","Скільки саме?","","False","Org_819_Drax_HuntHere_15_04","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_819_Drax.d:48","Für den Anfang reicht ein ordentlicher Schluck Bier - danach sehen wir weiter.","Для початку вистачить ковтка доброго пива, а далі подивимося.","","","Org_819_Drax_HuntHere_06_05","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_819_Drax.d:64","Hier, nimm ein Bier und erzähl mir was über's Jagen.","Будь ласка, ось пиво. А тепер розкажи мені про полювання.","","","Org_819_Drax_Scavenger.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_819_Drax.d:81","Hier, nimm ein Bier und erzähl mir was übers Jagen.","Будь ласка, ось пиво. А тепер розкажи мені про полювання.","","","Org_819_Drax_Scavenger_15_00","",""
