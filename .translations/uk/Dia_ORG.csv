@@ -549,7 +549,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Org_873_Cipher.d:47","Wir haben Gomez mal wieder ins Essen gespuckt.","Як завжди! Псуємо Ґомезу життя.","","","DIA_Cipher_Hello_12_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_873_Cipher.d:48","Drei tote Gardisten und 'ne ganze Menge Zeug zum Verhökern. Darauf trink ich!","Три мертвих вартівників та багато товарів на продаж. Тобі треба було це бачити!","","False","DIA_Cipher_Hello_12_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_873_Cipher.d:49","Du bist einer von den Jungs, die ständig das alte Lager überfallen?","Ти один із тих, хто постійно здійснює набіги на Старий табір?","","False","DIA_Cipher_Hello_15_03","",""
-"Scripts/content/Story/MISSIONS/DIA_Org_873_Cipher.d:50","Nein. Nur wenn sich 'ne lohnende Gelegenheit bietet.","НІ. Ми нападаємо лише тоді, коли це окупається.","","","DIA_Cipher_Hello_12_04","",""
+"Scripts/content/Story/MISSIONS/DIA_Org_873_Cipher.d:50","Nein. Nur wenn sich 'ne lohnende Gelegenheit bietet.","Ні. Тільки якщо трапиться вигідна нагода.","","False","DIA_Cipher_Hello_12_04","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_873_Cipher.d:63","Fisk aus dem Alten sucht nach einem Handelspartner.","Фіск зі Старого Табору шукає нового ділового партнера.","","False","Org_873_Cipher_Fisk.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_873_Cipher.d:76","Fisk aus dem Alten Lager ist auf der Suche nach einem Handelspartner.","Фіск зі Старого Табору шукає нового ділового партнера.","","False","DIA_Cipher_Fisk_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_873_Cipher.d:77","Kein Interesse.","Я не зацікавлений у цьому.","","","DIA_Cipher_Fisk_12_01","",""
