@@ -93,7 +93,7 @@
 "Scripts/content/Story/MISSIONS/DIA_TPL_1439_GorNaDrak.d:33","Hi! Wohin soll's denn gehen?","Привіт! Куди прямуєте?","","","DIA_GorNaDrak_Greet.description","",""
 "Scripts/content/Story/MISSIONS/DIA_TPL_1439_GorNaDrak.d:43","Hi! Wohin soll's denn gehen?","Привіт! Куди прямуєте?","","","DIA_GorNaDrak_Greet_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_TPL_1439_GorNaDrak.d:44","Wir bringen das Sekret der Minecrawler, das unsere Brüder in der Alten Mine gewinnen, zu Cor Kalom.","Ми несемо виділення повзунів, зібрані нашими братами в Старій копальні до Кор Калома.","","False","DIA_GorNaDrak_Greet_09_01","",""
-"Scripts/content/Story/MISSIONS/DIA_TPL_1439_GorNaDrak.d:45","Einmal täglich gehen wir zur Alten Mine, um es abzuholen.","Щодня ми ходимо до копальні за новими партіями виділень.","","","DIA_GorNaDrak_Greet_09_02","",""
+"Scripts/content/Story/MISSIONS/DIA_TPL_1439_GorNaDrak.d:45","Einmal täglich gehen wir zur Alten Mine, um es abzuholen.","Щодня ми ходимо до копальні по нові партії виділень.","","False","DIA_GorNaDrak_Greet_09_02","",""
 "Scripts/content/Story/MISSIONS/DIA_TPL_1439_GorNaDrak.d:57","Was ist das für ein Sekret?","Що за виділення?","","","DIA_GorNaDrak_WasSekret.description","",""
 "Scripts/content/Story/MISSIONS/DIA_TPL_1439_GorNaDrak.d:70","Was ist das für ein Sekret?","Що за виділення?","","","DIA_GorNaDrak_WasSekret_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_TPL_1439_GorNaDrak.d:71","Wir gewinnen es aus den Zangen der Minecrawler. Wenn man weiß wie, kann man sie herausnehmen, ohne dass das Sekret verloren geht.","Ми здобуваємо його з жувалець повзунів. Якщо бути обережним, можна вирізати їхні отруйні залози.","","False","DIA_GorNaDrak_WasSekret_09_01","",""
