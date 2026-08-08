@@ -572,7 +572,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Org_876_Tuersteher.d:48","Ich bin Schürfer! Und ich habe Durst!","Я рудокоп і хочу випити!","","False","DIA_Org_876_AmSfb_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_876_Tuersteher.d:55","Du siehst auch aus wie einer von den Dreckfressern. Immer rein mit dir.","Справді, ти схожий на одного з тих брудних щурів. Заходь.","","False","DIA_Org_876_AmSfb_06_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_876_Tuersteher.d:62","Du siehst nicht aus wie ein Schürfer. So kommst du hier nicht rein, Junge.","Ти не схожий на рудокопа. Ти так легко сюди не потрапиш, хлопче.","","False","DIA_Org_876_AmSfb_NOSFB_06_00","",""
-"Scripts/content/Story/MISSIONS/DIA_Org_876_Tuersteher.d:76","Was hältst du von etwas Erz als Eintrittsgeld?","Можливо, кілька грудок руди зроблять свою справу?","","","DIA_Org_876_Bribe.description","",""
+"Scripts/content/Story/MISSIONS/DIA_Org_876_Tuersteher.d:76","Was hältst du von etwas Erz als Eintrittsgeld?","Можливо, кілька брилок руди зроблять свою справу?","","False","DIA_Org_876_Bribe.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_876_Tuersteher.d:90","Was hältst du von etwas Erz als Eintrittsgeld?","Можливо, кілька брилок руди зроблять свою справу?","","","DIA_Org_876_Bribe_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_876_Tuersteher.d:91","Wie viel Erz ist denn 'etwas Erz'?","Кілька, це скільки?","","","DIA_Org_876_Bribe_06_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Org_876_Tuersteher.d:94","Hundert Erzbrocken sollten reichen.","100 брилок має вистачити.","","False","DIA_Org_876_Bribe.DIA_Org_876_Bribe_100Erz","Info_AddChoice",""
