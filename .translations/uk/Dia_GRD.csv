@@ -791,7 +791,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Grd_262_Aaron.d:105","Er will dir eine Belohnung für deine guten Dienste geben.","Він має нагородити тебе за зразкову працю.","","","GRD_262_Aaron_BLUFF_GOOD_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_262_Aaron.d:106","Ach, tatsächlich? Ich glaube, du gehst jetzt besser.","Та невже? Знаєш, що? Краще йди звідси.","","False","GRD_262_Aaron_BLUFF_GOOD_09_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_262_Aaron.d:113","Er will dir kräftig in den Arsch treten, weil du so faul bist.","Йому набридло твоє ледарство.","","","GRD_262_Aaron_BLUFF_BAD_15_01","",""
-"Scripts/content/Story/MISSIONS/DIA_Grd_262_Aaron.d:114","Na, das ist doch nichts Neues. Geh weg!","Овва. Нічого нового. Загубися!","","False","GRD_262_Aaron_BLUFF_BAD_09_02","",""
+"Scripts/content/Story/MISSIONS/DIA_Grd_262_Aaron.d:114","Na, das ist doch nichts Neues. Geh weg!","Ну, нічого нового. Забирайся!","","False","GRD_262_Aaron_BLUFF_BAD_09_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_262_Aaron.d:120","Keine Ahnung. Das wird Ian dir schon selber sagen! Glaubst du, er erzählt mir so was?","Я не знаю. Він, мабуть, сам все розкаже. Інакше для чого б він тебе кликав?","","False","GRD_262_Aaron_BLUFF_UGLY_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_262_Aaron.d:121","Dann werde ich mal zu ihm gehen!","Ах, дідько. У такому разі я рушу до нього!","","False","GRD_262_Aaron_BLUFF_UGLY_09_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Grd_262_Aaron.d:160","HEY, DU!!! Wenn du mich noch einmal so verarschst, dann gibt's ne ordentliche Tracht Prügel, verstanden?","ГЕЙ ТИ! Якщо ти знову спробуєш мене обдурити, ми поговоримо інакше. Зрозумів?","","False","Info_Aaron_PISSED_09_01","",""
