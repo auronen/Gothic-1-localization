@@ -97,7 +97,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:583","Kannst du mir was beibringen?","Můžeš mě něco naučit?","","","Info_Diego_Teach_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:584","Ja. Bei mir kannst du lernen, deine Geschicklichkeit zu verbessern oder deine Kampfkraft zu steigern.","Ano. Můžu tě naučit, jak zlepšit obratnost nebo sílu.","","","Info_Diego_Teach_11_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:601","Deine Kampfkraft ist um einiges gestiegen.","Tvoje síla se dost zlepšila.","","","Info_Diego_Teach_BACK_11_00","",""
-"Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:606","Dein Geschick im Umgang mit Bögen und Armbrüsten ist schon besser geworden.","Tvoje dovednost zacházení s lukem a samostřílem se zlepšila.","","","Info_Diego_Teach_BACK_11_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:606","Dein Geschick im Umgang mit Bögen und Armbrüsten ist schon besser geworden.","Tvoje dovednost zacházení s lukem a kuší se zlepšila.","","False","Info_Diego_Teach_BACK_11_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:609","Komm bald wieder - es gibt viel zu lernen!","Vrať se brzy - ještě se toho musíš hodně naučit!","","","Info_Diego_Teach_BACK_11_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:670","Was ist die Prüfung des Vertrauens?","Co je to test oddanosti?","","","Info_Diego_BringList_Offer.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Thief.d:683","Was ist die Prüfung des Vertrauens?","Co je to test oddanosti?","","","Info_Diego_BringList_Offer_15_00","",""
