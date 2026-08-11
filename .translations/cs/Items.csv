@@ -958,7 +958,7 @@
 "Scripts/content/Items/Melee_weapons.d:282","Kurzschwert","Krátký meč","","","ItMw_1H_Sword_Short_01.name","",""
 "Scripts/content/Items/Melee_weapons.d:300","","","","","ItMw_1H_Sword_Short_01.text[0]","",""
 "Scripts/content/Items/Melee_weapons.d:301","","","","","ItMw_1H_Sword_Short_01.text[1]","",""
-"Scripts/content/Items/Melee_weapons.d:312","Bauernwehr","Farmářova obrana","","","ItMw_1H_Sword_Short_02.name","",""
+"Scripts/content/Items/Melee_weapons.d:312","Bauernwehr","Rolníkaova obrana","","False","ItMw_1H_Sword_Short_02.name","",""
 "Scripts/content/Items/Melee_weapons.d:330","","","","","ItMw_1H_Sword_Short_02.text[0]","",""
 "Scripts/content/Items/Melee_weapons.d:331","","","","","ItMw_1H_Sword_Short_02.text[1]","",""
 "Scripts/content/Items/Melee_weapons.d:342","Lurkerbiß","Číhavčí kousnutí","","","ItMw_1H_Sword_Short_03.name","",""
