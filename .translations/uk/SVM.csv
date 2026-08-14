@@ -1599,7 +1599,7 @@
 "Scripts/content/Story/svm.d:1896","Ja, verschwinde!","Тааак, забирайся!","","False","SVM_13_RunCoward","",""
 "Scripts/content/Story/svm.d:1897","Kümmerliche Vorstellung! Ein kleiner Windstoß und er wäre auch umgefallen.","Жалюгідна вистава! Маленький порив вітру — і він все одно впав би.","","False","SVM_13_HeDefeatedHim","",""
 "Scripts/content/Story/svm.d:1898","Pah, geschieht ihm recht!","Так йому і треба!","","False","SVM_13_HeDeservedIt","",""
-"Scripts/content/Story/svm.d:1899","Du bist wirklich lebensmüde, vor Zeugen jemand kalt zu machen.","Вбивство на очах у свідків — це ТАКЕ Ж вбивство.","","False","SVM_13_HeKilledHim","",""
+"Scripts/content/Story/svm.d:1899","Du bist wirklich lebensmüde, vor Zeugen jemand kalt zu machen.","Ти й справді смерті шукаєш — убити когось на очах у свідків!","","False","SVM_13_HeKilledHim","",""
 "Scripts/content/Story/svm.d:1900","Netter Kampf!","Хороший бій!","","False","SVM_13_ItWasAGoodFight","",""
 "Scripts/content/Story/svm.d:1901","Gääähn!!","(Позіхання)","","False","SVM_13_Awake","",""
 "Scripts/content/Story/svm.d:1902","Alles klar bei dir?","Все гаразд?","","False","SVM_13_FriendlyGreetings","",""
