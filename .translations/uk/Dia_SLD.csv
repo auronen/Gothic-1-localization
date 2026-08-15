@@ -226,7 +226,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Sld_737_Torlof.d:78","Wenn die Jungs hier merken, dass du gegen Gomez bist, hast du hier keine Probleme mehr.","Коли хлопці зрозуміють, що ти не поважаєш Ґомеза, вони перестануть завдавати тобі клопоту.","","","DIA_Torlof_Mitmachen_04_04","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_737_Torlof.d:79","Und wie stelle ich das an?","І як мені це зробити?","","","DIA_Torlof_Mitmachen_15_05","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_737_Torlof.d:80","Du mußt ihr VERTRAUEN gewinnen - und dann haust du sie über's Ohr!","Спочатку ти повинен завоювати їхню довіру, а потім вже можеш на щось сподіватися!","","","DIA_Torlof_Mitmachen_04_06","",""
-"Scripts/content/Story/MISSIONS/DIA_Sld_751_Soeldner.d:21","Ah, Besuch! Mach uns keinen Ärger, sonst bekommst du welchen!","Ах, прихожий! Не намагайся створити нам тут проблеми, інакше отримаєш по пиці!","","","DIA_SLD_751_Soeldner_INTRO_INFO_01_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Sld_751_Soeldner.d:21","Ah, Besuch! Mach uns keinen Ärger, sonst bekommst du welchen!","А, прихожий! Не намагайся створити нам тут проблеми, інакше отримаєш по пиці!","","False","DIA_SLD_751_Soeldner_INTRO_INFO_01_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_751_Soeldner.d:31","Ich geh dann mal.","Я ліпше піду. (КІНЕЦЬ)","","False","DIA_SLD_751_Soeldner_EXIT_1.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_751_Soeldner.d:41","Ich geh' dann mal.","Я ліпше піду.","","","DIA_SLD_751_Soeldner_EXIT_1_INFO_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_751_Soeldner.d:42","Ich hoffe, wir verstehen uns.","Сподіваюся, ми зрозуміли один одного.","","","DIA_SLD_751_Soeldner_EXIT_1_INFO_01_02","",""
