@@ -358,7 +358,7 @@
 "","zu weit weg!","Слишком далеко!","","False","_STR_MESSAGE_STEAL_NOT_IN_RANGE","",""
 "","der hat nichts dabei!","У него ничего с собой нет!","","False","_STR_MESSAGE_STEAL_NPC_IS_EMPTY","",""
 "","da ist nichts mehr zu holen!","Здесь больше нечего брать!","","False","_STR_MESSAGE_PLUNDER_IS_EMPTY","",""
-"","keine Munition!","Нет стрел!","","False","_STR_MESSAGE_RANGED_NO_AMMO","",""
+"","keine Munition!","Нет снарядов!","","False","_STR_MESSAGE_RANGED_NO_AMMO","",""
 "","Die Kolonie","Колония","","False","LEVELNAME_WORLD","",""
 "","Verlassene Mine","Заброшенная шахта","","False","LEVELNAME_ABANDONEDMINE","",""
 "","Alte Mine","Старая шахта","","False","LEVELNAME_OLDMINE","",""
