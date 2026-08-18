@@ -50,7 +50,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Vlk_524_Dusty.d:203","Gut - also los!","Добре, ходімо!","","False","DIA_Dusty_LetsGo_15_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_530_Guy.d:33","Hallo!","Вітаю!","","","DIA_Guy_Hello.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_530_Guy.d:46","Hallo!","Вітаю!","","","DIA_Guy_Hello_15_00","",""
-"Scripts/content/Story/MISSIONS/DIA_Vlk_530_Guy.d:47","Hm? Dich hab' ich hier noch nie gesehen - du bist neu hier, oder?","Ммм? Я тебе тут раніше не бачив. Ти новенький, так?","","","DIA_Guy_Hello_03_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Vlk_530_Guy.d:47","Hm? Dich hab' ich hier noch nie gesehen - du bist neu hier, oder?","Хмм? Я тебе тут раніше не бачив. Ти новенький, так?","","False","DIA_Guy_Hello_03_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_530_Guy.d:48","Vor kurzem angekommen ...","Так, я потрапив сюди нещодавно...","","False","DIA_Guy_Hello_15_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_530_Guy.d:49","Hast du dir schon überlegt, welchem Lager du dich anschließen willst?","Вирішив, до якого табору ти приєднаєшся?","","","DIA_Guy_Hello_03_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_530_Guy.d:50","Nein, was würdest du mir raten?","Ні, а що б ти порадив?","","False","DIA_Guy_Hello_15_04","",""
