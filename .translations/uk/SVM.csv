@@ -293,7 +293,7 @@
 "Scripts/content/Story/svm.d:545","Finger weg!","Лапи геть!","","False","SVM_3_HandsOff","",""
 "Scripts/content/Story/svm.d:546","Verzieh dich!","Забирайся!","","False","SVM_3_GetOutOfHere","",""
 "Scripts/content/Story/svm.d:547","Hey! Wo kommst du denn her?","Як ти сюди потрапив?","","False","SVM_3_YouViolatedForbiddenTerritory","",""
-"Scripts/content/Story/svm.d:548","Ich bin nicht so bescheuert wie du denkst!","Не намагайся зробити це знову, інакше ти пошкодуєш!","","False","SVM_3_YouWannaFoolMe","",""
+"Scripts/content/Story/svm.d:548","Ich bin nicht so bescheuert wie du denkst!","Гей, не намагайся зробити це знову, інакше ти пошкодуєш!","","False","SVM_3_YouWannaFoolMe","",""
 "Scripts/content/Story/svm.d:549","Hör auf, hier herumzuschleichen!","Що ти тут вештаєшся!","","False","SVM_3_WhatsThisSupposedToBe","",""
 "Scripts/content/Story/svm.d:550","Verschwinde aus meiner Hütte oder ich rufe die Wachen!","Забирайся звідси, інакше я викличу варту!","","False","SVM_3_WhyYouAreInHere","",""
 "Scripts/content/Story/svm.d:551","Was machst du da? Wenn ich dich erwische, bist du dran!","Тримайся якомога далі звідси!","","False","SVM_3_WhatDidYouInThere","",""
