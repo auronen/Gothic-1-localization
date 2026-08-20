@@ -127,7 +127,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Sld_723_GuardPassage.d:204","Die Parole lautet TERIANTROCH","Гасло: ТЕРІАНТРОХ.","","","Info_SLD_723_PAROLE.Info_SLD_723_Parole_FALSE2","Info_AddChoice",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_723_GuardPassage.d:205","Die Parole lautet TETRIANDOCH","Гасло: ТЕТРІАНДОХ.","","","Info_SLD_723_PAROLE.Info_SLD_723_Parole_TRUE","Info_AddChoice",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_723_GuardPassage.d:206","Die Parole lautet TETRIDANOCH","Гасло: ТЕТРІДАНОХ.","","","Info_SLD_723_PAROLE.Info_SLD_723_Parole_FALSE1","Info_AddChoice",""
-"Scripts/content/Story/MISSIONS/DIA_Sld_728_Jarvis.d:21","Pass auf deinen Rücken auf!","Зважай!","","","DIA_Jarvis_EXIT_08_00","",""
+"Scripts/content/Story/MISSIONS/DIA_Sld_728_Jarvis.d:21","Pass auf deinen Rücken auf!","Обережно!","","False","DIA_Jarvis_EXIT_08_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_728_Jarvis.d:44","Hast du vor, durch dies Tor zu gehen?","Ти маєш намір пройти через цю браму?","","","DIA_Jarvis_First_08_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_728_Jarvis.d:45","Willst du mich aufhalten?","А ти маєш намір мене зупинити?","","","DIA_Jarvis_First_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_728_Jarvis.d:46","Nein, aber du solltest wissen, was dich erwartet. Es läuft hier nicht so wie im Alten Lager und erst recht nicht wie bei den Sektenspinnern!","Ні, але ти повинен знати, що тебе чекає. Тут тобі не Старий Табір і не секта навіжених!","","False","DIA_Jarvis_First_08_02","",""
