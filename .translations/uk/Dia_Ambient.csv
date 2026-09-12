@@ -318,7 +318,7 @@
 "Scripts/content/Story/B/B_AssignAmbientInfos_Nov_5.d:98","Es ist der beste Ort, an dem du in dieser gottverdammten Kolonie sein kannst.","Це найкраще місце у всій клятій колонії.","","","Info_Nov_5_DasLager_05_01","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Nov_5.d:99","Selbst wenn du nicht an die Lehren des Schläfers glaubst, bekommst du deine tägliche Ration Essen und Sumpfkraut. Du brauchst nur zu Fortuno zu gehen.","Навіть якщо ти не віриш в повчання Сплячого, ти отримаєш щоденний раціон їжі і трав. Все, що тобі потрібно зробити, це знайти Фортуно.","","","Info_Nov_5_DasLager_05_02","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Nov_5.d:100","Und wo finde ich den?","Де я можу його знайти?","","","Info_Nov_5_DasLager_15_03","",""
-"Scripts/content/Story/B/B_AssignAmbientInfos_Nov_5.d:101","Unten an Cor Kaloms Labor. In der Nähe des großen Tempelplatzes.","Під лабораторією Кор Калома, біля подвір’я великого храму.","","","Info_Nov_5_DasLager_05_04","",""
+"Scripts/content/Story/B/B_AssignAmbientInfos_Nov_5.d:101","Unten an Cor Kaloms Labor. In der Nähe des großen Tempelplatzes.","Під лабораторією Кора Калома, біля подвір’я великого храму.","","False","Info_Nov_5_DasLager_05_04","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Nov_5.d:116","Wie sieht's aus?","Як справи?","","","Info_Nov_5_DieLage.description","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Nov_5.d:126","Wie sieht's aus?","Як справи?","","","Info_Nov_5_DieLage_15_00","",""
 "Scripts/content/Story/B/B_AssignAmbientInfos_Nov_5.d:127","Kann mich nicht beklagen. Bist du neu hier?","Я не можу скаржитися. Ти тут новенький, чи не так?","","","Info_Nov_5_DieLage_05_01","",""
