@@ -93,7 +93,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Stt_301_Ian.d:45","Bist du Ian, der Chef der Mine?","То ти Іан, головний в цій копальні?","","False","STT_301_IAN_HI_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_301_Ian.d:46","Ja, ich bin Ian. Und das hier ist meine Mine. Also fass nichts an und mach nichts kaputt.","Так, це я. А це моя копальня, в якій тобі краще не робити нічого дурного.","","","STT_301_IAN_HI_Info_13_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_301_Ian.d:56","Ist das nicht Gomez' Mine?","Я думав, що це копальні Ґомеза, ні?","","","STT_301_IAN_GOMEZ.description","",""
-"Scripts/content/Story/MISSIONS/DIA_Stt_301_Ian.d:69","Ist das nicht Gomez' Mine?","Я думав, що це копальні Ґомеза, ні?","","","STT_301_IAN_GOMEZ_Info_15_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Stt_301_Ian.d:69","Ist das nicht Gomez' Mine?","Я думав, що це копальня Ґомеза, ні?","","False","STT_301_IAN_GOMEZ_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_301_Ian.d:70","Ja, natürlich ist das die Mine des Alten Lagers. Aber hier drin gibt's nur einen Chef - und das bin ich.","Ні, звичайно, копальня належить Старому Табору. Але тут, під землею, є лише один ватажок — я.","","False","STT_301_IAN_GOMEZ_Info_13_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_301_Ian.d:80","Kannst du mir ein paar Takte zur Erzförderung erzählen?","Можеш розказати, як ви видобуваєте руду?","","False","STT_301_IAN_ORE.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Stt_301_Ian.d:93","Kannst du mir ein paar Takte zur Erzförderung erzählen?","Можеш розказати як ви видобуваєте руду?","","False","STT_301_IAN_ORE_Info_15_01","",""
