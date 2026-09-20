@@ -131,7 +131,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:978","Hey, gut gemacht. Dafür gebe ich dir diese Spruchrollen. Damit sollte es kein Problem sein, den Fokus zu erreichen.","Гей, молодець. Візьми ці магічні сувої як нагороду. З ними ти, мабуть, зможеш дістати фокус.","","False","PC_Psionic_URKUNDE_Info_05_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:979","Ich werde unten vor der Fokusplattform auf dich warten.","Я чекатиму тебе внизу біля платформи.","","False","PC_Psionic_URKUNDE_Info_05_03","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:998","Wie soll ich den Fokus erreichen?","Як мені досягти каменю фокусування?","","False","PC_Psionic_TIP.description","",""
-"Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:1012","Wie soll ich den Fokus erreichen?","Як мені досягти каменю фокусування?","","False","PC_Psionic_TIP_Info_15_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:1012","Wie soll ich den Fokus erreichen?","Як мені дістати фокусний камінь?","","False","PC_Psionic_TIP_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:1013","Meister Y'Berion sagte immer: Der Schüler versucht die Dinge mit Händen und Füßen zu bewegen, der Meister bewegt die Dinge mit der Kraft seiner Gedanken.","Майстер І'Беріон говорив: Учень намагається рухати речі силою своїх рук, а майстер рухає їх силою свого духу.","","False","PC_Psionic_TIP_Info_05_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:1039","Ich bleibe noch hier und suche die Urkunde.","Я залишусь тут, щоб знайти документ.","","","PC_Psionic_LEAVE_Info_05_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Psionic.d:1068","Ich werde mich mal oben umsehen.","Я піду і подивлюся там.","","","PC_Psionic_BALKON_Info_05_01","",""
