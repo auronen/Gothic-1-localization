@@ -201,7 +201,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Vlk_572_Gravo.d:167","Mit Diego.","Допоможи мені з Дієґо.","","False","DIA_Gravo_HelpAngryNow_Diego_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_572_Gravo.d:176","Mit Thorus.","Допоможи мені з Торусом.","","","DIA_Gravo_HelpAngryNow_Thorus_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_572_Gravo.d:185","Mit Gomez.","Допоможи мені з Ґомезом.","","","DIA_Gravo_HelpAngryNow_Gomez_15_00","",""
-"Scripts/content/Story/MISSIONS/DIA_Vlk_572_Gravo.d:202","Kannst du mir sagen, wer hier zu den einflussreichen Leuten gehört?","Скажи, хто тут із впливових людей?","","","DIA_Gravo_Influence.description","",""
+"Scripts/content/Story/MISSIONS/DIA_Vlk_572_Gravo.d:202","Kannst du mir sagen, wer hier zu den einflussreichen Leuten gehört?","Чи не міг би ти сказати мені, хто з тіней належить до впливових людей тут?","","False","DIA_Gravo_Influence.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_572_Gravo.d:215","Kannst du mir sagen, wer von den Schatten hier zu den einflussreichen Leuten gehört?","Чи не міг би ти сказати мені, хто з тіней належить до впливових людей тут?","","False","DIA_Gravo_Influence_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_572_Gravo.d:216","Du willst die richtigen Leute beeindrucken, he?","Ти хочеш справити враження на потрібних людей, чи не так?","","","DIA_Gravo_Influence_04_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Vlk_572_Gravo.d:217","Diego hat von allen Schatten am meisten zu melden. Zu seinen Vertrauten zählen Fingers, Whistler und Sly.","Дієґо має найбільшу силу з усіх тіней. Він довіряє Пальцюку, Свистарю та Злаю.","","False","DIA_Gravo_Influence_04_02","",""
