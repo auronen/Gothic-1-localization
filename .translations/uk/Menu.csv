@@ -161,7 +161,7 @@
 "Scripts/system/MENU/menu_status.d:193","Stufe","Рівень","","False","MENU_ITEM_LEVEL_TITLE.text[0]","",""
 "Scripts/system/MENU/menu_status.d:201","Erfahrung","Досвід","","False","MENU_ITEM_EXP_TITLE.text[0]","",""
 "Scripts/system/MENU/menu_status.d:209","Nächste Stufe","Наст. рівень","","False","MENU_ITEM_LEVEL_NEXT_TITLE.text[0]","",""
-"Scripts/system/MENU/menu_status.d:217","Lernpunkte","Пункти Вміння","","False","MENU_ITEM_LEARN_TITLE.text[0]","",""
+"Scripts/system/MENU/menu_status.d:217","Lernpunkte","Пункти вміння","","False","MENU_ITEM_LEARN_TITLE.text[0]","",""
 "Scripts/system/MENU/menu_status.d:261","ATTRIBUTE","АТРИБУТИ","","False","MENU_ITEM_ATTRIBUTE_HEADING.text[0]","",""
 "Scripts/system/MENU/menu_status.d:270","Stärke","Сила","","False","MENU_ITEM_ATTRIBUTE_1_TITLE.text[0]","",""
 "Scripts/system/MENU/menu_status.d:277","Geschick","Спритність","","False","MENU_ITEM_ATTRIBUTE_2_TITLE.text[0]","",""
