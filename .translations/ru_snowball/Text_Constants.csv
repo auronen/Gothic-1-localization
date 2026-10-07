@@ -105,7 +105,7 @@
 "Scripts/content/Story/Text.d:181","Sturmfaust","Кулак шторма","","","TXT_SPELLS[47]","",""
 "Scripts/content/Story/Text.d:183","Todeshauch","Дыхание смерти","","","TXT_SPELLS[49]","",""
 "Scripts/content/Story/Text.d:184","Schrumpfen","Уменьшение монстра","","False","TXT_SPELLS[50]","",""
-"Scripts/content/Story/Text.d:187","Raserei","Берсеркер","","","TXT_SPELLS[53]","",""
+"Scripts/content/Story/Text.d:187","Raserei","Ярость","","False","TXT_SPELLS[53]","",""
 "Scripts/content/Story/Text.d:188","Zorn des URIZIEL","Гнев Уризеля","","False","TXT_SPELLS[54]","",""
 "Scripts/content/Story/Text.d:189","New2","Новый2","","","TXT_SPELLS[55]","",""
 "Scripts/content/Story/Text.d:190","New3","Новый3","","","TXT_SPELLS[56]","",""
