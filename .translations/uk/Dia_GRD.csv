@@ -321,7 +321,7 @@
 "Scripts/content/Story/MISSIONS/DIA_GRD_251_Kirgo.d:47","Ein Neuer! Erzähl mir was von draußen! Es ist schon über einen Monat her, dass ich Neuigkeiten aus der Außenwelt gehört hab.","Що, справді? Розкажи-но мені про зовнішній світ! Я вже місяць не маю ніяких новин ззовні.","","False","Info_Kirgo_What_05_01","",""
 "Scripts/content/Story/MISSIONS/DIA_GRD_251_Kirgo.d:48","Ich bin Kirgo. Ich kämpfe in der Arena.","Я – Кірґо. Я б'юся на арені.","","False","Info_Kirgo_What_05_02","",""
 "Scripts/content/Story/MISSIONS/DIA_GRD_251_Kirgo.d:60","Bist du gut? - Im Kämpfen meine ich.","Все добре? — В боях я маю на увазі.","","False","Info_Kirgo_Good.description","",""
-"Scripts/content/Story/MISSIONS/DIA_GRD_251_Kirgo.d:73","Bist du gut?","Як справи?","","False","Info_Kirgo_Good_15_00","",""
+"Scripts/content/Story/MISSIONS/DIA_GRD_251_Kirgo.d:73","Bist du gut?","Як справи? У боях, маю на увазі.","","False","Info_Kirgo_Good_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_GRD_251_Kirgo.d:74","Im Kämpfen? Ich bin noch nicht lange dabei, aber ich habe schon einen Kampf gewonnen!","У боях? Я не так давно займаюсь цим, але я вже виграв свій перший бій!","","False","Info_Kirgo_Good_05_01","",""
 "Scripts/content/Story/MISSIONS/DIA_GRD_251_Kirgo.d:86","Ich fordere dich zum Kampf in der Arena!","Я хотів би викликати тебе на дуель на арені!","","","Info_Kirgo_Charge.description","",""
 "Scripts/content/Story/MISSIONS/DIA_GRD_251_Kirgo.d:99","Ich fordere dich zum Kampf in der Arena!","Я хотів би викликати тебе на дуель на арені!","","","Info_Kirgo_Charge_15_00","",""
