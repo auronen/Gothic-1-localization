@@ -35,7 +35,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:256","Corristo war ganz außer sich vor Freude. Er sagt, du kannst zu Torrez gehen und dir deine Belohnung selbst aussuchen.","Коррісто надзвичайно радий. Він сказав, що ти можеш піти до Торреза і вибрати собі нагороду.","","","DIA_Milten_ComesBack_02_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:269","Wo finde ich Torrez?","Де я можу знайти цього Торреза?","","","DIA_Milten_WoTorrez.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:282","Wo finde ich Torrez?","Де я можу знайти цього Торреза?","","","DIA_Milten_WoTorrez_15_00","",""
-"Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:283","Er ist den ganzen Tag draußen hier vorm Tempelgebäude.","Ймовірно, ти знайдеш його біля храму вдень.","","","DIA_Milten_WoTorrez_02_01","",""
+"Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:283","Er ist den ganzen Tag draußen hier vorm Tempelgebäude.","Ймовірно, ти знайдеш його вдень біля храму.","","False","DIA_Milten_WoTorrez_02_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:284","Nachts ist er wie alle anderen drinnen - aber nur Magier dürfen das Tempelhaus betreten. Also kannst du ihn nur tagsüber sprechen.","Він проводить ніч усередині, як і всі ми, але в храм допускаються лише маги, тому ти можеш розмовляти з ним лише вдень.","","","DIA_Milten_WoTorrez_02_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:296","Ich habe da noch einen Brief von den Wassermagiern.","Я приніс лист від магів води.","","False","DIA_Milten_NochEinBrief.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Pc_Mage.d:309","Ich habe da noch einen Brief von den Wassermagiern.","Я приніс лист від магів води.","","False","DIA_Milten_NochEinBrief_15_00","",""
