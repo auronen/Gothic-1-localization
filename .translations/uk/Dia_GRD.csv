@@ -383,7 +383,7 @@
 "Scripts/content/Story/MISSIONS/DIA_GRD_254_Orry.d:232","Ich suche eine Waffe ...","Мені потрібна зброя...","","","DIA_Orry_Waffe_15_00","",""
 "Scripts/content/Story/MISSIONS/DIA_GRD_254_Orry.d:233","Bei der verlassenen Mine weiter hinten im Canyon müsstest du alte Waffen finden.","Подивись біля Занедбаної копальні, там далі, вздовж ущелини. Я впевнений, ти знайдеш там щось.","","False","DIA_Orry_Waffe_06_01","",""
 "Scripts/content/Story/MISSIONS/DIA_GRD_254_Orry.d:234","Aber mach bloß nicht den Fehler und zieh mit 'ner rostigen Spitzhacke in den Krieg - die Dinger sind schwer und langsam.","Тільки не рвися до бою, озброївшись клятим кайлом. Це дуже важка і громіздка зброя.","","False","DIA_Orry_Waffe_06_02","",""
-"Scripts/content/Story/MISSIONS/DIA_GRD_254_Orry.d:235","Ein ungeübter Kämpfer sollte sie nur im Notfall benutzen.","Недосвідчений воїн може використовувати подібну зброю лише в крайньому випадку.","","False","DIA_Orry_Waffe_06_03","",""
+"Scripts/content/Story/MISSIONS/DIA_GRD_254_Orry.d:235","Ein ungeübter Kämpfer sollte sie nur im Notfall benutzen.","Недосвідчений воїн може використовувати подібну зброю лише у крайньому випадку.","","False","DIA_Orry_Waffe_06_03","",""
 "Scripts/content/Story/MISSIONS/DIA_GRD_261_Brandick.d:29","(Aleph anschwärzen)","(здати Алефа)","","","GRD_261_Brandick_ALEPH.description","",""
 "Scripts/content/Story/MISSIONS/DIA_GRD_261_Brandick.d:42","Hör mal, wenn du nicht da bist, sitzt Aleph die ganze Zeit nur rum, ohne zu arbeiten.","Слухай, коли тебе немає, Алеф увесь час сидить без діла й не працює.","","False","GRD_261_Brandick_ALEPH_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_GRD_261_Brandick.d:43","Ist das so?","Та невже?","","False","GRD_261_Brandick_ALEPH_Info_06_02","",""
