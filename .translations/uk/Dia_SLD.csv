@@ -235,7 +235,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Sld_751_Soeldner.d:68","Dann geh mal.","Ну то йди.","","False","DIA_SLD_751_Soeldner_EXIT_2_INFO_01_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_751_Soeldner.d:79","Ich will mich hier nur mal umsehen.","Я просто хочу тут трохи озирнутися.","","","DIA_SLD_751_Soeldner_UMSEHEN.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_751_Soeldner.d:89","Ich will mich hier nur mal umsehen.","Я просто хочу тут трохи озирнутися.","","","DIA_SLD_751_Soeldner_UMSEHEN_INFO_15_01","",""
-"Scripts/content/Story/MISSIONS/DIA_Sld_751_Soeldner.d:90","Dann pass auf, dass du niemanden auf die Füße trittst.","Тоді стеж, щоб нікому не наступити на ноги.","","False","DIA_SLD_751_Soeldner_UMSEHEN_INFO_01_02","",""
+"Scripts/content/Story/MISSIONS/DIA_Sld_751_Soeldner.d:90","Dann pass auf, dass du niemanden auf die Füße trittst.","Тоді зважай, щоб нікому не наступити на ноги.","","False","DIA_SLD_751_Soeldner_UMSEHEN_INFO_01_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_751_Soeldner.d:100","Ich will in die Mine.","Я хочу потрапити до копальні.","","","DIA_SLD_751_Soeldner_INMINE.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_751_Soeldner.d:110","Ich will in die Mine.","Я хочу потрапити до копальні.","","","DIA_SLD_751_Soeldner_INMINE_INFO_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Sld_751_Soeldner.d:111","Ich glaube kaum, dass dir dass gelingen wird. Aber sprich mal mit Okyl.","Відразу кажу, шанси на успіх ДУЖЕ невеликі, але можеш поговорити з Окілом.","","","DIA_SLD_751_Soeldner_INMINE_INFO_01_02","",""
