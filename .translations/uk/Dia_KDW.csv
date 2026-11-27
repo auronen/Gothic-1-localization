@@ -374,7 +374,7 @@
 "Scripts/content/Story/MISSIONS/DIA_Kdw_605_Riordian.d:230","Wenn du verletzt bist, werde ich dich heilen.","Якщо ти поранений, я можу тобі допомогти.","","False","KDW_605_Riordian_HEAL_Info_14_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdw_605_Riordian.d:241","Ich bin verletzt. Kannst du mich heilen?","Я поранений. Можеш мене зцілити?","","False","KDW_605_Riordian_HEALINFO.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdw_605_Riordian.d:255","Ich bin verletzt. Kannst du mich heilen?","Я поранений. Можеш мене зцілити?","","False","KDW_605_Riordian_HEALINFO_Info_15_01","",""
-"Scripts/content/Story/MISSIONS/DIA_Kdw_605_Riordian.d:256","Durch mein Wort rufe ich die Kraft der Heilung und lasse diesen Körper und den Geist gesunden!","Цими словами я закликаю цілющу силу! Нехай твоє тіло і дух знову одужають!","","False","KDW_605_Riordian_HEALINFO_Info_14_02","",""
+"Scripts/content/Story/MISSIONS/DIA_Kdw_605_Riordian.d:256","Durch mein Wort rufe ich die Kraft der Heilung und lasse diesen Körper und den Geist gesunden!","Цими словами я заклинаю цілющу силу! Нехай твоє тіло і дух знову одужають!","","False","KDW_605_Riordian_HEALINFO_Info_14_02","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdw_605_Riordian.d:271","Ich grüße dich Magier","Вітаю, магу!","","False","KDW_605_Riordian_GREET.description","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdw_605_Riordian.d:281","Ich grüße dich Magier!","Вітаю, магу!","","False","KDW_605_Riordian_GREET_Info_15_01","",""
 "Scripts/content/Story/MISSIONS/DIA_Kdw_605_Riordian.d:282","Ich bin Riordian, der Alchemist. Du willst bestimmt einen Trank?","Я Ріордіан, алхімік. Я припускаю, що ти шукаєш чарівні еліксири, так?","","False","KDW_605_Riordian_GREET_Info_14_02","",""
