@@ -1736,7 +1736,7 @@
 "Scripts/content/Story/svm.d:2039","Erwache!","Прокинься!","","False","SVM_14_SectGreetings","",""
 "Scripts/content/Story/svm.d:2040","Da vorne ist er.","Сюди.","","False","SVM_14_ThereHeIs","",""
 "Scripts/content/Story/svm.d:2041","Ich kann dir nichts beibringen. Du hast nicht genug Erfahrung.","Я не можу вчити тебе. Тобі бракує досвіду.","","False","SVM_14_NoLearnNoPoints","",""
-"Scripts/content/Story/svm.d:2042","Du bist am Ende deiner Möglichkeiten. Du solltest etwas anderes lernen.","Ти на межі своїх можливостей. Тобі треба зайнятись чимось ще.","","False","SVM_14_NoLearnOverMax","",""
+"Scripts/content/Story/svm.d:2042","Du bist am Ende deiner Möglichkeiten. Du solltest etwas anderes lernen.","Ти на межі своїх можливостей. Тобі треба зайнятись чимось іншим.","","False","SVM_14_NoLearnOverMax","",""
 "Scripts/content/Story/svm.d:2043","Du musst erst fortgeschritten sein, bevor du Meister werden kannst!","Тобі потрібно набратися досвіду, перш ніж ти зможеш стати майстром!","","False","SVM_14_NoLearnYouAlreadyKnow","",""
 "Scripts/content/Story/svm.d:2044","Du bist jetzt schon besser!","Ти став ліпшим!","","False","SVM_14_NoLearnYoureBetter","",""
 "Scripts/content/Story/svm.d:2045","He du!","Гей, ти!","","False","SVM_14_HeyYou","",""
